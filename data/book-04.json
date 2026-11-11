@@ -1,0 +1,426 @@
+{
+ "id": "book-04",
+ "book": 4,
+ "order": 1,
+ "title": "里仁",
+ "label": "Book 4 里仁",
+ "chapters": [
+  {
+   "n": "4.1",
+   "text": "子曰：「里仁為美。擇不處仁，焉得知？」",
+   "han": 13,
+   "new": [
+    "曰",
+    "里",
+    "美",
+    "擇",
+    "處",
+    "得"
+   ],
+   "gloss": [],
+   "literal": "子曰 the Master said · 里 to live among · 仁 the humane · 為 is · 美 fine. 擇 choosing · 不處仁 not settle in humaneness · 焉 how · 得 get to be · 知 wise",
+   "translation": "The Master said: 'To live among the humane is what is fine. If you choose and do not settle where humaneness is, how can you be wise?'",
+   "note": "知 here stands for 智 'wise' (zhì). 里 can also be read as a noun: 'a neighbourhood's humaneness is its beauty'."
+  },
+  {
+   "n": "4.2",
+   "text": "子曰：「不仁者不可以久處約，不可以長處樂。仁者安仁，知者利仁。」",
+   "han": 25,
+   "new": [
+    "久",
+    "約",
+    "長",
+    "安"
+   ],
+   "gloss": [],
+   "literal": "不仁者 one who is not humane · 不可以 cannot · 久 for long · 處 stay in · 約 hardship · 不可以 cannot · 長 for long · 處 stay in · 樂 joy. 仁者 the humane · 安 are at ease in · 仁 · 知者 the wise · 利 profit from · 仁",
+   "translation": "The Master said: 'One who is not humane cannot stay long in hardship, and cannot stay long in happiness. The humane are at ease in humaneness; the wise profit from it.'",
+   "note": "知 stands for 智 'wise' again. 安 and 利 are used as verbs."
+  },
+  {
+   "n": "4.3",
+   "text": "子曰：「唯仁者能好人，能惡人。」",
+   "han": 11,
+   "new": [
+    "能",
+    "惡",
+    "唯"
+   ],
+   "gloss": [],
+   "literal": "唯 only · 仁者 the humane · 能 can · 好 like · 人 others · 能 can · 惡 dislike · 人 others",
+   "translation": "The Master said: 'Only the humane can like people and can dislike people.'",
+   "note": "好 is read hào 'to like' and 惡 is read wù 'to dislike': both are verbs."
+  },
+  {
+   "n": "4.4",
+   "text": "子曰：「苟志於仁矣，無惡也。」",
+   "han": 10,
+   "new": [
+    "苟",
+    "無"
+   ],
+   "gloss": [],
+   "literal": "苟 if really · 志 set one's aim · 於 on · 仁 humaneness · 矣 (once that is so) · 無 there is no · 惡 evil · 也",
+   "translation": "The Master said: 'If you really set your aim on humaneness, there will be no evil.'",
+   "note": "惡 is usually read è 'evil' here. Some read wù: 'you will hate no one'."
+  },
+  {
+   "n": "4.5",
+   "text": "子曰：「富與貴，是人之所欲也；不以其道得之，不處也。貧與賤，是人之所惡也；不以其道得之，不去也。君子去仁，惡乎成名？君子無終食之間違仁，造次必於是，顛沛必於是。」",
+   "han": 65,
+   "new": [
+    "富",
+    "貴",
+    "貧",
+    "賤",
+    "去",
+    "成",
+    "名",
+    "終",
+    "間",
+    "違",
+    "次",
+    "顛",
+    "與"
+   ],
+   "gloss": [
+    {
+     "t": "造次",
+     "py": "zào cì",
+     "g": "in a hurried moment (造 appears only here)"
+    },
+    {
+     "t": "顛沛",
+     "py": "diān pèi",
+     "g": "stumbling, in a crisis (沛 appears only here)"
+    }
+   ],
+   "literal": "富與貴 wealth and rank · 是 these · 人之所欲 what people want · 也. 不以其道 not by the proper way · 得之 get them · 不處 do not stay in them · 也. 貧與賤 poverty and low station · 是 these · 人之所惡 what people hate · 也. 不以其道 not by the proper way · 得之 get them · 不去 do not leave them · 也. 君子 a gentleman · 去仁 abandons humaneness · 惡乎 how · 成名 make a name. 君子 the gentleman · 無 has no · 終食之間 space of finishing a meal · 違仁 going against humaneness. 造次 in haste · 必 surely · 於是 at this · 顛沛 stumbling · 必 surely · 於是 at this",
+   "translation": "The Master said: 'Wealth and rank are what people want; but if they are not got in the proper way, do not stay in them. Poverty and low station are what people hate; but if they are not got in the proper way, do not leave them. If a gentleman abandons humaneness, how can he make his name? The gentleman does not go against humaneness even for the space of a meal. In a hurried moment he is sure to be with it; when he stumbles he is sure to be with it.'",
+   "note": "The second 不以其道得之 is a famous crux: you would expect 'if they cannot be left in the proper way'. Translators handle it differently. 惡 is read two ways in this one chapter: wù 'hate' (所惡) and wū in 惡乎 'how'."
+  },
+  {
+   "n": "4.6",
+   "text": "子曰：「我未見好仁者、惡不仁者。好仁者，無以尚之；惡不仁者，其為仁矣，不使不仁者加乎其身。有能一日用其力於仁矣乎？我未見力不足者。蓋有之矣，我未之見也。」",
+   "han": 63,
+   "new": [
+    "見",
+    "尚",
+    "使",
+    "加",
+    "一",
+    "用",
+    "力",
+    "足",
+    "未",
+    "蓋"
+   ],
+   "gloss": [],
+   "literal": "我 I · 未見 have never seen · 好仁者 one who loves humaneness · 惡不仁者 one who hates the inhumane. 好仁者 one who loves humaneness · 無以尚之 has nothing to put above it. 惡不仁者 one who hates the inhumane · 其為仁 his practising humaneness · 矣 · 不使 does not let · 不仁者 what is inhumane · 加乎其身 be applied to his person. 有 is there · 能 one able · 一日 for one day · 用其力 to use his strength · 於仁 on humaneness · 矣乎? 我未見 I have never seen · 力不足者 one whose strength was not enough. 蓋 perhaps · 有之 there are such · 矣 · 我 I · 未之見 have never seen one · 也",
+   "translation": "The Master said: 'I have never seen one who loves humaneness, or one who hates what is inhumane. One who loves humaneness has nothing to put above it. One who hates what is inhumane, in practising humaneness, does not let what is inhumane touch his person. Is there anyone able to use his strength on humaneness for a single day? I have never seen one whose strength was not enough. Perhaps there are such people, but I have never seen one.'",
+   "note": "未之見: after the negative 未, the object 之 moves in front of the verb. 好 is hào 'love' and 惡 is wù 'hate'."
+  },
+  {
+   "n": "4.7",
+   "text": "子曰：「人之過也，各於其黨。觀過，斯知人矣。」",
+   "han": 16,
+   "new": [
+    "各",
+    "黨",
+    "觀"
+   ],
+   "gloss": [],
+   "literal": "人之過 people's faults · 也 (as for) · 各 each · 於其黨 belongs to its kind. 觀過 look at the faults · 斯 then · 知人 know the person · 矣",
+   "translation": "The Master said: 'People's faults each belong to their kind. Look at the faults, and then you know the person.'",
+   "note": "Text check: most editions (and ctext) read 斯知仁矣, 'then you know his humaneness'. This source reads 人."
+  },
+  {
+   "n": "4.8",
+   "text": "子曰：「朝聞道，夕死可矣。」",
+   "han": 9,
+   "new": [],
+   "gloss": [],
+   "literal": "朝 in the morning · 聞道 hear the Way · 夕 in the evening · 死 die · 可 acceptable · 矣",
+   "translation": "The Master said: 'Hear the Way in the morning, and you can die that evening content.'",
+   "note": "A session line. 朝 and 夕 are time words working as adverbs."
+  },
+  {
+   "n": "4.9",
+   "text": "子曰：「士志於道，而恥惡衣惡食者，未足與議也。」",
+   "han": 18,
+   "new": [
+    "士",
+    "恥",
+    "衣",
+    "議"
+   ],
+   "gloss": [],
+   "literal": "士 a scholar · 志於道 sets his aim on the Way · 而 and yet · 恥 is ashamed of · 惡衣 poor clothes · 惡食 poor food · 者 one who · 未足 is not yet worth · 與議 discussing with · 也",
+   "translation": "The Master said: 'A scholar who has set his aim on the Way but is ashamed of poor clothes and poor food is not worth discussing things with.'",
+   "note": "惡 is read è here: 'bad, coarse'. Everything up to 者 is one long description of the person."
+  },
+  {
+   "n": "4.10",
+   "text": "子曰：「君子之於天下也，無適也，無莫也，義之與比。」",
+   "han": 19,
+   "new": [
+    "天",
+    "下",
+    "適",
+    "比",
+    "莫"
+   ],
+   "gloss": [],
+   "literal": "君子之於天下 the gentleman's relation to the world · 也 (as for) · 無適 has nothing he is set on · 也 · 無莫 has nothing he is set against · 也 · 義之與比 it is rightness he sides with",
+   "translation": "The Master said: 'The gentleman, in his dealings with the world, is not set on anything and not set against anything. He sides with what is right.'",
+   "note": "適 and 莫 are disputed. Another old reading: 'has no favourites and no enemies'."
+  },
+  {
+   "n": "4.11",
+   "text": "子曰：「君子懷德，小人懷土；君子懷刑，小人懷惠。」",
+   "han": 18,
+   "new": [
+    "懷",
+    "土",
+    "刑",
+    "惠"
+   ],
+   "gloss": [],
+   "literal": "君子 the gentleman · 懷 cherishes · 德 virtue · 小人 the small man · 懷 cherishes · 土 land. 君子 · 懷 cherishes · 刑 punishments · 小人 · 懷 cherishes · 惠 favours",
+   "translation": "The Master said: 'The gentleman cherishes virtue; the small man cherishes his land. The gentleman cherishes the law's sanctions; the small man cherishes favours.'",
+   "note": "懷刑 is usually taken as 'keeps the penalties in mind', that is, respects the law."
+  },
+  {
+   "n": "4.12",
+   "text": "子曰：「放於利而行，多怨。」",
+   "han": 9,
+   "new": [
+    "放",
+    "多",
+    "怨"
+   ],
+   "gloss": [],
+   "literal": "放於利 going by profit · 而 and · 行 act · 多 much · 怨 resentment",
+   "translation": "The Master said: 'Act with profit as your guide and you will be much resented.'",
+   "note": "放 is read fǎng here: 'to follow, to go by'."
+  },
+  {
+   "n": "4.13",
+   "text": "子曰：「能以禮讓為國，於從政乎何有？不能以禮讓為國，如禮何？」",
+   "han": 24,
+   "new": [
+    "禮",
+    "讓",
+    "國",
+    "從",
+    "政",
+    "何"
+   ],
+   "gloss": [],
+   "literal": "能 able · 以禮讓 by ritual and deference · 為國 to run a state · 於從政 in taking part in government · 乎 · 何有 what difficulty is there? 不能 not able · 以禮讓 by ritual and deference · 為國 to run a state · 如禮何 what can he do with ritual?",
+   "translation": "The Master said: 'If one can run a state by ritual and deference, what difficulty is there in governing? If one cannot run a state by ritual and deference, what is one to do with ritual?'",
+   "note": "Text check: most editions (and ctext) read 能以禮讓為國乎，何有, without 於從政. The sense is the same."
+  },
+  {
+   "n": "4.14",
+   "text": "子曰：「不患無位，患所以立。不患莫己知，求為可知也。」",
+   "han": 20,
+   "new": [
+    "患",
+    "位",
+    "立",
+    "求"
+   ],
+   "gloss": [],
+   "literal": "不患 do not worry about · 無位 having no position · 患 worry about · 所以立 that by which you stand. 不患 do not worry that · 莫己知 no one knows you · 求 seek · 為可知 to be knowable · 也",
+   "translation": "The Master said: 'Do not worry about having no position; worry about what you have to stand on. Do not worry that no one knows you; seek to be worth knowing.'",
+   "note": "莫己知: after the negative 莫, the object 己 comes before the verb 知."
+  },
+  {
+   "n": "4.15",
+   "text": "子曰：「參乎！吾道一以貫之。」曾子曰：「唯。」子出，門人問曰：「何謂也？」曾子曰：「夫子之道，忠恕而已矣。」",
+   "han": 35,
+   "new": [
+    "曾",
+    "貫",
+    "出",
+    "門",
+    "問",
+    "忠",
+    "恕",
+    "已"
+   ],
+   "gloss": [
+    {
+     "t": "參",
+     "py": "Shēn",
+     "g": "Zengzi's personal name. The Master addresses a disciple by personal name."
+    },
+    {
+     "t": "曾子",
+     "py": "Zēngzǐ",
+     "g": "Master Zeng, the same person as 參"
+    },
+    {
+     "t": "夫子",
+     "py": "fūzǐ",
+     "g": "'the Master', how disciples refer to Confucius"
+    }
+   ],
+   "literal": "子曰 the Master said · 參乎 Shen! · 吾道 my Way · 一以貫之 by one thing is threaded through. 曾子曰 Zengzi said · 唯 yes. 子出 the Master went out · 門人 the disciples · 問曰 asked, saying · 何謂 what does it mean · 也. 曾子曰 Zengzi said · 夫子之道 the Master's Way · 忠 doing one's utmost · 恕 reciprocity · 而已矣 and that is all",
+   "translation": "The Master said: 'Shen! My Way has one thing threading through it.' Zengzi said: 'Yes.' The Master went out, and the disciples asked: 'What did he mean?' Zengzi said: 'The Master's Way is doing one's utmost and putting oneself in the other's place, and that is all.'",
+   "note": "唯 alone is 'Yes' (wěi). 一以貫之 puts 一 before 以: 'by one [thing] thread it'."
+  },
+  {
+   "n": "4.16",
+   "text": "子曰：「君子喻於義，小人喻於利。」",
+   "han": 12,
+   "new": [],
+   "gloss": [],
+   "literal": "君子 the gentleman · 喻 understands · 於義 in terms of rightness · 小人 the small man · 喻 understands · 於利 in terms of profit",
+   "translation": "The Master said: 'The gentleman understands what is right; the small man understands what is profitable.'",
+   "note": "A session line."
+  },
+  {
+   "n": "4.17",
+   "text": "子曰：「見賢思齊焉，見不賢而內自省也。」",
+   "han": 15,
+   "new": [
+    "賢",
+    "齊",
+    "內"
+   ],
+   "gloss": [],
+   "literal": "見賢 see a worthy man · 思 think of · 齊焉 being equal to him · 見不賢 see an unworthy one · 而 and · 內 inwardly · 自省 examine yourself · 也",
+   "translation": "The Master said: 'When you see a worthy man, think of equalling him; when you see an unworthy one, look inward and examine yourself.'",
+   "note": "焉 at the end stands for 於之: 'to him'."
+  },
+  {
+   "n": "4.18",
+   "text": "子曰：「事父母幾諫，見志不從，又敬不違，勞而不怨。」",
+   "han": 19,
+   "new": [
+    "事",
+    "母",
+    "幾",
+    "諫",
+    "又",
+    "敬",
+    "勞"
+   ],
+   "gloss": [],
+   "literal": "事 in serving · 父母 father and mother · 幾 gently · 諫 remonstrate. 見 see · 志 their intention · 不從 is not to follow · 又 again · 敬 be respectful · 不違 do not go against them · 勞 toil · 而 and yet · 不怨 do not resent",
+   "translation": "The Master said: 'In serving your father and mother, remonstrate gently. If you see they do not mean to follow your advice, stay respectful and do not go against them; toil on and do not resent it.'",
+   "note": "幾 is read jī: 'slight, subtle'. Some take 勞 as 'be distressed' instead of 'toil'."
+  },
+  {
+   "n": "4.19",
+   "text": "子曰：「父母在，不遠遊，遊必有方。」",
+   "han": 12,
+   "new": [
+    "在",
+    "遊"
+   ],
+   "gloss": [],
+   "literal": "父母 father and mother · 在 are alive · 不 do not · 遠 far · 遊 travel · 遊 if you travel · 必 surely · 有 have · 方 a direction",
+   "translation": "The Master said: 'While your father and mother are alive, do not travel far. If you travel, have a fixed destination.'",
+   "note": "No word for 'while' or 'if' is written. The order of the clauses carries it."
+  },
+  {
+   "n": "4.20",
+   "text": "子曰：「三年無改於父之道，可謂孝矣。」",
+   "han": 14,
+   "new": [
+    "年",
+    "孝"
+   ],
+   "gloss": [],
+   "literal": "三年 for three years · 無改 makes no change · 於父之道 in his father's way · 可謂 may be called · 孝 filial · 矣",
+   "translation": "The Master said: 'If for three years he makes no change in his father's way, he may be called filial.'",
+   "note": "The same sentence closes 1.11. Three years is the mourning period."
+  },
+  {
+   "n": "4.21",
+   "text": "子曰：「父母之年，不可不知也。一則以喜，一則以懼。」",
+   "han": 19,
+   "new": [
+    "喜",
+    "懼"
+   ],
+   "gloss": [],
+   "literal": "父母之年 the age of father and mother · 不可不知 cannot not be known · 也. 一則 on the one hand · 以喜 because of it glad · 一則 on the other · 以懼 because of it afraid",
+   "translation": "The Master said: 'The age of your father and mother must be known. On the one hand it is a reason to be glad, on the other a reason to fear.'",
+   "note": "不可不 is a double negative: 'must'."
+  },
+  {
+   "n": "4.22",
+   "text": "子曰：「古者言之不出，恥躬之不逮也。」",
+   "han": 14,
+   "new": [
+    "躬",
+    "逮"
+   ],
+   "gloss": [],
+   "literal": "古者 in ancient times · 言之不出 words' not going out · 恥 [was from] shame · 躬之不逮 at their own conduct's not catching up · 也",
+   "translation": "The Master said: 'The ancients were slow to let their words out, because they were ashamed that their own conduct would not come up to them.'",
+   "note": "Both 之 turn a small sentence into a noun phrase. 也 marks the whole as an explanation."
+  },
+  {
+   "n": "4.23",
+   "text": "子曰：「以約失之者鮮矣。」",
+   "han": 9,
+   "new": [
+    "失"
+   ],
+   "gloss": [],
+   "literal": "以約 through restraint · 失之 go wrong · 者 those who · 鮮 are rare · 矣",
+   "translation": "The Master said: 'Those who go wrong through restraint are few indeed.'",
+   "note": "鮮 is 'rare', as in 1.3."
+  },
+  {
+   "n": "4.24",
+   "text": "子曰：「君子欲訥於言而敏於行。」",
+   "han": 12,
+   "new": [
+    "訥",
+    "敏"
+   ],
+   "gloss": [],
+   "literal": "君子 the gentleman · 欲 wants · 訥 to be slow · 於言 in speech · 而 and · 敏 quick · 於行 in action",
+   "translation": "The Master said: 'The gentleman wants to be slow in speech and quick in action.'",
+   "note": ""
+  },
+  {
+   "n": "4.25",
+   "text": "子曰：「德不孤，必有鄰。」",
+   "han": 8,
+   "new": [],
+   "gloss": [],
+   "literal": "德 virtue · 不孤 is not alone · 必 surely · 有鄰 has neighbours",
+   "translation": "The Master said: 'Virtue is never left alone; it is sure to have neighbours.'",
+   "note": "A session line."
+  },
+  {
+   "n": "4.26",
+   "text": "子游曰：「事君數，斯辱矣；朋友數，斯疏矣。」",
+   "han": 15,
+   "new": [
+    "游",
+    "數",
+    "辱",
+    "友",
+    "疏"
+   ],
+   "gloss": [
+    {
+     "t": "子游",
+     "py": "Zǐyóu",
+     "g": "a disciple. Not the Master speaking."
+    }
+   ],
+   "literal": "子游曰 Ziyou said · 事君 in serving a ruler · 數 too often · 斯 then · 辱 disgrace · 矣. 朋友 with friends · 數 too often · 斯 then · 疏 estrangement · 矣",
+   "translation": "Ziyou said: 'In serving a ruler, pressing too often leads to disgrace. With friends, pressing too often leads to estrangement.'",
+   "note": "數 is read shuò: 'repeatedly'. Some take it as 'reproaching'."
+  }
+ ]
+}

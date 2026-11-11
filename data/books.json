@@ -1,0 +1,15 @@
+{
+ "books": [
+  {
+   "id": "book-04",
+   "book": 4,
+   "order": 1,
+   "title": "里仁",
+   "label": "Book 4 里仁",
+   "chapters": 26,
+   "han": 504,
+   "file": "data/book-04.json",
+   "unresolved": []
+  }
+ ]
+}

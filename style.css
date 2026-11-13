@@ -482,3 +482,18 @@ html.sheet-open .app { padding-bottom: 75vh; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* ---------- modern shelf ---------- */
+:root { --zh-s: 'Songti SC', 'Noto Serif SC', 'Noto Serif CJK SC', 'Source Han Serif SC', 'SimSun', serif; }
+:lang(zh-Hans) { font-family: var(--zh-s); }
+.shelf { display: flex; margin-top: 1rem; }
+.shelf button { flex: 1; font-family: var(--ui); font-size: .9375rem; font-weight: 600; color: inherit; }
+.text.modern { font-size: calc(var(--text-size) * .8); line-height: 1.9; white-space: pre-line; }
+.char-btn.word { width: auto; min-width: 3rem; padding: 0 .6rem; font-size: 1.35rem; color: inherit; }
+.sheet-char.word { font-size: 2.5rem; line-height: 1.15; }
+.known { display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: 0; }
+.known .char-btn { width: 2.4rem; height: 2.4rem; font-size: 1.3rem; color: inherit; }
+.known span { color: var(--grey); font-size: .875rem; margin-right: .6rem; }
+.pair { margin: 1.25rem 0 0; }
+.pair a { color: var(--seal); }
+.foot .credit { margin-top: .5rem; }

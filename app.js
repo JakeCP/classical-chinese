@@ -13,7 +13,7 @@
   const sheetBody = document.getElementById("sheet-body");
   const backdrop = document.getElementById("sheet-backdrop");
 
-  const data = { books: [], byId: {}, chars: {}, words: {}, alias: {}, version: null, index: null };
+  const data = { books: [], byId: {}, chars: {}, words: {}, alias: {}, mwords: {}, pairs: {}, version: null, index: null };
   let state = loadState();
   let storageOK = true;
   let lastRoute = "";
@@ -23,11 +23,14 @@
   // The current chapter visit. After a mark, the key and "Next chapter" stay for
   // the rest of the visit even if midnight passes.
   let visit = { key: "", keyOpen: false, mark: "", readT: 0, att: null };
+  // Language tag of the screen being drawn: Traditional glyphs for the Analects,
+  // Simplified for the modern shelf.
+  let lang = "zh-Hant";
 
   // ---------- storage ----------
 
   function blankState() {
-    return { v: 1, ch: {}, settings: { size: "M" }, book: null, cut: 0 };
+    return { v: 1, ch: {}, settings: { size: "M" }, book: null, cut: 0, shelf: "classical", mbook: null };
   }
 
   function loadState() {
@@ -48,6 +51,8 @@
     if (!isObj(s) || s.v !== 1) return out;
     if (isObj(s.settings) && ["S", "M", "L"].includes(s.settings.size)) out.settings.size = s.settings.size;
     if (typeof s.book === "string") out.book = s.book;
+    if (s.shelf === "modern") out.shelf = "modern";
+    if (typeof s.mbook === "string") out.mbook = s.mbook;
     if (Number.isFinite(s.cut)) out.cut = s.cut;
     if (isObj(s.ch)) {
       for (const [k, r] of Object.entries(s.ch)) if (isObj(r)) out.ch[k] = normRec(r);
@@ -126,10 +131,10 @@
     return el;
   }
 
-  // Wraps runs of Han in lang="zh-Hant" so phones pick Traditional glyphs.
+  // Wraps runs of Han in a lang tag so phones pick the right glyphs for the shelf.
   function zhRuns(text) {
     return String(text).split(HAN_RUN).filter(Boolean)
-      .map((part) => HAN.test(part) ? h("span", { lang: "zh-Hant" }, part) : part);
+      .map((part) => HAN.test(part) ? h("span", { lang }, part) : part);
   }
 
   // Every Han character becomes its own tappable span; punctuation stays text.
@@ -139,8 +144,15 @@
       : h("span", { class: "p" }, c));
   }
 
+  // Modern text arrives cut into words: each word is one tappable span.
+  function tappableToks(toks) {
+    return toks.map((t) => typeof t === "string"
+      ? h("span", { class: "p" }, t)
+      : h("span", { class: "h w", "data-c": t[1], "data-m": "1", role: "button", tabindex: "0" }, t[0]));
+  }
+
   function render(...nodes) {
-    app.replaceChildren(...nodes);
+    app.replaceChildren(...nodes.filter(Boolean));
   }
 
 
@@ -154,15 +166,23 @@
 
   async function loadData() {
     const list = await getJSON("data/books.json");
-    const [books, chars] = await Promise.all([
+    const [books, chars, modern] = await Promise.all([
       Promise.all(list.books.map((b) => getJSON(b.file).then((full) => Object.assign({}, b, full)))),
       getJSON("data/chars.json"),
+      getJSON("data/modern-words.json").catch(() => ({ words: {} })),
     ]);
     books.sort((a, b) => a.order - b.order);
     data.books = books;
     books.forEach((b) => { data.byId[b.id] = b; });
     data.chars = chars.chars || {};
     data.words = chars.words || {};
+    data.mwords = modern.words || {};
+    // A modern passage can name its classical twin; remember the way back too.
+    for (const b of books) {
+      for (const c of b.chapters) {
+        if (c.pair && data.byId[c.pair.book]) data.pairs[c.pair.book + ":" + c.pair.n] = { book: b, n: c.n };
+      }
+    }
     for (const [c, e] of Object.entries(data.chars)) {
       for (const alt of [e.also || [], ...(e.more || []).map((m) => m.also || [])].flat()) {
         if (!data.chars[alt] && !data.alias[alt]) data.alias[alt] = c;
@@ -178,8 +198,23 @@
     return null;
   }
 
+  // ---------- shelves: "classical" (the Analects) and "modern" ----------
+
+  const shelfOf = (book) => (book && book.shelf) || "classical";
+  const shelfBooks = (shelf) => data.books.filter((b) => shelfOf(b) === shelf);
+  const langOf = (book) => shelfOf(book) === "modern" ? "zh-Hans" : "zh-Hant";
+  const surfaceOf = (key) => (data.mwords[key] && data.mwords[key].s) || String(key).split("@")[0];
+
   function currentBook() {
-    return data.byId[state.book] || data.books[0];
+    const shelf = state.shelf === "modern" && shelfBooks("modern").length ? "modern" : "classical";
+    const list = shelfBooks(shelf);
+    const saved = data.byId[shelf === "modern" ? state.mbook : state.book];
+    return (saved && shelfOf(saved) === shelf ? saved : list[0]) || data.books[0];
+  }
+
+  function setBook(book) {
+    state.shelf = shelfOf(book);
+    if (state.shelf === "modern") state.mbook = book.id; else state.book = book.id;
   }
 
   function bookStats(book) {
@@ -197,9 +232,10 @@
 
   // Next chapter across books, in reading order.
   function neighbour(book, idx, step) {
-    const bi = data.books.indexOf(book);
+    const list = shelfBooks(shelfOf(book));
+    const bi = list.indexOf(book);
     if (book.chapters[idx + step]) return { book, ch: book.chapters[idx + step] };
-    const ob = data.books[bi + step];
+    const ob = list[bi + step];
     if (!ob) return null;
     return { book: ob, ch: step > 0 ? ob.chapters[0] : ob.chapters[ob.chapters.length - 1] };
   }
@@ -209,6 +245,7 @@
   // ---------- routing ----------
 
   function route() {
+    if (!data.books.length) return; // a hash change while the texts are still loading
     flushAttempt();
     const hash = location.hash || "#/";
     if (hash !== lastRoute) closeSheet(false);
@@ -220,6 +257,7 @@
       const isChapter = parts[0] === "c" && data.byId[parts[1]];
       const key = isChapter ? parts[1] + ":" + parts[2] : "";
       if (visit.key !== key) visit = { key, keyOpen: false, mark: "", readT: 0, att: null };
+      lang = langOf(isChapter ? data.byId[parts[1]] : currentBook());
       if (isChapter) renderChapter(data.byId[parts[1]], parts[2]);
       else if (parts[0] === "find") renderFind();
       else if (parts[0] === "report") renderReport();
@@ -255,15 +293,16 @@
     const t = today();
 
     const head = h("div", { class: "book-head" },
-      h("span", { class: "seal", lang: "zh-Hant", "aria-hidden": "true" }, "論"),
+      h("span", { class: "seal", lang, "aria-hidden": "true" }, book.seal || "論"),
       h("div", { class: "grow" },
-        data.books.length > 1 ? bookSwitcher(book) : bookTitle(book)));
+        shelfBooks(shelfOf(book)).length > 1 ? bookSwitcher(book) : bookTitle(book)));
 
+    const unit = shelfOf(book) === "modern" ? "passages" : "chapters";
     const progress = h("p", { class: "progress" },
-      `${st.read} of ${st.total} chapters read`,
+      `${st.read} of ${st.total} ${unit} read`,
       st.x ? h("span", { class: "x" }, `, ${st.x} ✗`) : null);
 
-    const kids = [head, progress];
+    const kids = [shelfSwitch(book), head, progress];
     if (!storageOK) kids.push(h("p", { class: "status" }, "This browser is not saving your marks."));
 
     const re = rereadDay(book, t);
@@ -276,18 +315,19 @@
       })));
     }
 
-    kids.push(h("h2", { class: "section-label" }, "Chapters"));
+    kids.push(h("h2", { class: "section-label" }, unit === "passages" ? "Passages" : "Chapters"));
     kids.push(h("div", { class: "grid" }, book.chapters.map((c) => chip(book, c, next))));
     kids.push(h("div", { class: "settings" }, h("span", null, "Reading text size"), sizeSetting()));
-    kids.push(footer());
+    kids.push(footer(book));
 
     let primary;
     if (next) {
       primary = h("a", { class: "btn primary", href: chHref(book, next.n) }, "Continue ", next.n);
     } else {
-      const later = data.books.slice(data.books.indexOf(book) + 1).find(firstUnread);
+      const shelf = shelfBooks(shelfOf(book));
+      const later = shelf.slice(shelf.indexOf(book) + 1).find(firstUnread);
       primary = later
-        ? h("button", { class: "btn primary", type: "button", onclick: () => { state.book = later.id; save(); location.hash = chHref(later, firstUnread(later).n); } }, "Continue ", later.label)
+        ? h("button", { class: "btn primary", type: "button", onclick: () => { setBook(later); save(); location.hash = chHref(later, firstUnread(later).n); } }, "Continue ", ...zhRuns(later.label))
         : h("button", { class: "btn primary", type: "button", disabled: true }, `All ${st.total} read`);
     }
     kids.push(bar(
@@ -302,9 +342,22 @@
   }
 
   function bookSwitcher(book) {
-    const sel = h("select", { class: "book-select", "aria-label": "Book", onchange: (e) => { state.book = e.target.value; save(); refresh(); } },
-      data.books.map((b) => h("option", { value: b.id, selected: b.id === book.id }, b.label)));
+    const sel = h("select", { class: "book-select", "aria-label": "Book", onchange: (e) => { setBook(data.byId[e.target.value]); save(); refresh(); } },
+      shelfBooks(shelfOf(book)).map((b) => h("option", { value: b.id, selected: b.id === book.id }, b.label)));
     return h("div", null, bookTitle(book), sel);
+  }
+
+  // Classical | Modern. Shown only once there is something on the modern shelf.
+  function shelfSwitch(book) {
+    if (!shelfBooks("modern").length) return null;
+    const cur = shelfOf(book);
+    return h("div", { class: "seg shelf", role: "group", "aria-label": "Shelf" },
+      [["classical", "Classical"], ["modern", "Modern"]].map(([id, name]) => h("button", {
+        type: "button",
+        id: "shelf-" + id,
+        "aria-pressed": String(id === cur),
+        onclick: () => { state.shelf = id; save(); refresh(); },
+      }, name)));
   }
 
   function chip(book, c, next) {
@@ -341,10 +394,11 @@
       }, "文")));
   }
 
-  function footer() {
+  function footer(book) {
     return h("footer", { class: "foot" },
       h("p", { id: "version" }, versionText()),
-      h("p", null, "Translations are Claude's own: check against a published one."));
+      h("p", null, "Translations are Claude's own: check against a published one."),
+      book && book.credit ? h("p", { class: "credit" }, book.credit) : null);
   }
 
   function versionText() {
@@ -364,7 +418,7 @@
   function renderChapter(book, n) {
     const idx = book.chapters.findIndex((c) => c.n === n);
     if (idx < 0) { location.replace("#/"); return; }
-    if (state.book !== book.id) { state.book = book.id; save(); }
+    if (currentBook() !== book) { setBook(book); save(); }
     const ch = book.chapters[idx];
     const key = chKey(book, ch.n);
     const rec = chRec(key);
@@ -382,13 +436,15 @@
           : h("button", { class: "icon-btn", type: "button", disabled: true, "aria-label": "No previous chapter" }, "‹"),
         next ? h("a", { class: "icon-btn", href: chHref(next.book, next.ch.n), "aria-label": "Next chapter " + next.ch.n }, "›")
           : h("button", { class: "icon-btn", type: "button", disabled: true, "aria-label": "No next chapter" }, "›")),
-      h("p", { class: "text", lang: "zh-Hant", "data-ctx": key }, tappable(ch.text)),
+      h("p", { class: "text" + (ch.toks ? " modern" : ""), lang, "data-ctx": key },
+        ch.toks ? tappableToks(ch.toks) : tappable(ch.text)),
     ];
 
     if (ch.new && ch.new.length) {
       kids.push(h("h2", { class: "section-label" }, "New"));
-      kids.push(h("div", { class: "chars" }, ch.new.map((c) =>
-        h("button", { type: "button", class: "char-btn", lang: "zh-Hant", "data-c": c, "data-ctx": key }, c))));
+      kids.push(h("div", { class: "chars" }, ch.new.map((c) => ch.toks
+        ? h("button", { type: "button", class: "char-btn word", lang, "data-c": c, "data-m": "1", "data-ctx": key }, surfaceOf(c))
+        : h("button", { type: "button", class: "char-btn", lang: "zh-Hant", "data-c": c, "data-ctx": key }, c))));
     }
     if (ch.gloss && ch.gloss.length) {
       kids.push(h("h2", { class: "section-label" }, "Glossed"));
@@ -399,7 +455,7 @@
     }
 
     kids.push(attemptBox(key, rec));
-    if (keyShown) kids.push(keyBlock(ch));
+    if (keyShown) kids.push(keyBlock(book, ch));
     kids.push(chapterBar(book, ch, key, rec, keyShown, next));
     render(...kids);
   }
@@ -455,12 +511,27 @@
     if (pendingAttempt) pendingAttempt();
   }
 
-  function keyBlock(ch) {
+  function keyBlock(book, ch) {
     const kids = [];
-    if (ch.literal) kids.push(h("h2", { class: "section-label" }, "Word for word"), literalBlock(ch.literal));
+    if (ch.wfw && ch.wfw.length) kids.push(h("h2", { class: "section-label" }, "Word for word"), wfwBlock(ch.wfw));
+    else if (ch.literal) kids.push(h("h2", { class: "section-label" }, "Word for word"), literalBlock(ch.literal));
     if (ch.translation) kids.push(h("h2", { class: "section-label" }, "Translation"), h("p", { class: "translation" }, ...zhRuns(ch.translation)));
     if (ch.note) kids.push(h("h2", { class: "section-label" }, "Note"), h("p", { class: "note" }, ...zhRuns(ch.note)));
+    // The same chapter on the other shelf, offered only once the key is open.
+    const twin = ch.pair ? { book: data.byId[ch.pair.book], n: ch.pair.n } : data.pairs[book.id + ":" + ch.n];
+    if (twin && twin.book) {
+      kids.push(h("p", { class: "pair" }, h("a", { id: "pair", href: chHref(twin.book, twin.n) },
+        shelfOf(twin.book) === "modern" ? `${twin.n} in modern Chinese ›` : `${twin.n} in the classical text ›`)));
+    }
     return h("section", { class: "key", id: "key", "aria-label": "Key" }, ...kids);
+  }
+
+  // Modern key: one paragraph per sentence, each word in ink with its English in grey.
+  function wfwBlock(rows) {
+    return h("div", { class: "literal" }, rows.filter((row) => row.length).map((row) =>
+      h("p", null, row.map(([s, g]) => h("span", { class: "lit" },
+        h("span", { class: "lz", lang }, s),
+        g ? h("span", { class: "le" }, g) : null)))));
   }
 
   // "富與貴 wealth and rank · 是 these · 也. 不以其道 ..." becomes one paragraph per
@@ -533,15 +604,17 @@
   // ---------- character sheet ----------
 
   // ctx is the chapter key ("book-04:4.5") when opened from a chapter, else null.
-  function openSheet(c, ctx, tapped) {
+  // modern: c is a key of the modern lexicon (a whole word), not a single character.
+  function openSheet(c, ctx, tapped, modern) {
     const ctxInfo = ctx ? chapterFromKey(ctx) : null;
     if (ctxInfo && !keyIsShown(ctx)) {
       const rec = chRec(ctx, true);
-      rec.look[c] = (rec.look[c] || 0) + 1;
+      const shown = modern ? surfaceOf(c) : c;
+      rec.look[shown] = (rec.look[shown] || 0) + 1;
       save();
     }
     sheetOpener = document.activeElement;
-    sheetBody.replaceChildren(...sheetContent(c, ctxInfo));
+    sheetBody.replaceChildren(...(modern ? modernSheet(c, ctxInfo) : sheetContent(c, ctxInfo)));
     sheetBody.scrollTop = 0;
     sheet.hidden = false;
     backdrop.hidden = false;
@@ -617,6 +690,57 @@
     return kids;
   }
 
+  // The sheet for a modern word: meaning, parts, its traditional form, the Analects
+  // cards its characters already have, and where else it turns up.
+  function modernSheet(key, ctx) {
+    const e = data.mwords[key];
+    const s = surfaceOf(key);
+    const kids = [h("div", { class: "sheet-head" },
+      h("span", { class: "sheet-char" + ([...s].length > 1 ? " word" : ""), lang: "zh-Hans", id: "sheet-head" }, s),
+      h("div", null,
+        e ? h("p", { class: "sheet-kw" }, e.g) : null,
+        e && e.py ? h("p", { class: "sheet-py" }, e.py) : null,
+        e ? h("p", { class: "sheet-kind" }, (e.k === "grammar" ? "grammar word" : "word") + (e.card ? "" : ", no card")) : null,
+        h("a", { class: "pleco", href: "plecoapi://x-callback-url/s?q=" + encodeURIComponent(s) }, "Open in Pleco")))];
+    if (!e) {
+      kids.push(h("p", { class: "none" }, "No entry yet"));
+      return kids;
+    }
+    const field = (label, text) => {
+      if (text) kids.push(h("h3", { class: "section-label" }, label), h("p", { class: "field" }, ...zhRuns(text)));
+    };
+    if (ctx && ctx.ch.wfw) {
+      const here = [];
+      for (const row of ctx.ch.wfw) for (const [w, g] of row) if (w === s && g && !here.includes(g)) here.push(g);
+      if (here.length && here.join("; ") !== e.g.split(";")[0].trim()) field("In this passage", here.join("; "));
+    }
+    field("Parts", e.parts);
+    if (e.trad) kids.push(h("h3", { class: "section-label" }, "Traditional"), h("p", { class: "field" }, h("span", { lang: "zh-Hant" }, e.trad)));
+    if (e.known && e.known.length) {
+      kids.push(h("h3", { class: "section-label" }, "Your Analects cards"));
+      kids.push(h("p", { class: "known" }, e.known.flatMap(([c, kw]) => [
+        h("button", { type: "button", class: "char-btn", lang: "zh-Hant", "data-c": c }, c),
+        h("span", null, kw)])));
+    }
+    field(e.k === "grammar" ? "Jobs" : "Note", e.note);
+    if (e.n > 0) kids.push(h("p", { class: "count" }, `×${e.n} in the modern texts`));
+    if (e.src) kids.push(h("p", { class: "src" }, ...zhRuns("First met: " + e.src)));
+    const where = [];
+    for (const book of shelfBooks("modern")) {
+      for (const ch of book.chapters) if ((ch.toks || []).some((t) => typeof t !== "string" && t[1] === key)) where.push({ book, ch });
+    }
+    if (where.length) {
+      kids.push(h("h3", { class: "section-label" }, `Appears in ${where.length} ${where.length === 1 ? "passage" : "passages"}`));
+      kids.push(h("div", { class: "appears" }, where.slice(0, 60).map(({ book, ch }) =>
+        h("a", {
+          class: "pill" + (ctx && ctx.ch === ch ? " here" : ""),
+          href: chHref(book, ch.n),
+          onclick: () => closeSheet(false),
+        }, ch.n))));
+    }
+    return kids;
+  }
+
   function kindLabel(e, found) {
     if (found.word) return "word";
     return KINDS[e.k] || e.k || "";
@@ -675,7 +799,7 @@
     if (!el) return;
     if (el.classList.contains("h")) el.classList.add("on");
     const ctxEl = el.closest("[data-ctx]");
-    openSheet(el.dataset.c, ctxEl ? ctxEl.dataset.ctx : null, ctxEl ? el : null);
+    openSheet(el.dataset.c, ctxEl ? ctxEl.dataset.ctx : null, ctxEl ? el : null, el.dataset.m === "1");
   });
   document.addEventListener("keydown", (ev) => {
     if (ev.key === "Escape") closeSheet();
@@ -702,6 +826,14 @@
     };
     for (const [c, e] of Object.entries(data.chars)) add(c, e, false);
     for (const [w, e] of Object.entries(data.words)) add(w, e, true);
+    for (const [key, e] of Object.entries(data.mwords)) {
+      rows.push({
+        head: e.s, key, modern: true, word: true, e: { kw: e.g, py: e.py, n: e.n },
+        hay: fold([e.s, e.g, e.py, e.parts, e.trad].join(" ")),
+        kw: fold(e.g).split(/[^a-z0-9']+/).filter(Boolean),
+        py: fold(e.py).split(/[^a-z]+/).filter(Boolean),
+      });
+    }
     return rows;
   }
 
@@ -720,7 +852,8 @@
         else if (row.kw.some((w) => w.startsWith(t))) score += 8;
         else score += 1;
       }
-      if (score > 0) hits.push({ row, score });
+      // The shelf being read comes first when a word is on both.
+      if (score > 0) hits.push({ row, score: score + (!!row.modern === (lang === "zh-Hans") ? 2 : 0) });
     }
     hits.sort((a, b) => b.score - a.score || (b.row.e.n || 0) - (a.row.e.n || 0));
     return hits.map((x) => x.row);
@@ -747,10 +880,10 @@
   function paintResults(list, q) {
     const hits = search(q);
     const items = hits.slice(0, 60).map((row) => h("li", null,
-      h("button", { type: "button", class: "result", "data-c": row.head },
-        h("span", { class: "c", lang: "zh-Hant" }, row.head),
+      h("button", { type: "button", class: "result", "data-c": row.modern ? row.key : row.head, "data-m": row.modern ? "1" : null },
+        h("span", { class: "c", lang: row.modern ? "zh-Hans" : "zh-Hant" }, row.head),
         h("span", { class: "kw" }, row.e.kw || ""),
-        h("span", { class: "kind" }, row.word ? "word" : (KINDS[row.e.k] || "")))));
+        h("span", { class: "kind" }, row.modern ? "modern" : (row.word ? "word" : (KINDS[row.e.k] || ""))))));
     const single = [...q.trim()];
     if (!hits.length && single.length === 1 && HAN.test(single[0])) {
       items.push(h("li", null, h("button", { type: "button", class: "result", "data-c": single[0] },
@@ -778,7 +911,7 @@
 
   function reportText() {
     const rows = periodReads();
-    const lines = ["Analects reading report"];
+    const lines = [rows.some((r) => shelfOf(r.book) === "modern") ? "Reading report: Analects and modern Chinese" : "Analects reading report"];
     if (rows.length) {
       const days = rows.flatMap((r) => r.reads.map((x) => x.d)).sort();
       const from = days[0], to = days[days.length - 1];

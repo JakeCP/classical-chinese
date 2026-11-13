@@ -1,7 +1,7 @@
 // Service worker: precache the shell and all data, serve cache-first.
 // The data build rewrites the VERSION line with a content hash; that byte
 // change is what makes phones install a new worker and pick up new content.
-const VERSION = "d234af9d39b7";
+const VERSION = "24cedb547450";
 const CACHE = "analects-reader-" + VERSION;
 const SHELL = [
   "./",
@@ -16,6 +16,7 @@ const SHELL = [
   "version.json",
   "data/books.json",
   "data/chars.json",
+  "data/modern-words.json",
 ];
 
 // Bypass the HTTP cache so a new worker never precaches stale files.

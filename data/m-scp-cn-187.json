@@ -1,0 +1,8045 @@
+{
+ "id": "m-scp-cn-187",
+ "book": 0,
+ "order": 102,
+ "title": "非礼勿言",
+ "label": "SCP-CN-187 非礼勿言",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: SCP-CN-187, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-187, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence.",
+ "chapters": [
+  {
+   "n": "187.1",
+   "text": "项目编号：SCP-CN-187\n项目等级：Safe",
+   "han": 8,
+   "toks": [
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "编号",
+     "编号"
+    ],
+    "：SCP-CN-187\n",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "等级",
+     "等级"
+    ],
+    "：Safe"
+   ],
+   "new": [
+    "项目",
+    "编号",
+    "等级"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "编号",
+      "serial number"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ]
+    ],
+    [
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "等级",
+      "class"
+     ],
+     [
+      "Safe",
+      ""
+     ]
+    ]
+   ],
+   "translation": "Item number: SCP-CN-187. Object class: Safe.",
+   "note": "The SCP template. Every file opens with these headings."
+  },
+  {
+   "n": "187.2",
+   "text": "特殊收容措施：该项目被收容于Site-CN-07的一个不透明的20x27x5cm的金属盒中，未经许可禁止打开此盒。",
+   "han": 35,
+   "toks": [
+    [
+     "特殊",
+     "特殊"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    "：",
+    [
+     "该",
+     "该"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    "Site-CN-07",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "透明",
+     "透明"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "20x27x5cm",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "金属",
+     "金属"
+    ],
+    [
+     "盒",
+     "盒"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    "，",
+    [
+     "未",
+     "未"
+    ],
+    [
+     "经",
+     "经"
+    ],
+    [
+     "许可",
+     "许可"
+    ],
+    [
+     "禁止",
+     "禁止"
+    ],
+    [
+     "打开",
+     "打开"
+    ],
+    [
+     "此",
+     "此"
+    ],
+    [
+     "盒",
+     "盒"
+    ],
+    "。"
+   ],
+   "new": [
+    "特殊",
+    "收容",
+    "措施",
+    "该",
+    "透明",
+    "金属",
+    "盒",
+    "中",
+    "经",
+    "许可",
+    "禁止",
+    "打开",
+    "此"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "特殊",
+      "special"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ],
+     [
+      "该",
+      "the said, this (formal)"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "Site-CN-07",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "透明",
+      "transparent"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "20x27x5cm",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "金属",
+      "metal"
+     ],
+     [
+      "盒",
+      "box"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "经",
+      "go through, by way of"
+     ],
+     [
+      "许可",
+      "permission"
+     ],
+     [
+      "禁止",
+      "forbid"
+     ],
+     [
+      "打开",
+      "open"
+     ],
+     [
+      "此",
+      "this (formal)"
+     ],
+     [
+      "盒",
+      "box"
+     ]
+    ]
+   ],
+   "translation": "Special Containment Procedures: The item is held at Site-CN-07 in an opaque metal box of 20×27×5 cm. Opening this box without permission is forbidden.",
+   "note": "Four function words from classical Chinese in one modern sentence: 该 于 未 此. Formal written Chinese runs on them."
+  },
+  {
+   "n": "187.3",
+   "text": "实验期间需要在场的其余人员配备视觉模因伤害过滤护目镜。",
+   "han": 26,
+   "toks": [
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "期间",
+     "期间"
+    ],
+    [
+     "需要",
+     "需要"
+    ],
+    [
+     "在场",
+     "在场"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "其余",
+     "其余"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "配备",
+     "配备"
+    ],
+    [
+     "视觉",
+     "视觉"
+    ],
+    [
+     "模因",
+     "模因"
+    ],
+    [
+     "伤害",
+     "伤害"
+    ],
+    [
+     "过滤",
+     "过滤"
+    ],
+    [
+     "护目镜",
+     "护目镜"
+    ],
+    "。"
+   ],
+   "new": [
+    "实验",
+    "期间",
+    "需要",
+    "在场",
+    "其余",
+    "人员",
+    "配备",
+    "视觉",
+    "模因",
+    "伤害",
+    "过滤"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "期间",
+      "period"
+     ],
+     [
+      "需要",
+      "need, require"
+     ],
+     [
+      "在场",
+      "present, on the scene"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "其余",
+      "the rest, the others"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "配备",
+      "equip"
+     ],
+     [
+      "视觉",
+      "vision"
+     ],
+     [
+      "模因",
+      "meme"
+     ],
+     [
+      "伤害",
+      "harm, injury"
+     ],
+     [
+      "过滤",
+      "filter"
+     ],
+     [
+      "护目镜",
+      "goggles"
+     ]
+    ]
+   ],
+   "translation": "During experiments, the other personnel present must be equipped with goggles that filter visual memetic hazards.",
+   "note": "视觉模因伤害过滤护目镜 is one long noun made by stacking: visual + meme + harm + filter + goggles."
+  },
+  {
+   "n": "187.4",
+   "text": "对该项目的实验须经等级3及以上人员审批。",
+   "han": 18,
+   "toks": [
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "该",
+     "该"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "须",
+     "须"
+    ],
+    [
+     "经",
+     "经"
+    ],
+    [
+     "等级",
+     "等级"
+    ],
+    "3",
+    [
+     "及",
+     "及"
+    ],
+    [
+     "以上",
+     "以上"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "审批",
+     "审批"
+    ],
+    "。"
+   ],
+   "new": [
+    "对@to",
+    "须",
+    "及",
+    "以上",
+    "审批"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "该",
+      "the said, this (formal)"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "须",
+      "must (formal)"
+     ],
+     [
+      "经",
+      "go through, by way of"
+     ],
+     [
+      "等级",
+      "Level"
+     ],
+     [
+      "3",
+      ""
+     ],
+     [
+      "及",
+      "and (formal)"
+     ],
+     [
+      "以上",
+      "and above, more than"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "审批",
+      "examine and approve"
+     ]
+    ]
+   ],
+   "translation": "Experiments on the item must be approved by personnel of Level 3 or above.",
+   "note": ""
+  },
+  {
+   "n": "187.5",
+   "text": "描述：SCP-CN-187为一块16x20x2cm的红木制手工刻板，其上有小篆字体阴刻的字样”非礼勿言“，",
+   "han": 29,
+   "toks": [
+    [
+     "描述",
+     "描述"
+    ],
+    "：SCP-CN-187",
+    [
+     "为",
+     "为"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "块",
+     "块"
+    ],
+    "16x20x2cm",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "红木",
+     "红木"
+    ],
+    [
+     "制",
+     "制"
+    ],
+    [
+     "手工",
+     "手工"
+    ],
+    [
+     "刻板",
+     "刻板"
+    ],
+    "，",
+    [
+     "其",
+     "其"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "小篆",
+     "小篆"
+    ],
+    [
+     "字体",
+     "字体"
+    ],
+    [
+     "阴刻",
+     "阴刻"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字样",
+     "字样"
+    ],
+    "”",
+    [
+     "非礼勿言",
+     "非礼勿言"
+    ],
+    "“，"
+   ],
+   "new": [
+    "描述",
+    "为",
+    "块",
+    "制",
+    "手工",
+    "字体",
+    "字样"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "描述",
+      "describe"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "块",
+      "(counter for slabs, lumps, pieces)"
+     ],
+     [
+      "16x20x2cm",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "红木",
+      "rosewood, \"red wood\""
+     ],
+     [
+      "制",
+      "made of"
+     ],
+     [
+      "手工",
+      "handmade"
+     ],
+     [
+      "刻板",
+      "carved board"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "小篆",
+      "small-seal script"
+     ],
+     [
+      "字体",
+      "script, typeface"
+     ],
+     [
+      "阴刻",
+      "incised, carved into the surface"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字样",
+      "written words, wording"
+     ],
+     [
+      "非礼勿言",
+      "\"what is contrary to ritual, do not say\""
+     ]
+    ]
+   ],
+   "translation": "Description: SCP-CN-187 is a handmade carved board of rosewood, 16×20×2 cm. On it, incised in small-seal script, are the words \"what is contrary to ritual, do not say\";",
+   "note": "非礼勿言 is Analects 12.1. The reversed quotation marks are in the original. The page's footnotes explain 小篆 (the script made by simplifying the great-seal script, the unified form of writing) and 阴刻 (cut so that the strokes lie below the surface)."
+  },
+  {
+   "n": "187.6",
+   "text": "每个字样约为3x3cm大小，并以金色漆类物质进行填充。",
+   "han": 20,
+   "toks": [
+    [
+     "每",
+     "每"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "字样",
+     "字样"
+    ],
+    [
+     "约",
+     "约"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "3x3cm",
+    [
+     "大小",
+     "大小"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "以",
+     "以"
+    ],
+    [
+     "金色",
+     "金色"
+    ],
+    [
+     "漆",
+     "漆"
+    ],
+    [
+     "类",
+     "类"
+    ],
+    [
+     "物质",
+     "物质"
+    ],
+    [
+     "进行",
+     "进行"
+    ],
+    [
+     "填充",
+     "填充"
+    ],
+    "。"
+   ],
+   "new": [
+    "每",
+    "个",
+    "约",
+    "大小",
+    "并",
+    "金色",
+    "类",
+    "物质",
+    "进行"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "每",
+      "every, each"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "字样",
+      "character"
+     ],
+     [
+      "约",
+      "about, roughly"
+     ],
+     [
+      "为",
+      "is"
+     ],
+     [
+      "3x3cm",
+      ""
+     ],
+     [
+      "大小",
+      "size"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "以",
+      "with, by means of"
+     ],
+     [
+      "金色",
+      "gold (colour)"
+     ],
+     [
+      "漆",
+      "lacquer, paint"
+     ],
+     [
+      "类",
+      "kind, type"
+     ],
+     [
+      "物质",
+      "substance, matter"
+     ],
+     [
+      "进行",
+      "carry out, conduct"
+     ],
+     [
+      "填充",
+      "fill in"
+     ]
+    ]
+   ],
+   "translation": "each character is about 3×3 cm in size, and is filled with a gold, lacquer-like substance.",
+   "note": ""
+  },
+  {
+   "n": "187.7",
+   "text": "在可理解人员观察SCP-CN-187并理解其展示的信息12秒后，",
+   "han": 19,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "可",
+     "可"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    "SCP-CN-187",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "展示",
+     "展示"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "信息",
+     "信息"
+    ],
+    "12",
+    [
+     "秒",
+     "秒"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，"
+   ],
+   "new": [
+    "理解",
+    "观察",
+    "展示",
+    "信息",
+    "秒",
+    "后"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "可",
+      "can, able to"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "展示",
+      "display, show"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "信息",
+      "information, message"
+     ],
+     [
+      "12",
+      ""
+     ],
+     [
+      "秒",
+      "second (of time)"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ]
+    ]
+   ],
+   "translation": "Twelve seconds after a person able to understand it observes SCP-CN-187 and understands the message it displays,",
+   "note": "可理解人员: \"personnel who can understand\". 在…后 wraps the whole clause."
+  },
+  {
+   "n": "187.8",
+   "text": "受影响者一开始会在心理层面产生对于不符合一般理解下的道德准则的行为采取视而不见/拒绝承认的行为。",
+   "han": 46,
+   "toks": [
+    [
+     "受",
+     "受"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "一开始",
+     "一开始"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "心理",
+     "心理"
+    ],
+    [
+     "层面",
+     "层面"
+    ],
+    [
+     "产生",
+     "产生"
+    ],
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "符合",
+     "符合"
+    ],
+    [
+     "一般",
+     "一般"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    [
+     "下",
+     "下"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "道德",
+     "道德"
+    ],
+    [
+     "准则",
+     "准则"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "行为",
+     "行为"
+    ],
+    [
+     "采取",
+     "采取"
+    ],
+    [
+     "视而不见",
+     "视而不见"
+    ],
+    "/",
+    [
+     "拒绝",
+     "拒绝"
+    ],
+    [
+     "承认",
+     "承认"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "行为",
+     "行为"
+    ],
+    "。"
+   ],
+   "new": [
+    "受",
+    "影响",
+    "一开始",
+    "心理",
+    "层面",
+    "产生",
+    "符合",
+    "一般",
+    "下",
+    "准则",
+    "行为",
+    "采取",
+    "视而不见",
+    "拒绝",
+    "承认"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "一开始",
+      "at first, at the very start"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "心理",
+      "psychology"
+     ],
+     [
+      "层面",
+      "level, plane"
+     ],
+     [
+      "产生",
+      "produce, give rise to"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "符合",
+      "accord with, conform to"
+     ],
+     [
+      "一般",
+      "ordinary, general"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "下",
+      "under (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "道德",
+      "morality, virtue"
+     ],
+     [
+      "准则",
+      "norm, standard"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "行为",
+      "behaviour, conduct"
+     ],
+     [
+      "采取",
+      "adopt, take (a measure, a stance)"
+     ],
+     [
+      "视而不见",
+      "look without seeing"
+     ],
+     [
+      "拒绝",
+      "refuse"
+     ],
+     [
+      "承认",
+      "admit, acknowledge"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "行为",
+      "behaviour, conduct"
+     ]
+    ]
+   ],
+   "translation": "the affected person at first comes, on the psychological level, to turn a blind eye to, or refuse to acknowledge, conduct that does not fit ordinary moral norms.",
+   "note": "The hardest sentence in the file. Its skeleton is 受影响者…会…产生…的行为, \"the affected person will develop the behaviour of…\". Inside it: 对于 [不符合…道德准则的行为] 采取 [视而不见/拒绝承认], \"toward conduct that breaks moral norms, adopt a blind eye or a refusal\"."
+  },
+  {
+   "n": "187.9",
+   "text": "72小时后，观察者会对于其心理上无法理解/接受的行为采取冷处理措施。",
+   "han": 29,
+   "toks": [
+    "72",
+    [
+     "小时",
+     "小时"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "心理",
+     "心理"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    "/",
+    [
+     "接受",
+     "接受"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "行为",
+     "行为"
+    ],
+    [
+     "采取",
+     "采取"
+    ],
+    [
+     "冷处理",
+     "冷处理"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    "。"
+   ],
+   "new": [
+    "小时",
+    "无法",
+    "冷处理"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "72",
+      ""
+     ],
+     [
+      "小时",
+      "hour"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "心理",
+      "psychology"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "接受",
+      "accept"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "行为",
+      "behaviour, conduct"
+     ],
+     [
+      "采取",
+      "adopt, take (a measure, a stance)"
+     ],
+     [
+      "冷处理",
+      "handle by ignoring, \"cold treatment\""
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ]
+    ]
+   ],
+   "translation": "After 72 hours, the observer deals coldly with any conduct that he cannot psychologically understand or accept.",
+   "note": "采取…措施, \"adopt … measures\", is a fixed pairing."
+  },
+  {
+   "n": "187.10",
+   "text": "在一星期后，受影响者会对于所有关于自己和他人的描述表现出极大的厌恶，并认为这是“不符合礼仪的”，",
+   "han": 43,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "星期",
+     "星期"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "受",
+     "受"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "所有",
+     "所有"
+    ],
+    [
+     "关于",
+     "关于"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "他人",
+     "他人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "描述",
+     "描述"
+    ],
+    [
+     "表现",
+     "表现"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "极大",
+     "极大"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "厌恶",
+     "厌恶"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "认为",
+     "认为"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    "“",
+    [
+     "不",
+     "不"
+    ],
+    [
+     "符合",
+     "符合"
+    ],
+    [
+     "礼仪",
+     "礼仪"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "”，"
+   ],
+   "new": [
+    "星期",
+    "所有",
+    "关于",
+    "他人",
+    "表现",
+    "出",
+    "极大",
+    "厌恶",
+    "认为",
+    "礼仪"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "星期",
+      "week"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "所有",
+      "all, every"
+     ],
+     [
+      "关于",
+      "about, concerning"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "他人",
+      "other people, others"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "描述",
+      "describe"
+     ],
+     [
+      "表现",
+      "show, display"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "极大",
+      "extreme, enormous"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "厌恶",
+      "loathe"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "认为",
+      "think, consider"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "符合",
+      "accord with, conform to"
+     ],
+     [
+      "礼仪",
+      "etiquette, propriety"
+     ],
+     [
+      "的",
+      "'s, of"
+     ]
+    ]
+   ],
+   "translation": "After one week, the affected person shows extreme loathing toward all descriptions of himself and of others, and considers them \"not in keeping with propriety\",",
+   "note": ""
+  },
+  {
+   "n": "187.11",
+   "text": "并且会进行言语和物理上的攻击以试图使对方停止描述。",
+   "han": 24,
+   "toks": [
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "进行",
+     "进行"
+    ],
+    [
+     "言语",
+     "言语"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "攻击",
+     "攻击"
+    ],
+    [
+     "以",
+     "以"
+    ],
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "使",
+     "使"
+    ],
+    [
+     "对方",
+     "对方"
+    ],
+    [
+     "停止",
+     "停止"
+    ],
+    [
+     "描述",
+     "描述"
+    ],
+    "。"
+   ],
+   "new": [
+    "并且",
+    "言语",
+    "物理",
+    "攻击",
+    "试图",
+    "对方",
+    "停止"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "进行",
+      "carry out, conduct"
+     ],
+     [
+      "言语",
+      "speech, words"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "攻击",
+      "attack"
+     ],
+     [
+      "以",
+      "in order to"
+     ],
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "对方",
+      "the other party"
+     ],
+     [
+      "停止",
+      "stop"
+     ],
+     [
+      "描述",
+      "describe"
+     ]
+    ]
+   ],
+   "translation": "and will attack in words and physically, in an attempt to make the other person stop describing.",
+   "note": "使 + person + verb is \"make someone do\", exactly as in classical Chinese."
+  },
+  {
+   "n": "187.12",
+   "text": "在三星期后，观察者的声带会被木质化并在2小时内腐朽，",
+   "han": 23,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "三",
+     "三"
+    ],
+    [
+     "星期",
+     "星期"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "木质化",
+     "木质化"
+    ],
+    [
+     "并",
+     "并"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    "2",
+    [
+     "小时",
+     "小时"
+    ],
+    [
+     "内",
+     "内"
+    ],
+    [
+     "腐朽",
+     "腐朽"
+    ],
+    "，"
+   ],
+   "new": [
+    "声带",
+    "木质化",
+    "内",
+    "腐朽"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "三",
+      "three"
+     ],
+     [
+      "星期",
+      "week"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "木质化",
+      "turn to wood, lignify"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "在",
+      "within"
+     ],
+     [
+      "2",
+      ""
+     ],
+     [
+      "小时",
+      "hour"
+     ],
+     [
+      "内",
+      "within (after a span of time or a place)"
+     ],
+     [
+      "腐朽",
+      "rot, decay"
+     ]
+    ]
+   ],
+   "translation": "After three weeks, the observer's vocal cords turn to wood and rot away within 2 hours;",
+   "note": ""
+  },
+  {
+   "n": "187.13",
+   "text": "已证实木质化的声带组成与SCP-CN-187的构成相同，且观察者会感受到心理上的舒适与解脱。",
+   "han": 34,
+   "toks": [
+    [
+     "已",
+     "已"
+    ],
+    [
+     "证实",
+     "证实"
+    ],
+    [
+     "木质化",
+     "木质化"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "组成",
+     "组成"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    "SCP-CN-187",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "构成",
+     "构成"
+    ],
+    [
+     "相同",
+     "相同"
+    ],
+    "，",
+    [
+     "且",
+     "且"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "感受",
+     "感受"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "心理",
+     "心理"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "舒适",
+     "舒适"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "解脱",
+     "解脱"
+    ],
+    "。"
+   ],
+   "new": [
+    "证实",
+    "组成",
+    "与",
+    "构成",
+    "相同",
+    "且",
+    "感受",
+    "舒适",
+    "解脱"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "已",
+      "already (formal)"
+     ],
+     [
+      "证实",
+      "confirm, verify"
+     ],
+     [
+      "木质化",
+      "turn to wood, lignify"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "组成",
+      "composition"
+     ],
+     [
+      "与",
+      "as"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "构成",
+      "make-up, structure"
+     ],
+     [
+      "相同",
+      "identical, the same"
+     ],
+     [
+      "且",
+      "and, moreover (formal)"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "感受",
+      "feel, experience"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "心理",
+      "psychology"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "舒适",
+      "comfort"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "解脱",
+      "release, be set free"
+     ]
+    ]
+   ],
+   "translation": "it has been confirmed that the lignified vocal cords have the same composition as SCP-CN-187, and the observer feels psychological comfort and release.",
+   "note": "The vocal cords become the board. Compare Analects 5.10: 朽木不可雕也, \"rotten wood cannot be carved\"."
+  },
+  {
+   "n": "187.14",
+   "text": "根据此后通过书写等方式的交流中显示，观察者对其失去声带的现状感到心理上的平静与满足。",
+   "han": 40,
+   "toks": [
+    [
+     "根据",
+     "根据"
+    ],
+    [
+     "此后",
+     "此后"
+    ],
+    [
+     "通过",
+     "通过"
+    ],
+    [
+     "书写",
+     "书写"
+    ],
+    [
+     "等",
+     "等"
+    ],
+    [
+     "方式",
+     "方式"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "交流",
+     "交流"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "显示",
+     "显示"
+    ],
+    "，",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "失去",
+     "失去"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "现状",
+     "现状"
+    ],
+    [
+     "感到",
+     "感到"
+    ],
+    [
+     "心理",
+     "心理"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "平静",
+     "平静"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "满足",
+     "满足"
+    ],
+    "。"
+   ],
+   "new": [
+    "根据",
+    "此后",
+    "通过",
+    "书写",
+    "等",
+    "方式",
+    "交流",
+    "显示",
+    "失去",
+    "现状",
+    "感到",
+    "平静",
+    "满足"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "根据",
+      "according to, on the basis of"
+     ],
+     [
+      "此后",
+      "after this, thereafter"
+     ],
+     [
+      "通过",
+      "by means of, through"
+     ],
+     [
+      "书写",
+      "write"
+     ],
+     [
+      "等",
+      "and so on, etc."
+     ],
+     [
+      "方式",
+      "way, manner, means"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "交流",
+      "communicate"
+     ],
+     [
+      "中",
+      "in"
+     ],
+     [
+      "显示",
+      "show, indicate"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "对",
+      "about"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "失去",
+      "lose"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "现状",
+      "present state"
+     ],
+     [
+      "感到",
+      "feel"
+     ],
+     [
+      "心理",
+      "psychology"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "平静",
+      "calm"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "满足",
+      "contentment"
+     ]
+    ]
+   ],
+   "translation": "As later communication by writing and other means shows, observers feel psychologically calm and content about the present state of having lost their vocal cords.",
+   "note": ""
+  },
+  {
+   "n": "187.15",
+   "text": "当受影响者再次观察SCP-CN-187时，会加快其阶段进程，且加快程度会依自初次观察后的相距时间提高。",
+   "han": 38,
+   "toks": [
+    [
+     "当",
+     "当"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "再次",
+     "再次"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    "SCP-CN-187",
+    [
+     "时",
+     "时"
+    ],
+    "，",
+    [
+     "会",
+     "会"
+    ],
+    [
+     "加快",
+     "加快"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "阶段",
+     "阶段"
+    ],
+    [
+     "进程",
+     "进程"
+    ],
+    "，",
+    [
+     "且",
+     "且"
+    ],
+    [
+     "加快",
+     "加快"
+    ],
+    [
+     "程度",
+     "程度"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "依",
+     "依"
+    ],
+    [
+     "自",
+     "自"
+    ],
+    [
+     "初次",
+     "初次"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "相距",
+     "相距"
+    ],
+    [
+     "时间",
+     "时间"
+    ],
+    [
+     "提高",
+     "提高"
+    ],
+    "。"
+   ],
+   "new": [
+    "当",
+    "再次",
+    "时",
+    "加快",
+    "阶段",
+    "进程",
+    "程度",
+    "依",
+    "初次",
+    "提高"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "当",
+      "when (当…时)"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "再次",
+      "once again"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "加快",
+      "speed up"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "阶段",
+      "stage, phase"
+     ],
+     [
+      "进程",
+      "progress, course"
+     ],
+     [
+      "且",
+      "and, moreover (formal)"
+     ],
+     [
+      "加快",
+      "speed-up"
+     ],
+     [
+      "程度",
+      "degree, extent"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "依",
+      "according to, in proportion to (formal)"
+     ],
+     [
+      "自",
+      "from, since (formal)"
+     ],
+     [
+      "初次",
+      "first time"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "相距",
+      "be apart"
+     ],
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      "提高",
+      "raise, increase"
+     ]
+    ]
+   ],
+   "translation": "When an affected person observes SCP-CN-187 again, his progress through the stages speeds up, and the degree of speed-up rises with the time elapsed since the first observation.",
+   "note": ""
+  },
+  {
+   "n": "187.16",
+   "text": "所有初次观察后，相隔14天再对SCP-CN-187进行观察的受影响者，皆试图以物理方法损伤自己的声带。",
+   "han": 36,
+   "toks": [
+    [
+     "所有",
+     "所有"
+    ],
+    [
+     "初次",
+     "初次"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "相隔",
+     "相隔"
+    ],
+    "14",
+    [
+     "天",
+     "天"
+    ],
+    [
+     "再",
+     "再"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    "SCP-CN-187",
+    [
+     "进行",
+     "进行"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    "，",
+    [
+     "皆",
+     "皆"
+    ],
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "以",
+     "以"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "方法",
+     "方法"
+    ],
+    [
+     "损伤",
+     "损伤"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    "。"
+   ],
+   "new": [
+    "相隔",
+    "天",
+    "皆",
+    "损伤"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "所有",
+      "all, every"
+     ],
+     [
+      "初次",
+      "first time"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "相隔",
+      "be separated by (a time, a distance)"
+     ],
+     [
+      "14",
+      ""
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "再",
+      "again"
+     ],
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "进行",
+      "carry out, conduct"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "皆",
+      "all (formal)"
+     ],
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "以",
+      "by"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "方法",
+      "method, way"
+     ],
+     [
+      "损伤",
+      "damage, injure"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ]
+    ]
+   ],
+   "translation": "All affected persons who observed SCP-CN-187 again 14 days after their first observation tried to damage their own vocal cords by physical means.",
+   "note": "One long description stands before 的: [所有…再对SCP-CN-187进行观察] 的 受影响者."
+  },
+  {
+   "n": "187.17",
+   "text": "在使用物理方法冲动开始但未实施成功2小时后，声带的木质化开始。",
+   "han": 28,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "使用",
+     "使用"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "方法",
+     "方法"
+    ],
+    [
+     "冲动",
+     "冲动"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "但",
+     "但"
+    ],
+    [
+     "未",
+     "未"
+    ],
+    [
+     "实施",
+     "实施"
+    ],
+    [
+     "成功",
+     "成功"
+    ],
+    "2",
+    [
+     "小时",
+     "小时"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "木质化",
+     "木质化"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    "。"
+   ],
+   "new": [
+    "使用",
+    "冲动",
+    "开始",
+    "但",
+    "实施",
+    "成功"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "使用",
+      "use"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "方法",
+      "method, way"
+     ],
+     [
+      "冲动",
+      "impulse"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "实施",
+      "carry out, put into effect"
+     ],
+     [
+      "成功",
+      "succeed"
+     ],
+     [
+      "2",
+      ""
+     ],
+     [
+      "小时",
+      "hour"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "木质化",
+      "turn to wood, lignify"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ]
+    ]
+   ],
+   "translation": "Two hours after the impulse to use physical means begins without being carried out successfully, the lignification of the vocal cords begins.",
+   "note": "使用物理方法冲动: \"the impulse to use physical means\". The description stands before 冲动 with no 的."
+  },
+  {
+   "n": "187.18",
+   "text": "观察时间在12秒以下及间接进行观察者不会有特殊反应，",
+   "han": 23,
+   "toks": [
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "时间",
+     "时间"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    "12",
+    [
+     "秒",
+     "秒"
+    ],
+    [
+     "以下",
+     "以下"
+    ],
+    [
+     "及",
+     "及"
+    ],
+    [
+     "间接",
+     "间接"
+    ],
+    [
+     "进行",
+     "进行"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "特殊",
+     "特殊"
+    ],
+    [
+     "反应",
+     "反应"
+    ],
+    "，"
+   ],
+   "new": [
+    "以下",
+    "间接",
+    "反应"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "12",
+      ""
+     ],
+     [
+      "秒",
+      "second (of time)"
+     ],
+     [
+      "以下",
+      "below, under"
+     ],
+     [
+      "及",
+      "and (formal)"
+     ],
+     [
+      "间接",
+      "indirect"
+     ],
+     [
+      "进行",
+      "carry out, conduct"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "特殊",
+      "special"
+     ],
+     [
+      "反应",
+      "reaction, response"
+     ]
+    ]
+   ],
+   "translation": "Those whose observation time is under 12 seconds, and those who observe indirectly, show no special reaction;",
+   "note": ""
+  },
+  {
+   "n": "187.19",
+   "text": "此外，观察者若因不了解中文或无法理解小篆字体书写的汉字而无法理解SCP-CN-187展示的字句，",
+   "han": 36,
+   "toks": [
+    [
+     "此外",
+     "此外"
+    ],
+    "，",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "若",
+     "若"
+    ],
+    [
+     "因",
+     "因"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "了解",
+     "了解"
+    ],
+    [
+     "中文",
+     "中文"
+    ],
+    [
+     "或",
+     "或"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    [
+     "小篆",
+     "小篆"
+    ],
+    [
+     "字体",
+     "字体"
+    ],
+    [
+     "书写",
+     "书写"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    "SCP-CN-187",
+    [
+     "展示",
+     "展示"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字句",
+     "字句"
+    ],
+    "，"
+   ],
+   "new": [
+    "此外",
+    "若",
+    "因",
+    "中文",
+    "或",
+    "汉字"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "此外",
+      "besides, in addition"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "若",
+      "if (formal)"
+     ],
+     [
+      "因",
+      "because of (formal)"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "了解",
+      "know"
+     ],
+     [
+      "中文",
+      "Chinese (the language)"
+     ],
+     [
+      "或",
+      "or"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "小篆",
+      "small-seal script"
+     ],
+     [
+      "字体",
+      "script, typeface"
+     ],
+     [
+      "书写",
+      "write"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "SCP-CN-187",
+      ""
+     ],
+     [
+      "展示",
+      "display, show"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字句",
+      "words and phrases, wording"
+     ]
+    ]
+   ],
+   "translation": "in addition, if an observer cannot understand the words SCP-CN-187 displays, because he does not know Chinese or cannot read characters written in small-seal script,",
+   "note": ""
+  },
+  {
+   "n": "187.20",
+   "text": "该观察者也不会产生特殊反应。",
+   "han": 13,
+   "toks": [
+    [
+     "该",
+     "该"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "产生",
+     "产生"
+    ],
+    [
+     "特殊",
+     "特殊"
+    ],
+    [
+     "反应",
+     "反应"
+    ],
+    "。"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "该",
+      "the said, this (formal)"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "产生",
+      "produce, give rise to"
+     ],
+     [
+      "特殊",
+      "special"
+     ],
+     [
+      "反应",
+      "reaction, response"
+     ]
+    ]
+   ],
+   "translation": "that observer will not show any special reaction either.",
+   "note": "After this deck you no longer fully qualify for the exemption."
+  },
+  {
+   "n": "187.21",
+   "text": "根据实验结果初步推断受影响者的暴力倾向来源于主观意愿上拒绝评价自己行为导致的自控能力缺失，",
+   "han": 44,
+   "toks": [
+    [
+     "根据",
+     "根据"
+    ],
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "结果",
+     "结果"
+    ],
+    [
+     "初步",
+     "初步"
+    ],
+    [
+     "推断",
+     "推断"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "暴力",
+     "暴力"
+    ],
+    [
+     "倾向",
+     "倾向"
+    ],
+    [
+     "来源",
+     "来源"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "主观",
+     "主观"
+    ],
+    [
+     "意愿",
+     "意愿"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "拒绝",
+     "拒绝"
+    ],
+    [
+     "评价",
+     "评价"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "行为",
+     "行为"
+    ],
+    [
+     "导致",
+     "导致"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "自控",
+     "自控"
+    ],
+    [
+     "能力",
+     "能力"
+    ],
+    [
+     "缺失",
+     "缺失"
+    ],
+    "，"
+   ],
+   "new": [
+    "结果",
+    "初步",
+    "推断",
+    "暴力",
+    "倾向",
+    "来源",
+    "主观",
+    "意愿",
+    "评价",
+    "导致",
+    "能力",
+    "缺失"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "根据",
+      "according to, on the basis of"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "结果",
+      "result"
+     ],
+     [
+      "初步",
+      "preliminary"
+     ],
+     [
+      "推断",
+      "infer, conclude"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "暴力",
+      "violence"
+     ],
+     [
+      "倾向",
+      "tendency"
+     ],
+     [
+      "来源",
+      "source, origin"
+     ],
+     [
+      "于",
+      "from"
+     ],
+     [
+      "主观",
+      "subjective"
+     ],
+     [
+      "意愿",
+      "will, wish"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "拒绝",
+      "refuse"
+     ],
+     [
+      "评价",
+      "evaluate, judge"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "行为",
+      "behaviour, conduct"
+     ],
+     [
+      "导致",
+      "lead to, cause"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "自控",
+      "self-control"
+     ],
+     [
+      "能力",
+      "ability, capacity"
+     ],
+     [
+      "缺失",
+      "lack, loss"
+     ]
+    ]
+   ],
+   "translation": "From the experimental results it is provisionally inferred that the affected persons' violent tendency comes from a loss of self-control, caused by a wilful refusal to evaluate their own conduct;",
+   "note": "The moral of the file. A maxim about guarding one's speech, taken literally, becomes a refusal to examine oneself. Compare Analects 1.4: 吾日三省吾身."
+  },
+  {
+   "n": "187.22",
+   "text": "同时其对自己失控的现象缺乏合理认识。",
+   "han": 17,
+   "toks": [
+    [
+     "同时",
+     "同时"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "失控",
+     "失控"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "现象",
+     "现象"
+    ],
+    [
+     "缺乏",
+     "缺乏"
+    ],
+    [
+     "合理",
+     "合理"
+    ],
+    [
+     "认识",
+     "认识"
+    ],
+    "。"
+   ],
+   "new": [
+    "同时",
+    "失控",
+    "现象",
+    "缺乏",
+    "认识"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "同时",
+      "at the same time"
+     ],
+     [
+      "其",
+      "they"
+     ],
+     [
+      "对",
+      "toward"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "失控",
+      "lose control"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "现象",
+      "phenomenon"
+     ],
+     [
+      "缺乏",
+      "lack, be short of"
+     ],
+     [
+      "合理",
+      "reasonable, right"
+     ],
+     [
+      "认识",
+      "understanding"
+     ]
+    ]
+   ],
+   "translation": "at the same time, they lack a reasonable understanding of the fact that they have lost control.",
+   "note": ""
+  },
+  {
+   "n": "187.23",
+   "text": "附录：\n实验编号：CN-187-1\n时间:20██/██/██\n实验地点：Site-CN-37的标准单人实验室\n实验对象：D-1834\n备注：观察时间：21天49分钟",
+   "han": 33,
+   "toks": [
+    [
+     "附录",
+     "附录"
+    ],
+    "：\n",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "编号",
+     "编号"
+    ],
+    "：CN-187-1\n",
+    [
+     "时间",
+     "时间"
+    ],
+    ":20██/██/██\n",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "地点",
+     "地点"
+    ],
+    "：Site-CN-37",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "标准",
+     "标准"
+    ],
+    [
+     "单人",
+     "单人"
+    ],
+    [
+     "实验室",
+     "实验室"
+    ],
+    "\n",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    "：D-1834\n",
+    [
+     "备注",
+     "备注"
+    ],
+    "：",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "时间",
+     "时间"
+    ],
+    "：21",
+    [
+     "天",
+     "天"
+    ],
+    "49",
+    [
+     "分钟",
+     "分钟"
+    ]
+   ],
+   "new": [
+    "附录",
+    "地点",
+    "标准",
+    "实验室",
+    "对象",
+    "备注",
+    "分钟"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "附录",
+      "appendix"
+     ]
+    ],
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "编号",
+      "serial number"
+     ],
+     [
+      "CN-187-1",
+      ""
+     ]
+    ],
+    [
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      ":20██/██/██",
+      ""
+     ]
+    ],
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "地点",
+      "place, location"
+     ],
+     [
+      "Site-CN-37",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "标准",
+      "standard"
+     ],
+     [
+      "单人",
+      "single-person"
+     ],
+     [
+      "实验室",
+      "laboratory"
+     ]
+    ],
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "D-1834",
+      ""
+     ]
+    ],
+    [
+     [
+      "备注",
+      "remarks, note"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      "21",
+      ""
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "49",
+      ""
+     ],
+     [
+      "分钟",
+      "minute"
+     ]
+    ]
+   ],
+   "translation": "Appendix. Experiment number: CN-187-1. Time: 20██/██/██. Location: a standard single-person laboratory at Site-CN-37. Subject: D-1834. Remarks: observation time 21 days 49 minutes.",
+   "note": ""
+  },
+  {
+   "n": "187.24",
+   "text": "晨博士：你好，D-1834。\nD-1834发出了艰涩且含混的声音。\nD-1834：终……于……",
+   "han": 18,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "你好",
+     "你好"
+    ],
+    "，D-1834。\nD-1834",
+    [
+     "发出",
+     "发出"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "艰涩",
+     "艰涩"
+    ],
+    [
+     "且",
+     "且"
+    ],
+    [
+     "含混",
+     "含混"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声音",
+     "声音"
+    ],
+    "。\nD-1834：",
+    [
+     "终",
+     "终"
+    ],
+    "……",
+    [
+     "于",
+     "于"
+    ],
+    "……"
+   ],
+   "new": [
+    "博士",
+    "你好",
+    "发出",
+    "声音"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "你好",
+      "hello"
+     ],
+     [
+      "D-1834",
+      ""
+     ]
+    ],
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "发出",
+      "give out, emit"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "艰涩",
+      "laboured, rough (of a sound or of writing)"
+     ],
+     [
+      "且",
+      "and, moreover (formal)"
+     ],
+     [
+      "含混",
+      "indistinct, slurred"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声音",
+      "sound, voice"
+     ]
+    ],
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "终",
+      "at la-"
+     ],
+     [
+      "于",
+      "-st"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: Hello, D-1834. D-1834 gave out a laboured, indistinct sound. D-1834: At… last…",
+   "note": "终于 \"at last\" is broken in two by his gasps."
+  },
+  {
+   "n": "187.25",
+   "text": "D-1834剧烈咳嗽，伴有鲜血和腐朽木屑喷出。\n晨博士：D-1834，你是否有生理上的不适？",
+   "han": 28,
+   "toks": [
+    "D-1834",
+    [
+     "剧烈",
+     "剧烈"
+    ],
+    [
+     "咳嗽",
+     "咳嗽"
+    ],
+    "，",
+    [
+     "伴有",
+     "伴有"
+    ],
+    [
+     "鲜血",
+     "鲜血"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "腐朽",
+     "腐朽"
+    ],
+    [
+     "木屑",
+     "木屑"
+    ],
+    [
+     "喷出",
+     "喷出"
+    ],
+    "。\n",
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：D-1834，",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "是否",
+     "是否"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "生理",
+     "生理"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "不适",
+     "不适"
+    ],
+    "？"
+   ],
+   "new": [
+    "剧烈",
+    "咳嗽",
+    "鲜血",
+    "喷出",
+    "是否",
+    "生理",
+    "不适"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "剧烈",
+      "violent, severe"
+     ],
+     [
+      "咳嗽",
+      "cough"
+     ],
+     [
+      "伴有",
+      "be accompanied by"
+     ],
+     [
+      "鲜血",
+      "blood"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "腐朽",
+      "rot, decay"
+     ],
+     [
+      "木屑",
+      "wood chips, sawdust"
+     ],
+     [
+      "喷出",
+      "spurt out"
+     ]
+    ],
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "是否",
+      "whether"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "生理",
+      "physiological, bodily"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "不适",
+      "discomfort"
+     ]
+    ]
+   ],
+   "translation": "D-1834 coughed violently, bringing up blood and rotten wood chips. Dr. Chen: D-1834, do you have any physical discomfort?",
+   "note": ""
+  },
+  {
+   "n": "187.26",
+   "text": "D-1834露出了笑容，并且摇了摇头，做出“解脱”的口型",
+   "han": 18,
+   "toks": [
+    "D-1834",
+    [
+     "露出",
+     "露出"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "笑容",
+     "笑容"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "摇",
+     "摇"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "摇",
+     "摇"
+    ],
+    [
+     "头",
+     "头"
+    ],
+    "，",
+    [
+     "做出",
+     "做出"
+    ],
+    "“",
+    [
+     "解脱",
+     "解脱"
+    ],
+    "”",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "口型",
+     "口型"
+    ]
+   ],
+   "new": [
+    "露出",
+    "笑容",
+    "摇",
+    "头",
+    "做出"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "露出",
+      "show, reveal"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "笑容",
+      "smile"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "摇",
+      "shake"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "摇",
+      "shake"
+     ],
+     [
+      "头",
+      "head"
+     ],
+     [
+      "做出",
+      "make, produce (a gesture, a decision)"
+     ],
+     [
+      "解脱",
+      "release, be set free"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "口型",
+      "the shape of the mouth (mouthing a word)"
+     ]
+    ]
+   ],
+   "translation": "D-1834 smiled, shook his head, and mouthed the word \"release\".",
+   "note": ""
+  },
+  {
+   "n": "187.27",
+   "text": "在安保人员监护下医学小组人员王爱博士检测了D-1834的声带，确认了其声带已经有80%的木质化并开始腐朽。",
+   "han": 42,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "安保",
+     "安保"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "监护",
+     "监护"
+    ],
+    [
+     "下",
+     "下"
+    ],
+    [
+     "医学",
+     "医学"
+    ],
+    [
+     "小组",
+     "小组"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "王爱",
+     "王爱"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "检测",
+     "检测"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "D-1834",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    "，",
+    [
+     "确认",
+     "确认"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    "80%",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "木质化",
+     "木质化"
+    ],
+    [
+     "并",
+     "并"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "腐朽",
+     "腐朽"
+    ],
+    "。"
+   ],
+   "new": [
+    "安保",
+    "医学",
+    "小组",
+    "检测",
+    "确认",
+    "已经"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "安保",
+      "security (staff)"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "监护",
+      "guard, watch over"
+     ],
+     [
+      "下",
+      "under (after a noun)"
+     ],
+     [
+      "医学",
+      "medicine (the field)"
+     ],
+     [
+      "小组",
+      "team, small group"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "王爱",
+      "Wang Ai (a name)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "检测",
+      "test, examine"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "确认",
+      "confirm"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "80%",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "木质化",
+      "turn to wood, lignify"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "腐朽",
+      "rot, decay"
+     ]
+    ]
+   ],
+   "translation": "Under the guard of security staff, Dr. Wang Ai of the medical team examined D-1834's vocal cords and confirmed that they were already 80% lignified and had begun to rot.",
+   "note": ""
+  },
+  {
+   "n": "187.28",
+   "text": "由安保人员提供了一张A4纸与一支黑色中性笔以用于交谈。",
+   "han": 24,
+   "toks": [
+    [
+     "由",
+     "由"
+    ],
+    [
+     "安保",
+     "安保"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "提供",
+     "提供"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "张",
+     "张"
+    ],
+    "A4",
+    [
+     "纸",
+     "纸"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "支",
+     "支"
+    ],
+    [
+     "黑色",
+     "黑色"
+    ],
+    [
+     "中性笔",
+     "中性笔"
+    ],
+    [
+     "以",
+     "以"
+    ],
+    [
+     "用于",
+     "用于"
+    ],
+    [
+     "交谈",
+     "交谈"
+    ],
+    "。"
+   ],
+   "new": [
+    "由",
+    "提供",
+    "张",
+    "纸",
+    "支",
+    "黑色",
+    "用于",
+    "交谈"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "由",
+      "by (marks who does it)"
+     ],
+     [
+      "安保",
+      "security (staff)"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "提供",
+      "provide"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "张",
+      "(counter for flat things: paper, tables)"
+     ],
+     [
+      "A4",
+      ""
+     ],
+     [
+      "纸",
+      "paper"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "支",
+      "(counter for sticks: pens)"
+     ],
+     [
+      "黑色",
+      "black"
+     ],
+     [
+      "中性笔",
+      "gel pen"
+     ],
+     [
+      "以",
+      "in order to"
+     ],
+     [
+      "用于",
+      "be used for"
+     ],
+     [
+      "交谈",
+      "converse, talk"
+     ]
+    ]
+   ],
+   "translation": "The security staff provided a sheet of A4 paper and a black gel pen to be used for conversation.",
+   "note": ""
+  },
+  {
+   "n": "187.29",
+   "text": "晨博士：D-1834，你是否注意到你的声带有所异常？\nD-1834：是啊，这简直是人生中最美好的时刻。",
+   "han": 32,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：D-1834，",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "是否",
+     "是否"
+    ],
+    [
+     "注意",
+     "注意"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声带",
+     "声带"
+    ],
+    [
+     "有所",
+     "有所"
+    ],
+    [
+     "异常",
+     "异常"
+    ],
+    "？\nD-1834：",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "啊",
+     "啊"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "简直",
+     "简直"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "人生",
+     "人生"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "最",
+     "最"
+    ],
+    [
+     "美好",
+     "美好"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "时刻",
+     "时刻"
+    ],
+    "。"
+   ],
+   "new": [
+    "注意",
+    "异常",
+    "简直",
+    "人生",
+    "最",
+    "美好",
+    "时刻"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "是否",
+      "whether"
+     ],
+     [
+      "注意",
+      "notice"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声带",
+      "vocal cords"
+     ],
+     [
+      "有所",
+      "somewhat, to some extent"
+     ],
+     [
+      "异常",
+      "abnormal"
+     ]
+    ],
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "是",
+      "yes"
+     ],
+     [
+      "啊",
+      "(ah)"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "简直",
+      "simply, downright"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "人生",
+      "life, one's life"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "最",
+      "most, -est"
+     ],
+     [
+      "美好",
+      "fine, wonderful"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "时刻",
+      "moment"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: D-1834, have you noticed that something is abnormal about your vocal cords? D-1834: Yes. This is simply the finest moment of my life.",
+   "note": ""
+  },
+  {
+   "n": "187.30",
+   "text": "晨博士：请说明理由。\nD-1834：终于不用担心自己失礼了，这真是太棒了，所有人都应该这样。",
+   "han": 33,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "说明",
+     "说明"
+    ],
+    [
+     "理由",
+     "理由"
+    ],
+    "。\nD-1834：",
+    [
+     "终于",
+     "终于"
+    ],
+    [
+     "不用",
+     "不用"
+    ],
+    [
+     "担心",
+     "担心"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "失礼",
+     "失礼"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "真",
+     "真"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "太",
+     "太"
+    ],
+    [
+     "棒",
+     "棒"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "所有",
+     "所有"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "应该",
+     "应该"
+    ],
+    [
+     "这样",
+     "这样"
+    ],
+    "。"
+   ],
+   "new": [
+    "请",
+    "说明",
+    "理由",
+    "终于",
+    "不用",
+    "失礼",
+    "真",
+    "棒",
+    "应该"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "说明",
+      "explain, state"
+     ],
+     [
+      "理由",
+      "reason, grounds"
+     ]
+    ],
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "终于",
+      "at last, finally"
+     ],
+     [
+      "不用",
+      "need not"
+     ],
+     [
+      "担心",
+      "worry"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "失礼",
+      "be impolite, breach etiquette"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "真",
+      "really, truly"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "太",
+      "too, excessively"
+     ],
+     [
+      "棒",
+      "great, excellent (colloquial)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "所有",
+      "all, every"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "应该",
+      "should, ought to"
+     ],
+     [
+      "这样",
+      "like this, this way"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: Please state your reasons. D-1834: At last I need not worry about being impolite. This is really wonderful. Everyone should be like this.",
+   "note": ""
+  },
+  {
+   "n": "187.31",
+   "text": "晨博士：你正在失去发声能力，并且你将会被归类于一级残疾的行列。",
+   "han": 28,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "正在",
+     "正在"
+    ],
+    [
+     "失去",
+     "失去"
+    ],
+    [
+     "发声",
+     "发声"
+    ],
+    [
+     "能力",
+     "能力"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "将",
+     "将"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "归类",
+     "归类"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "级",
+     "级"
+    ],
+    [
+     "残疾",
+     "残疾"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "行列",
+     "行列"
+    ],
+    "。"
+   ],
+   "new": [
+    "正在",
+    "将",
+    "归类",
+    "级",
+    "残疾"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "正在",
+      "be in the middle of (doing)"
+     ],
+     [
+      "失去",
+      "lose"
+     ],
+     [
+      "发声",
+      "produce voice, speak aloud"
+     ],
+     [
+      "能力",
+      "ability, capacity"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "将",
+      "will, be about to (formal)"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "归类",
+      "classify"
+     ],
+     [
+      "于",
+      "into"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "残疾",
+      "disability"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "行列",
+      "ranks"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: You are losing the ability to speak, and you will be classed among the grade-one disabled.",
+   "note": ""
+  },
+  {
+   "n": "187.32",
+   "text": "D-1834：这根本不是残疾！这才是健康人应有的姿态！声音是罪恶的源泉！！",
+   "han": 26,
+   "toks": [
+    "D-1834：",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "根本",
+     "根本"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "残疾",
+     "残疾"
+    ],
+    "！",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "健康",
+     "健康"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "应有",
+     "应有"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "姿态",
+     "姿态"
+    ],
+    "！",
+    [
+     "声音",
+     "声音"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "罪恶",
+     "罪恶"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "源泉",
+     "源泉"
+    ],
+    "！！"
+   ],
+   "new": [
+    "根本",
+    "健康",
+    "应有",
+    "姿态",
+    "罪恶",
+    "源泉"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "根本",
+      "at all, fundamentally"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "残疾",
+      "disability"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "健康",
+      "healthy"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "应有",
+      "proper, that one ought to have"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "姿态",
+      "posture, bearing"
+     ],
+     [
+      "声音",
+      "sound, voice"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "罪恶",
+      "evil, sin"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "源泉",
+      "source, fountainhead"
+     ]
+    ]
+   ],
+   "translation": "D-1834: This is not a disability at all! This is the bearing a healthy person ought to have! The voice is the source of evil!!",
+   "note": ""
+  },
+  {
+   "n": "187.33",
+   "text": "D-1834的书写变得混乱，情绪激动，并且将笔掷向晨博士。晨博士躲过了笔。",
+   "han": 27,
+   "toks": [
+    "D-1834",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "书写",
+     "书写"
+    ],
+    [
+     "变得",
+     "变得"
+    ],
+    [
+     "混乱",
+     "混乱"
+    ],
+    "，",
+    [
+     "情绪",
+     "情绪"
+    ],
+    [
+     "激动",
+     "激动"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "笔",
+     "笔"
+    ],
+    [
+     "掷",
+     "掷"
+    ],
+    [
+     "向",
+     "向"
+    ],
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "。",
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "躲过",
+     "躲过"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "笔",
+     "笔"
+    ],
+    "。"
+   ],
+   "new": [
+    "变得",
+    "混乱",
+    "情绪",
+    "激动",
+    "将@ba",
+    "笔",
+    "向"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "书写",
+      "write"
+     ],
+     [
+      "变得",
+      "become, turn"
+     ],
+     [
+      "混乱",
+      "chaotic, confused"
+     ],
+     [
+      "情绪",
+      "mood, emotions"
+     ],
+     [
+      "激动",
+      "agitated, worked up"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "笔",
+      "pen"
+     ],
+     [
+      "掷",
+      "throw, hurl"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "躲过",
+      "dodge"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "笔",
+      "pen"
+     ]
+    ]
+   ],
+   "translation": "D-1834's writing became disordered and he grew agitated, and he threw the pen at Dr. Chen. Dr. Chen dodged the pen.",
+   "note": ""
+  },
+  {
+   "n": "187.34",
+   "text": "安保人员制服了D-1834并取回了纸笔，晨博士前往实验室观察间并通过壁挂式扩音器与其交谈。",
+   "han": 37,
+   "toks": [
+    [
+     "安保",
+     "安保"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "制服",
+     "制服"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "D-1834",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "取回",
+     "取回"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "纸",
+     "纸"
+    ],
+    [
+     "笔",
+     "笔"
+    ],
+    "，",
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "前往",
+     "前往"
+    ],
+    [
+     "实验室",
+     "实验室"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "间",
+     "间"
+    ],
+    [
+     "并",
+     "并"
+    ],
+    [
+     "通过",
+     "通过"
+    ],
+    [
+     "壁挂式",
+     "壁挂式"
+    ],
+    [
+     "扩音器",
+     "扩音器"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "交谈",
+     "交谈"
+    ],
+    "。"
+   ],
+   "new": [
+    "制服",
+    "取回",
+    "前往",
+    "间"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "安保",
+      "security (staff)"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "制服",
+      "subdue"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "取回",
+      "take back, retrieve"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "纸",
+      "paper"
+     ],
+     [
+      "笔",
+      "pen"
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "前往",
+      "go to, head for (formal)"
+     ],
+     [
+      "实验室",
+      "laboratory"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "间",
+      "room (after a word naming its use)"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "通过",
+      "by means of, through"
+     ],
+     [
+      "壁挂式",
+      "wall-mounted"
+     ],
+     [
+      "扩音器",
+      "loudspeaker"
+     ],
+     [
+      "与",
+      "with"
+     ],
+     [
+      "其",
+      "him"
+     ],
+     [
+      "交谈",
+      "converse, talk"
+     ]
+    ]
+   ],
+   "translation": "The security staff subdued D-1834 and took back the paper and pen. Dr. Chen went to the laboratory's observation room and talked with him through a wall-mounted loudspeaker.",
+   "note": ""
+  },
+  {
+   "n": "187.35",
+   "text": "晨博士：你是否意识到你的认识已经远远不同于正常人？",
+   "han": 23,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "是否",
+     "是否"
+    ],
+    [
+     "意识",
+     "意识"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "认识",
+     "认识"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "远远",
+     "远远"
+    ],
+    [
+     "不同",
+     "不同"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "正常",
+     "正常"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "？"
+   ],
+   "new": [
+    "意识",
+    "远远",
+    "不同",
+    "正常"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "是否",
+      "whether"
+     ],
+     [
+      "意识",
+      "be aware"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "认识",
+      "understanding"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "远远",
+      "by far, far"
+     ],
+     [
+      "不同",
+      "different"
+     ],
+     [
+      "于",
+      "from"
+     ],
+     [
+      "正常",
+      "normal"
+     ],
+     [
+      "人",
+      "person, people"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: Do you realise that your understanding is already far different from a normal person's?",
+   "note": "不同于: \"different from\". 于 after an adjective is the classical way to say \"than, from\"."
+  },
+  {
+   "n": "187.36",
+   "text": "D-1834愤怒地嘶吼起来，从其口中喷出大量鲜血与腐朽木屑，且试图攻击扩音器。\nD-1834之后完全失去了发声能力。",
+   "han": 41,
+   "toks": [
+    "D-1834",
+    [
+     "愤怒",
+     "愤怒"
+    ],
+    [
+     "地",
+     "地@ly"
+    ],
+    [
+     "嘶吼",
+     "嘶吼"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    "，",
+    [
+     "从",
+     "从"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "口",
+     "口"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "喷出",
+     "喷出"
+    ],
+    [
+     "大量",
+     "大量"
+    ],
+    [
+     "鲜血",
+     "鲜血"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "腐朽",
+     "腐朽"
+    ],
+    [
+     "木屑",
+     "木屑"
+    ],
+    "，",
+    [
+     "且",
+     "且"
+    ],
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "攻击",
+     "攻击"
+    ],
+    [
+     "扩音器",
+     "扩音器"
+    ],
+    "。\nD-1834",
+    [
+     "之后",
+     "之后"
+    ],
+    [
+     "完全",
+     "完全"
+    ],
+    [
+     "失去",
+     "失去"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "发声",
+     "发声"
+    ],
+    [
+     "能力",
+     "能力"
+    ],
+    "。"
+   ],
+   "new": [
+    "愤怒",
+    "起来",
+    "从",
+    "大量",
+    "之后",
+    "完全"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "愤怒",
+      "angry"
+     ],
+     [
+      "地",
+      "-ly"
+     ],
+     [
+      "嘶吼",
+      "howl, roar hoarsely"
+     ],
+     [
+      "起来",
+      "(after a verb) start to"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "口",
+      "mouth"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "喷出",
+      "spurt out"
+     ],
+     [
+      "大量",
+      "a large amount of"
+     ],
+     [
+      "鲜血",
+      "blood"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "腐朽",
+      "rot, decay"
+     ],
+     [
+      "木屑",
+      "wood chips, sawdust"
+     ],
+     [
+      "且",
+      "and, moreover (formal)"
+     ],
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "攻击",
+      "attack"
+     ],
+     [
+      "扩音器",
+      "loudspeaker"
+     ]
+    ],
+    [
+     [
+      "D-1834",
+      ""
+     ],
+     [
+      "之后",
+      "afterwards, after"
+     ],
+     [
+      "完全",
+      "completely"
+     ],
+     [
+      "失去",
+      "lose"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "发声",
+      "produce voice, speak aloud"
+     ],
+     [
+      "能力",
+      "ability, capacity"
+     ]
+    ]
+   ],
+   "translation": "D-1834 began to howl in anger; a large amount of blood and rotten wood chips spurted from his mouth, and he tried to attack the loudspeaker. After that, D-1834 lost the ability to speak completely.",
+   "note": ""
+  },
+  {
+   "n": "187.37",
+   "text": "实验编号：CN-187-2\n时间:20██/██/██\n实验地点：Site-CN-37的标准单人实验室\n实验对象：D-1531\n备注：观察时间：7天5小时23分钟",
+   "han": 33,
+   "toks": [
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "编号",
+     "编号"
+    ],
+    "：CN-187-2\n",
+    [
+     "时间",
+     "时间"
+    ],
+    ":20██/██/██\n",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "地点",
+     "地点"
+    ],
+    "：Site-CN-37",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "标准",
+     "标准"
+    ],
+    [
+     "单人",
+     "单人"
+    ],
+    [
+     "实验室",
+     "实验室"
+    ],
+    "\n",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    "：D-1531\n",
+    [
+     "备注",
+     "备注"
+    ],
+    "：",
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "时间",
+     "时间"
+    ],
+    "：7",
+    [
+     "天",
+     "天"
+    ],
+    "5",
+    [
+     "小时",
+     "小时"
+    ],
+    "23",
+    [
+     "分钟",
+     "分钟"
+    ]
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "编号",
+      "serial number"
+     ],
+     [
+      "CN-187-2",
+      ""
+     ]
+    ],
+    [
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      ":20██/██/██",
+      ""
+     ]
+    ],
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "地点",
+      "place, location"
+     ],
+     [
+      "Site-CN-37",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "标准",
+      "standard"
+     ],
+     [
+      "单人",
+      "single-person"
+     ],
+     [
+      "实验室",
+      "laboratory"
+     ]
+    ],
+    [
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "D-1531",
+      ""
+     ]
+    ],
+    [
+     [
+      "备注",
+      "remarks, note"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "时间",
+      "time, span of time"
+     ],
+     [
+      "7",
+      ""
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "5",
+      ""
+     ],
+     [
+      "小时",
+      "hour"
+     ],
+     [
+      "23",
+      ""
+     ],
+     [
+      "分钟",
+      "minute"
+     ]
+    ]
+   ],
+   "translation": "Experiment number: CN-187-2. Time: 20██/██/██. Location: a standard single-person laboratory at Site-CN-37. Subject: D-1531. Remarks: observation time 7 days 5 hours 23 minutes.",
+   "note": ""
+  },
+  {
+   "n": "187.38",
+   "text": "晨博士：你好，D-1531。\nD-1531：您好。\n晨博士：你是否有某些不适？",
+   "han": 18,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "你好",
+     "你好"
+    ],
+    "，D-1531。\nD-1531：",
+    [
+     "您好",
+     "您好"
+    ],
+    "。\n",
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "是否",
+     "是否"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "某些",
+     "某些"
+    ],
+    [
+     "不适",
+     "不适"
+    ],
+    "？"
+   ],
+   "new": [
+    "您好",
+    "某些"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "你好",
+      "hello"
+     ],
+     [
+      "D-1531",
+      ""
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "您好",
+      "hello (polite)"
+     ]
+    ],
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "是否",
+      "whether"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "某些",
+      "some, certain"
+     ],
+     [
+      "不适",
+      "discomfort"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: Hello, D-1531. D-1531: Hello, sir. Dr. Chen: Do you have any discomfort?",
+   "note": "您 is the polite \"you\". The subject uses it to the doctor; the doctor uses 你 back."
+  },
+  {
+   "n": "187.39",
+   "text": "D-1531露出了不适的表情，并且摇头。博士提供了一份抢劫案件报告。",
+   "han": 25,
+   "toks": [
+    "D-1531",
+    [
+     "露出",
+     "露出"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "不适",
+     "不适"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "表情",
+     "表情"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "摇",
+     "摇"
+    ],
+    [
+     "头",
+     "头"
+    ],
+    "。",
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "提供",
+     "提供"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "份",
+     "份"
+    ],
+    [
+     "抢劫",
+     "抢劫"
+    ],
+    [
+     "案件",
+     "案件"
+    ],
+    [
+     "报告",
+     "报告"
+    ],
+    "。"
+   ],
+   "new": [
+    "表情",
+    "份",
+    "抢劫",
+    "案件",
+    "报告"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "露出",
+      "show, reveal"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "不适",
+      "uneasy"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "表情",
+      "(facial) expression"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "摇",
+      "shake"
+     ],
+     [
+      "头",
+      "head"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "提供",
+      "provide"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "份",
+      "(counter for copies, documents, portions)"
+     ],
+     [
+      "抢劫",
+      "robbery"
+     ],
+     [
+      "案件",
+      "(legal) case"
+     ],
+     [
+      "报告",
+      "report"
+     ]
+    ]
+   ],
+   "translation": "D-1531 showed an uneasy expression and shook his head. The doctor handed over a report on a robbery case.",
+   "note": ""
+  },
+  {
+   "n": "187.40",
+   "text": "晨博士： D-1531，请告诉我你阅读完这份材料的看法。\nD-1531：不……我不想评价什么。",
+   "han": 26,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "： D-1531，",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "告诉",
+     "告诉"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "完",
+     "完"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "份",
+     "份"
+    ],
+    [
+     "材料",
+     "材料"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "看法",
+     "看法"
+    ],
+    "。\nD-1531：",
+    [
+     "不",
+     "不"
+    ],
+    "……",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "评价",
+     "评价"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    "。"
+   ],
+   "new": [
+    "告诉",
+    "阅读",
+    "完",
+    "材料",
+    "看法"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "告诉",
+      "tell"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "完",
+      "(after a verb) finish …-ing"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "份",
+      "(counter for copies, documents, portions)"
+     ],
+     [
+      "材料",
+      "material, document"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "看法",
+      "view, opinion"
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "想",
+      "want to"
+     ],
+     [
+      "评价",
+      "evaluate, judge"
+     ],
+     [
+      "什么",
+      "anything"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: D-1531, please tell me your view after you finish reading this document. D-1531: No… I don't want to judge anything.",
+   "note": ""
+  },
+  {
+   "n": "187.41",
+   "text": "晨博士：抱歉，但是请继续。\nD-1531：……我尽力。\nD-1531在阅读中显得十分冷漠，在阅读完毕后将材料折叠起来。",
+   "han": 36,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "抱歉",
+     "抱歉"
+    ],
+    "，",
+    [
+     "但是",
+     "但是"
+    ],
+    [
+     "请",
+     "请"
+    ],
+    [
+     "继续",
+     "继续"
+    ],
+    "。\nD-1531：……",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "尽力",
+     "尽力"
+    ],
+    "。\nD-1531",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "显得",
+     "显得"
+    ],
+    [
+     "十分",
+     "十分"
+    ],
+    [
+     "冷漠",
+     "冷漠"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "完毕",
+     "完毕"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "材料",
+     "材料"
+    ],
+    [
+     "折叠",
+     "折叠"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    "。"
+   ],
+   "new": [
+    "抱歉",
+    "但是",
+    "继续",
+    "尽力",
+    "显得",
+    "十分",
+    "冷漠"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "抱歉",
+      "sorry"
+     ],
+     [
+      "但是",
+      "but"
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "继续",
+      "continue"
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "尽力",
+      "do one's best"
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "中",
+      "in the course of"
+     ],
+     [
+      "显得",
+      "appear, seem"
+     ],
+     [
+      "十分",
+      "very, fully"
+     ],
+     [
+      "冷漠",
+      "cold, indifferent"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "完毕",
+      "finish, be done (formal)"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "材料",
+      "material, document"
+     ],
+     [
+      "折叠",
+      "fold"
+     ],
+     [
+      "起来",
+      "up"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: I'm sorry, but please continue. D-1531: …I'll do my best. While reading, D-1531 seemed very indifferent; after finishing, he folded the document up.",
+   "note": ""
+  },
+  {
+   "n": "187.42",
+   "text": "晨博士： 请告诉我你的想法。\nD-1531：没什么……而且肆意评判他人是不礼貌的。",
+   "han": 27,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "： ",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "告诉",
+     "告诉"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "想法",
+     "想法"
+    ],
+    "。\nD-1531：",
+    [
+     "没什么",
+     "没什么"
+    ],
+    "……",
+    [
+     "而且",
+     "而且"
+    ],
+    [
+     "肆意",
+     "肆意"
+    ],
+    [
+     "评判",
+     "评判"
+    ],
+    [
+     "他人",
+     "他人"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "礼貌",
+     "礼貌"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "。"
+   ],
+   "new": [
+    "没什么",
+    "而且",
+    "评判",
+    "礼貌"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "告诉",
+      "tell"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "想法",
+      "idea, way of thinking"
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "没什么",
+      "nothing"
+     ],
+     [
+      "而且",
+      "moreover, and besides"
+     ],
+     [
+      "肆意",
+      "wantonly, as one pleases"
+     ],
+     [
+      "评判",
+      "judge, pass judgement"
+     ],
+     [
+      "他人",
+      "other people, others"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "礼貌",
+      "polite"
+     ],
+     [
+      "的",
+      "'s, of"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: Please tell me what you think. D-1531: Nothing… and besides, judging others as one pleases is impolite.",
+   "note": ""
+  },
+  {
+   "n": "187.43",
+   "text": "晨博士：这只是私下的谈话。你不必太过敏感……\nD-1531表现出了激动的神情并且打断了晨博士的话。",
+   "han": 37,
+   "toks": [
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "只是",
+     "只是"
+    ],
+    [
+     "私下",
+     "私下"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "谈话",
+     "谈话"
+    ],
+    "。",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "不必",
+     "不必"
+    ],
+    [
+     "太过",
+     "太过"
+    ],
+    [
+     "敏感",
+     "敏感"
+    ],
+    "……\nD-1531",
+    [
+     "表现",
+     "表现"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "激动",
+     "激动"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "神情",
+     "神情"
+    ],
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "打断",
+     "打断"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "。"
+   ],
+   "new": [
+    "私下",
+    "谈话",
+    "不必",
+    "敏感",
+    "打断",
+    "话"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "只是",
+      "only, merely"
+     ],
+     [
+      "私下",
+      "private"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "谈话",
+      "talk, conversation"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "不必",
+      "need not"
+     ],
+     [
+      "太过",
+      "too, excessively"
+     ],
+     [
+      "敏感",
+      "sensitive"
+     ]
+    ],
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "表现",
+      "show, display"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "激动",
+      "agitated, worked up"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "神情",
+      "look, expression"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "打断",
+      "interrupt"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ]
+    ]
+   ],
+   "translation": "Dr. Chen: This is only a private conversation. You need not be so sensitive… D-1531 looked agitated and interrupted Dr. Chen.",
+   "note": ""
+  },
+  {
+   "n": "187.44",
+   "text": "D-1531：我不敏感！这种事无论如何都是失礼的！\n晨博士：好吧好吧，冷静一点D-1531……",
+   "han": 27,
+   "toks": [
+    "D-1531：",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "敏感",
+     "敏感"
+    ],
+    "！",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "种",
+     "种"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "无论如何",
+     "无论如何"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "失礼",
+     "失礼"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "！\n",
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "：",
+    [
+     "好吧",
+     "好吧"
+    ],
+    [
+     "好吧",
+     "好吧"
+    ],
+    "，",
+    [
+     "冷静",
+     "冷静"
+    ],
+    [
+     "一点",
+     "一点"
+    ],
+    "D-1531……"
+   ],
+   "new": [
+    "种",
+    "无论如何",
+    "好吧",
+    "冷静"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "敏感",
+      "sensitive"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "种",
+      "kind, sort (also a counter)"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "无论如何",
+      "no matter what, in any case"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "失礼",
+      "be impolite, breach etiquette"
+     ],
+     [
+      "的",
+      "'s, of"
+     ]
+    ],
+    [
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "好吧",
+      "all right, fine"
+     ],
+     [
+      "好吧",
+      "all right, fine"
+     ],
+     [
+      "冷静",
+      "calm, cool-headed"
+     ],
+     [
+      "一点",
+      "a little, a bit"
+     ],
+     [
+      "D-1531",
+      ""
+     ]
+    ]
+   ],
+   "translation": "D-1531: I am not sensitive! This kind of thing is impolite no matter what! Dr. Chen: All right, all right, calm down a little, D-1531…",
+   "note": ""
+  },
+  {
+   "n": "187.45",
+   "text": "D-1531将材料撕碎揉成球掷向晨博士，并且试图越过桌子攻击晨博士，被安保人员制止。",
+   "han": 33,
+   "toks": [
+    "D-1531",
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "材料",
+     "材料"
+    ],
+    [
+     "撕碎",
+     "撕碎"
+    ],
+    [
+     "揉",
+     "揉"
+    ],
+    [
+     "成",
+     "成"
+    ],
+    [
+     "球",
+     "球"
+    ],
+    [
+     "掷",
+     "掷"
+    ],
+    [
+     "向",
+     "向"
+    ],
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "越过",
+     "越过"
+    ],
+    [
+     "桌子",
+     "桌子"
+    ],
+    [
+     "攻击",
+     "攻击"
+    ],
+    [
+     "晨",
+     "晨"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    "，",
+    [
+     "被",
+     "被"
+    ],
+    [
+     "安保",
+     "安保"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "制止",
+     "制止"
+    ],
+    "。"
+   ],
+   "new": [
+    "成",
+    "越过",
+    "桌子",
+    "制止"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1531",
+      ""
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "材料",
+      "material, document"
+     ],
+     [
+      "撕碎",
+      "tear to pieces"
+     ],
+     [
+      "揉",
+      "rub, crumple"
+     ],
+     [
+      "成",
+      "(after a verb) into"
+     ],
+     [
+      "球",
+      "ball"
+     ],
+     [
+      "掷",
+      "throw, hurl"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "越过",
+      "cross over, get over"
+     ],
+     [
+      "桌子",
+      "table, desk"
+     ],
+     [
+      "攻击",
+      "attack"
+     ],
+     [
+      "晨",
+      "Chen (a surname here"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "安保",
+      "security (staff)"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "制止",
+      "stop, restrain"
+     ]
+    ]
+   ],
+   "translation": "D-1531 tore the document to pieces, crumpled it into a ball and threw it at Dr. Chen, and tried to get over the table to attack him; he was stopped by the security staff.",
+   "note": ""
+  }
+ ]
+}

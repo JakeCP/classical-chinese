@@ -9,7 +9,36 @@
    "chapters": 26,
    "han": 504,
    "file": "data/book-04.json",
-   "unresolved": []
+   "unresolved": [],
+   "shelf": "classical"
+  },
+  {
+   "id": "m-lunyu-04",
+   "book": 0,
+   "order": 101,
+   "title": "里仁",
+   "label": "里仁 in modern Chinese",
+   "chapters": 26,
+   "han": 984,
+   "file": "data/m-lunyu-04.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Modern rendering of Analects Book 4 written by Claude; not a published translation."
+  },
+  {
+   "id": "m-scp-cn-187",
+   "book": 0,
+   "order": 102,
+   "title": "非礼勿言",
+   "label": "SCP-CN-187 非礼勿言",
+   "chapters": 45,
+   "han": 1301,
+   "file": "data/m-scp-cn-187.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: SCP-CN-187, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-187, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence."
   }
  ]
 }

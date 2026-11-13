@@ -1,0 +1,7776 @@
+{
+ "words": {
+  "孔子": {
+   "s": "孔子",
+   "py": "Kǒngzǐ",
+   "g": "Confucius",
+   "k": "word",
+   "card": true,
+   "n": 26,
+   "src": "里仁 in modern Chinese · 4.1",
+   "parts": "孔 (his family name) + 子 master",
+   "note": "Classical 子, 孔子, 夫子.",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "说": {
+   "s": "说",
+   "py": "shuō",
+   "g": "say, speak",
+   "k": "word",
+   "card": true,
+   "n": 30,
+   "src": "里仁 in modern Chinese · 4.1",
+   "trad": "說",
+   "note": "Classical 曰. In the Analects 說 is usually yuè, \"delight\" (1.1).",
+   "known": [
+    [
+     "說",
+     "speak (in 1.1: delight)"
+    ]
+   ]
+  },
+  "住": {
+   "s": "住",
+   "py": "zhù",
+   "g": "live (in a place), stay",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Classical 處, 里."
+  },
+  "在": {
+   "s": "在",
+   "py": "zài",
+   "g": "at, in; be at",
+   "k": "word",
+   "card": true,
+   "n": 14,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Classical 於. Before a verb it means \"in the middle of doing\".",
+   "known": [
+    [
+     "在",
+     "be there"
+    ]
+   ]
+  },
+  "的": {
+   "s": "的",
+   "py": "de",
+   "g": "'s, of; links a description to its noun",
+   "k": "grammar",
+   "card": true,
+   "n": 115,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Classical 之. With no noun after it, \"the one that…\" (classical 者): 聪明的 \"the clever ones\"."
+  },
+  "地方": {
+   "s": "地方",
+   "py": "dìfang",
+   "g": "place",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.1",
+   "parts": "地 ground + 方 side",
+   "note": "Classical 處, 里. Also \"point, respect\": 不对的地方 \"where they are wrong\".",
+   "known": [
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "才": {
+   "s": "才",
+   "py": "cái",
+   "g": "only then; only if",
+   "k": "grammar",
+   "card": true,
+   "n": 6,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Classical 乃, 始. \"A 才 B\": B happens only when A does."
+  },
+  "好": {
+   "s": "好",
+   "py": "hǎo",
+   "g": "good",
+   "k": "word",
+   "card": false,
+   "n": 6,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Same as your card. \"To like\" (classical 好 hào) is now 喜欢.",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "选": {
+   "s": "选",
+   "py": "xuǎn",
+   "g": "choose",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.1",
+   "trad": "選",
+   "note": "Classical 擇."
+  },
+  "不": {
+   "s": "不",
+   "py": "bù",
+   "g": "not",
+   "k": "word",
+   "card": false,
+   "n": 38,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "怎么": {
+   "s": "怎么",
+   "py": "zěnme",
+   "g": "how; how come",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.1",
+   "trad": "怎麼",
+   "note": "Classical 焉, 何, 惡乎."
+  },
+  "能": {
+   "s": "能",
+   "py": "néng",
+   "g": "can, be able to",
+   "k": "word",
+   "card": false,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "能",
+     "able"
+    ]
+   ]
+  },
+  "算": {
+   "s": "算",
+   "py": "suàn",
+   "g": "count as; calculate",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.1"
+  },
+  "聪明": {
+   "s": "聪明",
+   "py": "cōngming",
+   "g": "clever, wise",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.1",
+   "trad": "聰明",
+   "parts": "聪 sharp hearing + 明 bright sight",
+   "note": "Classical 知 (read 智) in 焉得知."
+  },
+  "呢": {
+   "s": "呢",
+   "py": "ne",
+   "g": "(question softener); \"…then?\"",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Does the work of classical 乎, 哉 at the end of a rhetorical question."
+  },
+  "没有": {
+   "s": "没有",
+   "py": "méiyǒu",
+   "g": "not have; there is no; did not",
+   "k": "word",
+   "card": true,
+   "n": 10,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "沒有",
+   "parts": "没 not + 有 have",
+   "note": "Classical 無, 未. 没 negates 有 and past events; 不 negates everything else.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "人": {
+   "s": "人",
+   "py": "rén",
+   "g": "person, people",
+   "k": "word",
+   "card": false,
+   "n": 27,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "长久": {
+   "s": "长久",
+   "py": "chángjiǔ",
+   "g": "for a long time",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "長久",
+   "parts": "长 long + 久 long time",
+   "note": "Both are in your cards: 久處約, 長處樂 (4.2).",
+   "known": [
+    [
+     "長",
+     "long"
+    ],
+    [
+     "久",
+     "long time"
+    ]
+   ]
+  },
+  "地@ly": {
+   "s": "地",
+   "py": "de",
+   "g": "-ly; turns the words before it into an adverb, before a verb",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "The same character as 地 dì \"ground\". Classical has no marker here: 久處 \"long stay\"."
+  },
+  "过": {
+   "s": "过",
+   "py": "guò",
+   "g": "pass, live through (time)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "過",
+   "note": "Classical 過 is \"pass by\" and \"a fault\". 过日子: \"get through one's days\".",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "穷": {
+   "s": "穷",
+   "py": "qióng",
+   "g": "poor",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "窮",
+   "note": "Classical 貧; 4.2 has 約 \"hardship\"."
+  },
+  "日子": {
+   "s": "日子",
+   "py": "rìzi",
+   "g": "days; way of life",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.2",
+   "parts": "日 day + 子 (noun ending)",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "也": {
+   "s": "也",
+   "py": "yě",
+   "g": "also, too",
+   "k": "grammar",
+   "card": true,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "False friend. Classical 也 is the full stop \"that's how it is\". Classical \"also\" is 亦.",
+   "known": [
+    [
+     "也",
+     "full stop: that's how it is"
+    ]
+   ]
+  },
+  "快乐": {
+   "s": "快乐",
+   "py": "kuàilè",
+   "g": "happy; happiness",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "快樂",
+   "parts": "快 glad + 乐 joy",
+   "note": "Classical 樂.",
+   "known": [
+    [
+     "樂",
+     "joy (also: music)"
+    ]
+   ]
+  },
+  "了": {
+   "s": "了",
+   "py": "le",
+   "g": "(done); the action is complete, or things have changed",
+   "k": "grammar",
+   "card": true,
+   "n": 26,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "Loosely classical 矣. After a verb: the action is complete. At the end of a sentence: \"now it is so\"."
+  },
+  "安心": {
+   "s": "安心",
+   "py": "ānxīn",
+   "g": "at ease, with a mind at rest",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.2",
+   "parts": "安 at peace + 心 heart",
+   "note": "Classical 安 (仁者安仁).",
+   "known": [
+    [
+     "安",
+     "at peace"
+    ]
+   ]
+  },
+  "知道": {
+   "s": "知道",
+   "py": "zhīdào",
+   "g": "know",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.2",
+   "parts": "知 know + 道 way",
+   "note": "Classical 知 alone.",
+   "known": [
+    [
+     "知",
+     "know"
+    ],
+    [
+     "道",
+     "the Way"
+    ]
+   ]
+  },
+  "好处": {
+   "s": "好处",
+   "py": "hǎochu",
+   "g": "benefit, advantage",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.2",
+   "trad": "好處",
+   "parts": "好 good + 处 point",
+   "note": "Classical 利, 惠.",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ],
+    [
+     "處",
+     "dwell"
+    ]
+   ]
+  },
+  "去": {
+   "s": "去",
+   "py": "qù",
+   "g": "go; go and (do)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "False friend. Classical 去 is \"leave\" (去仁). Modern \"leave\" is 离开.",
+   "known": [
+    [
+     "去",
+     "leave"
+    ]
+   ]
+  },
+  "做": {
+   "s": "做",
+   "py": "zuò",
+   "g": "do; make; act as",
+   "k": "word",
+   "card": true,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.2",
+   "note": "Classical 為, 行."
+  },
+  "只有": {
+   "s": "只有",
+   "py": "zhǐyǒu",
+   "g": "only",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.3",
+   "parts": "只 only + 有 there is",
+   "note": "Classical 唯. \"只有 A 才 B\": only A can B.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "喜欢": {
+   "s": "喜欢",
+   "py": "xǐhuan",
+   "g": "like",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.3",
+   "trad": "喜歡",
+   "parts": "喜 glad + 欢 joyful",
+   "note": "Classical 好 (hào).",
+   "known": [
+    [
+     "喜",
+     "glad"
+    ]
+   ]
+  },
+  "讨厌": {
+   "s": "讨厌",
+   "py": "tǎoyàn",
+   "g": "dislike, hate",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.3",
+   "trad": "討厭",
+   "parts": "讨 ask for + 厌 fed up",
+   "note": "Classical 惡 (wù). 厌 is your 厭.",
+   "known": [
+    [
+     "厭",
+     "tire of"
+    ]
+   ]
+  },
+  "如果": {
+   "s": "如果",
+   "py": "rúguǒ",
+   "g": "if",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.4",
+   "parts": "如 if + 果 result",
+   "note": "Classical 苟, 若, 如.",
+   "known": [
+    [
+     "如",
+     "like"
+    ]
+   ]
+  },
+  "真的": {
+   "s": "真的",
+   "py": "zhēnde",
+   "g": "really; real",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.4",
+   "parts": "真 true + 的",
+   "note": "Classical 苟 packs 如果真的 \"if really\" into one word."
+  },
+  "立志": {
+   "s": "立志",
+   "py": "lìzhì",
+   "g": "set one's aim, resolve",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.4",
+   "parts": "立 set up + 志 aim",
+   "note": "Classical 志於….",
+   "known": [
+    [
+     "立",
+     "stand"
+    ],
+    [
+     "志",
+     "aim"
+    ]
+   ]
+  },
+  "就": {
+   "s": "就",
+   "py": "jiù",
+   "g": "then; right away; just",
+   "k": "grammar",
+   "card": true,
+   "n": 8,
+   "src": "里仁 in modern Chinese · 4.4",
+   "note": "Classical 則, 斯. \"如果 A 就 B\": if A then B."
+  },
+  "会": {
+   "s": "会",
+   "py": "huì",
+   "g": "will; be likely to; know how to",
+   "k": "grammar",
+   "card": true,
+   "n": 16,
+   "src": "里仁 in modern Chinese · 4.4",
+   "trad": "會",
+   "note": "Classical leaves \"will\" unsaid, or uses 將."
+  },
+  "坏事": {
+   "s": "坏事",
+   "py": "huàishì",
+   "g": "bad deed",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.4",
+   "trad": "壞事",
+   "parts": "坏 bad + 事 matter",
+   "note": "Classical 惡 (è).",
+   "known": [
+    [
+     "事",
+     "serve"
+    ]
+   ]
+  },
+  "有钱": {
+   "s": "有钱",
+   "py": "yǒuqián",
+   "g": "rich",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "有錢",
+   "parts": "有 have + 钱 money",
+   "note": "Classical 富.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "和": {
+   "s": "和",
+   "py": "hé",
+   "g": "and; with",
+   "k": "grammar",
+   "card": true,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "Classical 與. Joins nouns; before a person, \"with\"."
+  },
+  "地位": {
+   "s": "地位",
+   "py": "dìwèi",
+   "g": "position, status",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "地 ground + 位 seat",
+   "note": "Classical 貴 \"high rank\"; 位 \"position\".",
+   "known": [
+    [
+     "位",
+     "position"
+    ]
+   ]
+  },
+  "是": {
+   "s": "是",
+   "py": "shì",
+   "g": "is, am, are",
+   "k": "grammar",
+   "card": true,
+   "n": 25,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "False friend. Classical 是 means \"this\"; classical says \"A, B 也\" with no verb.",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "人人": {
+   "s": "人人",
+   "py": "rénrén",
+   "g": "everyone",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "人 doubled: person after person",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "都": {
+   "s": "都",
+   "py": "dōu",
+   "g": "all; both (goes before the verb)",
+   "k": "grammar",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "Classical 皆."
+  },
+  "想要": {
+   "s": "想要",
+   "py": "xiǎngyào",
+   "g": "want",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "想 wish + 要 want",
+   "note": "Classical 欲."
+  },
+  "用": {
+   "s": "用",
+   "py": "yòng",
+   "g": "use; with, by means of; use (noun)",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "Classical 以, 用.",
+   "known": [
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "正当": {
+   "s": "正当",
+   "py": "zhèngdàng",
+   "g": "proper, legitimate",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "正當",
+   "parts": "正 upright + 当 fitting",
+   "note": "Classical 以其道 \"by its proper way\"."
+  },
+  "方法": {
+   "s": "方法",
+   "py": "fāngfǎ",
+   "g": "method, way",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "方 direction + 法 model",
+   "note": "Classical 道.",
+   "known": [
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "得到": {
+   "s": "得到",
+   "py": "dédào",
+   "g": "get, obtain",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "得 get + 到 reach",
+   "note": "Classical 得.",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "君子": {
+   "s": "君子",
+   "py": "jūnzǐ",
+   "g": "gentleman, noble man",
+   "k": "word",
+   "card": false,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "The same word as in the Analects.",
+   "known": [
+    [
+     "君",
+     "ruler"
+    ],
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "接受": {
+   "s": "接受",
+   "py": "jiēshòu",
+   "g": "accept",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "接 receive + 受 take",
+   "note": "Classical 處 \"stay in\" (不處也)."
+  },
+  "没": {
+   "s": "没",
+   "py": "méi",
+   "g": "not have (short for 没有)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "沒"
+  },
+  "没钱": {
+   "s": "没钱",
+   "py": "méiqián",
+   "g": "poor, without money",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "沒錢",
+   "parts": "没 not have + 钱 money",
+   "note": "Classical 貧."
+  },
+  "离开": {
+   "s": "离开",
+   "py": "líkāi",
+   "g": "leave",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "離開",
+   "parts": "离 part from + 开 away",
+   "note": "Classical 去."
+  },
+  "成名": {
+   "s": "成名",
+   "py": "chéngmíng",
+   "g": "make one's name",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "成 complete + 名 name",
+   "note": "Classical 成名, unchanged.",
+   "known": [
+    [
+     "成",
+     "complete"
+    ],
+    [
+     "名",
+     "name"
+    ]
+   ]
+  },
+  "连": {
+   "s": "连",
+   "py": "lián",
+   "g": "even (连 A 也…)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "連",
+   "note": "\"连 A 也不 B\": not B even for A."
+  },
+  "吃": {
+   "s": "吃",
+   "py": "chī",
+   "g": "eat",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "note": "Classical 食."
+  },
+  "一": {
+   "s": "一",
+   "py": "yī",
+   "g": "one; a",
+   "k": "word",
+   "card": false,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.5",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "顿": {
+   "s": "顿",
+   "py": "dùn",
+   "g": "(counter for meals)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "頓",
+   "note": "After a number, modern nouns need a counter: 一顿饭 \"one meal\". Classical just says 一食."
+  },
+  "饭": {
+   "s": "饭",
+   "py": "fàn",
+   "g": "meal; cooked rice",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "飯",
+   "note": "Classical 食."
+  },
+  "时间": {
+   "s": "时间",
+   "py": "shíjiān",
+   "g": "time, span of time",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "時間",
+   "parts": "时 time + 间 interval",
+   "note": "Classical 間 (終食之間). Both characters are in your cards.",
+   "known": [
+    [
+     "時",
+     "time"
+    ],
+    [
+     "間",
+     "interval"
+    ]
+   ]
+  },
+  "匆忙": {
+   "s": "匆忙",
+   "py": "cōngmáng",
+   "g": "hurried, in a rush",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "匆 hasty + 忙 busy",
+   "note": "Classical 造次."
+  },
+  "时候": {
+   "s": "时候",
+   "py": "shíhou",
+   "g": "time, moment; \"when\"",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "時候",
+   "parts": "时 time + 候 wait",
+   "note": "Classical 時. \"X 的时候\": when X.",
+   "known": [
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "一定": {
+   "s": "一定",
+   "py": "yídìng",
+   "g": "surely; fixed, set",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "里仁 in modern Chinese · 4.5",
+   "parts": "一 one + 定 settled",
+   "note": "Classical 必.",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "这样": {
+   "s": "这样",
+   "py": "zhèyàng",
+   "g": "like this, this way",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "這樣",
+   "parts": "这 this + 样 manner",
+   "note": "Classical 如是, 於是."
+  },
+  "困难": {
+   "s": "困难",
+   "py": "kùnnan",
+   "g": "difficulty; difficult",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.5",
+   "trad": "困難",
+   "parts": "困 hemmed in + 难 hard",
+   "note": "Classical 顛沛 \"stumbling\"."
+  },
+  "我": {
+   "s": "我",
+   "py": "wǒ",
+   "g": "I, me",
+   "k": "word",
+   "card": false,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "我",
+     "I / me"
+    ]
+   ]
+  },
+  "见": {
+   "s": "见",
+   "py": "jiàn",
+   "g": "see; meet",
+   "k": "word",
+   "card": false,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "見",
+   "note": "Same as your card 見.",
+   "known": [
+    [
+     "見",
+     "see"
+    ]
+   ]
+  },
+  "过@x": {
+   "s": "过",
+   "py": "guo",
+   "g": "(have … before); marks an experience",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "過",
+   "note": "Classical 嘗. 见过 \"have seen\".",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "觉得": {
+   "s": "觉得",
+   "py": "juéde",
+   "g": "feel, think",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "覺得",
+   "parts": "觉 sense + 得 get",
+   "note": "Classical 以為.",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "比": {
+   "s": "比",
+   "py": "bǐ",
+   "g": "than, compared with",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "Classical puts 於 after the adjective. In your cards 比 is \"side by side\" (4.10).",
+   "known": [
+    [
+     "比",
+     "side by side"
+    ]
+   ]
+  },
+  "更": {
+   "s": "更",
+   "py": "gèng",
+   "g": "even more",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "\"比 A 更好\": even better than A."
+  },
+  "东西": {
+   "s": "东西",
+   "py": "dōngxi",
+   "g": "thing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "東西",
+   "parts": "东 east + 西 west",
+   "note": "Literally \"east-west\"."
+  },
+  "他": {
+   "s": "他",
+   "py": "tā",
+   "g": "he, him",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "Classical 其, 之, 彼."
+  },
+  "事": {
+   "s": "事",
+   "py": "shì",
+   "g": "matter, affair, thing to do",
+   "k": "word",
+   "card": true,
+   "n": 8,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "In your cards 事 is the verb \"serve\" (4.18). The noun is the everyday sense now.",
+   "known": [
+    [
+     "事",
+     "serve"
+    ]
+   ]
+  },
+  "因为": {
+   "s": "因为",
+   "py": "yīnwèi",
+   "g": "because",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "因為",
+   "parts": "因 cause + 为 for",
+   "note": "Classical 以, 故.",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "让": {
+   "s": "让",
+   "py": "ràng",
+   "g": "let; make (someone do)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "讓",
+   "note": "Classical 使. False friend: classical 讓 is \"yield\" (4.13 禮讓).",
+   "known": [
+    [
+     "讓",
+     "yield"
+    ]
+   ]
+  },
+  "到": {
+   "s": "到",
+   "py": "dào",
+   "g": "arrive; to, up to",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "After a verb: the action reached its target (听到 hear, 得到 get)."
+  },
+  "自己": {
+   "s": "自己",
+   "py": "zìjǐ",
+   "g": "oneself",
+   "k": "word",
+   "card": true,
+   "n": 11,
+   "src": "里仁 in modern Chinese · 4.6",
+   "parts": "自 self + 己 self",
+   "note": "Classical 己, 自.",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ],
+    [
+     "己",
+     "oneself"
+    ]
+   ]
+  },
+  "身上": {
+   "s": "身上",
+   "py": "shēnshang",
+   "g": "on one's person",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "parts": "身 body + 上 on",
+   "note": "Classical 身.",
+   "known": [
+    [
+     "身",
+     "body / self"
+    ]
+   ]
+  },
+  "有人": {
+   "s": "有人",
+   "py": "yǒurén",
+   "g": "someone; there are people who",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.6",
+   "parts": "有 there is + 人 person",
+   "note": "Classical 有…者, 或.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ],
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "一天": {
+   "s": "一天",
+   "py": "yìtiān",
+   "g": "one day, a day",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "parts": "一 one + 天 day",
+   "note": "Classical 一日.",
+   "known": [
+    [
+     "一",
+     "one"
+    ],
+    [
+     "天",
+     "heaven"
+    ]
+   ]
+  },
+  "里": {
+   "s": "里",
+   "py": "lǐ",
+   "g": "in, inside (after a noun)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "裡",
+   "note": "False friend. Classical 里 is \"village\" (里仁)."
+  },
+  "把": {
+   "s": "把",
+   "py": "bǎ",
+   "g": "(taking); moves the object in front of the verb",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "\"把 A 用在 B 上\": take A and use it on B. Loosely classical 以."
+  },
+  "力气": {
+   "s": "力气",
+   "py": "lìqi",
+   "g": "strength",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "力氣",
+   "parts": "力 strength + 气 breath",
+   "note": "Classical 力.",
+   "known": [
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "上": {
+   "s": "上",
+   "py": "shàng",
+   "g": "on, above (after a noun); in the matter of",
+   "k": "grammar",
+   "card": true,
+   "n": 8,
+   "src": "里仁 in modern Chinese · 4.6"
+  },
+  "吗": {
+   "s": "吗",
+   "py": "ma",
+   "g": "(yes/no question); turns a statement into a question",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "嗎",
+   "note": "Classical 乎."
+  },
+  "不够": {
+   "s": "不够",
+   "py": "búgòu",
+   "g": "not enough",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "不夠",
+   "parts": "不 not + 够 enough",
+   "note": "Classical 不足.",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "也许": {
+   "s": "也许",
+   "py": "yěxǔ",
+   "g": "perhaps",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.6",
+   "trad": "也許",
+   "note": "Classical 蓋.",
+   "known": [
+    [
+     "也",
+     "full stop: that's how it is"
+    ]
+   ]
+  },
+  "可是": {
+   "s": "可是",
+   "py": "kěshì",
+   "g": "but",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.6",
+   "note": "Classical 而, 然.",
+   "known": [
+    [
+     "可",
+     "can"
+    ],
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "错误": {
+   "s": "错误",
+   "py": "cuòwù",
+   "g": "mistake, fault",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.7",
+   "trad": "錯誤",
+   "parts": "错 wrong + 误 error",
+   "note": "Classical 過."
+  },
+  "各有各的": {
+   "s": "各有各的",
+   "py": "gè yǒu gè de",
+   "g": "each has its own",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.7",
+   "parts": "各 each + 有 has + 各的 each one's",
+   "note": "Classical 各於其….",
+   "known": [
+    [
+     "各",
+     "each"
+    ],
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "种类": {
+   "s": "种类",
+   "py": "zhǒnglèi",
+   "g": "kind, type",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.7",
+   "trad": "種類",
+   "parts": "种 kind + 类 category",
+   "note": "Classical 黨 in 4.7."
+  },
+  "看": {
+   "s": "看",
+   "py": "kàn",
+   "g": "look at; see; read",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.7",
+   "note": "Classical 觀, 視."
+  },
+  "一个": {
+   "s": "一个",
+   "py": "yí ge",
+   "g": "one, a",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.7",
+   "trad": "一個",
+   "parts": "一 one + 个 (general counter)",
+   "note": "Classical 一 alone.",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "犯": {
+   "s": "犯",
+   "py": "fàn",
+   "g": "commit (a fault, a crime)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.7"
+  },
+  "什么样": {
+   "s": "什么样",
+   "py": "shénmeyàng",
+   "g": "what kind of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.7",
+   "trad": "什麼樣",
+   "parts": "什么 what + 样 kind"
+  },
+  "早上": {
+   "s": "早上",
+   "py": "zǎoshang",
+   "g": "morning",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.8",
+   "parts": "早 early + 上",
+   "note": "Classical 朝."
+  },
+  "听到": {
+   "s": "听到",
+   "py": "tīngdào",
+   "g": "hear",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.8",
+   "trad": "聽到",
+   "parts": "听 listen + 到 reach",
+   "note": "Classical 聞."
+  },
+  "真理": {
+   "s": "真理",
+   "py": "zhēnlǐ",
+   "g": "truth",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.8",
+   "parts": "真 true + 理 principle",
+   "note": "Stands for classical 道 \"the Way\" here."
+  },
+  "晚上": {
+   "s": "晚上",
+   "py": "wǎnshang",
+   "g": "evening, night",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.8",
+   "parts": "晚 late + 上",
+   "note": "Classical 夕."
+  },
+  "死": {
+   "s": "死",
+   "py": "sǐ",
+   "g": "die",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.8",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "死",
+     "die"
+    ]
+   ]
+  },
+  "可以": {
+   "s": "可以",
+   "py": "kěyǐ",
+   "g": "may, can; all right",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.8",
+   "parts": "可 may + 以",
+   "note": "Classical 可.",
+   "known": [
+    [
+     "可",
+     "can"
+    ],
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "读书人": {
+   "s": "读书人",
+   "py": "dúshūrén",
+   "g": "scholar, educated person",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.9",
+   "trad": "讀書人",
+   "parts": "读 read + 书 book + 人 person",
+   "note": "Classical 士.",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "追求": {
+   "s": "追求",
+   "py": "zhuīqiú",
+   "g": "pursue, seek",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.9",
+   "parts": "追 chase + 求 seek",
+   "note": "Classical 志於 \"set one's aim on\".",
+   "known": [
+    [
+     "求",
+     "seek"
+    ]
+   ]
+  },
+  "穿": {
+   "s": "穿",
+   "py": "chuān",
+   "g": "wear (clothes)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.9",
+   "note": "Classical 衣, used as a verb."
+  },
+  "得@c": {
+   "s": "得",
+   "py": "de",
+   "g": "(how well:); links a verb to how well or how much",
+   "k": "grammar",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.9",
+   "note": "穿得不好 \"dress badly\". Not the classical 得 \"get\".",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "很": {
+   "s": "很",
+   "py": "hěn",
+   "g": "very",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.9",
+   "note": "Often just glue before an adjective."
+  },
+  "丢人": {
+   "s": "丢人",
+   "py": "diūrén",
+   "g": "shameful, a loss of face",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.9",
+   "trad": "丟人",
+   "parts": "丢 lose + 人 (face before others)",
+   "note": "Classical 恥.",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "值得": {
+   "s": "值得",
+   "py": "zhíde",
+   "g": "be worth",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.9",
+   "parts": "值 worth + 得 get",
+   "note": "Classical 足.",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "讨论": {
+   "s": "讨论",
+   "py": "tǎolùn",
+   "g": "discuss",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.9",
+   "trad": "討論",
+   "parts": "讨 look into + 论 discuss",
+   "note": "Classical 議."
+  },
+  "对于": {
+   "s": "对于",
+   "py": "duìyú",
+   "g": "toward, as regards",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.10",
+   "trad": "對於",
+   "parts": "对 facing + 于 at",
+   "note": "Classical 於 (君子之於天下).",
+   "known": [
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "天下": {
+   "s": "天下",
+   "py": "tiānxià",
+   "g": "the world, \"all under heaven\"",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.10",
+   "parts": "天 heaven + 下 below",
+   "note": "Unchanged from classical.",
+   "known": [
+    [
+     "天",
+     "heaven"
+    ],
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "怎样": {
+   "s": "怎样",
+   "py": "zěnyàng",
+   "g": "how, in what way",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.10",
+   "trad": "怎樣",
+   "parts": "怎 how + 样 manner",
+   "note": "\"怎样 A 就怎样 B\": whatever way is A, do B that way."
+  },
+  "合理": {
+   "s": "合理",
+   "py": "hélǐ",
+   "g": "reasonable, right",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.10",
+   "parts": "合 fit + 理 reason",
+   "note": "Stands for classical 義 here."
+  },
+  "想": {
+   "s": "想",
+   "py": "xiǎng",
+   "g": "think (of); want to",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.11",
+   "note": "Classical 思, 欲; in 4.11 懷 \"cherish\"."
+  },
+  "道德": {
+   "s": "道德",
+   "py": "dàodé",
+   "g": "morality, virtue",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.11",
+   "parts": "道 the Way + 德 virtue",
+   "note": "Classical 德.",
+   "known": [
+    [
+     "道",
+     "the Way"
+    ],
+    [
+     "德",
+     "virtue"
+    ]
+   ]
+  },
+  "小人": {
+   "s": "小人",
+   "py": "xiǎorén",
+   "g": "small man, petty person",
+   "k": "word",
+   "card": false,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.11",
+   "note": "The same word as in the Analects.",
+   "known": [
+    [
+     "小",
+     "small"
+    ],
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "土地": {
+   "s": "土地",
+   "py": "tǔdì",
+   "g": "land",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.11",
+   "parts": "土 earth + 地 ground",
+   "note": "Classical 土.",
+   "known": [
+    [
+     "土",
+     "earth"
+    ]
+   ]
+  },
+  "法律": {
+   "s": "法律",
+   "py": "fǎlǜ",
+   "g": "law",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.11",
+   "parts": "法 law + 律 statute",
+   "note": "Classical 刑."
+  },
+  "只": {
+   "s": "只",
+   "py": "zhǐ",
+   "g": "only, just",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.12",
+   "note": "Classical 唯."
+  },
+  "为了": {
+   "s": "为了",
+   "py": "wèile",
+   "g": "for the sake of, in order to",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.12",
+   "trad": "為了",
+   "note": "Classical 為 (wèi).",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "怨恨": {
+   "s": "怨恨",
+   "py": "yuànhèn",
+   "g": "resent; resentment",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.12",
+   "parts": "怨 resent + 恨 hate",
+   "note": "Classical 怨.",
+   "known": [
+    [
+     "怨",
+     "resentment"
+    ]
+   ]
+  },
+  "你": {
+   "s": "你",
+   "py": "nǐ",
+   "g": "you",
+   "k": "word",
+   "card": true,
+   "n": 12,
+   "src": "里仁 in modern Chinese · 4.12",
+   "note": "Classical 爾, 汝."
+  },
+  "礼让": {
+   "s": "礼让",
+   "py": "lǐràng",
+   "g": "ritual courtesy and deference",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "禮讓",
+   "parts": "礼 ritual + 让 yield",
+   "note": "Classical 禮讓, unchanged. Here 让 keeps its classical sense, \"yield\".",
+   "known": [
+    [
+     "禮",
+     "ritual"
+    ],
+    [
+     "讓",
+     "yield"
+    ]
+   ]
+  },
+  "来": {
+   "s": "来",
+   "py": "lái",
+   "g": "come; (before a verb) in order to",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "來",
+   "note": "\"用 A 来 B\": use A to do B.",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "管理": {
+   "s": "管理",
+   "py": "guǎnlǐ",
+   "g": "manage, run",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.13",
+   "parts": "管 control + 理 put in order",
+   "note": "Classical 為 (為國 \"run a state\")."
+  },
+  "国家": {
+   "s": "国家",
+   "py": "guójiā",
+   "g": "country, state",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "國家",
+   "parts": "国 state + 家 family",
+   "note": "Classical 國.",
+   "known": [
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "还": {
+   "s": "还",
+   "py": "hái",
+   "g": "still; also; even",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "還",
+   "note": "Classical 尚, 猶."
+  },
+  "什么": {
+   "s": "什么",
+   "py": "shénme",
+   "g": "what; any",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "什麼",
+   "note": "Classical 何."
+  },
+  "礼": {
+   "s": "礼",
+   "py": "lǐ",
+   "g": "ritual, courtesy",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.13",
+   "trad": "禮",
+   "note": "Your card 禮, in its mainland form.",
+   "known": [
+    [
+     "禮",
+     "ritual"
+    ]
+   ]
+  },
+  "又": {
+   "s": "又",
+   "py": "yòu",
+   "g": "again; (in a question) \"…at all?\"",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.13",
+   "note": "Classical 又, 亦.",
+   "known": [
+    [
+     "又",
+     "again"
+    ]
+   ]
+  },
+  "不要": {
+   "s": "不要",
+   "py": "búyào",
+   "g": "don't; not want",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.14",
+   "parts": "不 not + 要 want",
+   "note": "Classical 勿, 毋.",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "担心": {
+   "s": "担心",
+   "py": "dānxīn",
+   "g": "worry",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "擔心",
+   "parts": "担 carry + 心 heart",
+   "note": "Classical 患."
+  },
+  "职位": {
+   "s": "职位",
+   "py": "zhíwèi",
+   "g": "post, position",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "職位",
+   "parts": "职 duty + 位 seat",
+   "note": "Classical 位.",
+   "known": [
+    [
+     "位",
+     "position"
+    ]
+   ]
+  },
+  "要": {
+   "s": "要",
+   "py": "yào",
+   "g": "want; must, need to; will",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.10",
+   "note": "Classical 欲 (want), 必 (must)."
+  },
+  "有没有": {
+   "s": "有没有",
+   "py": "yǒu méiyǒu",
+   "g": "whether one has; is there or not",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "有沒有",
+   "parts": "有 have + 没有 not have",
+   "note": "Verb + not-verb is how modern Chinese asks \"whether\".",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "站得住": {
+   "s": "站得住",
+   "py": "zhàndezhù",
+   "g": "able to stand firm",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "parts": "站 stand + 得 can + 住 hold",
+   "note": "Classical 立. Verb + 得 + result is \"can\"; with 不 it is \"can't\" (做不到).",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "本事": {
+   "s": "本事",
+   "py": "běnshi",
+   "g": "ability, skill",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "parts": "本 root + 事 matter",
+   "known": [
+    [
+     "事",
+     "serve"
+    ]
+   ]
+  },
+  "了解": {
+   "s": "了解",
+   "py": "liǎojiě",
+   "g": "understand, know (someone)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "瞭解",
+   "parts": "了 clear + 解 untie",
+   "note": "Classical 知 (莫己知)."
+  },
+  "努力": {
+   "s": "努力",
+   "py": "nǔlì",
+   "g": "make an effort, work hard",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "parts": "努 strain + 力 strength",
+   "note": "Classical 求 \"seek\" here.",
+   "known": [
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "成为": {
+   "s": "成为",
+   "py": "chéngwéi",
+   "g": "become",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "成為",
+   "parts": "成 complete + 为 be",
+   "note": "Classical 為.",
+   "known": [
+    [
+     "成",
+     "complete"
+    ],
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "别人": {
+   "s": "别人",
+   "py": "biérén",
+   "g": "other people",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.14",
+   "trad": "別人",
+   "parts": "别 other + 人 person",
+   "note": "Classical 人 (as in 人不知).",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "曾参": {
+   "s": "曾参",
+   "py": "Zēng Shēn",
+   "g": "Zeng Shen (the disciple Zengzi)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "曾參",
+   "known": [
+    [
+     "曾",
+     "Zeng (a surname)"
+    ]
+   ]
+  },
+  "啊": {
+   "s": "啊",
+   "py": "a",
+   "g": "(ah); warms or softens what is said, or calls to someone",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.15",
+   "note": "Does the work of 乎 in 參乎."
+  },
+  "道理": {
+   "s": "道理",
+   "py": "dàoli",
+   "g": "principle, teaching, reason",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "道 way + 理 principle",
+   "note": "Classical 道.",
+   "known": [
+    [
+     "道",
+     "the Way"
+    ]
+   ]
+  },
+  "基本": {
+   "s": "基本",
+   "py": "jīběn",
+   "g": "basic, fundamental",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "基 foundation + 本 root"
+  },
+  "想法": {
+   "s": "想法",
+   "py": "xiǎngfǎ",
+   "g": "idea, way of thinking",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "想 think + 法 way"
+  },
+  "连起来": {
+   "s": "连起来",
+   "py": "lián qǐlai",
+   "g": "link together",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "連起來",
+   "parts": "连 link + 起来 up, together",
+   "note": "Classical 貫 \"thread through\".",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "曾子": {
+   "s": "曾子",
+   "py": "Zēngzǐ",
+   "g": "Master Zeng",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.15",
+   "known": [
+    [
+     "曾",
+     "Zeng (a surname)"
+    ],
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "是的": {
+   "s": "是的",
+   "py": "shìde",
+   "g": "yes, that's right",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "note": "Classical 唯.",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "出去": {
+   "s": "出去",
+   "py": "chūqu",
+   "g": "go out",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "出 out + 去 go",
+   "note": "Classical 出.",
+   "known": [
+    [
+     "出",
+     "go out"
+    ],
+    [
+     "去",
+     "leave"
+    ]
+   ]
+  },
+  "以后": {
+   "s": "以后",
+   "py": "yǐhòu",
+   "g": "after; afterwards",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "以後",
+   "parts": "以 from + 后 after",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "别的": {
+   "s": "别的",
+   "py": "biéde",
+   "g": "other",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "別的",
+   "parts": "别 other + 的"
+  },
+  "学生": {
+   "s": "学生",
+   "py": "xuésheng",
+   "g": "student",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "學生",
+   "parts": "学 learn + 生 person",
+   "note": "Classical 門人, 弟子.",
+   "known": [
+    [
+     "學",
+     "learn"
+    ]
+   ]
+  },
+  "问": {
+   "s": "问",
+   "py": "wèn",
+   "g": "ask",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "問",
+   "note": "Your card 問, in its mainland form.",
+   "known": [
+    [
+     "問",
+     "ask"
+    ]
+   ]
+  },
+  "这": {
+   "s": "这",
+   "py": "zhè",
+   "g": "this",
+   "k": "grammar",
+   "card": true,
+   "n": 9,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "這",
+   "note": "Classical 此, 斯, 是."
+  },
+  "意思": {
+   "s": "意思",
+   "py": "yìsi",
+   "g": "meaning",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "意 intent + 思 thought",
+   "note": "何謂也 \"what does it mean?\" is now 这是什么意思.",
+   "known": [
+    [
+     "思",
+     "think"
+    ]
+   ]
+  },
+  "老师": {
+   "s": "老师",
+   "py": "lǎoshī",
+   "g": "teacher",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "老師",
+   "parts": "老 venerable + 师 teacher",
+   "note": "Classical 夫子, 師.",
+   "known": [
+    [
+     "老",
+     "old"
+    ],
+    [
+     "師",
+     "teacher"
+    ]
+   ]
+  },
+  "只是": {
+   "s": "只是",
+   "py": "zhǐshì",
+   "g": "only, merely",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.15",
+   "parts": "只 only + 是 is",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "忠": {
+   "s": "忠",
+   "py": "zhōng",
+   "g": "doing one's utmost for others",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "忠",
+     "loyalty"
+    ]
+   ]
+  },
+  "恕": {
+   "s": "恕",
+   "py": "shù",
+   "g": "putting oneself in the other's place",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "恕",
+     "reciprocity"
+    ]
+   ]
+  },
+  "罢了": {
+   "s": "罢了",
+   "py": "bàle",
+   "g": "that's all, nothing more",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.15",
+   "trad": "罷了",
+   "note": "Classical 而已矣."
+  },
+  "明白": {
+   "s": "明白",
+   "py": "míngbai",
+   "g": "understand; clear",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.16",
+   "parts": "明 bright + 白 plain",
+   "note": "Classical 喻, 知."
+  },
+  "对": {
+   "s": "对",
+   "py": "duì",
+   "g": "right, correct",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.16",
+   "trad": "對",
+   "note": "Also \"facing, toward\"."
+  },
+  "好人": {
+   "s": "好人",
+   "py": "hǎorén",
+   "g": "good person",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.17",
+   "parts": "好 good + 人 person",
+   "note": "Stands for classical 賢 \"worthy\" here.",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ],
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "一样": {
+   "s": "一样",
+   "py": "yíyàng",
+   "g": "the same, alike",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.17",
+   "trad": "一樣",
+   "parts": "一 one + 样 kind",
+   "note": "Classical 齊 (思齊 \"think of equalling\").",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "看见": {
+   "s": "看见",
+   "py": "kànjiàn",
+   "g": "see, catch sight of",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.17",
+   "trad": "看見",
+   "parts": "看 look + 见 see",
+   "note": "Classical 見.",
+   "known": [
+    [
+     "見",
+     "see"
+    ]
+   ]
+  },
+  "心里": {
+   "s": "心里",
+   "py": "xīnli",
+   "g": "in one's heart, inwardly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.17",
+   "trad": "心裡",
+   "parts": "心 heart + 里 inside",
+   "note": "Classical 內."
+  },
+  "检查": {
+   "s": "检查",
+   "py": "jiǎnchá",
+   "g": "examine, check",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.17",
+   "trad": "檢查",
+   "parts": "检 inspect + 查 look into",
+   "note": "Classical 省 (內自省)."
+  },
+  "父母": {
+   "s": "父母",
+   "py": "fùmǔ",
+   "g": "father and mother, parents",
+   "k": "word",
+   "card": false,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.18",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "父",
+     "father"
+    ],
+    [
+     "母",
+     "mother"
+    ]
+   ]
+  },
+  "不对": {
+   "s": "不对",
+   "py": "búduì",
+   "g": "wrong, not right",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "不對",
+   "parts": "不 not + 对 right",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "好好": {
+   "s": "好好",
+   "py": "hǎohǎo",
+   "g": "properly, gently, with care",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "parts": "好 doubled",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "劝": {
+   "s": "劝",
+   "py": "quàn",
+   "g": "urge, advise, talk round",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "勸",
+   "note": "Classical 諫 \"remonstrate\"."
+  },
+  "他们": {
+   "s": "他们",
+   "py": "tāmen",
+   "g": "they, them",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "他們",
+   "parts": "他 he + 们 (plural for people)",
+   "note": "Classical has no plural marker."
+  },
+  "看到": {
+   "s": "看到",
+   "py": "kàndào",
+   "g": "see, notice",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "parts": "看 look + 到 reach"
+  },
+  "听": {
+   "s": "听",
+   "py": "tīng",
+   "g": "listen; heed, obey",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "聽",
+   "note": "Classical 從 \"follow\" here; 聞 \"hear\"."
+  },
+  "还是": {
+   "s": "还是",
+   "py": "háishi",
+   "g": "still, all the same",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "還是",
+   "parts": "还 still + 是",
+   "note": "Classical 又 (又敬不違).",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "尊敬": {
+   "s": "尊敬",
+   "py": "zūnjìng",
+   "g": "respect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "parts": "尊 honour + 敬 respect",
+   "note": "Classical 敬.",
+   "known": [
+    [
+     "敬",
+     "respect"
+    ]
+   ]
+  },
+  "反对": {
+   "s": "反对",
+   "py": "fǎnduì",
+   "g": "oppose, go against",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "trad": "反對",
+   "parts": "反 against + 对 face",
+   "note": "Classical 違."
+  },
+  "再": {
+   "s": "再",
+   "py": "zài",
+   "g": "again; (再 A 也 B) however A, still B",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.18"
+  },
+  "辛苦": {
+   "s": "辛苦",
+   "py": "xīnkǔ",
+   "g": "toil; hard, exhausting",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.18",
+   "parts": "辛 pungent + 苦 bitter",
+   "note": "Classical 勞."
+  },
+  "活着": {
+   "s": "活着",
+   "py": "huózhe",
+   "g": "alive",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.19",
+   "trad": "活著",
+   "parts": "活 live + 着 (ongoing state)",
+   "note": "Classical 在 (父母在)."
+  },
+  "远": {
+   "s": "远",
+   "py": "yuǎn",
+   "g": "far",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.19",
+   "trad": "遠",
+   "note": "Your card 遠, in its mainland form.",
+   "known": [
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "确定": {
+   "s": "确定",
+   "py": "quèdìng",
+   "g": "definite, fixed; to confirm",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.19",
+   "trad": "確定",
+   "parts": "确 firm + 定 settled",
+   "note": "Classical 方 (遊必有方)."
+  },
+  "三": {
+   "s": "三",
+   "py": "sān",
+   "g": "three",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.20",
+   "known": [
+    [
+     "三",
+     "three"
+    ]
+   ]
+  },
+  "年": {
+   "s": "年",
+   "py": "nián",
+   "g": "year",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.20",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "年",
+     "year"
+    ]
+   ]
+  },
+  "改变": {
+   "s": "改变",
+   "py": "gǎibiàn",
+   "g": "change",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.20",
+   "trad": "改變",
+   "parts": "改 alter + 变 change",
+   "note": "Classical 改.",
+   "known": [
+    [
+     "改",
+     "correct"
+    ]
+   ]
+  },
+  "父亲": {
+   "s": "父亲",
+   "py": "fùqin",
+   "g": "father",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.20",
+   "trad": "父親",
+   "parts": "父 father + 亲 kin",
+   "note": "Classical 父.",
+   "known": [
+    [
+     "父",
+     "father"
+    ]
+   ]
+  },
+  "做法": {
+   "s": "做法",
+   "py": "zuòfǎ",
+   "g": "way of doing things",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.20",
+   "parts": "做 do + 法 way",
+   "note": "Classical 道 (父之道)."
+  },
+  "孝": {
+   "s": "孝",
+   "py": "xiào",
+   "g": "filial, devoted to one's parents",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.20",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "孝",
+     "filial"
+    ]
+   ]
+  },
+  "年纪": {
+   "s": "年纪",
+   "py": "niánjì",
+   "g": "age",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21",
+   "trad": "年紀",
+   "parts": "年 year + 纪 record",
+   "note": "Classical 年.",
+   "known": [
+    [
+     "年",
+     "year"
+    ]
+   ]
+  },
+  "一方面": {
+   "s": "一方面",
+   "py": "yì fāngmiàn",
+   "g": "on the one hand",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.21",
+   "parts": "一 one + 方面 side",
+   "note": "Classical 一則….",
+   "known": [
+    [
+     "一",
+     "one"
+    ],
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "为@for": {
+   "s": "为",
+   "py": "wèi",
+   "g": "for, on account of",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.21",
+   "trad": "為",
+   "note": "Classical 為 read wèi. Not 为 wéi \"be, do\".",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "活": {
+   "s": "活",
+   "py": "huó",
+   "g": "live",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21"
+  },
+  "长": {
+   "s": "长",
+   "py": "cháng",
+   "g": "long",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21",
+   "trad": "長",
+   "note": "Your card 長, in its mainland form.",
+   "known": [
+    [
+     "長",
+     "long"
+    ]
+   ]
+  },
+  "而": {
+   "s": "而",
+   "py": "ér",
+   "g": "and so; (为 A 而 B) do B because of A",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "里仁 in modern Chinese · 4.21",
+   "note": "Straight from classical. Modern keeps it in set frames.",
+   "known": [
+    [
+     "而",
+     "and / and yet"
+    ]
+   ]
+  },
+  "高兴": {
+   "s": "高兴",
+   "py": "gāoxìng",
+   "g": "glad, happy",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21",
+   "trad": "高興",
+   "parts": "高 high + 兴 spirits",
+   "note": "Classical 喜."
+  },
+  "老": {
+   "s": "老",
+   "py": "lǎo",
+   "g": "old",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "老",
+     "old"
+    ]
+   ]
+  },
+  "害怕": {
+   "s": "害怕",
+   "py": "hàipà",
+   "g": "fear, be afraid",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.21",
+   "parts": "害 suffer + 怕 fear",
+   "note": "Classical 懼."
+  },
+  "古时候": {
+   "s": "古时候",
+   "py": "gǔ shíhou",
+   "g": "ancient times",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.22",
+   "trad": "古時候",
+   "parts": "古 ancient + 时候 time",
+   "note": "Classical 古者.",
+   "known": [
+    [
+     "古",
+     "ancient"
+    ],
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "轻易": {
+   "s": "轻易",
+   "py": "qīngyì",
+   "g": "lightly, easily",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.22",
+   "trad": "輕易",
+   "parts": "轻 light + 易 easy"
+  },
+  "说话": {
+   "s": "说话",
+   "py": "shuōhuà",
+   "g": "speak, talk",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.22",
+   "trad": "說話",
+   "parts": "说 say + 话 words",
+   "note": "Classical 言.",
+   "known": [
+    [
+     "說",
+     "speak (in 1.1: delight)"
+    ]
+   ]
+  },
+  "做不到": {
+   "s": "做不到",
+   "py": "zuòbudào",
+   "g": "can't manage it",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.22",
+   "parts": "做 do + 不 not + 到 reach",
+   "note": "Classical 不逮 \"not come up to\".",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "约束": {
+   "s": "约束",
+   "py": "yuēshù",
+   "g": "restrain; restraint",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.23",
+   "trad": "約束",
+   "parts": "约 bind + 束 tie",
+   "note": "Classical 約.",
+   "known": [
+    [
+     "約",
+     "restraint"
+    ]
+   ]
+  },
+  "少": {
+   "s": "少",
+   "py": "shǎo",
+   "g": "few, little",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.23",
+   "note": "Classical 鮮, 寡."
+  },
+  "慢": {
+   "s": "慢",
+   "py": "màn",
+   "g": "slow",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.24",
+   "note": "Classical 訥 is \"slow of speech\"."
+  },
+  "一点": {
+   "s": "一点",
+   "py": "yìdiǎn",
+   "g": "a little, a bit",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.24",
+   "trad": "一點",
+   "parts": "一 one + 点 dot",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "快": {
+   "s": "快",
+   "py": "kuài",
+   "g": "fast, quick",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.24",
+   "note": "Classical 敏."
+  },
+  "孤单": {
+   "s": "孤单",
+   "py": "gūdān",
+   "g": "lonely, alone",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.25",
+   "trad": "孤單",
+   "parts": "孤 alone + 单 single",
+   "note": "Classical 孤.",
+   "known": [
+    [
+     "孤",
+     "alone"
+    ]
+   ]
+  },
+  "在一起": {
+   "s": "在一起",
+   "py": "zài yìqǐ",
+   "g": "together",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.25",
+   "parts": "在 at + 一起 together",
+   "note": "Stands for classical 鄰 \"neighbour\" here.",
+   "known": [
+    [
+     "在",
+     "be there"
+    ],
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "子游": {
+   "s": "子游",
+   "py": "Zǐyóu",
+   "g": "Ziyou (a disciple)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ],
+    [
+     "游",
+     "swim"
+    ]
+   ]
+  },
+  "对待": {
+   "s": "对待",
+   "py": "duìdài",
+   "g": "treat, deal with",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "里仁 in modern Chinese · 4.26",
+   "trad": "對待",
+   "parts": "对 face + 待 treat",
+   "note": "Classical 事 \"serve\"."
+  },
+  "君主": {
+   "s": "君主",
+   "py": "jūnzhǔ",
+   "g": "ruler, sovereign",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "parts": "君 lord + 主 master",
+   "note": "Classical 君.",
+   "known": [
+    [
+     "君",
+     "ruler"
+    ]
+   ]
+  },
+  "太": {
+   "s": "太",
+   "py": "tài",
+   "g": "too, excessively",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.26"
+  },
+  "多": {
+   "s": "多",
+   "py": "duō",
+   "g": "many, much",
+   "k": "word",
+   "card": false,
+   "n": 3,
+   "src": "里仁 in modern Chinese · 4.12",
+   "note": "Same as your card.",
+   "known": [
+    [
+     "多",
+     "many"
+    ]
+   ]
+  },
+  "受到": {
+   "s": "受到",
+   "py": "shòudào",
+   "g": "receive, suffer",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "parts": "受 receive + 到 reach"
+  },
+  "侮辱": {
+   "s": "侮辱",
+   "py": "wǔrǔ",
+   "g": "insult, humiliation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "parts": "侮 slight + 辱 disgrace",
+   "note": "Classical 辱.",
+   "known": [
+    [
+     "辱",
+     "disgrace"
+    ]
+   ]
+  },
+  "朋友": {
+   "s": "朋友",
+   "py": "péngyou",
+   "g": "friend",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "朋",
+     "friend"
+    ],
+    [
+     "友",
+     "companion"
+    ]
+   ]
+  },
+  "被": {
+   "s": "被",
+   "py": "bèi",
+   "g": "(is …-ed); marks the passive",
+   "k": "grammar",
+   "card": true,
+   "n": 5,
+   "src": "里仁 in modern Chinese · 4.26",
+   "note": "Classical 見, or 為…所."
+  },
+  "疏远": {
+   "s": "疏远",
+   "py": "shūyuǎn",
+   "g": "keep at a distance, estrange",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "里仁 in modern Chinese · 4.26",
+   "trad": "疏遠",
+   "parts": "疏 distant + 远 far",
+   "note": "Classical 疏.",
+   "known": [
+    [
+     "疏",
+     "distant"
+    ],
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "有": {
+   "s": "有",
+   "py": "yǒu",
+   "g": "have; there is",
+   "k": "word",
+   "card": false,
+   "n": 21,
+   "src": "里仁 in modern Chinese · 4.1",
+   "note": "Same as classical.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "仁德": {
+   "s": "仁德",
+   "py": "réndé",
+   "g": "humaneness, goodness toward others",
+   "k": "word",
+   "card": true,
+   "n": 18,
+   "src": "里仁 in modern Chinese · 4.1",
+   "parts": "仁 humane + 德 virtue",
+   "note": "Classical 仁. Modern Chinese prefers the two-character word.",
+   "known": [
+    [
+     "仁",
+     "humaneness"
+    ],
+    [
+     "德",
+     "virtue"
+    ]
+   ]
+  },
+  "项目": {
+   "s": "项目",
+   "py": "xiàngmù",
+   "g": "item; project",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.1",
+   "trad": "項目",
+   "parts": "项 item + 目 heading",
+   "note": "In SCP files, the anomalous object itself."
+  },
+  "编号": {
+   "s": "编号",
+   "py": "biānhào",
+   "g": "serial number; to number",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.1",
+   "trad": "編號",
+   "parts": "编 arrange + 号 number"
+  },
+  "等级": {
+   "s": "等级",
+   "py": "děngjí",
+   "g": "grade, class, level",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.1",
+   "trad": "等級",
+   "parts": "等 rank + 级 step"
+  },
+  "特殊": {
+   "s": "特殊",
+   "py": "tèshū",
+   "g": "special",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "parts": "特 particular + 殊 different"
+  },
+  "收容": {
+   "s": "收容",
+   "py": "shōuróng",
+   "g": "contain, take in and hold",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "parts": "收 take in + 容 hold",
+   "note": "The SCP word for \"containment\"."
+  },
+  "措施": {
+   "s": "措施",
+   "py": "cuòshī",
+   "g": "measure, procedure",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "parts": "措 arrange + 施 carry out",
+   "note": "施 is in your cards (己所不欲，勿施於人).",
+   "known": [
+    [
+     "施",
+     "impose"
+    ]
+   ]
+  },
+  "该": {
+   "s": "该",
+   "py": "gāi",
+   "g": "the said, this (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "該",
+   "note": "Formal written style, from old official documents. Everyday 该 is \"ought to\" (应该)."
+  },
+  "于": {
+   "s": "于",
+   "py": "yú",
+   "g": "at, in, to; than",
+   "k": "grammar",
+   "card": false,
+   "n": 5,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "於",
+   "note": "Classical survivor: your card 於/于. After a verb: 收容于 \"held at\".",
+   "known": [
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "透明": {
+   "s": "透明",
+   "py": "tòumíng",
+   "g": "transparent",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "parts": "透 pass through + 明 bright"
+  },
+  "金属": {
+   "s": "金属",
+   "py": "jīnshǔ",
+   "g": "metal",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "金屬",
+   "parts": "金 metal + 属 category"
+  },
+  "盒": {
+   "s": "盒",
+   "py": "hé",
+   "g": "box",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.2"
+  },
+  "中": {
+   "s": "中",
+   "py": "zhōng",
+   "g": "in, inside (after a noun); in the course of",
+   "k": "grammar",
+   "card": true,
+   "n": 5,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "note": "The formal partner of 里. Classical 中."
+  },
+  "未": {
+   "s": "未",
+   "py": "wèi",
+   "g": "not, not yet (formal)",
+   "k": "grammar",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "note": "Classical survivor, same as your card. Everyday speech: 没.",
+   "known": [
+    [
+     "未",
+     "not yet"
+    ]
+   ]
+  },
+  "经": {
+   "s": "经",
+   "py": "jīng",
+   "g": "go through, by way of",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "經",
+   "note": "未经许可 \"without going through permission\"."
+  },
+  "许可": {
+   "s": "许可",
+   "py": "xǔkě",
+   "g": "permission; permit",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "許可",
+   "parts": "许 allow + 可 may",
+   "known": [
+    [
+     "可",
+     "can"
+    ]
+   ]
+  },
+  "禁止": {
+   "s": "禁止",
+   "py": "jìnzhǐ",
+   "g": "forbid; forbidden",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "parts": "禁 prohibit + 止 stop",
+   "note": "What signs say: 禁止… \"No …\"."
+  },
+  "打开": {
+   "s": "打开",
+   "py": "dǎkāi",
+   "g": "open",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "trad": "打開",
+   "parts": "打 strike + 开 open"
+  },
+  "此": {
+   "s": "此",
+   "py": "cǐ",
+   "g": "this (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.2",
+   "note": "Classical survivor, unchanged. Everyday speech: 这."
+  },
+  "实验": {
+   "s": "实验",
+   "py": "shíyàn",
+   "g": "experiment",
+   "k": "word",
+   "card": true,
+   "n": 9,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "實驗",
+   "parts": "实 real + 验 test"
+  },
+  "期间": {
+   "s": "期间",
+   "py": "qījiān",
+   "g": "period; during",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "期間",
+   "parts": "期 period + 间 interval",
+   "note": "间 is your 間.",
+   "known": [
+    [
+     "間",
+     "interval"
+    ]
+   ]
+  },
+  "需要": {
+   "s": "需要",
+   "py": "xūyào",
+   "g": "need, require",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "parts": "需 need + 要 want"
+  },
+  "在场": {
+   "s": "在场",
+   "py": "zàichǎng",
+   "g": "present, on the scene",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "在場",
+   "parts": "在 at + 场 site",
+   "known": [
+    [
+     "在",
+     "be there"
+    ]
+   ]
+  },
+  "其余": {
+   "s": "其余",
+   "py": "qíyú",
+   "g": "the rest, the others",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "其餘",
+   "parts": "其 its + 余 remainder",
+   "known": [
+    [
+     "其",
+     "his / its"
+    ]
+   ]
+  },
+  "人员": {
+   "s": "人员",
+   "py": "rényuán",
+   "g": "personnel, staff",
+   "k": "word",
+   "card": true,
+   "n": 8,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "人員",
+   "parts": "人 person + 员 member",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "配备": {
+   "s": "配备",
+   "py": "pèibèi",
+   "g": "equip; be equipped with",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "配備",
+   "parts": "配 fit out + 备 prepare"
+  },
+  "视觉": {
+   "s": "视觉",
+   "py": "shìjué",
+   "g": "vision; visual",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "視覺",
+   "parts": "视 look + 觉 sense"
+  },
+  "模因": {
+   "s": "模因",
+   "py": "móyīn",
+   "g": "meme",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "parts": "模 pattern + 因 cause",
+   "note": "A sound loan: mó-yīn imitates \"meme\". Words like this cannot be read from their characters."
+  },
+  "伤害": {
+   "s": "伤害",
+   "py": "shānghài",
+   "g": "harm, injury; to harm",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "傷害",
+   "parts": "伤 wound + 害 harm"
+  },
+  "过滤": {
+   "s": "过滤",
+   "py": "guòlǜ",
+   "g": "filter",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "過濾",
+   "parts": "过 pass + 滤 strain",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "护目镜": {
+   "s": "护目镜",
+   "py": "hùmùjìng",
+   "g": "goggles",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.3",
+   "trad": "護目鏡",
+   "parts": "护 protect + 目 eye + 镜 lens"
+  },
+  "对@to": {
+   "s": "对",
+   "py": "duì",
+   "g": "to, toward, regarding",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.4",
+   "trad": "對",
+   "note": "Puts the target before the verb: 对该项目的实验 \"experiments on the item\". Classical 於."
+  },
+  "须": {
+   "s": "须",
+   "py": "xū",
+   "g": "must (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.4",
+   "trad": "須",
+   "note": "Literary. Everyday speech: 必须."
+  },
+  "及": {
+   "s": "及",
+   "py": "jí",
+   "g": "and (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.4",
+   "note": "Classical survivor. Everyday speech: 和. 及以上 \"and above\"."
+  },
+  "以上": {
+   "s": "以上",
+   "py": "yǐshàng",
+   "g": "and above, more than; the above",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.4",
+   "parts": "以 from + 上 up",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "审批": {
+   "s": "审批",
+   "py": "shěnpī",
+   "g": "examine and approve",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.4",
+   "trad": "審批",
+   "parts": "审 examine + 批 sign off"
+  },
+  "描述": {
+   "s": "描述",
+   "py": "miáoshù",
+   "g": "describe; description",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "parts": "描 trace + 述 tell",
+   "note": "述 is in your cards (述而不作).",
+   "known": [
+    [
+     "述",
+     "pass on"
+    ]
+   ]
+  },
+  "为": {
+   "s": "为",
+   "py": "wéi",
+   "g": "is, serves as (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "為",
+   "note": "Classical survivor: your card 為. Everyday speech: 是. Read wèi, it means \"for\".",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "块": {
+   "s": "块",
+   "py": "kuài",
+   "g": "(counter for slabs, lumps, pieces)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "塊"
+  },
+  "红木": {
+   "s": "红木",
+   "py": "hóngmù",
+   "g": "rosewood, \"red wood\"",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "紅木",
+   "parts": "红 red + 木 wood"
+  },
+  "制": {
+   "s": "制",
+   "py": "zhì",
+   "g": "made of; make",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "製",
+   "note": "After a material: 红木制 \"made of rosewood\"."
+  },
+  "手工": {
+   "s": "手工",
+   "py": "shǒugōng",
+   "g": "handmade; handwork",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "parts": "手 hand + 工 work"
+  },
+  "刻板": {
+   "s": "刻板",
+   "py": "kèbǎn",
+   "g": "carved board",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "parts": "刻 carve + 板 board",
+   "note": "Usually 刻板 means \"rigid, stereotyped\"; here it is literal."
+  },
+  "其": {
+   "s": "其",
+   "py": "qí",
+   "g": "its, his, their; it (formal)",
+   "k": "grammar",
+   "card": false,
+   "n": 9,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "note": "Classical survivor, same as your card. Everyday speech: 他的, 它的.",
+   "known": [
+    [
+     "其",
+     "his / its"
+    ]
+   ]
+  },
+  "小篆": {
+   "s": "小篆",
+   "py": "xiǎozhuàn",
+   "g": "small-seal script",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "parts": "小 small + 篆 seal script",
+   "note": "The script standardised under the Qin, about 220 BC.",
+   "known": [
+    [
+     "小",
+     "small"
+    ]
+   ]
+  },
+  "字体": {
+   "s": "字体",
+   "py": "zìtǐ",
+   "g": "script, typeface",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "字體",
+   "parts": "字 character + 体 body"
+  },
+  "阴刻": {
+   "s": "阴刻",
+   "py": "yīnkè",
+   "g": "incised, carved into the surface",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "陰刻",
+   "parts": "阴 sunken + 刻 carve"
+  },
+  "字样": {
+   "s": "字样",
+   "py": "zìyàng",
+   "g": "written words, wording",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "字樣",
+   "parts": "字 character + 样 form"
+  },
+  "非礼勿言": {
+   "s": "非礼勿言",
+   "py": "fēi lǐ wù yán",
+   "g": "\"what is contrary to ritual, do not say\"",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.5",
+   "trad": "非禮勿言",
+   "parts": "非 not + 礼 ritual + 勿 don't + 言 speak",
+   "note": "Analects 12.1: 非禮勿視，非禮勿聽，非禮勿言，非禮勿動.",
+   "known": [
+    [
+     "禮",
+     "ritual"
+    ],
+    [
+     "勿",
+     "don't!"
+    ],
+    [
+     "言",
+     "words"
+    ]
+   ]
+  },
+  "每": {
+   "s": "每",
+   "py": "měi",
+   "g": "every, each",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6"
+  },
+  "个": {
+   "s": "个",
+   "py": "gè",
+   "g": "(general counter)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "個",
+   "note": "After a number, or after 这 and 每, modern nouns need a counter: 每个字样."
+  },
+  "约": {
+   "s": "约",
+   "py": "yuē",
+   "g": "about, roughly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "約",
+   "note": "In your cards 約 is \"restraint, hardship\". \"Roughly\" is the common modern sense.",
+   "known": [
+    [
+     "約",
+     "restraint"
+    ]
+   ]
+  },
+  "大小": {
+   "s": "大小",
+   "py": "dàxiǎo",
+   "g": "size",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "parts": "大 big + 小 small",
+   "note": "Two opposites make the abstract noun: \"big-small\".",
+   "known": [
+    [
+     "小",
+     "small"
+    ]
+   ]
+  },
+  "并": {
+   "s": "并",
+   "py": "bìng",
+   "g": "and, and also (joins verbs; formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 7,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "並"
+  },
+  "以": {
+   "s": "以",
+   "py": "yǐ",
+   "g": "with, by means of; in order to",
+   "k": "grammar",
+   "card": false,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "note": "Classical survivor, same as your card.",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "金色": {
+   "s": "金色",
+   "py": "jīnsè",
+   "g": "gold (colour)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "parts": "金 gold + 色 colour",
+   "known": [
+    [
+     "色",
+     "face / colour"
+    ]
+   ]
+  },
+  "漆": {
+   "s": "漆",
+   "py": "qī",
+   "g": "lacquer, paint",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6"
+  },
+  "类": {
+   "s": "类",
+   "py": "lèi",
+   "g": "kind, type; -like",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "類",
+   "note": "漆类物质 \"lacquer-type substance\"."
+  },
+  "物质": {
+   "s": "物质",
+   "py": "wùzhì",
+   "g": "substance, matter",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "物質",
+   "parts": "物 thing + 质 stuff"
+  },
+  "进行": {
+   "s": "进行",
+   "py": "jìnxíng",
+   "g": "carry out, conduct",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "trad": "進行",
+   "parts": "进 advance + 行 go",
+   "note": "Official padding before a verb-noun: 进行填充 \"carry out filling\" is just \"fill\".",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "填充": {
+   "s": "填充",
+   "py": "tiánchōng",
+   "g": "fill in",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.6",
+   "parts": "填 fill + 充 full"
+  },
+  "可": {
+   "s": "可",
+   "py": "kě",
+   "g": "can, able to",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "note": "Same as your card. Everyday speech: 可以, 能.",
+   "known": [
+    [
+     "可",
+     "can"
+    ]
+   ]
+  },
+  "理解": {
+   "s": "理解",
+   "py": "lǐjiě",
+   "g": "understand, comprehend",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "parts": "理 reason + 解 untie"
+  },
+  "观察": {
+   "s": "观察",
+   "py": "guānchá",
+   "g": "observe",
+   "k": "word",
+   "card": true,
+   "n": 16,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "trad": "觀察",
+   "parts": "观 look at + 察 examine",
+   "note": "观 is your 觀 (觀過).",
+   "known": [
+    [
+     "觀",
+     "observe"
+    ]
+   ]
+  },
+  "展示": {
+   "s": "展示",
+   "py": "zhǎnshì",
+   "g": "display, show",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "parts": "展 unfold + 示 show"
+  },
+  "信息": {
+   "s": "信息",
+   "py": "xìnxī",
+   "g": "information, message",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "parts": "信 message + 息 news",
+   "known": [
+    [
+     "信",
+     "trust"
+    ]
+   ]
+  },
+  "秒": {
+   "s": "秒",
+   "py": "miǎo",
+   "g": "second (of time)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.7"
+  },
+  "后": {
+   "s": "后",
+   "py": "hòu",
+   "g": "after (follows a time or an event)",
+   "k": "grammar",
+   "card": true,
+   "n": 8,
+   "src": "SCP-CN-187 非礼勿言 · 187.7",
+   "trad": "後",
+   "note": "12秒后 \"after 12 seconds\"."
+  },
+  "受": {
+   "s": "受",
+   "py": "shòu",
+   "g": "receive, be subjected to",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "SCP-CN-187 非礼勿言 · 187.8"
+  },
+  "影响": {
+   "s": "影响",
+   "py": "yǐngxiǎng",
+   "g": "influence, affect; effect",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "影響",
+   "parts": "影 shadow + 响 echo"
+  },
+  "者": {
+   "s": "者",
+   "py": "zhě",
+   "g": "the one who, -er",
+   "k": "grammar",
+   "card": false,
+   "n": 12,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "note": "Classical survivor, same as your card: 受影响者 \"the one affected\".",
+   "known": [
+    [
+     "者",
+     "the one who / as for"
+    ]
+   ]
+  },
+  "一开始": {
+   "s": "一开始",
+   "py": "yì kāishǐ",
+   "g": "at first, at the very start",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "一開始",
+   "parts": "一 once + 开始 begin",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "心理": {
+   "s": "心理",
+   "py": "xīnlǐ",
+   "g": "psychology; mental",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "parts": "心 mind + 理 principle"
+  },
+  "层面": {
+   "s": "层面",
+   "py": "céngmiàn",
+   "g": "level, plane",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "層面",
+   "parts": "层 layer + 面 surface"
+  },
+  "产生": {
+   "s": "产生",
+   "py": "chǎnshēng",
+   "g": "produce, give rise to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "產生",
+   "parts": "产 produce + 生 be born"
+  },
+  "符合": {
+   "s": "符合",
+   "py": "fúhé",
+   "g": "accord with, conform to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "parts": "符 tally + 合 fit"
+  },
+  "一般": {
+   "s": "一般",
+   "py": "yìbān",
+   "g": "ordinary, general",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "parts": "一 one + 般 sort",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "下": {
+   "s": "下",
+   "py": "xià",
+   "g": "under (after a noun)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "note": "在…下 \"under…\": 在监护下 \"under guard\".",
+   "known": [
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "准则": {
+   "s": "准则",
+   "py": "zhǔnzé",
+   "g": "norm, standard",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "準則",
+   "parts": "准 standard + 则 rule",
+   "note": "则 is your 則, in its noun sense \"rule\".",
+   "known": [
+    [
+     "則",
+     "then"
+    ]
+   ]
+  },
+  "行为": {
+   "s": "行为",
+   "py": "xíngwéi",
+   "g": "behaviour, conduct",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "行為",
+   "parts": "行 act + 为 do",
+   "note": "Both are in your cards.",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ],
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "采取": {
+   "s": "采取",
+   "py": "cǎiqǔ",
+   "g": "adopt, take (a measure, a stance)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "採取",
+   "parts": "采 pick + 取 take"
+  },
+  "视而不见": {
+   "s": "视而不见",
+   "py": "shì ér bú jiàn",
+   "g": "look without seeing; turn a blind eye",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "視而不見",
+   "parts": "视 look + 而 yet + 不 not + 见 see",
+   "note": "A classical phrase used whole. The Great Learning: 心不在焉，視而不見.",
+   "known": [
+    [
+     "而",
+     "and / and yet"
+    ],
+    [
+     "不",
+     "not"
+    ],
+    [
+     "見",
+     "see"
+    ]
+   ]
+  },
+  "拒绝": {
+   "s": "拒绝",
+   "py": "jùjué",
+   "g": "refuse",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "拒絕",
+   "parts": "拒 resist + 绝 cut off"
+  },
+  "承认": {
+   "s": "承认",
+   "py": "chéngrèn",
+   "g": "admit, acknowledge",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.8",
+   "trad": "承認",
+   "parts": "承 bear + 认 recognise"
+  },
+  "小时": {
+   "s": "小时",
+   "py": "xiǎoshí",
+   "g": "hour",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.9",
+   "trad": "小時",
+   "parts": "小 small + 时 time",
+   "known": [
+    [
+     "小",
+     "small"
+    ],
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "无法": {
+   "s": "无法",
+   "py": "wúfǎ",
+   "g": "unable to, have no way to",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.9",
+   "trad": "無法",
+   "parts": "无 have no + 法 way",
+   "note": "无 is your 無.",
+   "known": [
+    [
+     "無",
+     "have no"
+    ]
+   ]
+  },
+  "冷处理": {
+   "s": "冷处理",
+   "py": "lěngchǔlǐ",
+   "g": "handle by ignoring, \"cold treatment\"",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.9",
+   "trad": "冷處理",
+   "parts": "冷 cold + 处理 handle",
+   "known": [
+    [
+     "處",
+     "dwell"
+    ]
+   ]
+  },
+  "星期": {
+   "s": "星期",
+   "py": "xīngqī",
+   "g": "week",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "parts": "星 star + 期 period"
+  },
+  "所有": {
+   "s": "所有",
+   "py": "suǒyǒu",
+   "g": "all, every",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "parts": "所 that which + 有 exists",
+   "note": "\"All that there is\": the classical 所 + verb.",
+   "known": [
+    [
+     "所",
+     "that which"
+    ],
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "关于": {
+   "s": "关于",
+   "py": "guānyú",
+   "g": "about, concerning",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "關於",
+   "parts": "关 concern + 于 at",
+   "known": [
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "他人": {
+   "s": "他人",
+   "py": "tārén",
+   "g": "other people, others",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "parts": "他 other + 人 person",
+   "note": "Formal for 别人.",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "表现": {
+   "s": "表现",
+   "py": "biǎoxiàn",
+   "g": "show, display; behaviour",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "表現",
+   "parts": "表 surface + 现 appear"
+  },
+  "出": {
+   "s": "出",
+   "py": "chū",
+   "g": "out (after a verb: the action brings something out)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "note": "表现出 \"show outwardly\".",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "极大": {
+   "s": "极大",
+   "py": "jídà",
+   "g": "extreme, enormous",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "極大",
+   "parts": "极 extreme + 大 big"
+  },
+  "厌恶": {
+   "s": "厌恶",
+   "py": "yànwù",
+   "g": "loathe; loathing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "厭惡",
+   "parts": "厌 fed up + 恶 hate",
+   "note": "Both are in your cards. 恶 here is 惡 read wù, \"hate\".",
+   "known": [
+    [
+     "厭",
+     "tire of"
+    ],
+    [
+     "惡",
+     "hate / bad"
+    ]
+   ]
+  },
+  "认为": {
+   "s": "认为",
+   "py": "rènwéi",
+   "g": "think, consider",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "認為",
+   "parts": "认 recognise + 为 as",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "礼仪": {
+   "s": "礼仪",
+   "py": "lǐyí",
+   "g": "etiquette, propriety",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.10",
+   "trad": "禮儀",
+   "parts": "礼 ritual + 仪 ceremony",
+   "known": [
+    [
+     "禮",
+     "ritual"
+    ]
+   ]
+  },
+  "并且": {
+   "s": "并且",
+   "py": "bìngqiě",
+   "g": "and, moreover",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "trad": "並且",
+   "parts": "并 and + 且 moreover"
+  },
+  "言语": {
+   "s": "言语",
+   "py": "yányǔ",
+   "g": "speech, words",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "trad": "言語",
+   "parts": "言 speech + 语 language",
+   "known": [
+    [
+     "言",
+     "words"
+    ]
+   ]
+  },
+  "物理": {
+   "s": "物理",
+   "py": "wùlǐ",
+   "g": "physics; physical",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "parts": "物 thing + 理 principle"
+  },
+  "攻击": {
+   "s": "攻击",
+   "py": "gōngjī",
+   "g": "attack",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "trad": "攻擊",
+   "parts": "攻 attack + 击 strike"
+  },
+  "试图": {
+   "s": "试图",
+   "py": "shìtú",
+   "g": "attempt to",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "trad": "試圖",
+   "parts": "试 try + 图 plan"
+  },
+  "使": {
+   "s": "使",
+   "py": "shǐ",
+   "g": "make, cause (someone to do)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "note": "Same as your card (不使不仁者加乎其身).",
+   "known": [
+    [
+     "使",
+     "make / send"
+    ]
+   ]
+  },
+  "对方": {
+   "s": "对方",
+   "py": "duìfāng",
+   "g": "the other party",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "trad": "對方",
+   "parts": "对 facing + 方 side",
+   "known": [
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "停止": {
+   "s": "停止",
+   "py": "tíngzhǐ",
+   "g": "stop",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.11",
+   "parts": "停 halt + 止 stop"
+  },
+  "声带": {
+   "s": "声带",
+   "py": "shēngdài",
+   "g": "vocal cords",
+   "k": "word",
+   "card": true,
+   "n": 8,
+   "src": "SCP-CN-187 非礼勿言 · 187.12",
+   "trad": "聲帶",
+   "parts": "声 sound + 带 band"
+  },
+  "木质化": {
+   "s": "木质化",
+   "py": "mùzhìhuà",
+   "g": "turn to wood, lignify",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.12",
+   "trad": "木質化",
+   "parts": "木质 woody + 化 -ify",
+   "note": "化 after a word makes \"-ise, -ify\"."
+  },
+  "内": {
+   "s": "内",
+   "py": "nèi",
+   "g": "within (after a span of time or a place)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.12",
+   "trad": "內",
+   "note": "Your card 內 (內自省).",
+   "known": [
+    [
+     "內",
+     "inside"
+    ]
+   ]
+  },
+  "腐朽": {
+   "s": "腐朽",
+   "py": "fǔxiǔ",
+   "g": "rot, decay; rotten",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.12",
+   "parts": "腐 rot + 朽 decayed",
+   "note": "朽 as in Analects 5.10: 朽木不可雕也."
+  },
+  "已": {
+   "s": "已",
+   "py": "yǐ",
+   "g": "already (formal)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "note": "Same as your card. Everyday speech: 已经.",
+   "known": [
+    [
+     "已",
+     "already / stop"
+    ]
+   ]
+  },
+  "证实": {
+   "s": "证实",
+   "py": "zhèngshí",
+   "g": "confirm, verify",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "證實",
+   "parts": "证 prove + 实 real"
+  },
+  "组成": {
+   "s": "组成",
+   "py": "zǔchéng",
+   "g": "make up, compose; composition",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "組成",
+   "parts": "组 group + 成 form",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "与": {
+   "s": "与",
+   "py": "yǔ",
+   "g": "and; with (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 6,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "與",
+   "note": "Classical survivor: your card 與, in its mainland form. Everyday speech: 和, 跟.",
+   "known": [
+    [
+     "與",
+     "and / with"
+    ]
+   ]
+  },
+  "构成": {
+   "s": "构成",
+   "py": "gòuchéng",
+   "g": "make-up, structure; constitute",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "構成",
+   "parts": "构 construct + 成 form",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "相同": {
+   "s": "相同",
+   "py": "xiāngtóng",
+   "g": "identical, the same",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "parts": "相 mutual + 同 same",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "且": {
+   "s": "且",
+   "py": "qiě",
+   "g": "and, moreover (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "note": "Classical survivor."
+  },
+  "感受": {
+   "s": "感受",
+   "py": "gǎnshòu",
+   "g": "feel, experience",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "parts": "感 feel + 受 receive"
+  },
+  "舒适": {
+   "s": "舒适",
+   "py": "shūshì",
+   "g": "comfort; comfortable",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "舒適",
+   "parts": "舒 relaxed + 适 suited",
+   "known": [
+    [
+     "適",
+     "go to"
+    ]
+   ]
+  },
+  "解脱": {
+   "s": "解脱",
+   "py": "jiětuō",
+   "g": "release, be set free",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.13",
+   "trad": "解脫",
+   "parts": "解 untie + 脱 shed"
+  },
+  "根据": {
+   "s": "根据",
+   "py": "gēnjù",
+   "g": "according to, on the basis of",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "根據",
+   "parts": "根 root + 据 base on"
+  },
+  "此后": {
+   "s": "此后",
+   "py": "cǐhòu",
+   "g": "after this, thereafter",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "此後",
+   "parts": "此 this + 后 after"
+  },
+  "通过": {
+   "s": "通过",
+   "py": "tōngguò",
+   "g": "by means of, through; pass",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "通過",
+   "parts": "通 through + 过 pass",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "书写": {
+   "s": "书写",
+   "py": "shūxiě",
+   "g": "write; writing",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "書寫",
+   "parts": "书 write + 写 write"
+  },
+  "等": {
+   "s": "等",
+   "py": "děng",
+   "g": "and so on, etc.",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "note": "After a list or an example: 书写等方式 \"writing and other means\"."
+  },
+  "方式": {
+   "s": "方式",
+   "py": "fāngshì",
+   "g": "way, manner, means",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "parts": "方 method + 式 form",
+   "known": [
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "交流": {
+   "s": "交流",
+   "py": "jiāoliú",
+   "g": "communicate; exchange",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "parts": "交 exchange + 流 flow"
+  },
+  "显示": {
+   "s": "显示",
+   "py": "xiǎnshì",
+   "g": "show, indicate",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "顯示",
+   "parts": "显 evident + 示 show"
+  },
+  "失去": {
+   "s": "失去",
+   "py": "shīqù",
+   "g": "lose",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "parts": "失 lose + 去 gone",
+   "note": "失 is in your cards.",
+   "known": [
+    [
+     "失",
+     "lose"
+    ],
+    [
+     "去",
+     "leave"
+    ]
+   ]
+  },
+  "现状": {
+   "s": "现状",
+   "py": "xiànzhuàng",
+   "g": "present state",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "現狀",
+   "parts": "现 present + 状 condition"
+  },
+  "感到": {
+   "s": "感到",
+   "py": "gǎndào",
+   "g": "feel",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "parts": "感 feel + 到 reach"
+  },
+  "平静": {
+   "s": "平静",
+   "py": "píngjìng",
+   "g": "calm",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "平靜",
+   "parts": "平 level + 静 still"
+  },
+  "满足": {
+   "s": "满足",
+   "py": "mǎnzú",
+   "g": "contentment; satisfied",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.14",
+   "trad": "滿足",
+   "parts": "满 full + 足 enough",
+   "note": "足 is in your cards.",
+   "known": [
+    [
+     "足",
+     "enough"
+    ]
+   ]
+  },
+  "当": {
+   "s": "当",
+   "py": "dāng",
+   "g": "when (当…时)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "trad": "當"
+  },
+  "再次": {
+   "s": "再次",
+   "py": "zàicì",
+   "g": "once again",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "再 again + 次 time",
+   "known": [
+    [
+     "次",
+     "next"
+    ]
+   ]
+  },
+  "时": {
+   "s": "时",
+   "py": "shí",
+   "g": "when, at the time of (after a clause)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "trad": "時",
+   "note": "Classical 時. Everyday speech: …的时候.",
+   "known": [
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "加快": {
+   "s": "加快",
+   "py": "jiākuài",
+   "g": "speed up",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "加 add + 快 fast",
+   "known": [
+    [
+     "加",
+     "add"
+    ]
+   ]
+  },
+  "阶段": {
+   "s": "阶段",
+   "py": "jiēduàn",
+   "g": "stage, phase",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "trad": "階段",
+   "parts": "阶 step + 段 section"
+  },
+  "进程": {
+   "s": "进程",
+   "py": "jìnchéng",
+   "g": "progress, course",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "trad": "進程",
+   "parts": "进 advance + 程 journey"
+  },
+  "程度": {
+   "s": "程度",
+   "py": "chéngdù",
+   "g": "degree, extent",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "程 measure + 度 degree"
+  },
+  "依": {
+   "s": "依",
+   "py": "yī",
+   "g": "according to, in proportion to (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15"
+  },
+  "自": {
+   "s": "自",
+   "py": "zì",
+   "g": "from, since (formal)",
+   "k": "grammar",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "note": "Classical survivor, same as your card. Everyday speech: 从.",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ]
+   ]
+  },
+  "初次": {
+   "s": "初次",
+   "py": "chūcì",
+   "g": "first time",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "初 first + 次 time",
+   "known": [
+    [
+     "次",
+     "next"
+    ]
+   ]
+  },
+  "相距": {
+   "s": "相距",
+   "py": "xiāngjù",
+   "g": "be apart; the distance between",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "相 mutual + 距 distance",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "提高": {
+   "s": "提高",
+   "py": "tígāo",
+   "g": "raise, increase",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.15",
+   "parts": "提 lift + 高 high"
+  },
+  "相隔": {
+   "s": "相隔",
+   "py": "xiānggé",
+   "g": "be separated by (a time, a distance)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.16",
+   "parts": "相 mutual + 隔 separate",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "天": {
+   "s": "天",
+   "py": "tiān",
+   "g": "day",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.16",
+   "note": "In your cards 天 is \"heaven\". \"Day\" is the everyday modern sense.",
+   "known": [
+    [
+     "天",
+     "heaven"
+    ]
+   ]
+  },
+  "皆": {
+   "s": "皆",
+   "py": "jiē",
+   "g": "all (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.16",
+   "note": "Classical survivor. Everyday speech: 都."
+  },
+  "损伤": {
+   "s": "损伤",
+   "py": "sǔnshāng",
+   "g": "damage, injure",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.16",
+   "trad": "損傷",
+   "parts": "损 harm + 伤 wound"
+  },
+  "使用": {
+   "s": "使用",
+   "py": "shǐyòng",
+   "g": "use",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "parts": "使 employ + 用 use",
+   "known": [
+    [
+     "使",
+     "make / send"
+    ],
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "冲动": {
+   "s": "冲动",
+   "py": "chōngdòng",
+   "g": "impulse",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "trad": "衝動",
+   "parts": "冲 rush + 动 move"
+  },
+  "开始": {
+   "s": "开始",
+   "py": "kāishǐ",
+   "g": "begin, start; beginning",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "trad": "開始",
+   "parts": "开 open + 始 begin"
+  },
+  "但": {
+   "s": "但",
+   "py": "dàn",
+   "g": "but",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "note": "The short form of 但是."
+  },
+  "实施": {
+   "s": "实施",
+   "py": "shíshī",
+   "g": "carry out, put into effect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "trad": "實施",
+   "parts": "实 real + 施 carry out",
+   "known": [
+    [
+     "施",
+     "impose"
+    ]
+   ]
+  },
+  "成功": {
+   "s": "成功",
+   "py": "chénggōng",
+   "g": "succeed; success",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.17",
+   "parts": "成 complete + 功 achievement",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "以下": {
+   "s": "以下",
+   "py": "yǐxià",
+   "g": "below, under; the following",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.18",
+   "parts": "以 from + 下 down",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ],
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "间接": {
+   "s": "间接",
+   "py": "jiànjiē",
+   "g": "indirect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.18",
+   "trad": "間接",
+   "parts": "间 gap + 接 connect",
+   "known": [
+    [
+     "間",
+     "interval"
+    ]
+   ]
+  },
+  "反应": {
+   "s": "反应",
+   "py": "fǎnyìng",
+   "g": "reaction, response",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.18",
+   "trad": "反應",
+   "parts": "反 back + 应 respond"
+  },
+  "此外": {
+   "s": "此外",
+   "py": "cǐwài",
+   "g": "besides, in addition",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "parts": "此 this + 外 outside"
+  },
+  "若": {
+   "s": "若",
+   "py": "ruò",
+   "g": "if (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "note": "Classical survivor. Everyday speech: 如果."
+  },
+  "因": {
+   "s": "因",
+   "py": "yīn",
+   "g": "because of (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "note": "Classical survivor. Everyday speech: 因为. 因 A 而 B: \"B because of A\"."
+  },
+  "中文": {
+   "s": "中文",
+   "py": "Zhōngwén",
+   "g": "Chinese (the language)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "parts": "中 China + 文 writing"
+  },
+  "或": {
+   "s": "或",
+   "py": "huò",
+   "g": "or",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19"
+  },
+  "汉字": {
+   "s": "汉字",
+   "py": "Hànzì",
+   "g": "Chinese characters",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "trad": "漢字",
+   "parts": "汉 Han (Chinese) + 字 character"
+  },
+  "字句": {
+   "s": "字句",
+   "py": "zìjù",
+   "g": "words and phrases, wording",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.19",
+   "parts": "字 character + 句 sentence"
+  },
+  "结果": {
+   "s": "结果",
+   "py": "jiéguǒ",
+   "g": "result",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "結果",
+   "parts": "结 bear + 果 fruit"
+  },
+  "初步": {
+   "s": "初步",
+   "py": "chūbù",
+   "g": "preliminary",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "parts": "初 first + 步 step"
+  },
+  "推断": {
+   "s": "推断",
+   "py": "tuīduàn",
+   "g": "infer, conclude",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "推斷",
+   "parts": "推 reason out + 断 judge"
+  },
+  "暴力": {
+   "s": "暴力",
+   "py": "bàolì",
+   "g": "violence",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "parts": "暴 violent + 力 force",
+   "known": [
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "倾向": {
+   "s": "倾向",
+   "py": "qīngxiàng",
+   "g": "tendency",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "傾向",
+   "parts": "倾 lean + 向 toward"
+  },
+  "来源": {
+   "s": "来源",
+   "py": "láiyuán",
+   "g": "source, origin; originate",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "來源",
+   "parts": "来 come + 源 source",
+   "note": "来源于 \"comes from\".",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "主观": {
+   "s": "主观",
+   "py": "zhǔguān",
+   "g": "subjective",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "主觀",
+   "parts": "主 self + 观 view",
+   "known": [
+    [
+     "觀",
+     "observe"
+    ]
+   ]
+  },
+  "意愿": {
+   "s": "意愿",
+   "py": "yìyuàn",
+   "g": "will, wish",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "意願",
+   "parts": "意 intent + 愿 wish"
+  },
+  "评价": {
+   "s": "评价",
+   "py": "píngjià",
+   "g": "evaluate, judge; evaluation",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "評價",
+   "parts": "评 judge + 价 value"
+  },
+  "导致": {
+   "s": "导致",
+   "py": "dǎozhì",
+   "g": "lead to, cause",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "trad": "導致",
+   "parts": "导 lead + 致 bring about",
+   "note": "Usually for bad outcomes."
+  },
+  "自控": {
+   "s": "自控",
+   "py": "zìkòng",
+   "g": "self-control",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "parts": "自 self + 控 control",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ]
+   ]
+  },
+  "能力": {
+   "s": "能力",
+   "py": "nénglì",
+   "g": "ability, capacity",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "parts": "能 able + 力 strength",
+   "known": [
+    [
+     "能",
+     "able"
+    ],
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "缺失": {
+   "s": "缺失",
+   "py": "quēshī",
+   "g": "lack, loss; be missing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.21",
+   "parts": "缺 lack + 失 lose",
+   "known": [
+    [
+     "失",
+     "lose"
+    ]
+   ]
+  },
+  "同时": {
+   "s": "同时",
+   "py": "tóngshí",
+   "g": "at the same time",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.22",
+   "trad": "同時",
+   "parts": "同 same + 时 time",
+   "known": [
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "失控": {
+   "s": "失控",
+   "py": "shīkòng",
+   "g": "lose control",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.22",
+   "parts": "失 lose + 控 control",
+   "known": [
+    [
+     "失",
+     "lose"
+    ]
+   ]
+  },
+  "现象": {
+   "s": "现象",
+   "py": "xiànxiàng",
+   "g": "phenomenon",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.22",
+   "trad": "現象",
+   "parts": "现 appear + 象 image"
+  },
+  "缺乏": {
+   "s": "缺乏",
+   "py": "quēfá",
+   "g": "lack, be short of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.22",
+   "parts": "缺 lack + 乏 short of"
+  },
+  "认识": {
+   "s": "认识",
+   "py": "rènshi",
+   "g": "understanding; know, recognise",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.22",
+   "trad": "認識",
+   "parts": "认 recognise + 识 know",
+   "note": "识 is your 識.",
+   "known": [
+    [
+     "識",
+     "remember"
+    ]
+   ]
+  },
+  "附录": {
+   "s": "附录",
+   "py": "fùlù",
+   "g": "appendix",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "附錄",
+   "parts": "附 attach + 录 record"
+  },
+  "地点": {
+   "s": "地点",
+   "py": "dìdiǎn",
+   "g": "place, location",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "地點",
+   "parts": "地 ground + 点 point"
+  },
+  "标准": {
+   "s": "标准",
+   "py": "biāozhǔn",
+   "g": "standard",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "標準",
+   "parts": "标 mark + 准 norm"
+  },
+  "单人": {
+   "s": "单人",
+   "py": "dānrén",
+   "g": "single-person",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "單人",
+   "parts": "单 single + 人 person",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "实验室": {
+   "s": "实验室",
+   "py": "shíyànshì",
+   "g": "laboratory",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "實驗室",
+   "parts": "实验 experiment + 室 room"
+  },
+  "对象": {
+   "s": "对象",
+   "py": "duìxiàng",
+   "g": "subject, object, target",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "對象",
+   "parts": "对 facing + 象 figure"
+  },
+  "备注": {
+   "s": "备注",
+   "py": "bèizhù",
+   "g": "remarks, note",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "備註",
+   "parts": "备 for reference + 注 note"
+  },
+  "分钟": {
+   "s": "分钟",
+   "py": "fēnzhōng",
+   "g": "minute",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.23",
+   "trad": "分鐘",
+   "parts": "分 division + 钟 clock"
+  },
+  "晨": {
+   "s": "晨",
+   "py": "Chén",
+   "g": "Chen (a surname here; the word means \"morning\")",
+   "k": "word",
+   "card": false,
+   "n": 19,
+   "src": "SCP-CN-187 非礼勿言 · 187.24"
+  },
+  "博士": {
+   "s": "博士",
+   "py": "bóshì",
+   "g": "doctor (PhD), Dr.",
+   "k": "word",
+   "card": true,
+   "n": 21,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "parts": "博 broad + 士 scholar",
+   "note": "士 is in your cards.",
+   "known": [
+    [
+     "士",
+     "scholar"
+    ]
+   ]
+  },
+  "你好": {
+   "s": "你好",
+   "py": "nǐhǎo",
+   "g": "hello",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "parts": "你 you + 好 well",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "发出": {
+   "s": "发出",
+   "py": "fāchū",
+   "g": "give out, emit",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "trad": "發出",
+   "parts": "发 send out + 出 out",
+   "note": "发 is your 發.",
+   "known": [
+    [
+     "發",
+     "set off"
+    ],
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "艰涩": {
+   "s": "艰涩",
+   "py": "jiānsè",
+   "g": "laboured, rough (of a sound or of writing)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "trad": "艱澀",
+   "parts": "艰 hard + 涩 rough"
+  },
+  "含混": {
+   "s": "含混",
+   "py": "hánhùn",
+   "g": "indistinct, slurred",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "parts": "含 hold in + 混 muddled"
+  },
+  "声音": {
+   "s": "声音",
+   "py": "shēngyīn",
+   "g": "sound, voice",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "trad": "聲音",
+   "parts": "声 sound + 音 tone"
+  },
+  "终": {
+   "s": "终",
+   "py": "zhōng",
+   "g": "end (here the first half of 终于 \"at last\", broken by gasps)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.24",
+   "trad": "終",
+   "note": "Your card 終.",
+   "known": [
+    [
+     "終",
+     "end"
+    ]
+   ]
+  },
+  "剧烈": {
+   "s": "剧烈",
+   "py": "jùliè",
+   "g": "violent, severe",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "trad": "劇烈",
+   "parts": "剧 intense + 烈 fierce"
+  },
+  "咳嗽": {
+   "s": "咳嗽",
+   "py": "késou",
+   "g": "cough",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "parts": "咳 cough + 嗽 cough"
+  },
+  "伴有": {
+   "s": "伴有",
+   "py": "bànyǒu",
+   "g": "be accompanied by",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "parts": "伴 accompany + 有 have",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "鲜血": {
+   "s": "鲜血",
+   "py": "xiānxuè",
+   "g": "blood",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "trad": "鮮血",
+   "parts": "鲜 fresh + 血 blood",
+   "note": "鲜 is your 鮮 \"rare\", in its other sense, \"fresh\".",
+   "known": [
+    [
+     "鮮",
+     "fresh (in 1.3: rare)"
+    ]
+   ]
+  },
+  "木屑": {
+   "s": "木屑",
+   "py": "mùxiè",
+   "g": "wood chips, sawdust",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "parts": "木 wood + 屑 crumbs"
+  },
+  "喷出": {
+   "s": "喷出",
+   "py": "pēnchū",
+   "g": "spurt out",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "trad": "噴出",
+   "parts": "喷 spray + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "是否": {
+   "s": "是否",
+   "py": "shìfǒu",
+   "g": "whether; is it so or not",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "parts": "是 is + 否 not",
+   "note": "The formal yes/no question: 你是否有… \"do you have…?\"",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "生理": {
+   "s": "生理",
+   "py": "shēnglǐ",
+   "g": "physiological, bodily",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "parts": "生 life + 理 principle"
+  },
+  "不适": {
+   "s": "不适",
+   "py": "búshì",
+   "g": "discomfort; unwell",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.25",
+   "trad": "不適",
+   "parts": "不 not + 适 suited",
+   "known": [
+    [
+     "不",
+     "not"
+    ],
+    [
+     "適",
+     "go to"
+    ]
+   ]
+  },
+  "露出": {
+   "s": "露出",
+   "py": "lùchū",
+   "g": "show, reveal",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "parts": "露 expose + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "笑容": {
+   "s": "笑容",
+   "py": "xiàoróng",
+   "g": "smile",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "parts": "笑 smile + 容 face"
+  },
+  "摇": {
+   "s": "摇",
+   "py": "yáo",
+   "g": "shake",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "trad": "搖",
+   "note": "摇了摇头 \"shook his head\": a verb doubled around 了 is a brief action."
+  },
+  "头": {
+   "s": "头",
+   "py": "tóu",
+   "g": "head",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "trad": "頭"
+  },
+  "做出": {
+   "s": "做出",
+   "py": "zuòchū",
+   "g": "make, produce (a gesture, a decision)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "parts": "做 make + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "口型": {
+   "s": "口型",
+   "py": "kǒuxíng",
+   "g": "the shape of the mouth (mouthing a word)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.26",
+   "parts": "口 mouth + 型 shape"
+  },
+  "安保": {
+   "s": "安保",
+   "py": "ānbǎo",
+   "g": "security (staff)",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "parts": "安 safe + 保 protect",
+   "known": [
+    [
+     "安",
+     "at peace"
+    ]
+   ]
+  },
+  "监护": {
+   "s": "监护",
+   "py": "jiānhù",
+   "g": "guard, watch over; custody",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "監護",
+   "parts": "监 oversee + 护 protect"
+  },
+  "医学": {
+   "s": "医学",
+   "py": "yīxué",
+   "g": "medicine (the field)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "醫學",
+   "parts": "医 heal + 学 study",
+   "known": [
+    [
+     "學",
+     "learn"
+    ]
+   ]
+  },
+  "小组": {
+   "s": "小组",
+   "py": "xiǎozǔ",
+   "g": "team, small group",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "小組",
+   "parts": "小 small + 组 group",
+   "known": [
+    [
+     "小",
+     "small"
+    ]
+   ]
+  },
+  "王爱": {
+   "s": "王爱",
+   "py": "Wáng Ài",
+   "g": "Wang Ai (a name)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "王愛"
+  },
+  "检测": {
+   "s": "检测",
+   "py": "jiǎncè",
+   "g": "test, examine",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "檢測",
+   "parts": "检 inspect + 测 measure"
+  },
+  "确认": {
+   "s": "确认",
+   "py": "quèrèn",
+   "g": "confirm",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "確認",
+   "parts": "确 firm + 认 recognise"
+  },
+  "已经": {
+   "s": "已经",
+   "py": "yǐjīng",
+   "g": "already",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.27",
+   "trad": "已經",
+   "parts": "已 already + 经 pass",
+   "note": "Classical 已 alone.",
+   "known": [
+    [
+     "已",
+     "already / stop"
+    ]
+   ]
+  },
+  "由": {
+   "s": "由",
+   "py": "yóu",
+   "g": "by (marks who does it)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "note": "由安保人员提供 \"provided by the security staff\"."
+  },
+  "提供": {
+   "s": "提供",
+   "py": "tígōng",
+   "g": "provide",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "parts": "提 bring + 供 supply"
+  },
+  "张": {
+   "s": "张",
+   "py": "zhāng",
+   "g": "(counter for flat things: paper, tables)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "trad": "張"
+  },
+  "纸": {
+   "s": "纸",
+   "py": "zhǐ",
+   "g": "paper",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "trad": "紙"
+  },
+  "支": {
+   "s": "支",
+   "py": "zhī",
+   "g": "(counter for sticks: pens)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28"
+  },
+  "黑色": {
+   "s": "黑色",
+   "py": "hēisè",
+   "g": "black",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "parts": "黑 black + 色 colour",
+   "known": [
+    [
+     "色",
+     "face / colour"
+    ]
+   ]
+  },
+  "中性笔": {
+   "s": "中性笔",
+   "py": "zhōngxìngbǐ",
+   "g": "gel pen",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "trad": "中性筆",
+   "parts": "中性 neutral + 笔 pen",
+   "known": [
+    [
+     "性",
+     "nature"
+    ]
+   ]
+  },
+  "用于": {
+   "s": "用于",
+   "py": "yòngyú",
+   "g": "be used for",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "trad": "用於",
+   "parts": "用 use + 于 for",
+   "known": [
+    [
+     "用",
+     "use"
+    ],
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "交谈": {
+   "s": "交谈",
+   "py": "jiāotán",
+   "g": "converse, talk",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.28",
+   "trad": "交談",
+   "parts": "交 exchange + 谈 talk"
+  },
+  "注意": {
+   "s": "注意",
+   "py": "zhùyì",
+   "g": "notice; pay attention",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "parts": "注 fix on + 意 mind"
+  },
+  "有所": {
+   "s": "有所",
+   "py": "yǒusuǒ",
+   "g": "somewhat, to some extent",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "parts": "有 have + 所 that which",
+   "note": "Formal: 有所异常 \"there is something abnormal\".",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ],
+    [
+     "所",
+     "that which"
+    ]
+   ]
+  },
+  "异常": {
+   "s": "异常",
+   "py": "yìcháng",
+   "g": "abnormal; abnormality",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "trad": "異常",
+   "parts": "异 different + 常 usual"
+  },
+  "简直": {
+   "s": "简直",
+   "py": "jiǎnzhí",
+   "g": "simply, downright",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "trad": "簡直",
+   "parts": "简 simple + 直 straight"
+  },
+  "人生": {
+   "s": "人生",
+   "py": "rénshēng",
+   "g": "life, one's life",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "parts": "人 person + 生 life",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "最": {
+   "s": "最",
+   "py": "zuì",
+   "g": "most, -est",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29"
+  },
+  "美好": {
+   "s": "美好",
+   "py": "měihǎo",
+   "g": "fine, wonderful",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "parts": "美 beautiful + 好 good",
+   "note": "美 is in your cards (里仁為美).",
+   "known": [
+    [
+     "美",
+     "beautiful"
+    ],
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "时刻": {
+   "s": "时刻",
+   "py": "shíkè",
+   "g": "moment",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.29",
+   "trad": "時刻",
+   "parts": "时 time + 刻 moment",
+   "known": [
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "请": {
+   "s": "请",
+   "py": "qǐng",
+   "g": "please; ask, invite",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "trad": "請"
+  },
+  "说明": {
+   "s": "说明",
+   "py": "shuōmíng",
+   "g": "explain, state",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "trad": "說明",
+   "parts": "说 say + 明 clear",
+   "known": [
+    [
+     "說",
+     "speak (in 1.1: delight)"
+    ]
+   ]
+  },
+  "理由": {
+   "s": "理由",
+   "py": "lǐyóu",
+   "g": "reason, grounds",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "parts": "理 reason + 由 cause"
+  },
+  "终于": {
+   "s": "终于",
+   "py": "zhōngyú",
+   "g": "at last, finally",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "trad": "終於",
+   "parts": "终 end + 于 at",
+   "known": [
+    [
+     "終",
+     "end"
+    ],
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "不用": {
+   "s": "不用",
+   "py": "búyòng",
+   "g": "need not",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "parts": "不 not + 用 use",
+   "known": [
+    [
+     "不",
+     "not"
+    ],
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "失礼": {
+   "s": "失礼",
+   "py": "shīlǐ",
+   "g": "be impolite, breach etiquette",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "trad": "失禮",
+   "parts": "失 lose + 礼 ritual",
+   "note": "The Analects' 禮, lost.",
+   "known": [
+    [
+     "失",
+     "lose"
+    ],
+    [
+     "禮",
+     "ritual"
+    ]
+   ]
+  },
+  "真": {
+   "s": "真",
+   "py": "zhēn",
+   "g": "really, truly; real",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30"
+  },
+  "棒": {
+   "s": "棒",
+   "py": "bàng",
+   "g": "great, excellent (colloquial); a stick",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30"
+  },
+  "应该": {
+   "s": "应该",
+   "py": "yīnggāi",
+   "g": "should, ought to",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.30",
+   "trad": "應該",
+   "parts": "应 ought + 该 ought"
+  },
+  "正在": {
+   "s": "正在",
+   "py": "zhèngzài",
+   "g": "be in the middle of (doing)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "parts": "正 just + 在 at",
+   "known": [
+    [
+     "在",
+     "be there"
+    ]
+   ]
+  },
+  "发声": {
+   "s": "发声",
+   "py": "fāshēng",
+   "g": "produce voice, speak aloud",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "trad": "發聲",
+   "parts": "发 send out + 声 sound",
+   "known": [
+    [
+     "發",
+     "set off"
+    ]
+   ]
+  },
+  "将": {
+   "s": "将",
+   "py": "jiāng",
+   "g": "will, be about to (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "trad": "將",
+   "note": "Classical survivor: your card 將.",
+   "known": [
+    [
+     "將",
+     "about to"
+    ]
+   ]
+  },
+  "归类": {
+   "s": "归类",
+   "py": "guīlèi",
+   "g": "classify",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "trad": "歸類",
+   "parts": "归 belong + 类 category"
+  },
+  "级": {
+   "s": "级",
+   "py": "jí",
+   "g": "grade, level, class",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "trad": "級",
+   "note": "一级 \"grade one\"."
+  },
+  "残疾": {
+   "s": "残疾",
+   "py": "cánjí",
+   "g": "disability",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "trad": "殘疾",
+   "parts": "残 damaged + 疾 illness"
+  },
+  "行列": {
+   "s": "行列",
+   "py": "hángliè",
+   "g": "ranks",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.31",
+   "parts": "行 row + 列 line",
+   "note": "Here 行 is read háng, \"row\".",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "根本": {
+   "s": "根本",
+   "py": "gēnběn",
+   "g": "at all, fundamentally; root",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "parts": "根 root + 本 root",
+   "note": "根本不是 \"is not … at all\"."
+  },
+  "健康": {
+   "s": "健康",
+   "py": "jiànkāng",
+   "g": "healthy; health",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "parts": "健 strong + 康 well"
+  },
+  "应有": {
+   "s": "应有",
+   "py": "yīngyǒu",
+   "g": "proper, that one ought to have",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "trad": "應有",
+   "parts": "应 ought + 有 have",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "姿态": {
+   "s": "姿态",
+   "py": "zītài",
+   "g": "posture, bearing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "trad": "姿態",
+   "parts": "姿 looks + 态 state"
+  },
+  "罪恶": {
+   "s": "罪恶",
+   "py": "zuì'è",
+   "g": "evil, sin",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "trad": "罪惡",
+   "parts": "罪 crime + 恶 evil",
+   "note": "恶 is your 惡, here read è.",
+   "known": [
+    [
+     "惡",
+     "hate / bad"
+    ]
+   ]
+  },
+  "源泉": {
+   "s": "源泉",
+   "py": "yuánquán",
+   "g": "source, fountainhead",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.32",
+   "parts": "源 source + 泉 spring"
+  },
+  "变得": {
+   "s": "变得",
+   "py": "biànde",
+   "g": "become, turn",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "變得",
+   "parts": "变 change + 得 (result)",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "混乱": {
+   "s": "混乱",
+   "py": "hùnluàn",
+   "g": "chaotic, confused; chaos",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "混亂",
+   "parts": "混 mix + 乱 disorder"
+  },
+  "情绪": {
+   "s": "情绪",
+   "py": "qíngxù",
+   "g": "mood, emotions",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "情緒",
+   "parts": "情 feeling + 绪 thread"
+  },
+  "激动": {
+   "s": "激动",
+   "py": "jīdòng",
+   "g": "agitated, worked up",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "激動",
+   "parts": "激 stir + 动 move"
+  },
+  "将@ba": {
+   "s": "将",
+   "py": "jiāng",
+   "g": "(taking); the formal 把: puts the object before the verb",
+   "k": "grammar",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "將",
+   "note": "将笔掷向… \"take the pen and throw it at…\".",
+   "known": [
+    [
+     "將",
+     "about to"
+    ]
+   ]
+  },
+  "笔": {
+   "s": "笔",
+   "py": "bǐ",
+   "g": "pen",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "筆"
+  },
+  "掷": {
+   "s": "掷",
+   "py": "zhì",
+   "g": "throw, hurl",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "擲"
+  },
+  "向": {
+   "s": "向",
+   "py": "xiàng",
+   "g": "toward, at",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.33"
+  },
+  "躲过": {
+   "s": "躲过",
+   "py": "duǒguò",
+   "g": "dodge",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.33",
+   "trad": "躲過",
+   "parts": "躲 dodge + 过 past",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "制服": {
+   "s": "制服",
+   "py": "zhìfú",
+   "g": "subdue; uniform",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "parts": "制 control + 服 submit"
+  },
+  "取回": {
+   "s": "取回",
+   "py": "qǔhuí",
+   "g": "take back, retrieve",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "parts": "取 take + 回 back"
+  },
+  "前往": {
+   "s": "前往",
+   "py": "qiánwǎng",
+   "g": "go to, head for (formal)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "parts": "前 forward + 往 go"
+  },
+  "间": {
+   "s": "间",
+   "py": "jiān",
+   "g": "room (after a word naming its use)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "trad": "間",
+   "note": "观察间 \"observation room\". Your card 間 \"interval\".",
+   "known": [
+    [
+     "間",
+     "interval"
+    ]
+   ]
+  },
+  "壁挂式": {
+   "s": "壁挂式",
+   "py": "bìguàshì",
+   "g": "wall-mounted",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "trad": "壁掛式",
+   "parts": "壁 wall + 挂 hang + 式 style"
+  },
+  "扩音器": {
+   "s": "扩音器",
+   "py": "kuòyīnqì",
+   "g": "loudspeaker",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.34",
+   "trad": "擴音器",
+   "parts": "扩 expand + 音 sound + 器 device",
+   "note": "器 is in your cards (君子不器).",
+   "known": [
+    [
+     "器",
+     "vessel / tool"
+    ]
+   ]
+  },
+  "意识": {
+   "s": "意识",
+   "py": "yìshí",
+   "g": "be aware; consciousness",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.35",
+   "trad": "意識",
+   "parts": "意 mind + 识 know",
+   "note": "意识到 \"realise\".",
+   "known": [
+    [
+     "識",
+     "remember"
+    ]
+   ]
+  },
+  "远远": {
+   "s": "远远",
+   "py": "yuǎnyuǎn",
+   "g": "by far, far",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.35",
+   "trad": "遠遠",
+   "parts": "远 far, doubled",
+   "known": [
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "不同": {
+   "s": "不同",
+   "py": "bùtóng",
+   "g": "different",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.35",
+   "parts": "不 not + 同 same",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "正常": {
+   "s": "正常",
+   "py": "zhèngcháng",
+   "g": "normal",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.35",
+   "parts": "正 regular + 常 usual"
+  },
+  "愤怒": {
+   "s": "愤怒",
+   "py": "fènnù",
+   "g": "angry; anger",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "trad": "憤怒",
+   "parts": "愤 indignant + 怒 anger",
+   "note": "愤 is your 憤 (不憤不啟).",
+   "known": [
+    [
+     "憤",
+     "burst with effort"
+    ]
+   ]
+  },
+  "嘶吼": {
+   "s": "嘶吼",
+   "py": "sīhǒu",
+   "g": "howl, roar hoarsely",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "parts": "嘶 hoarse + 吼 roar"
+  },
+  "起来": {
+   "s": "起来",
+   "py": "qǐlai",
+   "g": "(after a verb) start to; up",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "trad": "起來",
+   "note": "嘶吼起来 \"began to howl\"; 折叠起来 \"fold up\".",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "从": {
+   "s": "从",
+   "py": "cóng",
+   "g": "from",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "trad": "從",
+   "note": "Classical 自. Your card 從 is \"follow\" (4.18); \"from\" is the common modern sense.",
+   "known": [
+    [
+     "從",
+     "follow"
+    ]
+   ]
+  },
+  "口": {
+   "s": "口",
+   "py": "kǒu",
+   "g": "mouth",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "note": "Same as your card."
+  },
+  "大量": {
+   "s": "大量",
+   "py": "dàliàng",
+   "g": "a large amount of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "parts": "大 big + 量 quantity"
+  },
+  "之后": {
+   "s": "之后",
+   "py": "zhīhòu",
+   "g": "afterwards, after",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "trad": "之後",
+   "parts": "之 of that + 后 after",
+   "note": "之 is the classical \"of\".",
+   "known": [
+    [
+     "之",
+     "it / of / go"
+    ]
+   ]
+  },
+  "完全": {
+   "s": "完全",
+   "py": "wánquán",
+   "g": "completely",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.36",
+   "parts": "完 whole + 全 entire"
+  },
+  "您好": {
+   "s": "您好",
+   "py": "nínhǎo",
+   "g": "hello (polite)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.38",
+   "parts": "您 you (polite) + 好 well",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "某些": {
+   "s": "某些",
+   "py": "mǒuxiē",
+   "g": "some, certain",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.38",
+   "parts": "某 a certain + 些 some"
+  },
+  "表情": {
+   "s": "表情",
+   "py": "biǎoqíng",
+   "g": "(facial) expression",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.39",
+   "parts": "表 surface + 情 feeling"
+  },
+  "份": {
+   "s": "份",
+   "py": "fèn",
+   "g": "(counter for copies, documents, portions)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.39"
+  },
+  "抢劫": {
+   "s": "抢劫",
+   "py": "qiǎngjié",
+   "g": "robbery; rob",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.39",
+   "trad": "搶劫",
+   "parts": "抢 snatch + 劫 plunder"
+  },
+  "案件": {
+   "s": "案件",
+   "py": "ànjiàn",
+   "g": "(legal) case",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.39",
+   "parts": "案 case + 件 item"
+  },
+  "报告": {
+   "s": "报告",
+   "py": "bàogào",
+   "g": "report",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.39",
+   "trad": "報告",
+   "parts": "报 report + 告 tell"
+  },
+  "告诉": {
+   "s": "告诉",
+   "py": "gàosu",
+   "g": "tell",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.40",
+   "trad": "告訴",
+   "parts": "告 tell + 诉 inform"
+  },
+  "阅读": {
+   "s": "阅读",
+   "py": "yuèdú",
+   "g": "read (formal)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.40",
+   "trad": "閱讀",
+   "parts": "阅 look over + 读 read",
+   "note": "Everyday speech: 看, 读."
+  },
+  "完": {
+   "s": "完",
+   "py": "wán",
+   "g": "(after a verb) finish …-ing",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.40",
+   "note": "阅读完 \"finish reading\"."
+  },
+  "材料": {
+   "s": "材料",
+   "py": "cáiliào",
+   "g": "material, document",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-187 非礼勿言 · 187.40",
+   "parts": "材 material + 料 stuff"
+  },
+  "看法": {
+   "s": "看法",
+   "py": "kànfǎ",
+   "g": "view, opinion",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.40",
+   "parts": "看 look + 法 way"
+  },
+  "抱歉": {
+   "s": "抱歉",
+   "py": "bàoqiàn",
+   "g": "sorry",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "parts": "抱 hold + 歉 regret"
+  },
+  "但是": {
+   "s": "但是",
+   "py": "dànshì",
+   "g": "but",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "parts": "但 but + 是",
+   "known": [
+    [
+     "是",
+     "this"
+    ]
+   ]
+  },
+  "继续": {
+   "s": "继续",
+   "py": "jìxù",
+   "g": "continue",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "trad": "繼續",
+   "parts": "继 continue + 续 carry on"
+  },
+  "尽力": {
+   "s": "尽力",
+   "py": "jìnlì",
+   "g": "do one's best",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "trad": "盡力",
+   "parts": "尽 use up + 力 strength",
+   "known": [
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "显得": {
+   "s": "显得",
+   "py": "xiǎnde",
+   "g": "appear, seem",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "trad": "顯得",
+   "parts": "显 evident + 得 (result)",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "十分": {
+   "s": "十分",
+   "py": "shífēn",
+   "g": "very, fully",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "parts": "十 ten + 分 parts",
+   "note": "\"Ten parts out of ten.\"",
+   "known": [
+    [
+     "十",
+     "ten"
+    ]
+   ]
+  },
+  "冷漠": {
+   "s": "冷漠",
+   "py": "lěngmò",
+   "g": "cold, indifferent",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "parts": "冷 cold + 漠 indifferent"
+  },
+  "完毕": {
+   "s": "完毕",
+   "py": "wánbì",
+   "g": "finish, be done (formal)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "trad": "完畢",
+   "parts": "完 finish + 毕 complete"
+  },
+  "折叠": {
+   "s": "折叠",
+   "py": "zhédié",
+   "g": "fold",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.41",
+   "trad": "摺疊",
+   "parts": "折 bend + 叠 pile up"
+  },
+  "没什么": {
+   "s": "没什么",
+   "py": "méi shénme",
+   "g": "nothing; it's nothing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.42",
+   "trad": "沒什麼",
+   "parts": "没 not have + 什么 anything"
+  },
+  "而且": {
+   "s": "而且",
+   "py": "érqiě",
+   "g": "moreover, and besides",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.42",
+   "parts": "而 and + 且 moreover",
+   "note": "Both halves are classical particles.",
+   "known": [
+    [
+     "而",
+     "and / and yet"
+    ]
+   ]
+  },
+  "肆意": {
+   "s": "肆意",
+   "py": "sìyì",
+   "g": "wantonly, as one pleases",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.42",
+   "parts": "肆 unrestrained + 意 will"
+  },
+  "评判": {
+   "s": "评判",
+   "py": "píngpàn",
+   "g": "judge, pass judgement",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.42",
+   "trad": "評判",
+   "parts": "评 judge + 判 decide"
+  },
+  "礼貌": {
+   "s": "礼貌",
+   "py": "lǐmào",
+   "g": "polite; manners",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.42",
+   "trad": "禮貌",
+   "parts": "礼 ritual + 貌 appearance",
+   "known": [
+    [
+     "禮",
+     "ritual"
+    ]
+   ]
+  },
+  "私下": {
+   "s": "私下",
+   "py": "sīxià",
+   "g": "private; in private",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "parts": "私 private + 下 below",
+   "known": [
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "谈话": {
+   "s": "谈话",
+   "py": "tánhuà",
+   "g": "talk, conversation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "trad": "談話",
+   "parts": "谈 talk + 话 words"
+  },
+  "不必": {
+   "s": "不必",
+   "py": "búbì",
+   "g": "need not",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "parts": "不 not + 必 must",
+   "note": "必 is in your cards.",
+   "known": [
+    [
+     "不",
+     "not"
+    ],
+    [
+     "必",
+     "surely"
+    ]
+   ]
+  },
+  "太过": {
+   "s": "太过",
+   "py": "tàiguò",
+   "g": "too, excessively",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "trad": "太過",
+   "parts": "太 too + 过 beyond",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "敏感": {
+   "s": "敏感",
+   "py": "mǐngǎn",
+   "g": "sensitive",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "parts": "敏 quick + 感 feel",
+   "note": "敏 is your 敏 \"quick\" (敏於行).",
+   "known": [
+    [
+     "敏",
+     "quick"
+    ]
+   ]
+  },
+  "神情": {
+   "s": "神情",
+   "py": "shénqíng",
+   "g": "look, expression",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "parts": "神 spirit + 情 feeling"
+  },
+  "打断": {
+   "s": "打断",
+   "py": "dǎduàn",
+   "g": "interrupt; break",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "trad": "打斷",
+   "parts": "打 strike + 断 break off"
+  },
+  "话": {
+   "s": "话",
+   "py": "huà",
+   "g": "words, talk",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.43",
+   "trad": "話"
+  },
+  "种": {
+   "s": "种",
+   "py": "zhǒng",
+   "g": "kind, sort (also a counter)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.44",
+   "trad": "種",
+   "note": "这种事 \"this kind of thing\"."
+  },
+  "无论如何": {
+   "s": "无论如何",
+   "py": "wúlùn rúhé",
+   "g": "no matter what, in any case",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.44",
+   "trad": "無論如何",
+   "parts": "无论 regardless + 如何 how",
+   "note": "如何 is classical \"how\"; 无 is your 無.",
+   "known": [
+    [
+     "無",
+     "have no"
+    ],
+    [
+     "如",
+     "like"
+    ],
+    [
+     "何",
+     "what / how"
+    ]
+   ]
+  },
+  "好吧": {
+   "s": "好吧",
+   "py": "hǎo ba",
+   "g": "all right, fine",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-187 非礼勿言 · 187.44",
+   "parts": "好 good + 吧 (softens: agreement, suggestion)",
+   "known": [
+    [
+     "好",
+     "love / good"
+    ]
+   ]
+  },
+  "冷静": {
+   "s": "冷静",
+   "py": "lěngjìng",
+   "g": "calm, cool-headed",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.44",
+   "trad": "冷靜",
+   "parts": "冷 cold + 静 still"
+  },
+  "撕碎": {
+   "s": "撕碎",
+   "py": "sīsuì",
+   "g": "tear to pieces",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45",
+   "parts": "撕 tear + 碎 broken bits"
+  },
+  "揉": {
+   "s": "揉",
+   "py": "róu",
+   "g": "rub, crumple",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45"
+  },
+  "成": {
+   "s": "成",
+   "py": "chéng",
+   "g": "(after a verb) into",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45",
+   "note": "揉成球 \"crumple into a ball\". Your card 成 \"complete\".",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "球": {
+   "s": "球",
+   "py": "qiú",
+   "g": "ball",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45"
+  },
+  "越过": {
+   "s": "越过",
+   "py": "yuèguò",
+   "g": "cross over, get over",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45",
+   "trad": "越過",
+   "parts": "越 cross + 过 past",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "桌子": {
+   "s": "桌子",
+   "py": "zhuōzi",
+   "g": "table, desk",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45",
+   "parts": "桌 table + 子 (noun ending)",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "制止": {
+   "s": "制止",
+   "py": "zhìzhǐ",
+   "g": "stop, restrain",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-187 非礼勿言 · 187.45",
+   "parts": "制 control + 止 stop"
+  }
+ }
+}

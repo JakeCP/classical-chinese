@@ -7,6 +7,14 @@ report to paste into the weekly chat with Claude.
 
 Plain HTML, CSS and JavaScript. No build step, no external requests.
 
+## Two shelves
+
+Home has a **Classical | Modern** switch. Classical is the Analects. Modern is
+modern Chinese in simplified characters (`../modern/`): the text is cut into
+words, and tapping a word shows its meaning, parts, traditional form and the
+Analects cards its characters already have. Marks, lookups and the report cover
+both shelves.
+
 ## Updating the content
 
 `data/` and `version.json` are generated. From the parent project run:

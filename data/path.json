@@ -1,0 +1,3824 @@
+{
+ "total": 3000,
+ "stage_size": 100,
+ "stages": [
+  {
+   "n": 1,
+   "title": "The sentence builders",
+   "file": "data/path-01.json",
+   "chars": "是在有不没的了么被他你们作但人个会一小多最全分大天美国民政主公法这过进而与以于为当上下中里前后地也都还就日月年来出到行发动经看现说学吗和可同时对得家定实好如要本机新部那开关之其所工业事用成我自方子生能",
+   "groups": [
+    [
+     "be, have, not",
+     5
+    ],
+    [
+     "grammar markers",
+     4
+    ],
+    [
+     "person 亻",
+     5
+    ],
+    [
+     "person 人 on top",
+     3
+    ],
+    [
+     "size and number",
+     6
+    ],
+    [
+     "big 大",
+     3
+    ],
+    [
+     "people and the state",
+     6
+    ],
+    [
+     "walk 辶",
+     3
+    ],
+    [
+     "linking words",
+     6
+    ],
+    [
+     "where things are",
+     7
+    ],
+    [
+     "before the verb",
+     4
+    ],
+    [
+     "days and years",
+     3
+    ],
+    [
+     "coming and going",
+     7
+    ],
+    [
+     "see, say, learn",
+     4
+    ],
+    [
+     "mouth 口",
+     4
+    ],
+    [
+     "inch 寸",
+     3
+    ],
+    [
+     "roof 宀",
+     3
+    ],
+    [
+     "woman 女",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "town 阝",
+     2
+    ],
+    [
+     "open and close",
+     2
+    ],
+    [
+     "it and its",
+     3
+    ],
+    [
+     "work and results",
+     5
+    ],
+    [
+     "single shapes",
+     6
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Thinking and linking",
+   "file": "data/path-02.json",
+   "chars": "心想意怎情性什体代位任使让认计该东西内外面三两第次因由从并及或等很更只比已将着者此些给结系样果相合名知问间起立入去高长重真正理制建产化市区场世活文题表特物力加度应教数道通女她手提点然种利期明资员电网无",
+   "groups": [
+    [
+     "heart 心 忄",
+     6
+    ],
+    [
+     "person 亻",
+     6
+    ],
+    [
+     "words 讠",
+     4
+    ],
+    [
+     "sides",
+     5
+    ],
+    [
+     "counting",
+     4
+    ],
+    [
+     "because and from",
+     3
+    ],
+    [
+     "and, or, etc.",
+     4
+    ],
+    [
+     "degree words",
+     4
+    ],
+    [
+     "grammar words",
+     4
+    ],
+    [
+     "this 此",
+     2
+    ],
+    [
+     "silk 纟 糸",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "gate 门",
+     2
+    ],
+    [
+     "rising and going",
+     4
+    ],
+    [
+     "high, long, heavy",
+     3
+    ],
+    [
+     "true and right",
+     3
+    ],
+    [
+     "making and changing",
+     4
+    ],
+    [
+     "places",
+     3
+    ],
+    [
+     "world and life",
+     2
+    ],
+    [
+     "writing",
+     3
+    ],
+    [
+     "cow 牛",
+     2
+    ],
+    [
+     "strength 力",
+     2
+    ],
+    [
+     "lean-to 广",
+     2
+    ],
+    [
+     "tap 攵",
+     2
+    ],
+    [
+     "walk 辶",
+     2
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "hand 手",
+     2
+    ],
+    [
+     "fire 灬",
+     2
+    ],
+    [
+     "grain 禾",
+     2
+    ],
+    [
+     "moon 月",
+     2
+    ],
+    [
+     "shell 贝",
+     2
+    ],
+    [
+     "single shapes",
+     3
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Hands, words and power",
+   "file": "data/path-03.json",
+   "chars": "做信保何件传把接持打据报话设论议记目见视规直口品号回图又反受变感总快爱今再才常十万少量元金北南向界门院府社司战军权强务处各台治始车路站运联共交基原式术它己别斯选决解统组安完科程水海放改导管影展身老至平",
+   "groups": [
+    [
+     "person 亻",
+     6
+    ],
+    [
+     "hand 扌",
+     6
+    ],
+    [
+     "words 讠",
+     5
+    ],
+    [
+     "eye 目 and see 见",
+     5
+    ],
+    [
+     "mouth 口 and box 囗",
+     5
+    ],
+    [
+     "right hand 又",
+     4
+    ],
+    [
+     "heart 心 and feeling",
+     4
+    ],
+    [
+     "time words",
+     4
+    ],
+    [
+     "numbers and amounts",
+     6
+    ],
+    [
+     "directions",
+     4
+    ],
+    [
+     "buildings and bodies",
+     5
+    ],
+    [
+     "war and power",
+     4
+    ],
+    [
+     "walking feet 夂",
+     3
+    ],
+    [
+     "terrace 台",
+     3
+    ],
+    [
+     "roads",
+     4
+    ],
+    [
+     "together",
+     3
+    ],
+    [
+     "base and method",
+     4
+    ],
+    [
+     "pointing words",
+     4
+    ],
+    [
+     "deciding",
+     3
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "roof 宀",
+     2
+    ],
+    [
+     "grain 禾",
+     2
+    ],
+    [
+     "water 水 氵",
+     2
+    ],
+    [
+     "tap 攵",
+     2
+    ],
+    [
+     "lead and manage",
+     2
+    ],
+    [
+     "shadow and display",
+     2
+    ],
+    [
+     "single shapes",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Parties and plans",
+   "file": "data/path-04.json",
+   "chars": "请语许证调指推拉技游流济况准格根条集级约线续价候像儿先克友取支难服听告吧命二四几单每党团队官领士委达造近布带师示际标划则办男必需确英亚德尔称历史书太头类山城京广求球死觉望乐收举包争干马片非气义专色形参",
+   "groups": [
+    [
+     "words 讠",
+     5
+    ],
+    [
+     "hand 扌",
+     4
+    ],
+    [
+     "water 氵 and ice 冫",
+     5
+    ],
+    [
+     "tree 木",
+     4
+    ],
+    [
+     "silk 纟",
+     4
+    ],
+    [
+     "person 亻 and 儿",
+     6
+    ],
+    [
+     "right hand 又",
+     5
+    ],
+    [
+     "mouth 口",
+     4
+    ],
+    [
+     "counting",
+     5
+    ],
+    [
+     "parties and posts",
+     7
+    ],
+    [
+     "walk 辶",
+     3
+    ],
+    [
+     "cloth 巾",
+     3
+    ],
+    [
+     "show 示",
+     3
+    ],
+    [
+     "knife 刂 and strength 力",
+     4
+    ],
+    [
+     "must and sure",
+     3
+    ],
+    [
+     "names abroad",
+     3
+    ],
+    [
+     "尔 thou",
+     2
+    ],
+    [
+     "history and books",
+     3
+    ],
+    [
+     "big 大",
+     3
+    ],
+    [
+     "places",
+     4
+    ],
+    [
+     "seek 求",
+     2
+    ],
+    [
+     "life and feeling",
+     4
+    ],
+    [
+     "doing things",
+     5
+    ],
+    [
+     "whole shapes",
+     7
+    ],
+    [
+     "hair 彡",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Study and trade",
+   "file": "data/path-05.json",
+   "chars": "港消注源清演洲便住供众查校构案亲费质赛钱啊哪器喜言识谁且却即未照易香光白容空究字孩音声响境增型转较连思息神首项走步跟离研育算写投护观欢节获局属杀击除商农医职律华州省助边创备装整具织张版料五巴象周失风希",
+   "groups": [
+    [
+     "water 氵",
+     7
+    ],
+    [
+     "person 亻 人",
+     4
+    ],
+    [
+     "tree 木",
+     5
+    ],
+    [
+     "money 贝 钅",
+     4
+    ],
+    [
+     "mouth 口",
+     4
+    ],
+    [
+     "words 言 讠",
+     3
+    ],
+    [
+     "grammar words",
+     4
+    ],
+    [
+     "sun 日 and light",
+     5
+    ],
+    [
+     "roof 宀 and cave 穴",
+     3
+    ],
+    [
+     "child 子",
+     2
+    ],
+    [
+     "sound and voice",
+     3
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "cart 车",
+     3
+    ],
+    [
+     "mind and spirit",
+     3
+    ],
+    [
+     "head",
+     2
+    ],
+    [
+     "on foot",
+     4
+    ],
+    [
+     "learning",
+     4
+    ],
+    [
+     "hands 扌 又",
+     4
+    ],
+    [
+     "grass 艹",
+     2
+    ],
+    [
+     "body 尸",
+     2
+    ],
+    [
+     "striking and removing",
+     3
+    ],
+    [
+     "work and trades",
+     5
+    ],
+    [
+     "regions",
+     3
+    ],
+    [
+     "strength 力",
+     2
+    ],
+    [
+     "getting ready",
+     5
+    ],
+    [
+     "cloth and paper",
+     4
+    ],
+    [
+     "shapes learned whole",
+     7
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Tests and trends",
+   "file": "data/path-06.json",
+   "chars": "纪维终继绝值仅例份优企越超远速随往害客察宣模极林采效故致警星早显曾试考评括控拿找戏武吃呢足王环玩火热黑深江满米精断花艺营户房族施罗兰阿独群协录存闻错病限严态势段须预责买列切功另岁够妈验复习百革兴县土引",
+   "groups": [
+    [
+     "silk 纟",
+     5
+    ],
+    [
+     "person 亻 人",
+     6
+    ],
+    [
+     "walking 走 辶 彳",
+     6
+    ],
+    [
+     "roof 宀",
+     4
+    ],
+    [
+     "tree 木",
+     4
+    ],
+    [
+     "tap 攵",
+     4
+    ],
+    [
+     "sun 日",
+     4
+    ],
+    [
+     "testing",
+     3
+    ],
+    [
+     "hand 扌",
+     3
+    ],
+    [
+     "spear 戈",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "king 王",
+     3
+    ],
+    [
+     "fire 火 灬",
+     3
+    ],
+    [
+     "water 氵",
+     3
+    ],
+    [
+     "rice 米",
+     3
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "door 户 and square 方",
+     4
+    ],
+    [
+     "names abroad",
+     3
+    ],
+    [
+     "alone and together",
+     3
+    ],
+    [
+     "keeping records",
+     3
+    ],
+    [
+     "faults and limits",
+     4
+    ],
+    [
+     "state and stage",
+     3
+    ],
+    [
+     "head 页 and shell 贝",
+     4
+    ],
+    [
+     "knife 刀 and strength 力",
+     4
+    ],
+    [
+     "evening 夕",
+     2
+    ],
+    [
+     "horse 马",
+     2
+    ],
+    [
+     "again and practise",
+     2
+    ],
+    [
+     "shapes learned whole",
+     6
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Talk, hands and family",
+   "file": "data/path-07.json",
+   "chars": "谢读讲谈诉播批排担执低伤依修假河湾测派父母夫哥叫古否占刚剧判初志念愿六半双率频居层底压欧苏尼卡防险阳编红络密室突眼置监朋股青令印卫虽仍尽福待轻域止飞角承食免围园负财简策石破送适状奖留画村积落范晚普帮席",
+   "groups": [
+    [
+     "words 讠",
+     5
+    ],
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "person 亻",
+     5
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "family",
+     4
+    ],
+    [
+     "mouth 口",
+     4
+    ],
+    [
+     "knife 刀 刂",
+     4
+    ],
+    [
+     "heart 心",
+     3
+    ],
+    [
+     "numbers and amounts",
+     5
+    ],
+    [
+     "overhangs 尸 广 厂",
+     4
+    ],
+    [
+     "names from abroad",
+     4
+    ],
+    [
+     "mound 阝",
+     3
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "roof 宀 and cave 穴",
+     3
+    ],
+    [
+     "eye 目 罒",
+     3
+    ],
+    [
+     "moon 月",
+     3
+    ],
+    [
+     "seal 卩",
+     3
+    ],
+    [
+     "grammar words",
+     3
+    ],
+    [
+     "four left sides",
+     4
+    ],
+    [
+     "single shapes",
+     6
+    ],
+    [
+     "walls 囗",
+     2
+    ],
+    [
+     "shell 贝",
+     2
+    ],
+    [
+     "bamboo ⺮",
+     2
+    ],
+    [
+     "stone 石",
+     2
+    ],
+    [
+     "walk 辶",
+     2
+    ],
+    [
+     "bed 丬",
+     2
+    ],
+    [
+     "field 田",
+     2
+    ],
+    [
+     "tree 木 and grain 禾",
+     2
+    ],
+    [
+     "grass 艹",
+     2
+    ],
+    [
+     "sun 日",
+     2
+    ],
+    [
+     "cloth 巾",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Trade, war and places",
+   "file": "data/path-08.json",
+   "chars": "换择拍按拥兵攻射斗抗罪犯款购货卖销票岛乡街馆店庭陆旅汉波油激铁银镇钟紧细纳素乎甚般互停似介审富宝养善差坚坏均脑背朝八千亿讨述释博笑歌哈韩俄伊核检移景章婚黄龙久临怕您升降药著益血救微充享副班奇央威载配酒",
+   "groups": [
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "war and crime",
+     7
+    ],
+    [
+     "buying and selling",
+     6
+    ],
+    [
+     "places and travel",
+     8
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "metal 钅",
+     4
+    ],
+    [
+     "silk 纟 糸",
+     4
+    ],
+    [
+     "grammar words",
+     4
+    ],
+    [
+     "person 亻 人",
+     3
+    ],
+    [
+     "roof 宀",
+     3
+    ],
+    [
+     "sheep 羊",
+     3
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "flesh 月",
+     3
+    ],
+    [
+     "numbers",
+     3
+    ],
+    [
+     "talk and learning",
+     4
+    ],
+    [
+     "laughing and singing",
+     3
+    ],
+    [
+     "names from abroad",
+     3
+    ],
+    [
+     "tree 木 and grain 禾",
+     3
+    ],
+    [
+     "sun 日",
+     3
+    ],
+    [
+     "single shapes",
+     4
+    ],
+    [
+     "heart 心 忄",
+     2
+    ],
+    [
+     "up and down",
+     2
+    ],
+    [
+     "grass 艹",
+     2
+    ],
+    [
+     "dish 皿",
+     2
+    ],
+    [
+     "tap 攵",
+     2
+    ],
+    [
+     "lid 亠",
+     2
+    ],
+    [
+     "knife 刂",
+     2
+    ],
+    [
+     "big 大",
+     2
+    ],
+    [
+     "spear 戈",
+     2
+    ],
+    [
+     "wine jar 酉",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Trouble, trees and rulers",
+   "file": "data/path-09.json",
+   "chars": "访训词课误遇退追遗遭危毒暴乱亡恶温沙湖减冲析材板枪某杂束困楼座阶厂帝圣典盟封币融售牌航登征靠页额顾答筑签媒姐妇疗康健秘私藏授毕届短缺略异疑奥劳操督刻永毛云左胜败输软练索味吸付倒弹弟码础礼补夜梦七九牙穿",
+   "groups": [
+    [
+     "words 讠",
+     5
+    ],
+    [
+     "walk 辶",
+     5
+    ],
+    [
+     "trouble",
+     6
+    ],
+    [
+     "water 氵 and ice 冫",
+     5
+    ],
+    [
+     "tree 木 on the left",
+     4
+    ],
+    [
+     "tree 木 inside",
+     4
+    ],
+    [
+     "buildings",
+     4
+    ],
+    [
+     "rulers and rites",
+     5
+    ],
+    [
+     "money and selling",
+     4
+    ],
+    [
+     "journeys",
+     4
+    ],
+    [
+     "head 页",
+     3
+    ],
+    [
+     "bamboo ⺮",
+     3
+    ],
+    [
+     "woman 女",
+     3
+    ],
+    [
+     "health",
+     3
+    ],
+    [
+     "secrets",
+     3
+    ],
+    [
+     "school",
+     3
+    ],
+    [
+     "too little",
+     3
+    ],
+    [
+     "strange and unsure",
+     3
+    ],
+    [
+     "work and control",
+     3
+    ],
+    [
+     "time",
+     2
+    ],
+    [
+     "simple shapes",
+     3
+    ],
+    [
+     "victory and defeat",
+     2
+    ],
+    [
+     "cart 车",
+     2
+    ],
+    [
+     "silk 纟 糸",
+     2
+    ],
+    [
+     "mouth 口",
+     2
+    ],
+    [
+     "person 亻",
+     2
+    ],
+    [
+     "bow 弓",
+     2
+    ],
+    [
+     "stone 石",
+     2
+    ],
+    [
+     "altar 礻 and clothes 衤",
+     2
+    ],
+    [
+     "evening 夕",
+     2
+    ],
+    [
+     "numbers",
+     2
+    ],
+    [
+     "tooth 牙",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Hands, hearts and homes",
+   "file": "data/path-10.json",
+   "chars": "托扩搞摄掉抓挥招探恐怀急虑怪块址培堂坐逐迎迫违木李架概脸脱肉草若苦库序庆呼含吉宗守宁爆烈灵澳汽讯诺顿顺春季午良丽亮幸趣稳贵旧敢肯努竞亦竟尚右端附余狗鱼鲜跑船轮衣针皮套辑综曲舞伦妹童皇饭睡禁骗露归翻寻献",
+   "groups": [
+    [
+     "hand 扌",
+     9
+    ],
+    [
+     "heart 心 忄",
+     5
+    ],
+    [
+     "earth 土",
+     5
+    ],
+    [
+     "walking 辶",
+     4
+    ],
+    [
+     "tree 木",
+     4
+    ],
+    [
+     "flesh 月",
+     3
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "lean-to 广",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "roof 宀",
+     3
+    ],
+    [
+     "fire 火",
+     3
+    ],
+    [
+     "water 氵",
+     2
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "head 页",
+     2
+    ],
+    [
+     "time",
+     3
+    ],
+    [
+     "good and fine",
+     5
+    ],
+    [
+     "states",
+     3
+    ],
+    [
+     "will and effort",
+     4
+    ],
+    [
+     "grammar words",
+     3
+    ],
+    [
+     "sides and ends",
+     4
+    ],
+    [
+     "animals",
+     3
+    ],
+    [
+     "on the move",
+     3
+    ],
+    [
+     "things",
+     4
+    ],
+    [
+     "gathering",
+     2
+    ],
+    [
+     "music and dance",
+     2
+    ],
+    [
+     "people",
+     4
+    ],
+    [
+     "eat and sleep",
+     2
+    ],
+    [
+     "forbid and cheat",
+     2
+    ],
+    [
+     "other actions",
+     5
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Water, words and wars",
+   "file": "data/path-11.json",
+   "chars": "洋渐漫泽混浪染译订谋谓惊忘懂慢树桥森松楚绍绿丝纸休佛侵爸妻伯透避迷唱句啦笔篇阅诗贝贸税汇敌炸毁灭赢予借援损弃散厅宫塔幕宪刑裁萨洛鲁勒盖障闭蒙延促召申陈赶启智痛醒脚餐牛熟彩暗夏冷静固坦荣巨顶丰既尤唯野雷",
+   "groups": [
+    [
+     "water 氵",
+     7
+    ],
+    [
+     "words 讠",
+     4
+    ],
+    [
+     "heart 心 忄",
+     4
+    ],
+    [
+     "tree 木",
+     5
+    ],
+    [
+     "silk 纟",
+     4
+    ],
+    [
+     "person 亻",
+     3
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "walking 辶",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "writing",
+     4
+    ],
+    [
+     "money and trade",
+     4
+    ],
+    [
+     "war and fight",
+     5
+    ],
+    [
+     "give and take",
+     6
+    ],
+    [
+     "buildings",
+     4
+    ],
+    [
+     "law",
+     3
+    ],
+    [
+     "foreign names",
+     4
+    ],
+    [
+     "cover and close",
+     4
+    ],
+    [
+     "set going",
+     7
+    ],
+    [
+     "body and mind",
+     4
+    ],
+    [
+     "food",
+     3
+    ],
+    [
+     "color and light",
+     3
+    ],
+    [
+     "states",
+     5
+    ],
+    [
+     "size",
+     3
+    ],
+    [
+     "grammar words",
+     3
+    ],
+    [
+     "nature",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Hands, kin and grain",
+   "file": "data/path-12.json",
+   "chars": "挑捕搜描拒抵逃途逼迹洗涉沉津污估伴伙嘛哦喝娘婆奶兄祖键链绩纽雨震跳距坛塞烟灾鸡乌蛋田麦麻植册籍符署赞尊拜恩徒励鼓屋床瓦盘川岸冰莱姆邦泰掌毫胡冠佳秀盛宾雄弱残废狂魔狱夺刺触阻聚贴兼驻辆遍卷忙隐莫末替旗丹",
+   "groups": [
+    [
+     "hand 扌",
+     6
+    ],
+    [
+     "walking 辶",
+     4
+    ],
+    [
+     "water 氵",
+     5
+    ],
+    [
+     "person 亻",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "family",
+     5
+    ],
+    [
+     "metal 钅",
+     2
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "rain 雨",
+     2
+    ],
+    [
+     "foot 足",
+     2
+    ],
+    [
+     "earth 土",
+     2
+    ],
+    [
+     "fire 火",
+     2
+    ],
+    [
+     "birds and eggs",
+     3
+    ],
+    [
+     "crops and fields",
+     4
+    ],
+    [
+     "documents",
+     4
+    ],
+    [
+     "praise and respect",
+     7
+    ],
+    [
+     "in the house",
+     4
+    ],
+    [
+     "rivers and ice",
+     3
+    ],
+    [
+     "names and foreign sounds",
+     4
+    ],
+    [
+     "on the body",
+     4
+    ],
+    [
+     "fine and grand",
+     4
+    ],
+    [
+     "strong and weak",
+     4
+    ],
+    [
+     "dark things",
+     3
+    ],
+    [
+     "seize and strike",
+     4
+    ],
+    [
+     "gather and join",
+     4
+    ],
+    [
+     "counting words",
+     3
+    ],
+    [
+     "states and words",
+     3
+    ],
+    [
+     "single shapes",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Hearts, hands and names",
+   "file": "data/path-13.json",
+   "chars": "恋惯悲忆忍抱抢挂折措撤握摩泛潮漂潜偷伟仪倾零倍伍幅贷赚贫租矿勇奋袭截硬默雅朗欲累虚姓爷奴鬼菲曼埃艾迪瑞刘黎纷纯缩烧灯烦菜蓝粉粮坡墙阴阵昨暂映耳嘴骨杯档棒询诚镜锁宽宜症疯刊罚径彻邀雪谷叶允祝览辖甲旁圈呀",
+   "groups": [
+    [
+     "heart 忄 心",
+     5
+    ],
+    [
+     "hand 扌",
+     8
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "person 亻",
+     4
+    ],
+    [
+     "numbers and measures",
+     4
+    ],
+    [
+     "money and property 贝",
+     5
+    ],
+    [
+     "force and effort",
+     5
+    ],
+    [
+     "mood and manner",
+     6
+    ],
+    [
+     "people and spirits",
+     4
+    ],
+    [
+     "names and foreign sounds",
+     8
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "fire 火",
+     3
+    ],
+    [
+     "food and plants 艹 米",
+     4
+    ],
+    [
+     "earth and mound",
+     4
+    ],
+    [
+     "sun 日",
+     3
+    ],
+    [
+     "the body",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "metal 钅",
+     2
+    ],
+    [
+     "roof 宀 and sickness 疒",
+     4
+    ],
+    [
+     "knife 刂",
+     2
+    ],
+    [
+     "road 辶 and step 彳",
+     3
+    ],
+    [
+     "weather and land",
+     3
+    ],
+    [
+     "formal words",
+     4
+    ],
+    [
+     "odd ones",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Hands, trade and travel",
+   "file": "data/path-14.json",
+   "chars": "摆扰揭抽插扬拟侧偏偶储俗沿液涨洞鸟猫猪犹猜骑驾乘搭怖怒惠恢患疾碍乏陷贡赏账债券誉荐杰巧孙幼龄姑娱隔邮邻圆齐净繁缘绪缓茶饮苹荷迅迟迁趋跨踪胞胁腐舰械炮钢役隶刀丁旦弄玛呈哭唐殖殊详诸戴饰颜峰堡庄聊衡冒丢剩",
+   "groups": [
+    [
+     "hand 扌",
+     7
+    ],
+    [
+     "person 亻",
+     5
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "animals",
+     3
+    ],
+    [
+     "animal 犭",
+     2
+    ],
+    [
+     "riding and driving",
+     4
+    ],
+    [
+     "heart 忄 心",
+     4
+    ],
+    [
+     "trouble",
+     5
+    ],
+    [
+     "money and accounts 贝",
+     5
+    ],
+    [
+     "praise and skill",
+     4
+    ],
+    [
+     "age and family",
+     3
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "mound and town 阝",
+     3
+    ],
+    [
+     "describing",
+     4
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "tea, fruit and drink 艹",
+     4
+    ],
+    [
+     "walk 辶 and run 走",
+     4
+    ],
+    [
+     "foot 足",
+     2
+    ],
+    [
+     "flesh 月",
+     3
+    ],
+    [
+     "war and steel",
+     6
+    ],
+    [
+     "single shapes",
+     3
+    ],
+    [
+     "jade 王",
+     3
+    ],
+    [
+     "mouth 口",
+     2
+    ],
+    [
+     "death 歹",
+     2
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "dress and ornament",
+     3
+    ],
+    [
+     "places",
+     3
+    ],
+    [
+     "odd ones",
+     5
+    ]
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Bodies, roads and names",
+   "file": "data/path-15.json",
+   "chars": "腿肤胆脏睛肥疫孕扎挺伸仰绕绘纵驱驶骚虎兽吓骂润滑池沟燃焦酸酷尺吨秒晨秋腊颗颁尝偿娜耶敦穆凯恨惨忽悉辛辩辞返递彼践轨辈剂刷剑裂袋蒂董梅梁筹箱玉珠君哲豪孤赖赌盗厚厉厌陪隆尾屁皆凡叙凭宇穷覆圳疆墨糖碰罢敬幻",
+   "groups": [
+    [
+     "body and health",
+     8
+    ],
+    [
+     "hand 扌 and person 亻",
+     4
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "horses and beasts",
+     5
+    ],
+    [
+     "mouth 口",
+     2
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "fire 火",
+     2
+    ],
+    [
+     "wine 酉",
+     2
+    ],
+    [
+     "measures",
+     3
+    ],
+    [
+     "time",
+     3
+    ],
+    [
+     "head 页",
+     2
+    ],
+    [
+     "taste first",
+     2
+    ],
+    [
+     "names and foreign sounds",
+     5
+    ],
+    [
+     "heart 忄 心",
+     4
+    ],
+    [
+     "the 辛 shape",
+     3
+    ],
+    [
+     "road and cart",
+     6
+    ],
+    [
+     "knife 刂 and clothes 衣",
+     5
+    ],
+    [
+     "plants and wood 艹 木",
+     4
+    ],
+    [
+     "bamboo ⺮",
+     2
+    ],
+    [
+     "jade 玉",
+     2
+    ],
+    [
+     "people",
+     4
+    ],
+    [
+     "wrongdoing",
+     3
+    ],
+    [
+     "cliff 厂",
+     3
+    ],
+    [
+     "mound 阝",
+     2
+    ],
+    [
+     "body 尸",
+     2
+    ],
+    [
+     "formal words",
+     4
+    ],
+    [
+     "covering",
+     3
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "odd ones",
+     5
+    ]
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Hands, gates and names",
+   "file": "data/path-16.json",
+   "chars": "搬摇拔撞拖扫撒摸滚渡洁泪泡湿咱啥吻喊嗯吹欣歉闪闲闹阁惜忠愈忧俱伪仔诞诊谱荡荒葡巡逻遵循奉戒绑袖裤尸丧墓魂跃旋腾胸脉乳牲牧虫锋鉴窗帐舍寺壁貌敏珍嘉舒暖杨横榜奸嫌浙乔莉翰弗咖甘盾豆丈冬孔碎篮贯奏肃臣雇辅寄",
+   "groups": [
+    [
+     "hand 扌",
+     8
+    ],
+    [
+     "water 氵",
+     6
+    ],
+    [
+     "mouth 口",
+     5
+    ],
+    [
+     "yawn 欠",
+     3
+    ],
+    [
+     "gate 门",
+     4
+    ],
+    [
+     "heart 忄 心",
+     4
+    ],
+    [
+     "person 亻",
+     3
+    ],
+    [
+     "words 讠",
+     3
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "walk 辶",
+     3
+    ],
+    [
+     "follow, offer, restrain",
+     4
+    ],
+    [
+     "clothes 衤",
+     2
+    ],
+    [
+     "death",
+     4
+    ],
+    [
+     "leap and spin",
+     3
+    ],
+    [
+     "flesh 月",
+     3
+    ],
+    [
+     "animals",
+     3
+    ],
+    [
+     "metal 钅 金",
+     2
+    ],
+    [
+     "rooms and buildings",
+     5
+    ],
+    [
+     "manner and quality",
+     6
+    ],
+    [
+     "wood 木",
+     3
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "names and borrowed sounds",
+     6
+    ],
+    [
+     "single shapes",
+     6
+    ],
+    [
+     "other shapes",
+     5
+    ],
+    [
+     "service and trust",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Water, hands and wrongdoing",
+   "file": "data/path-17.json",
+   "chars": "泥洪泉淡汤浓漏拼扣捐振扮撑屠割删剥拆轰灰炼烂煤惧愤惩慧仿仙仁傻桌桃杜堆塑啡萄垃圾歧迈遥贪赋赔邓郑郎邪吴赵卢陕辽宅宿牢宋劲勤壮欺辱叛凶丑诱姻妙晋昌崇帅矛箭尖磨耗耐岗廷聘鞋琴锦胶甜饿瓜粗糟羊猎牵翼稍番咨喷",
+   "groups": [
+    [
+     "water 氵",
+     7
+    ],
+    [
+     "hand 扌",
+     6
+    ],
+    [
+     "cut and break",
+     6
+    ],
+    [
+     "fire 火",
+     4
+    ],
+    [
+     "heart 忄 心",
+     4
+    ],
+    [
+     "person 亻",
+     4
+    ],
+    [
+     "wood 木",
+     3
+    ],
+    [
+     "earth 土",
+     2
+    ],
+    [
+     "half of a pair",
+     4
+    ],
+    [
+     "road and steps",
+     3
+    ],
+    [
+     "shell 贝",
+     3
+    ],
+    [
+     "town 阝",
+     4
+    ],
+    [
+     "surnames and places",
+     5
+    ],
+    [
+     "roof 宀",
+     4
+    ],
+    [
+     "strength 力",
+     3
+    ],
+    [
+     "wrongdoing",
+     6
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "rise and flourish",
+     4
+    ],
+    [
+     "sharp things",
+     3
+    ],
+    [
+     "wear and endurance",
+     3
+    ],
+    [
+     "posts and offices",
+     3
+    ],
+    [
+     "objects",
+     4
+    ],
+    [
+     "food and taste",
+     3
+    ],
+    [
+     "rice 米",
+     2
+    ],
+    [
+     "animals",
+     4
+    ],
+    [
+     "a little, a turn",
+     2
+    ],
+    [
+     "mouth 口",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Hands, water, mind",
+   "file": "data/path-18.json",
+   "chars": "扶挖挡拓抛掩抚捷拳汗滨泳泄浮沃渔恰怜慈慰聪蠢晓惑谎奔赴跌躲逊逮狼熊雕猛癌疼屏尿御旨殿叔裔昆牺劫亏削凌朱赫耀糕稿粹栏梯柔薪薄苗吁吐磁岩庙廉厕厦瓶玻艇仓盐钻氧氛纹纠娃胎寿添填艰爽乃井寸氏杭霍莎兹帕侦俩佩仇",
+   "groups": [
+    [
+     "hand 扌 手",
+     9
+    ],
+    [
+     "water 氵",
+     7
+    ],
+    [
+     "heart 忄 心",
+     4
+    ],
+    [
+     "mind and words",
+     5
+    ],
+    [
+     "go, run and fall",
+     4
+    ],
+    [
+     "road and steps",
+     2
+    ],
+    [
+     "beasts",
+     4
+    ],
+    [
+     "sickness 疒",
+     2
+    ],
+    [
+     "body 尸",
+     2
+    ],
+    [
+     "imperial",
+     3
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "harm and loss",
+     5
+    ],
+    [
+     "red and bright",
+     3
+    ],
+    [
+     "grain 禾 米",
+     3
+    ],
+    [
+     "wood 木",
+     3
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "mouth 口",
+     2
+    ],
+    [
+     "stone and rock",
+     2
+    ],
+    [
+     "buildings",
+     4
+    ],
+    [
+     "things",
+     6
+    ],
+    [
+     "air 气",
+     2
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "baby and age",
+     3
+    ],
+    [
+     "add and fill",
+     2
+    ],
+    [
+     "hard and easy",
+     2
+    ],
+    [
+     "single shapes",
+     4
+    ],
+    [
+     "names and borrowed sounds",
+     5
+    ],
+    [
+     "person 亻",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 19,
+   "title": "Hands, feet and graves",
+   "file": "data/path-19.json",
+   "chars": "滩漠涂淘滋涵浦凉寒凝携擦挤拨扭押拘抑摧挣倡傲伐伏憾怨愚悬恒姿嫁妥妖婴踏蹈爬遣逆徐埋葬陵坑祭祈竹桑杉柏棋柱铺铜锡缅纲贩贼炎晶赤紫瞧瞭呆哇谐夸峡郡甸寓寨宙狠鼠凤厨糊醉菌藉裸衰劣耻奈罕斤剪契爵霸徽肌函璃舆畅",
+   "groups": [
+    [
+     "water 氵",
+     7
+    ],
+    [
+     "cold",
+     3
+    ],
+    [
+     "hand 扌: moving things",
+     5
+    ],
+    [
+     "hand 扌: holding down",
+     5
+    ],
+    [
+     "person 亻",
+     4
+    ],
+    [
+     "heart 心 忄",
+     5
+    ],
+    [
+     "woman 女",
+     5
+    ],
+    [
+     "feet and roads",
+     6
+    ],
+    [
+     "graves and ground",
+     4
+    ],
+    [
+     "altar 示 礻",
+     2
+    ],
+    [
+     "wood and bamboo",
+     6
+    ],
+    [
+     "metal 钅",
+     3
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "shell 贝",
+     2
+    ],
+    [
+     "colour and shine",
+     4
+    ],
+    [
+     "eyes 目",
+     2
+    ],
+    [
+     "mouth and words",
+     4
+    ],
+    [
+     "places",
+     3
+    ],
+    [
+     "roof 宀",
+     3
+    ],
+    [
+     "animals",
+     3
+    ],
+    [
+     "food and growing",
+     5
+    ],
+    [
+     "clothes 衤 衣",
+     2
+    ],
+    [
+     "bad turns",
+     4
+    ],
+    [
+     "blades",
+     3
+    ],
+    [
+     "rank and power",
+     3
+    ],
+    [
+     "odd ones",
+     5
+    ]
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Water, voices and counting",
+   "file": "data/path-20.json",
+   "chars": "滴泊浴浅冻灌滥渴浏淫掘摘撰拯唤祷劝吵谊讼谨诈锅炉饼辣陶兑欠贺赠骄昂慎羞悔胖膜腰肩鼻眠盲齿狮蛇蜜蛮岭屿幽阔宏庞硕盈弥稀疏辉曝雾尘艘枚朵匹串粒芬丛棉杆纺帽披秦蒋韦沈妮瑟逝逾踢宠窝祸虐崩溃夹吾颇壳辨秩碑侠侣",
+   "groups": [
+    [
+     "water 氵 and ice 冫",
+     5
+    ],
+    [
+     "water 氵: spilling and thirst",
+     5
+    ],
+    [
+     "hand 扌",
+     4
+    ],
+    [
+     "voice",
+     4
+    ],
+    [
+     "words 讠",
+     4
+    ],
+    [
+     "kitchen and pottery",
+     5
+    ],
+    [
+     "money and gifts",
+     4
+    ],
+    [
+     "attitudes",
+     5
+    ],
+    [
+     "flesh 月",
+     4
+    ],
+    [
+     "face and senses",
+     4
+    ],
+    [
+     "creatures",
+     4
+    ],
+    [
+     "mountains",
+     3
+    ],
+    [
+     "big",
+     4
+    ],
+    [
+     "full and sparse",
+     4
+    ],
+    [
+     "light and air",
+     4
+    ],
+    [
+     "counting words",
+     6
+    ],
+    [
+     "plants and poles",
+     4
+    ],
+    [
+     "cloth",
+     3
+    ],
+    [
+     "surnames and name characters",
+     6
+    ],
+    [
+     "feet and roads",
+     3
+    ],
+    [
+     "shelter",
+     2
+    ],
+    [
+     "ruin",
+     4
+    ],
+    [
+     "the rest",
+     7
+    ],
+    [
+     "person 亻",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Belly, heart and hand",
+   "file": "data/path-21.json",
+   "chars": "肚腹肠脂胀肿脆愉悦悟恼慕恭忌扯擅扑捉抬敲吞咬喂叹啪哀斥驳呵谣谴讽誓烤炒饱矶砍碳柜椅框柴盒罩笼坠堪壤耕亩畜廊丘埔郊郁郭孟曹贾狐臭莲芝穴窃侨催轴辐募缴佣祥亨旺勃卓屈弯勾吊晒曰夕瞬躺舌痕妆姨涌渠戈稣辟阐匿锐",
+   "groups": [
+    [
+     "belly 月",
+     4
+    ],
+    [
+     "flesh 月: swollen and brittle",
+     3
+    ],
+    [
+     "heart 忄",
+     4
+    ],
+    [
+     "heart 心",
+     3
+    ],
+    [
+     "hand 扌 and tap 攵",
+     6
+    ],
+    [
+     "mouth 口: eating",
+     3
+    ],
+    [
+     "mouth 口: noises",
+     3
+    ],
+    [
+     "scolding",
+     3
+    ],
+    [
+     "words 讠 and 言",
+     4
+    ],
+    [
+     "fire and food",
+     3
+    ],
+    [
+     "stone 石",
+     3
+    ],
+    [
+     "wood 木",
+     4
+    ],
+    [
+     "covers and boxes",
+     3
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "farming",
+     3
+    ],
+    [
+     "places and slopes",
+     3
+    ],
+    [
+     "town 阝",
+     3
+    ],
+    [
+     "surnames",
+     3
+    ],
+    [
+     "animals, plants and smells",
+     4
+    ],
+    [
+     "cave 穴",
+     2
+    ],
+    [
+     "person 亻",
+     2
+    ],
+    [
+     "cart 车",
+     2
+    ],
+    [
+     "trade and pay",
+     3
+    ],
+    [
+     "good fortune and growth",
+     5
+    ],
+    [
+     "bends and hooks",
+     4
+    ],
+    [
+     "sun, evening and the moment",
+     4
+    ],
+    [
+     "body 身",
+     3
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "water 氵",
+     2
+    ],
+    [
+     "the rest",
+     6
+    ]
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Hands, hearts, small things",
+   "file": "data/path-22.json",
+   "chars": "拦摔扔抹拾悠惹慌悄懒溪涯沦溶佐傅僵嫩妓妨媳臂肺胃昏晰晕哎咪痴疲鹰鸭鸣羽兔龟鹿蜂裙裕衷铃衔纤缝绳贿赐酬枝桶柯茨蔡萝蓄冈岳垄陌堵坊垂闯闷寂宴煮蒸饥碗趁跪砸卧歇擎辜谅囚瞒笨乖卑艳乙叉斜矩厘帜扇履斑琳魅舔詹爹",
+   "groups": [
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "heart 心 忄",
+     5
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "person 亻",
+     3
+    ],
+    [
+     "woman 女",
+     4
+    ],
+    [
+     "the body 月",
+     3
+    ],
+    [
+     "sun 日",
+     3
+    ],
+    [
+     "mouth 口",
+     2
+    ],
+    [
+     "sickness 疒",
+     2
+    ],
+    [
+     "birds",
+     4
+    ],
+    [
+     "animals",
+     4
+    ],
+    [
+     "clothes 衤 衣",
+     3
+    ],
+    [
+     "metal 钅",
+     2
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "gifts and pay",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "grass 艹",
+     4
+    ],
+    [
+     "ridges and paths",
+     4
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "gate 门",
+     2
+    ],
+    [
+     "roof 宀",
+     2
+    ],
+    [
+     "food and cooking",
+     4
+    ],
+    [
+     "actions",
+     6
+    ],
+    [
+     "guilt and mercy",
+     4
+    ],
+    [
+     "qualities",
+     4
+    ],
+    [
+     "shapes and measures",
+     5
+    ],
+    [
+     "objects",
+     3
+    ],
+    [
+     "jade 王",
+     2
+    ],
+    [
+     "single shapes",
+     4
+    ]
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Plants, Parts, Odd Jobs",
+   "file": "data/path-23.json",
+   "chars": "渗汰淋澡滤浩挪抄掠仆仗俺侍侯僚镑锻钓钩缠缔讶谍犬狭猴虾虹螺鸦凰燕苍蔬薇葛蕾藤柳桂栋朴肝膨腔膀颈瘦瘤嘲喔嘿喀咒垫塌堕玫瑰巾袜伞遮粤豫魏姊娶戚勋彰贱弊匪斩宰俘砖罐舱炭颠叠卸骤饲酱旬兆卜暨遂屡囊巩瞎肖畏柬尬",
+   "groups": [
+    [
+     "water 氵",
+     6
+    ],
+    [
+     "hand 扌",
+     3
+    ],
+    [
+     "person 亻",
+     6
+    ],
+    [
+     "metal 钅",
+     4
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "dogs and monkeys 犭 犬",
+     3
+    ],
+    [
+     "insects and shells 虫",
+     3
+    ],
+    [
+     "birds",
+     3
+    ],
+    [
+     "grass 艹",
+     6
+    ],
+    [
+     "tree 木",
+     4
+    ],
+    [
+     "the body 月",
+     5
+    ],
+    [
+     "sickness 疒",
+     2
+    ],
+    [
+     "mouth 口",
+     5
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "jade 王",
+     2
+    ],
+    [
+     "cloth and cover",
+     4
+    ],
+    [
+     "places and states",
+     3
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "honour and harm",
+     4
+    ],
+    [
+     "crime and war",
+     4
+    ],
+    [
+     "materials and vessels",
+     4
+    ],
+    [
+     "motion",
+     4
+    ],
+    [
+     "food",
+     2
+    ],
+    [
+     "time and omens",
+     3
+    ],
+    [
+     "literary words",
+     3
+    ],
+    [
+     "single shapes",
+     7
+    ]
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Hands, Mouths, Ranks",
+   "file": "data/path-24.json",
+   "chars": "攀摊挫挽撕抖哼哟唉唇咋啤弦喇呐滞涛淮汁漆愧慨盼瞄盯眉脾肾肢筋顽顷僧儒巫妃翁卿贬贤垒坝坞坎庇厢庸钉钥绵纱谜谬喻帖饶馈鸿鹅鲍珊蚀蜡芒芯蔽樱棍槽焚煌熙稻粘瓷盆筒踩驰飘翔凑逢裹袁彭吕孝寡俊寞肆衍阀夷咸竭厄尴瘾",
+   "groups": [
+    [
+     "hand 扌",
+     6
+    ],
+    [
+     "calls 口",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "music",
+     3
+    ],
+    [
+     "water 氵",
+     5
+    ],
+    [
+     "heart 忄",
+     2
+    ],
+    [
+     "eye 目",
+     4
+    ],
+    [
+     "the body 月",
+     4
+    ],
+    [
+     "head 页",
+     2
+    ],
+    [
+     "people and ranks",
+     6
+    ],
+    [
+     "shell 贝",
+     2
+    ],
+    [
+     "earth 土",
+     4
+    ],
+    [
+     "lean-to 广",
+     3
+    ],
+    [
+     "metal 钅",
+     2
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "words and writing",
+     4
+    ],
+    [
+     "food 饣",
+     2
+    ],
+    [
+     "geese and the sea",
+     4
+    ],
+    [
+     "insects 虫",
+     2
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "fire 火 灬",
+     3
+    ],
+    [
+     "grain",
+     2
+    ],
+    [
+     "containers",
+     3
+    ],
+    [
+     "moving",
+     4
+    ],
+    [
+     "joining",
+     3
+    ],
+    [
+     "names",
+     3
+    ],
+    [
+     "character",
+     5
+    ],
+    [
+     "single shapes",
+     8
+    ]
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Hands, water and trees",
+   "file": "data/path-25.json",
+   "chars": "捡掀挨搏捍捞泼浆溜汪浑塘淹澄萧潘湘沪芙芳芭蓬株枢梨橡栖椒喉噢噪脖腺腥暑晃晴旱熬烛煽燥侮佑仲仑坪坟圭蝶蛛鲨豹雀禽卵巢诀诡逗逛趟酿醇衫衬琼瑜剖刮崛峻娇妄舟轿卒毙殴冤勉毅靖颂韵霉屎奢匙匠丸亭矮扁勿玄氢畴奠耍",
+   "groups": [
+    [
+     "hand 扌",
+     6
+    ],
+    [
+     "water 氵",
+     5
+    ],
+    [
+     "pools and floods 氵",
+     3
+    ],
+    [
+     "names and places",
+     4
+    ],
+    [
+     "plants 艹",
+     4
+    ],
+    [
+     "tree 木",
+     6
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "flesh 月",
+     3
+    ],
+    [
+     "sun 日 and weather",
+     4
+    ],
+    [
+     "fire 火",
+     4
+    ],
+    [
+     "person 亻",
+     4
+    ],
+    [
+     "earth 土",
+     3
+    ],
+    [
+     "small creatures",
+     4
+    ],
+    [
+     "birds and nests",
+     4
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "going about 辶",
+     3
+    ],
+    [
+     "wine 酉",
+     2
+    ],
+    [
+     "clothes 衤",
+     2
+    ],
+    [
+     "jade 王",
+     2
+    ],
+    [
+     "knife 刂",
+     2
+    ],
+    [
+     "mountain 山",
+     2
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "boat and cart",
+     2
+    ],
+    [
+     "soldiers, death and wrongs",
+     4
+    ],
+    [
+     "virtue and effort",
+     3
+    ],
+    [
+     "song and verse",
+     2
+    ],
+    [
+     "waste and excess",
+     3
+    ],
+    [
+     "things and people",
+     4
+    ],
+    [
+     "low and flat",
+     2
+    ],
+    [
+     "single shapes",
+     6
+    ]
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Plants, birds and Buddhas",
+   "file": "data/path-26.json",
+   "chars": "搅捧捏撼撸洒浸沾沫泣渊溯淀汀沼栽柄桩杠棺枕棵蕉茄榴榄棕菊荆茅菩禅伽喘嗨呜睹睁鲸猩蚁蝴鹏翅翘臀脊瘫硫碟碧磅铸铭冶缉缚颖稚稽陀隧鄂闽冯崖崔陋鄙躁氓窄凸歪昔昭晤辰谦恳钦贞弘悼焰烹姬嫂垮墅尉勘赦乞篷鞭瓣巷匆迄",
+   "groups": [
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "water 氵",
+     5
+    ],
+    [
+     "pools and banks 氵",
+     5
+    ],
+    [
+     "tree 木",
+     7
+    ],
+    [
+     "fruits and palms",
+     5
+    ],
+    [
+     "plants 艹",
+     3
+    ],
+    [
+     "Buddhist words",
+     3
+    ],
+    [
+     "mouth 口",
+     3
+    ],
+    [
+     "eye 目",
+     2
+    ],
+    [
+     "animals",
+     4
+    ],
+    [
+     "wings and birds",
+     3
+    ],
+    [
+     "the body",
+     3
+    ],
+    [
+     "stone 石",
+     4
+    ],
+    [
+     "metal and casting",
+     3
+    ],
+    [
+     "silk 纟",
+     2
+    ],
+    [
+     "grain 禾",
+     3
+    ],
+    [
+     "mound 阝",
+     2
+    ],
+    [
+     "names and places",
+     3
+    ],
+    [
+     "mountain 山",
+     2
+    ],
+    [
+     "low and rough",
+     4
+    ],
+    [
+     "shapes",
+     3
+    ],
+    [
+     "time 日",
+     4
+    ],
+    [
+     "virtue and feeling",
+     6
+    ],
+    [
+     "fire 火",
+     2
+    ],
+    [
+     "woman 女",
+     2
+    ],
+    [
+     "earth 土",
+     2
+    ],
+    [
+     "officials and the law",
+     4
+    ],
+    [
+     "things",
+     4
+    ],
+    [
+     "hurry and until",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Body, metal and creatures",
+   "file": "data/path-27.json",
+   "chars": "膝腕腻肪膏肮挠拐掷捣捆涡涩泌潭濒沮淇筛砂渣萌芽茎茂蔓蕴莓薯姜枯梭橄闸槛吼哄吟玲岂咯钞钮锤铅铝氨碱缆纬绎赁赎赂赣烫煎驴驼鹤鳄爪蟹蛙蜘愁倦恕妒羡婶侄佬妞舶帆袍毯壶酵酋飓霜宵崭嵌冀诠逸魁莞弓鼎屯卦竖甩虏痒窥",
+   "groups": [
+    [
+     "body 月",
+     6
+    ],
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "water 氵",
+     3
+    ],
+    [
+     "pools and edges 氵",
+     4
+    ],
+    [
+     "sift and grit",
+     3
+    ],
+    [
+     "plants 艹 growing",
+     6
+    ],
+    [
+     "food plants",
+     3
+    ],
+    [
+     "tree 木",
+     3
+    ],
+    [
+     "gates",
+     2
+    ],
+    [
+     "voices",
+     4
+    ],
+    [
+     "grammar words",
+     2
+    ],
+    [
+     "metal 钅",
+     5
+    ],
+    [
+     "chemistry",
+     2
+    ],
+    [
+     "silk 纟",
+     3
+    ],
+    [
+     "shell 贝",
+     4
+    ],
+    [
+     "fire 火",
+     2
+    ],
+    [
+     "beasts and claws",
+     5
+    ],
+    [
+     "crawlers",
+     3
+    ],
+    [
+     "feelings",
+     5
+    ],
+    [
+     "family and people",
+     4
+    ],
+    [
+     "ships and cloth",
+     5
+    ],
+    [
+     "wine 酉",
+     2
+    ],
+    [
+     "weather and night",
+     3
+    ],
+    [
+     "mountain 山",
+     2
+    ],
+    [
+     "literary words",
+     5
+    ],
+    [
+     "single shapes",
+     7
+    ],
+    [
+     "senses",
+     2
+    ]
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Fruit, silk and shacks",
+   "file": "data/path-28.json",
+   "chars": "杏橘橙栗槟棚朽菇芦茫葱沸溢瀑沧淑涅绣绸绅绰嫉婪婊姚惟恤懈硅礁碌灿熔炫蝇蝙蝠蜀蹲趴徙彷遏逍阱陛隙诅诵刹剿戳戮狩狸狄牡骆翠霞琪斐歼骸髓痪颤瞩觅铲缸盔兜舅吏侈敞豁宛粪蔑衅斋寮崎堤耽氯襄梵哩咳嘻呕唔搁挚掏扒拷",
+   "groups": [
+    [
+     "trees 木",
+     7
+    ],
+    [
+     "grass 艹",
+     4
+    ],
+    [
+     "water 氵",
+     6
+    ],
+    [
+     "silk 纟",
+     4
+    ],
+    [
+     "woman 女",
+     4
+    ],
+    [
+     "heart 忄",
+     3
+    ],
+    [
+     "stone 石",
+     3
+    ],
+    [
+     "fire 火",
+     3
+    ],
+    [
+     "insects 虫",
+     4
+    ],
+    [
+     "feet and walking",
+     6
+    ],
+    [
+     "mound 阝",
+     3
+    ],
+    [
+     "words 讠",
+     2
+    ],
+    [
+     "blades and spears",
+     4
+    ],
+    [
+     "animals 犭 and kin",
+     5
+    ],
+    [
+     "colour and shine",
+     4
+    ],
+    [
+     "body and illness",
+     5
+    ],
+    [
+     "looking",
+     2
+    ],
+    [
+     "tools and containers",
+     4
+    ],
+    [
+     "people",
+     3
+    ],
+    [
+     "open spaces",
+     3
+    ],
+    [
+     "dirt and insult",
+     3
+    ],
+    [
+     "places and ground",
+     4
+    ],
+    [
+     "one-offs",
+     4
+    ],
+    [
+     "small sounds",
+     5
+    ],
+    [
+     "hand 扌",
+     5
+    ]
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Chemistry and small sounds",
+   "file": "data/path-29.json",
+   "chars": "磷钙烯苯胺酶哨嘘叭嘎叮哑咙哺抨揽拱拌揉拢抒镖锈铐镶溉淆澜洽梳棘棱札芜萎萤瑚珀琐婿媚娅畔垦墟坤躯魄肛椎雌豚狙蚂彪傍俯伺惕憎罹譬谤嘱咏祀禄冕朕汕隋阪町挝饪馒醋窍窟笛簿鞍羁刃韧昧睐矢矫嚣噩敷肇馨绒秃屑匀丫亥",
+   "groups": [
+    [
+     "chemistry",
+     6
+    ],
+    [
+     "mouth 口",
+     8
+    ],
+    [
+     "hand 扌",
+     7
+    ],
+    [
+     "metal 钅",
+     4
+    ],
+    [
+     "water 氵",
+     4
+    ],
+    [
+     "trees 木",
+     4
+    ],
+    [
+     "grass 艹",
+     3
+    ],
+    [
+     "stone and jade 王",
+     3
+    ],
+    [
+     "woman 女",
+     3
+    ],
+    [
+     "land",
+     4
+    ],
+    [
+     "the body",
+     4
+    ],
+    [
+     "animals",
+     5
+    ],
+    [
+     "people",
+     3
+    ],
+    [
+     "heart 忄",
+     3
+    ],
+    [
+     "saying",
+     4
+    ],
+    [
+     "court and ritual",
+     4
+    ],
+    [
+     "names",
+     5
+    ],
+    [
+     "food and cooking",
+     3
+    ],
+    [
+     "holes",
+     2
+    ],
+    [
+     "bamboo ⺮",
+     2
+    ],
+    [
+     "saddle and bridle",
+     2
+    ],
+    [
+     "blade",
+     2
+    ],
+    [
+     "dim sight",
+     2
+    ],
+    [
+     "arrow",
+     2
+    ],
+    [
+     "clamour and dread",
+     2
+    ],
+    [
+     "spread and start",
+     2
+    ],
+    [
+     "to the senses",
+     4
+    ],
+    [
+     "single shapes",
+     3
+    ]
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Mouths and rare things",
+   "file": "data/path-30.json",
+   "chars": "呃呗呦咕啸哗喧嚷嘶咽噬嗜嗽叨唠矣哉倘抉拭捂撇舀懦慷憬憧惋怡诏讳诽诫诛绞绥绷绽纂篆砚柠檬枣杖桐笋蓉茉茴蒲蘑荤苑蘸氮钠丙蚊犀鳍骇麟皱疤袄褐皂扉庐寝轩帘斧凿剃佤漳薛迦迭踱颓钝潦湛霾飙禧弧歹廿丞甫丐熄竣劾羼屌",
+   "groups": [
+    [
+     "mouth cries",
+     4
+    ],
+    [
+     "loud mouths",
+     5
+    ],
+    [
+     "mouth actions",
+     6
+    ],
+    [
+     "old particles",
+     3
+    ],
+    [
+     "hand 扌",
+     5
+    ],
+    [
+     "heart 忄",
+     6
+    ],
+    [
+     "words 讠",
+     5
+    ],
+    [
+     "silk 纟",
+     4
+    ],
+    [
+     "writing",
+     3
+    ],
+    [
+     "trees 木",
+     5
+    ],
+    [
+     "plants 艹",
+     7
+    ],
+    [
+     "more grass 艹",
+     2
+    ],
+    [
+     "chemistry",
+     3
+    ],
+    [
+     "creatures",
+     5
+    ],
+    [
+     "skin and cloth",
+     5
+    ],
+    [
+     "rooms and houses",
+     5
+    ],
+    [
+     "cutting",
+     3
+    ],
+    [
+     "names",
+     4
+    ],
+    [
+     "steps",
+     2
+    ],
+    [
+     "traits",
+     2
+    ],
+    [
+     "air and water",
+     4
+    ],
+    [
+     "happy",
+     2
+    ],
+    [
+     "single shapes",
+     5
+    ],
+    [
+     "odds and ends",
+     5
+    ]
+   ]
+  }
+ ],
+ "texts": [
+  {
+   "id": "m-lunyu-04",
+   "label": "里仁 in modern Chinese",
+   "han": 984,
+   "cover": [
+    59,
+    70,
+    76,
+    81,
+    84,
+    86,
+    88,
+    89,
+    91,
+    91,
+    91,
+    91,
+    91,
+    91,
+    94,
+    96,
+    98,
+    98,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  {
+   "id": "m-scp-cn-187",
+   "label": "SCP-CN-187 非礼勿言",
+   "han": 1301,
+   "cover": [
+    35,
+    50,
+    58,
+    65,
+    74,
+    80,
+    83,
+    86,
+    88,
+    90,
+    92,
+    92,
+    93,
+    94,
+    96,
+    97,
+    97,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    99,
+    99,
+    99,
+    100
+   ]
+  },
+  {
+   "id": "m-scp-cn-303",
+   "label": "SCP-CN-303 朝闻道",
+   "han": 1567,
+   "cover": [
+    35,
+    50,
+    57,
+    63,
+    73,
+    79,
+    85,
+    87,
+    89,
+    91,
+    93,
+    94,
+    95,
+    95,
+    96,
+    96,
+    98,
+    98,
+    98,
+    98,
+    98,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    100
+   ]
+  },
+  {
+   "id": "m-wp-xundu",
+   "label": "训读 (Wikipedia)",
+   "han": 271,
+   "cover": [
+    34,
+    43,
+    46,
+    60,
+    73,
+    76,
+    83,
+    89,
+    93,
+    94,
+    97,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    98,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99
+   ]
+  },
+  {
+   "id": "m-wp-chengdu-metro",
+   "label": "成都地铁 (Wikipedia)",
+   "han": 385,
+   "cover": [
+    38,
+    51,
+    67,
+    79,
+    81,
+    87,
+    90,
+    95,
+    95,
+    95,
+    96,
+    96,
+    97,
+    98,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  {
+   "id": "m-wp-jianhuazi",
+   "label": "简化字 (Wikipedia)",
+   "han": 342,
+   "cover": [
+    34,
+    53,
+    60,
+    68,
+    80,
+    81,
+    88,
+    91,
+    93,
+    94,
+    95,
+    95,
+    96,
+    98,
+    98,
+    98,
+    98,
+    98,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    99,
+    100
+   ]
+  },
+  {
+   "id": "kong-yiji",
+   "label": "孔乙己",
+   "han": 2188,
+   "cover": [
+    40,
+    52,
+    60,
+    64,
+    70,
+    73,
+    75,
+    78,
+    80,
+    82,
+    83,
+    85,
+    87,
+    87,
+    89,
+    91,
+    92,
+    92,
+    92,
+    93,
+    94,
+    96,
+    97,
+    97,
+    97,
+    97,
+    98,
+    98,
+    98,
+    100
+   ]
+  }
+ ],
+ "credit": "Readings, words and word pinyin: CC-CEDICT (CC BY-SA 4.0). Sentences: Tatoeba, tatoeba.org (CC BY 2.0 FR). Character order: wordfreq word frequencies (CC BY-SA 4.0). The keywords, parts, stories, word glosses and notes are written by Claude and are not checked against a decomposition table."
+}

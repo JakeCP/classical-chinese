@@ -1,0 +1,1854 @@
+{
+ "patterns": [
+  {
+   "key": "的",
+   "title": "of, and the one that",
+   "shape": "modifier + 的 + noun",
+   "say": "的 hangs everything in front of a noun on it: a possessor, an adjective, a whole clause. If the noun is left out, 的 alone stands for it (that one is ours).",
+   "classical": "之 and 者 share the work. 之 joins possessor and noun: 君子之德風 'the gentleman's virtue is wind'. A clause ending 的 is 者: 知之者不如好之者 'those who know it are not equal to those who love it'.",
+   "examples": [
+    {
+     "id": 811291,
+     "zh": "弹钢琴的女孩是我妹妹。",
+     "en": "The girl playing the piano is my sister."
+    },
+    {
+     "id": 788657,
+     "zh": "他讲的笑话很有意思。",
+     "en": "His joke was great."
+    },
+    {
+     "id": 4759974,
+     "zh": "我爱我的妻子。",
+     "en": "I love my wife."
+    },
+    {
+     "id": 11998080,
+     "zh": "那个房子是我们的。",
+     "en": "That house is ours."
+    }
+   ]
+  },
+  {
+   "key": "是…的",
+   "title": "it is so, stressing how or where",
+   "shape": "subject + 是 + (how / where / when / who) + verb + 的",
+   "say": "是…的 does not tell a new event; it takes a fact as given and says how it is: by what means, from where, on purpose or not. Drop the 是 and 的 and the sentence is bare.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 717391,
+     "zh": "我是从中国来的。",
+     "en": "I come from China."
+    },
+    {
+     "id": 844687,
+     "zh": "我是用法文写这封信的。",
+     "en": "I wrote this letter in French."
+    },
+    {
+     "id": 338810,
+     "zh": "我不是故意的。",
+     "en": "I didn't do it on purpose."
+    },
+    {
+     "id": 1021007,
+     "zh": "钱不是万能的。",
+     "en": "Money is not everything."
+    }
+   ]
+  },
+  {
+   "key": "了 (after verb)",
+   "title": "done, carried out",
+   "shape": "verb + 了 + (number + noun)",
+   "say": "了 straight after a verb marks the action as done or carried out. It usually comes with a counted object or a length of time, since a bare 了 would leave the sentence unfinished.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 345530,
+     "zh": "我在咖啡店里喝了一杯咖啡。",
+     "en": "I had a cup of coffee at the coffee shop."
+    },
+    {
+     "id": 1372552,
+     "zh": "我做了一个奇怪的梦。",
+     "en": "I dreamed a strange dream."
+    },
+    {
+     "id": 1875296,
+     "zh": "他给我写了一封很长的信。",
+     "en": "He wrote me a long letter."
+    },
+    {
+     "id": 10157004,
+     "zh": "那部小说我看了三天。",
+     "en": "I read the novel in three days."
+    }
+   ]
+  },
+  {
+   "key": "了 (at end)",
+   "title": "now it is so",
+   "shape": "sentence + 了",
+   "say": "A final 了 says a situation has newly come about: it is now this way, or no longer that way. It reports a change, not a finished verb.",
+   "classical": "矣, close for this sense: 甚矣吾衰也 'how far gone I am'.",
+   "examples": [
+    {
+     "id": 6559041,
+     "zh": "我想我迷路了。",
+     "en": "I think I'm lost."
+    },
+    {
+     "id": 1490478,
+     "zh": "我想，风变小了。",
+     "en": "I think the wind's dropping off."
+    },
+    {
+     "id": 7781721,
+     "zh": "这男人喝醉了。",
+     "en": "This man is drunk."
+    },
+    {
+     "id": 10062410,
+     "zh": "我今天没有时间去那里了。",
+     "en": "I don't have time to go there today."
+    }
+   ]
+  },
+  {
+   "key": "不",
+   "title": "not, will not",
+   "shape": "不 + verb or adjective",
+   "say": "不 negates what is, what someone wants, what is habitual, or what is yet to come. It is the plain no, with no reference to whether something happened.",
+   "classical": "The same word, same job: 人不知而不慍 'others do not know him, and he is not resentful'.",
+   "examples": [
+    {
+     "id": 3210463,
+     "zh": "我不想伤害你。",
+     "en": "I don't want to hurt you."
+    },
+    {
+     "id": 5845650,
+     "zh": "我的兄弟明天不在家。",
+     "en": "My brother won't be at home tomorrow."
+    },
+    {
+     "id": 2032287,
+     "zh": "我完全不懂德语。",
+     "en": "I don't understand German at all."
+    }
+   ]
+  },
+  {
+   "key": "没",
+   "title": "has not, none",
+   "shape": "没 (有) + verb or noun",
+   "say": "没 negates having and doing. 没 + verb says the thing did not happen; 没 + noun says there is none of it.",
+   "classical": "未 for 'has not yet' (吾未見好德如好色者也), 無 for 'have none'.",
+   "examples": [
+    {
+     "id": 10735373,
+     "zh": "我没有看医生。",
+     "en": "I haven't seen a doctor."
+    },
+    {
+     "id": 714802,
+     "zh": "我想要一辆车，但我没钱买。",
+     "en": "I want a car, but I have no money to buy one."
+    },
+    {
+     "id": 1305941,
+     "zh": "我们已经十多年没见过他了。",
+     "en": "We haven't seen him for over ten years."
+    }
+   ]
+  },
+  {
+   "key": "是",
+   "title": "X is Y",
+   "shape": "X + 是 + Y",
+   "say": "是 joins two nouns: this is that, or this belongs to that group. It is not used before an adjective (他是高 is wrong; 他很高).",
+   "classical": "The old 是 meant 'this' (是魯孔丘與? 'is this Kong Qiu of Lu?'). Classical joined two nouns with 也 at the end: X Y也.",
+   "examples": [
+    {
+     "id": 2043147,
+     "zh": "法语是我的母语。",
+     "en": "French is my mother tongue."
+    },
+    {
+     "id": 1066642,
+     "zh": "今天是我们最后一天放假。",
+     "en": "Today is our last day of vacation."
+    },
+    {
+     "id": 414246,
+     "zh": "大部分客人是外国人。",
+     "en": "The greater part of the guests were foreigners."
+    },
+    {
+     "id": 2370677,
+     "zh": "他是一个体育爱好者。",
+     "en": "He is a lover of sports."
+    }
+   ]
+  },
+  {
+   "key": "有",
+   "title": "have, there is",
+   "shape": "有 + thing / place + 有 + thing",
+   "say": "有 means possess and also 'there is', so 有人 is 'someone'. Its negative is 没有, never 不有.",
+   "classical": "The same 有, and 無 for 没有: 有朋自遠方來 'a friend comes from far away'; 無友不如己者 'have no friend who is not as good as yourself'.",
+   "examples": [
+    {
+     "id": 333921,
+     "zh": "她有一个儿子和两个女儿。",
+     "en": "She has a son and two daughters."
+    },
+    {
+     "id": 13285186,
+     "zh": "有人要伤害我们。",
+     "en": "Someone's going to hurt us."
+    },
+    {
+     "id": 611103,
+     "zh": "没有完美的人。",
+     "en": "Nobody is perfect."
+    },
+    {
+     "id": 1516195,
+     "zh": "我们一周有五节英语课。",
+     "en": "We have five English classes a week."
+    }
+   ]
+  },
+  {
+   "key": "在",
+   "title": "be at, doing it at",
+   "shape": "主语 + 在 + place (+ verb)",
+   "say": "在 names where someone is, or where an action takes place. The place phrase goes before the verb.",
+   "classical": "在 is the same word: 父母在，不遠遊 'while parents are alive, do not travel far'.",
+   "examples": [
+    {
+     "id": 10966742,
+     "zh": "明天下午我在我爸爸的书店。",
+     "en": "I'll be at my dad's bookstore tomorrow afternoon."
+    },
+    {
+     "id": 2777953,
+     "zh": "我在厨房里喝汤。",
+     "en": "I'm eating soup in the kitchen."
+    },
+    {
+     "id": 8932583,
+     "zh": "在图书馆里学习。",
+     "en": "Study in the library."
+    }
+   ]
+  },
+  {
+   "key": "也",
+   "title": "also, either",
+   "shape": "subject + 也 + verb",
+   "say": "也 adds one more subject to what was just said. After 不 or 没 it means 'either': 我也不.",
+   "classical": "Not the old 也. This 也 is 亦: 不亦說乎 'is it not a joy'. The sentence-final 也 of the Analects has no counterpart here.",
+   "examples": [
+    {
+     "id": 13071622,
+     "zh": "我也很想要学法语。",
+     "en": "I really want to learn French, too."
+    },
+    {
+     "id": 1835740,
+     "zh": "我也不喜欢她。",
+     "en": "I don't like her either."
+    },
+    {
+     "id": 420228,
+     "zh": "现在正好，不重也不轻。",
+     "en": "It's good now; neither too heavy nor too light."
+    }
+   ]
+  },
+  {
+   "key": "都",
+   "title": "all, both",
+   "shape": "group + 都 + verb",
+   "say": "都 sums up the thing named before it: all of them, both, every one. It must come after the group it counts.",
+   "classical": "皆: 四海之內皆兄弟也 'within the four seas all are brothers'.",
+   "examples": [
+    {
+     "id": 410489,
+     "zh": "我们三个都是学生。",
+     "en": "All three of us are students."
+    },
+    {
+     "id": 13968301,
+     "zh": "所有的书都是我的。",
+     "en": "All of the books are mine."
+    },
+    {
+     "id": 9501225,
+     "zh": "我的父母都是律师。",
+     "en": "Both of my parents are lawyers."
+    },
+    {
+     "id": 335821,
+     "zh": "我们都非常想你。",
+     "en": "We all miss you very much."
+    }
+   ]
+  },
+  {
+   "key": "吗",
+   "title": "yes-or-no question",
+   "shape": "statement + 吗？",
+   "say": "吗 at the end makes a statement ask whether it is true. The answer repeats the verb or says no (会, 不会).",
+   "classical": "乎 and 與: 是魯孔丘與? 'Is this Kong Qiu of Lu?'.",
+   "examples": [
+    {
+     "id": 421010,
+     "zh": "你会讲普通话吗？",
+     "en": "Can you speak Mandarin?"
+    },
+    {
+     "id": 9963199,
+     "zh": "你想看房子吗？",
+     "en": "Do you want to see the house?"
+    },
+    {
+     "id": 7772128,
+     "zh": "你已经到家了吗？",
+     "en": "Are you already home?"
+    }
+   ]
+  },
+  {
+   "key": "呢",
+   "title": "and what about, going on",
+   "shape": "(noun) + 呢 / question word ... 呢",
+   "say": "呢 softens a question that already has a question word, or asks 'and you?' after a noun. It also closes a statement that insists or says something is under way.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 6404917,
+     "zh": "你是哪里人呢？",
+     "en": "Where are you from?"
+    },
+    {
+     "id": 3365831,
+     "zh": "请问可以在哪里买到票呢？",
+     "en": "Where can I buy a ticket?"
+    },
+    {
+     "id": 2033412,
+     "zh": "我还以为我在做梦呢。",
+     "en": "I thought I was dreaming."
+    }
+   ]
+  },
+  {
+   "key": "吧",
+   "title": "suggestion, expectation",
+   "shape": "statement + 吧",
+   "say": "吧 turns a statement into a proposal (let's, do it) or into a question that expects yes (you're his friend, aren't you?).",
+   "classical": "",
+   "examples": [
+    {
+     "id": 4903261,
+     "zh": "明天九点打电话给我吧。",
+     "en": "Call me at 9:00 tomorrow."
+    },
+    {
+     "id": 13753046,
+     "zh": "他是你的朋友吧？",
+     "en": "He's your friend, isn't he?"
+    },
+    {
+     "id": 9959689,
+     "zh": "你受伤了，是吧？",
+     "en": "You were hurt, weren't you?"
+    },
+    {
+     "id": 395058,
+     "zh": "你还是去看病吧。",
+     "en": "You'd better see a doctor."
+    }
+   ]
+  },
+  {
+   "key": "个 本 条",
+   "title": "counters between number and noun",
+   "shape": "this/that/number + counter + noun",
+   "say": "Between a number or 这/那 and its noun stands a counter that depends on the kind of thing: 本 for books, 条 for long things, 个 for people and the general case. The counter also tells you what kind of noun you are about to meet.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 2027992,
+     "zh": "这本书很简单。",
+     "en": "The book is easy."
+    },
+    {
+     "id": 2778814,
+     "zh": "这条鱼很好吃。",
+     "en": "This fish is delicious."
+    },
+    {
+     "id": 759376,
+     "zh": "我想问你一个问题。",
+     "en": "I want to ask you a question."
+    },
+    {
+     "id": 10182744,
+     "zh": "这个男孩是我儿子。",
+     "en": "This boy is my son."
+    }
+   ]
+  },
+  {
+   "key": "着",
+   "title": "state that goes on",
+   "shape": "verb + 着",
+   "say": "着 after a verb says the state that verb leaves behind is still there: sitting, open, carrying. It describes a scene, not an event.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 1397102,
+     "zh": "我整晚都开着窗户。",
+     "en": "I left the window open all through the night."
+    },
+    {
+     "id": 5863305,
+     "zh": "汤姆还在等候室里坐着。",
+     "en": "Tom is still sitting in the waiting room."
+    },
+    {
+     "id": 12686997,
+     "zh": "汤姆无论到哪里都带着照相机。",
+     "en": "Tom always carries a camera with him wherever he goes."
+    },
+    {
+     "id": 335833,
+     "zh": "以前这里住着个可怕的怪物。",
+     "en": "There used to live a scary monster."
+    }
+   ]
+  },
+  {
+   "key": "过",
+   "title": "has done it before",
+   "shape": "verb + 过",
+   "say": "过 after a verb says the thing has been done at least once in life, as experience. It is not about the last few minutes.",
+   "classical": "嘗: 吾嘗終日不食 'I once went a whole day without eating'.",
+   "examples": [
+    {
+     "id": 10155004,
+     "zh": "你去过上海吗？",
+     "en": "Have you ever been to Shanghai?"
+    },
+    {
+     "id": 783037,
+     "zh": "他从没去过法国。",
+     "en": "He has not been to France."
+    },
+    {
+     "id": 2397072,
+     "zh": "他是我见过的最高的男人了。",
+     "en": "He is the tallest man that I have ever seen."
+    }
+   ]
+  },
+  {
+   "key": "正在",
+   "title": "in the midst of",
+   "shape": "正在 + verb (+ 呢)",
+   "say": "正在, 在 or a final 呢 says an action is in progress at this moment. Any of the three alone is enough.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 408275,
+     "zh": "我妻子正在做饭。",
+     "en": "My wife is cooking right now."
+    },
+    {
+     "id": 472985,
+     "zh": "我正在看电视。",
+     "en": "I'm watching TV now."
+    },
+    {
+     "id": 406688,
+     "zh": "宝宝正在睡觉。",
+     "en": "The baby is sleeping."
+    },
+    {
+     "id": 2220879,
+     "zh": "这条马路在修理呢。",
+     "en": "This road is under repair."
+    }
+   ]
+  },
+  {
+   "key": "得",
+   "title": "how well it is done",
+   "shape": "verb + 得 + adjective",
+   "say": "得 after a verb opens a comment on how the action went: fast, well, badly. If the verb has an object, the verb is said twice: 打网球打得很好.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 381453,
+     "zh": "这只狗跑得很快。",
+     "en": "That dog runs very fast."
+    },
+    {
+     "id": 335091,
+     "zh": "他打网球打得很好。",
+     "en": "He was very good at playing tennis."
+    },
+    {
+     "id": 10209272,
+     "zh": "她的新书卖得不错。",
+     "en": "Her new book is selling well."
+    },
+    {
+     "id": 1417602,
+     "zh": "汤姆日语说得很流利。",
+     "en": "Tom is a fluent speaker of Japanese."
+    }
+   ]
+  },
+  {
+   "key": "地",
+   "title": "in such a manner",
+   "shape": "adjective / phrase + 地 + verb",
+   "say": "地 turns what comes before it into a manner word and attaches it to the verb that follows.",
+   "classical": "然: 夫子喟然歎曰 'the Master sighed and said'.",
+   "examples": [
+    {
+     "id": 397551,
+     "zh": "小女孩高兴地笑了。",
+     "en": "The little girl laughed a merry laugh."
+    },
+    {
+     "id": 817269,
+     "zh": "她努力地工作。",
+     "en": "She worked hard."
+    },
+    {
+     "id": 3289565,
+     "zh": "汤姆怀疑地看着玛丽。",
+     "en": "Tom looked at Mary suspiciously."
+    },
+    {
+     "id": 389810,
+     "zh": "时间很快地过去了。",
+     "en": "Time has passed very fast."
+    }
+   ]
+  },
+  {
+   "key": "看见 找到",
+   "title": "did it and it worked",
+   "shape": "verb + 见 / 到 / 完 / 懂 / 好",
+   "say": "A second character right after the verb tells you whether the action reached its goal: 看 is look and 看见 is see; 找 is search and 找到 is find.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 472981,
+     "zh": "我听到门关了。",
+     "en": "I heard the door close."
+    },
+    {
+     "id": 13931506,
+     "zh": "我们必须找到钥匙。",
+     "en": "We've got to find the key."
+    },
+    {
+     "id": 847825,
+     "zh": "我看见远处有一间小屋。",
+     "en": "I saw a cottage in the distance."
+    },
+    {
+     "id": 4764528,
+     "zh": "你在哪儿看到了她？",
+     "en": "Where did you see her?"
+    }
+   ]
+  },
+  {
+   "key": "进来 出去",
+   "title": "toward or away",
+   "shape": "verb + 来 / 去 / 上 / 下 / 进 / 出 / 回 / 过",
+   "say": "来 and 去 after a verb give the direction of motion: toward the speaker (来) or away (去). A second character can add the route: 进, 出, 回, 过.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 791438,
+     "zh": "他走路或者骑车过来。",
+     "en": "He'll come on foot or by bicycle."
+    },
+    {
+     "id": 336443,
+     "zh": "我会等在这儿直到他回来。",
+     "en": "I'll wait here till he comes back."
+    },
+    {
+     "id": 9927272,
+     "zh": "冬天已经过去了。",
+     "en": "Winter is gone."
+    }
+   ]
+  },
+  {
+   "key": "看得见",
+   "title": "can or cannot",
+   "shape": "verb + 得 / 不 + result",
+   "say": "Put 得 or 不 between the verb and its result to say whether it is possible: 看得见 can see, 看不见 cannot. The negative form is the common one.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 1754355,
+     "zh": "他看得懂中文。",
+     "en": "He knows how to read Chinese."
+    },
+    {
+     "id": 426875,
+     "zh": "我听得见你，但我看不见你。",
+     "en": "I can hear you, but I can't see you."
+    },
+    {
+     "id": 408812,
+     "zh": "我买不起自行车。",
+     "en": "I could not afford to buy a bicycle."
+    },
+    {
+     "id": 2030728,
+     "zh": "这人讲的我完全听不懂。",
+     "en": "What he said was over my head."
+    }
+   ]
+  },
+  {
+   "key": "把",
+   "title": "handling a thing",
+   "shape": "把 + thing + verb + result",
+   "say": "把 lifts the object in front of the verb so the verb can say what happens to it: moved, put, given. The verb never stands bare after it.",
+   "classical": "以 and 將 do the same in old prose: 以羊易之 'swap it for the sheep' (Mencius).",
+   "examples": [
+    {
+     "id": 12422354,
+     "zh": "请把我送到家门口。",
+     "en": "Drop me off at the front door, please."
+    },
+    {
+     "id": 8602117,
+     "zh": "现在，我把钥匙放哪里了？",
+     "en": "Now where did I put the key?"
+    },
+    {
+     "id": 653498,
+     "zh": "我明天把它带给你。",
+     "en": "I'll bring it to you tomorrow."
+    },
+    {
+     "id": 1776812,
+     "zh": "我想要你把真相告诉我。",
+     "en": "I want you to tell me the truth."
+    }
+   ]
+  },
+  {
+   "key": "被",
+   "title": "something done to the subject",
+   "shape": "thing + 被 + (doer) + verb",
+   "say": "被 marks the subject as the one affected: stolen, moved, interrupted. The doer, if named, comes right after 被.",
+   "classical": "見 before a verb ('be done to') and 為…所 ('by …'); word counterparts only.",
+   "examples": [
+    {
+     "id": 419901,
+     "zh": "她的手提包被偷了。",
+     "en": "She had her handbag stolen."
+    },
+    {
+     "id": 777603,
+     "zh": "我的啤酒被我的同屋喝完了。",
+     "en": "My beer was finished off by my room-mate."
+    },
+    {
+     "id": 408260,
+     "zh": "所有的客人都被她的好客感动了。",
+     "en": "All the guests were touched by her hospitality."
+    },
+    {
+     "id": 2028020,
+     "zh": "我的护照被人偷了。",
+     "en": "Someone stole my passport."
+    }
+   ]
+  },
+  {
+   "key": "比",
+   "title": "more than",
+   "shape": "A + 比 + B + adjective",
+   "say": "比 makes B the standard: A is taller than B. A degree word may follow the adjective (高很多, 更高).",
+   "classical": "於 after an adjective: 季氏富於周公 'the Ji family was richer than the Duke of Zhou'.",
+   "examples": [
+    {
+     "id": 848990,
+     "zh": "他比他的弟弟高。",
+     "en": "He is taller than his brother."
+    },
+    {
+     "id": 340652,
+     "zh": "地球比太阳小。",
+     "en": "The earth is smaller than the sun."
+    },
+    {
+     "id": 672319,
+     "zh": "他跑得比我快。",
+     "en": "He is able to run faster than I am."
+    },
+    {
+     "id": 6103046,
+     "zh": "那女人比我老很多。",
+     "en": "That woman is much older than I am."
+    }
+   ]
+  },
+  {
+   "key": "给",
+   "title": "give, for someone",
+   "shape": "给 + person + thing / 给 + person + verb",
+   "say": "给 as a verb is 'give'. Before another verb it means for someone's benefit, or toward a recipient.",
+   "classical": "與: 與之粟九百 'gave him nine hundred measures of grain'.",
+   "examples": [
+    {
+     "id": 353877,
+     "zh": "请给我一杯水。",
+     "en": "Give me a glass of water, please."
+    },
+    {
+     "id": 4264973,
+     "zh": "爸爸给我买了书。",
+     "en": "Dad bought a book for me."
+    },
+    {
+     "id": 9409450,
+     "zh": "妈妈正在做生日蛋糕给我。",
+     "en": "My mother is making me a birthday cake."
+    },
+    {
+     "id": 7774355,
+     "zh": "汤姆在给他最好的朋友写信。",
+     "en": "Tom is writing a letter to his best friend."
+    }
+   ]
+  },
+  {
+   "key": "对",
+   "title": "toward, about",
+   "shape": "对 + person / thing + verb or adjective",
+   "say": "对 names the one a feeling or action is aimed at. 对…来说 is 'as far as … is concerned'.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 3378035,
+     "zh": "我对电影感兴趣。",
+     "en": "I am interested in movies."
+    },
+    {
+     "id": 5574777,
+     "zh": "汤姆对我一直很好。",
+     "en": "Tom has always been very nice to me."
+    },
+    {
+     "id": 2255117,
+     "zh": "这双鞋对我来说太大了。",
+     "en": "These shoes are too big for me."
+    },
+    {
+     "id": 3378175,
+     "zh": "这些汉字对我们来说不太难。",
+     "en": "These Chinese characters are not too difficult for us."
+    }
+   ]
+  },
+  {
+   "key": "跟",
+   "title": "with, to",
+   "shape": "跟 + person + verb",
+   "say": "跟 introduces the other party: do it with, talk to, be the same as. 跟…一起 is 'together with'.",
+   "classical": "與: 吾與回言終日 'I talked with Hui all day'.",
+   "examples": [
+    {
+     "id": 478844,
+     "zh": "你在跟我说话吗？",
+     "en": "Are you talking to me?"
+    },
+    {
+     "id": 9400827,
+     "zh": "我要汤姆跟我一起去澳洲。",
+     "en": "I wanted Tom to go to Australia with me."
+    },
+    {
+     "id": 1047357,
+     "zh": "他跟平时一样把钥匙放在书桌上。",
+     "en": "He put the key on the desk as usual."
+    },
+    {
+     "id": 9178035,
+     "zh": "我再也不会跟你说话了。",
+     "en": "I'll never speak to you again."
+    }
+   ]
+  },
+  {
+   "key": "从",
+   "title": "from, starting at",
+   "shape": "从 + start (+ 到 + end)",
+   "say": "从 gives the point something begins at, in place or time. 从…到… marks the range, and 从…开始 'starting from'.",
+   "classical": "自: 有朋自遠方來 'a friend comes from afar'.",
+   "examples": [
+    {
+     "id": 1446985,
+     "zh": "我们从第十课开始吧。",
+     "en": "Let's start with Lesson Ten."
+    },
+    {
+     "id": 9963197,
+     "zh": "我们从这里看到城市。",
+     "en": "From here we see the city."
+    },
+    {
+     "id": 13880573,
+     "zh": "从现在起，我再也不吃肉了。",
+     "en": "From now on, I will not eat meat anymore."
+    },
+    {
+     "id": 13931502,
+     "zh": "汤姆从上周一到现在都没来这里。",
+     "en": "Tom hasn't been here since Monday."
+    }
+   ]
+  },
+  {
+   "key": "到",
+   "title": "arrive, up to",
+   "shape": "verb + 到 + place / 到 + place",
+   "say": "到 is 'reach', and after a motion verb it names the place reached. Before a time or place it means 'up to'.",
+   "classical": "至, as a word: 不知老之將至 'not aware that old age is arriving'.",
+   "examples": [
+    {
+     "id": 9094110,
+     "zh": "欢迎来到法国！",
+     "en": "Welcome to France!"
+    },
+    {
+     "id": 5091332,
+     "zh": "我将要飞到波士顿去。",
+     "en": "I'll be flying to Boston."
+    },
+    {
+     "id": 2906688,
+     "zh": "昨天晚上六点钟我们来到了这里。",
+     "en": "We arrived here at six yesterday evening."
+    },
+    {
+     "id": 14038213,
+     "zh": "我回到了过去。",
+     "en": "I've gone back to the past."
+    }
+   ]
+  },
+  {
+   "key": "向 往",
+   "title": "toward",
+   "shape": "向 / 往 + direction + verb",
+   "say": "Both mark the direction of a movement or look, and 向 also marks the person an action is directed at (借钱 from someone). Neither describes a source, which is 从.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 847822,
+     "zh": "我们向山间小屋走去。",
+     "en": "We headed for the mountain cottage."
+    },
+    {
+     "id": 333189,
+     "zh": "不要往我房间里看。",
+     "en": "Don't look into my room."
+    },
+    {
+     "id": 348268,
+     "zh": "我不能再往前走了。",
+     "en": "I can't go any farther."
+    },
+    {
+     "id": 451837,
+     "zh": "我是不会向那些人借钱的。",
+     "en": "I will not borrow money from those people."
+    }
+   ]
+  },
+  {
+   "key": "会 能 可以",
+   "title": "can, will, may",
+   "shape": "会 / 能 / 可以 + verb",
+   "say": "会 is can through learning, or will happen; 能 is can through ability or circumstance; 可以 is may. A negated 不能 often means it is not allowed.",
+   "classical": "能 is the same word (未能事人，焉能事鬼 'cannot yet serve men, how serve spirits'); 可以 too (可以為師矣 'such a one can be a teacher').",
+   "examples": [
+    {
+     "id": 2638400,
+     "zh": "我会说阿拉伯语。",
+     "en": "I speak Arabic."
+    },
+    {
+     "id": 431500,
+     "zh": "我明天会很忙。",
+     "en": "I'll be busy tomorrow."
+    },
+    {
+     "id": 4600759,
+     "zh": "金钱不能买到所有的东西。",
+     "en": "Money can't buy everything."
+    },
+    {
+     "id": 8800802,
+     "zh": "这里可以停车。",
+     "en": "You can park here."
+    }
+   ]
+  },
+  {
+   "key": "应该 必须",
+   "title": "should and must",
+   "shape": "应该 / 必须 + verb",
+   "say": "应该 is should, 必须 is must; 不用 or 不必 says it is not necessary. 必须 has no 'must not': that is 不能 or 别.",
+   "classical": "必 is the same word: 必也正名乎 'it must be the names that are put right'.",
+   "examples": [
+    {
+     "id": 9415402,
+     "zh": "你应该少抽烟。",
+     "en": "You should smoke less."
+    },
+    {
+     "id": 5907512,
+     "zh": "你应该带护照去银行。",
+     "en": "You should bring your passport to the bank."
+    },
+    {
+     "id": 5581564,
+     "zh": "你必须为自己的行为负责。",
+     "en": "You must account for your conduct."
+    },
+    {
+     "id": 336877,
+     "zh": "做任何事，你必须要做到最好。",
+     "en": "In doing anything, you must do your best."
+    }
+   ]
+  },
+  {
+   "key": "想 要 愿意",
+   "title": "want, will, be willing",
+   "shape": "想 / 要 / 愿意 + verb",
+   "say": "想 is to think or want to; 要 is to want and also 'will' or 'must'; 愿意 is to be willing. 不想 declines, 不要 means don't.",
+   "classical": "欲 for 想 and 要: 己欲立而立人 'wanting to stand himself, he stands others up'.",
+   "examples": [
+    {
+     "id": 735321,
+     "zh": "将来我想做飞行员。",
+     "en": "I want to be a pilot in the future."
+    },
+    {
+     "id": 346070,
+     "zh": "我想要有我自己的房间。",
+     "en": "I want to have my own room."
+    },
+    {
+     "id": 5983600,
+     "zh": "我要告诉你真相。",
+     "en": "I'm going to tell you the truth."
+    },
+    {
+     "id": 13278116,
+     "zh": "我很愿意帮忙。",
+     "en": "I'm glad to help."
+    }
+   ]
+  },
+  {
+   "key": "就",
+   "title": "right then, already",
+   "shape": "time / condition + 就 + verb",
+   "say": "就 ties an event closely to what comes before: it came soon, it follows at once, or it is already so. In a conditional it opens the result clause.",
+   "classical": "則 opens a result: 行有餘力，則以學文 'if there is strength left over, then use it on writing'.",
+   "examples": [
+    {
+     "id": 838499,
+     "zh": "她十八岁就大学毕业了。",
+     "en": "She was only 18 when she graduated from university."
+    },
+    {
+     "id": 819694,
+     "zh": "我马上就回来。",
+     "en": "I'll be back in a jiffy."
+    },
+    {
+     "id": 332598,
+     "zh": "我做完我的功课后，就读这本书。",
+     "en": "I read the book after I had finished my homework."
+    },
+    {
+     "id": 8860204,
+     "zh": "我就在你后面。",
+     "en": "I was right behind you."
+    }
+   ]
+  },
+  {
+   "key": "才",
+   "title": "only then, not until",
+   "shape": "time / condition + 才 + verb",
+   "say": "才 is the opposite of 就: it came late, took trouble, or needed a condition first. 不…才… is 'only if'.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 13556582,
+     "zh": "我通常星期天要到中午才起床。",
+     "en": "I usually don't get up until noon on Sundays."
+    },
+    {
+     "id": 1718723,
+     "zh": "努力工作才能养活自己。",
+     "en": "Work hard so that you may earn your living."
+    },
+    {
+     "id": 9959860,
+     "zh": "你得了解俄语才能学这门语言。",
+     "en": "You have to know Russian to learn this language."
+    }
+   ]
+  },
+  {
+   "key": "还",
+   "title": "still, in addition",
+   "shape": "还 + verb",
+   "say": "还 says the state continues, or something is added on top. 还没 is 'not yet'.",
+   "classical": "猶 and 尚 for 'still' (word only).",
+   "examples": [
+    {
+     "id": 13910269,
+     "zh": "完了，我还没做作业！",
+     "en": "Crap, I didn't do the homework!"
+    },
+    {
+     "id": 5576822,
+     "zh": "如果汤姆还活着呢？",
+     "en": "What if Tom is still alive?"
+    },
+    {
+     "id": 9982222,
+     "zh": "你还要我做别的吗？",
+     "en": "Is there anything else you want from me?"
+    }
+   ]
+  },
+  {
+   "key": "又 再",
+   "title": "again",
+   "shape": "又 + verb (done) / 再 + verb (to be done)",
+   "say": "又 says it has happened again, or joins two qualities as in 又…又…. 再 is again for something still to come.",
+   "classical": "又 is the same word. 再 in the Analects counts two: 再，斯可矣 'twice, and that will do'.",
+   "examples": [
+    {
+     "id": 334638,
+     "zh": "他的房子又小又旧。",
+     "en": "His house was small and old."
+    },
+    {
+     "id": 1415794,
+     "zh": "我又失去了一次机会。",
+     "en": "I've missed another chance."
+    },
+    {
+     "id": 11509462,
+     "zh": "再告诉我一次。",
+     "en": "Tell me again."
+    },
+    {
+     "id": 12686304,
+     "zh": "你不用再为我担心了。",
+     "en": "You don't need to worry about me anymore."
+    }
+   ]
+  },
+  {
+   "key": "要…了",
+   "title": "about to",
+   "shape": "要 / 就要 / 快要 + verb + 了",
+   "say": "要 before the verb and 了 at the end together say that something is about to happen.",
+   "classical": "將: 不知老之將至 'does not know that old age is about to arrive'.",
+   "examples": [
+    {
+     "id": 4625747,
+     "zh": "我要去银行了。",
+     "en": "I'm going to the bank."
+    },
+    {
+     "id": 9501482,
+     "zh": "我们就要到了。",
+     "en": "We'll be there soon."
+    },
+    {
+     "id": 336690,
+     "zh": "天看起来要下雨了。",
+     "en": "It looks as if it is going to rain."
+    },
+    {
+     "id": 395284,
+     "zh": "我很累，我想我要去睡觉了。",
+     "en": "I'm tired; I think I'm going to go to bed."
+    }
+   ]
+  },
+  {
+   "key": "因为…所以",
+   "title": "because, so",
+   "shape": "因为 + reason，所以 + result",
+   "say": "因为 gives the reason and 所以 the consequence; either may stand alone. 所以 at the head of a sentence is a plain 'so'.",
+   "classical": "故: 求也退，故進之 'Qiu holds back, therefore I urge him on'.",
+   "examples": [
+    {
+     "id": 10501226,
+     "zh": "因为她生病了，所以她没去学校。",
+     "en": "She got sick, so she didn't go to school."
+    },
+    {
+     "id": 398860,
+     "zh": "因为他是个友好的人，所以大家都喜欢他。",
+     "en": "People like him because he is kind."
+    },
+    {
+     "id": 2887989,
+     "zh": "因为我们没买到票，所以我们没去音乐会。",
+     "en": "We weren't able to buy tickets, so we didn't go to the concert."
+    },
+    {
+     "id": 799196,
+     "zh": "因为你工作得太多，所以你总是很累。",
+     "en": "Because you work so much, you are always very tired."
+    }
+   ]
+  },
+  {
+   "key": "虽然…但是",
+   "title": "although, yet",
+   "shape": "虽然 + A，但是 / 可是 / 还是 + B",
+   "say": "虽然 or 尽管 gives a fact that you might expect to block the main point, and the second clause says it does not. The turn word is almost always present.",
+   "classical": "雖: 雖小道，必有可觀者焉 'even a small way surely has something worth seeing'.",
+   "examples": [
+    {
+     "id": 334255,
+     "zh": "虽然他很有钱，但他不幸福。",
+     "en": "He's rich, but he isn't happy."
+    },
+    {
+     "id": 2002944,
+     "zh": "他虽然年轻，但是位好医生。",
+     "en": "Young as he is, he is a good doctor."
+    },
+    {
+     "id": 8744718,
+     "zh": "虽然外面风很大，但是我们还是会出去散步。",
+     "en": "It's very windy outside, but we'll still go out for a walk."
+    },
+    {
+     "id": 1948821,
+     "zh": "尽管下着雨，我还是出了门。",
+     "en": "I went out in spite of the rain."
+    }
+   ]
+  },
+  {
+   "key": "如果…就",
+   "title": "if, then",
+   "shape": "如果 / 要是 + A，(就) + B",
+   "say": "如果 opens a condition and 就 opens the result, where 就 is often the only mark of the second half.",
+   "classical": "如 or 若 for 如果: 如有王者，必世而後仁 'if a true king arose, it would take a generation to make people humane'.",
+   "examples": [
+    {
+     "id": 12945417,
+     "zh": "如果雨停了我就走。",
+     "en": "I will go if the rain stops."
+    },
+    {
+     "id": 5613666,
+     "zh": "你如果需要帮助，就告诉我。",
+     "en": "If you should need any help, just let me know."
+    },
+    {
+     "id": 633972,
+     "zh": "如果有一天你走了，我会很难过的。",
+     "en": "If one day you leave, I will be very sad."
+    }
+   ]
+  },
+  {
+   "key": "的话",
+   "title": "if that is so",
+   "shape": "condition + 的话，result",
+   "say": "的话 closes an if-clause, with or without 如果 to open it. It marks where the condition ends and the main clause begins.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 3697923,
+     "zh": "如果明天下雨的话，我们就不去。",
+     "en": "If it rains tomorrow, we won't go."
+    },
+    {
+     "id": 910533,
+     "zh": "不下雨的话，我们出去吧。",
+     "en": "If it doesn't rain, let's go out."
+    },
+    {
+     "id": 344984,
+     "zh": "可以的话你也一起来吧。",
+     "en": "Come along with us if you like."
+    },
+    {
+     "id": 427619,
+     "zh": "如果必要的话，我不反对付特别费用。",
+     "en": "I have no objection to paying a special fee if it is necessary."
+    }
+   ]
+  },
+  {
+   "key": "不但…而且",
+   "title": "not only, but also",
+   "shape": "不但 / 不仅 + A，而且 / 还 + B",
+   "say": "The second clause adds to the first and outweighs it. 还 can take the place of 而且.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 333469,
+     "zh": "她不但漂亮，而且聪明。",
+     "en": "She is as clever as she is beautiful."
+    },
+    {
+     "id": 380969,
+     "zh": "他不但会说普通话，而且会说上海话。",
+     "en": "Not only can he speak Mandarin, but Shanghainese as well."
+    },
+    {
+     "id": 1883172,
+     "zh": "他不但喜欢棒球，还喜欢足球。",
+     "en": "He likes not only baseball but football as well."
+    },
+    {
+     "id": 2031462,
+     "zh": "我们老师不仅说英语，还说法语。",
+     "en": "Our teacher doesn't just speak English, but French too."
+    }
+   ]
+  },
+  {
+   "key": "越…越",
+   "title": "the more, the more",
+   "shape": "越 + A + 越 + B / 越来越 + adjective",
+   "say": "Two things grow together: the more of the first, the more of the second. 越来越 alone is 'more and more'.",
+   "classical": "彌: 仰之彌高，鑽之彌堅 'the more I look up, the higher; the more I drill, the harder'.",
+   "examples": [
+    {
+     "id": 336486,
+     "zh": "你看的书越多，你知道的越多。",
+     "en": "The more books you read, the more you'll know."
+    },
+    {
+     "id": 9974949,
+     "zh": "你知道的越少越好，好吗？",
+     "en": "The less you know, the better, OK?"
+    },
+    {
+     "id": 1582757,
+     "zh": "天气越来越热。",
+     "en": "It's getting hotter and hotter."
+    },
+    {
+     "id": 3060515,
+     "zh": "你真是越来越漂亮了。",
+     "en": "You're really getting prettier and prettier."
+    }
+   ]
+  },
+  {
+   "key": "连…都",
+   "title": "even",
+   "shape": "连 + extreme case + 都 / 也 + verb",
+   "say": "连 names an extreme case that sets the point: if even this is so, the rest follows. 都 or 也 follows, usually with a negative or an ability word.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 1992349,
+     "zh": "这个连小孩都能读。",
+     "en": "Even a child can read this."
+    },
+    {
+     "id": 2026506,
+     "zh": "汤姆太老实了，连撒谎都不会。",
+     "en": "Tom is too honest a boy to tell a lie."
+    },
+    {
+     "id": 8696168,
+     "zh": "我的妻子看起来连自己的孩子也不太喜欢。",
+     "en": "My wife doesn't seem to like even her own children."
+    },
+    {
+     "id": 602896,
+     "zh": "宝宝连走都不会，更何况是跑。",
+     "en": "The baby can't walk, much less run."
+    }
+   ]
+  },
+  {
+   "key": "一…就",
+   "title": "as soon as",
+   "shape": "一 + A + 就 + B",
+   "say": "One thing happens and the next follows at once. Here 一 means 'as soon as', not the number one.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 2367575,
+     "zh": "小偷一看到警车就跑走了。",
+     "en": "The thief ran off as soon as he saw the police car."
+    },
+    {
+     "id": 9130855,
+     "zh": "他一到伦敦就给我发了电报。",
+     "en": "On his arrival in London, he sent me a telegram."
+    },
+    {
+     "id": 6799716,
+     "zh": "我一喝了酒就立刻变得通红。",
+     "en": "The minute I have something to drink, I turn bright red."
+    }
+   ]
+  },
+  {
+   "key": "除了",
+   "title": "except, besides",
+   "shape": "除了 + X (以外)，others / 还 + more",
+   "say": "Which of the two meanings applies depends on the second half: 都 means 'everyone except X', while 还 or 也 means 'X and also more'.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 850360,
+     "zh": "除了星期天我每一天都工作。",
+     "en": "I work every day except Sunday."
+    },
+    {
+     "id": 684827,
+     "zh": "除了我以外，大家都很忙。",
+     "en": "Everybody is busy except me."
+    },
+    {
+     "id": 5624957,
+     "zh": "除了汤姆和玛丽，房间里没有人。",
+     "en": "There was no one in the room besides Tom and Mary."
+    },
+    {
+     "id": 336626,
+     "zh": "除了英语，他还会说法语。",
+     "en": "In addition to English, he can speak French."
+    }
+   ]
+  },
+  {
+   "key": "只要 只有",
+   "title": "if only, only if",
+   "shape": "只要 + condition，就 + result / 只有 + condition，才 + result",
+   "say": "只要 gives a sufficient condition: this is all it takes. 只有 gives the only condition: nothing else will do.",
+   "classical": "唯 for 只有: 唯上知與下愚不移 'only the very wise and the very stupid do not change'.",
+   "examples": [
+    {
+     "id": 9963302,
+     "zh": "只要他写作业，他就能玩游戏了。",
+     "en": "He can play computer games as long as he does his homework."
+    },
+    {
+     "id": 5794114,
+     "zh": "你只要说句话，我就走。",
+     "en": "All you have to do is say the word, and I'll leave."
+    },
+    {
+     "id": 1477290,
+     "zh": "只有你好好学习才可以考得上大学。",
+     "en": "Only if you study hard will you be able to get into university."
+    },
+    {
+     "id": 381408,
+     "zh": "只有你来了，她才会来我的生日派对。",
+     "en": "Only if you come will she come to my birthday party."
+    }
+   ]
+  },
+  {
+   "key": "让 叫 使",
+   "title": "make, let, have",
+   "shape": "A + 让 / 叫 / 使 + B + verb",
+   "say": "A causes or permits B to do something, and B stays in front of its own verb. 让 and 叫 are everyday; 使 sounds written.",
+   "classical": "使: 民可使由之，不可使知之 'the people can be made to follow it, but not made to understand it'.",
+   "examples": [
+    {
+     "id": 10986122,
+     "zh": "你想让我买多少个苹果？",
+     "en": "How many apples do you want me to buy?"
+    },
+    {
+     "id": 334625,
+     "zh": "这药会让你好受点。",
+     "en": "This medicine will make you feel better."
+    },
+    {
+     "id": 11837496,
+     "zh": "妈妈每天叫我起床上学。",
+     "en": "Mom wakes me up for school every day."
+    },
+    {
+     "id": 1314486,
+     "zh": "你让我想起我过去认识的一个男孩。",
+     "en": "You remind me of a boy I used to know."
+    }
+   ]
+  },
+  {
+   "key": "谁 哪 什么",
+   "title": "the word stays in place",
+   "shape": "subject + 是 + 谁 / 在 + 哪 / 哪 + counter + noun",
+   "say": "A question word sits where the answer would sit; the word order does not change. A yes/no 吗 is not added.",
+   "classical": "誰 is the same word: 夫執輿者為誰 'who is that driving the carriage?'.",
+   "examples": [
+    {
+     "id": 686926,
+     "zh": "这间房间是谁的？",
+     "en": "Whose room is this?"
+    },
+    {
+     "id": 7768148,
+     "zh": "我们在哪里见面？",
+     "en": "Where are we meeting?"
+    },
+    {
+     "id": 13476739,
+     "zh": "你在哪一站下车？",
+     "en": "Which stop are you getting off at?"
+    },
+    {
+     "id": 2607320,
+     "zh": "那个女人是谁？",
+     "en": "Who is that woman?"
+    }
+   ]
+  },
+  {
+   "key": "谁都 哪里都",
+   "title": "anyone, anywhere",
+   "shape": "question word + 都 / 也 + verb",
+   "say": "Place 都 or 也 after a question word and it stops asking: 谁都 is everyone, anyone, and with 不 no one at all. Here 都 covers the whole range the question word could take.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 9962353,
+     "zh": "谁都可以参加。",
+     "en": "Anyone can join."
+    },
+    {
+     "id": 5095187,
+     "zh": "我们谁都不怕。",
+     "en": "We're not scared of anybody."
+    },
+    {
+     "id": 9541104,
+     "zh": "到哪里我都会跟着你。",
+     "en": "I'll follow you anywhere."
+    },
+    {
+     "id": 7704623,
+     "zh": "我去哪里都开车。",
+     "en": "I drive everywhere."
+    }
+   ]
+  },
+  {
+   "key": "看看",
+   "title": "doubled verbs",
+   "shape": "verb + verb / verb + 一下",
+   "say": "A doubled verb is lighter and shorter: try it, take a look, a quick go. It is used for requests and plans, not for things already done.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 714790,
+     "zh": "给我看看你哪里痛。",
+     "en": "Show me where it hurts."
+    },
+    {
+     "id": 5842661,
+     "zh": "让我试试别的。",
+     "en": "Let me try another one."
+    },
+    {
+     "id": 2220840,
+     "zh": "小孩子们到公园去玩玩。",
+     "en": "The children went to play in the park."
+    },
+    {
+     "id": 1358646,
+     "zh": "让我们来问问这是不是真的。",
+     "en": "Let's ask if it's true."
+    }
+   ]
+  },
+  {
+   "key": "别",
+   "title": "don't",
+   "shape": "别 + verb",
+   "say": "别 forbids or warns. 不要 means the same, and 千万别 is a firm don't.",
+   "classical": "勿 and 毋: 非禮勿視 'do not look at what is not proper'.",
+   "examples": [
+    {
+     "id": 5845635,
+     "zh": "别进我的厨房。",
+     "en": "Stay out of my kitchen."
+    },
+    {
+     "id": 446690,
+     "zh": "没事的，别害怕！",
+     "en": "It's nothing, don't be afraid!"
+    },
+    {
+     "id": 349672,
+     "zh": "别忘了带个相机。",
+     "en": "Don't forget to take a camera with you."
+    },
+    {
+     "id": 4282947,
+     "zh": "千万别误会我的意思。",
+     "en": "Please don't misunderstand me."
+    }
+   ]
+  },
+  {
+   "key": "为了",
+   "title": "in order to",
+   "shape": "为了 + goal，verb",
+   "say": "为了 names the goal that explains the action; the main clause follows.",
+   "classical": "為 is the same word: 古之學者為己，今之學者為人 'the learners of old studied for themselves, those of today for others'.",
+   "examples": [
+    {
+     "id": 408486,
+     "zh": "为了买这本书，我去了东京。",
+     "en": "I went to Tokyo to buy this book."
+    },
+    {
+     "id": 819779,
+     "zh": "为了解决问题，他们尽了很大努力。",
+     "en": "They made a great effort to settle the problem."
+    },
+    {
+     "id": 336917,
+     "zh": "我们吃是为了活着。",
+     "en": "We eat so we can live."
+    }
+   ]
+  },
+  {
+   "key": "之",
+   "title": "of, one of",
+   "shape": "A 之 B / the best + noun + 之一",
+   "say": "In written Chinese 之 still links two nouns, as 的 would. The set phrase 之一 means 'one of', and 百分之 gives per cent.",
+   "classical": "The same 之: 君子之德風 'the gentleman's virtue is wind'.",
+   "examples": [
+    {
+     "id": 8463633,
+     "zh": "这是我吃过的最好的餐馆之一。",
+     "en": "This is one of the best restaurants that I've ever eaten in."
+    },
+    {
+     "id": 787377,
+     "zh": "那辆车是三辆之中最漂亮的。",
+     "en": "That car is the most beautiful of the three."
+    },
+    {
+     "id": 349283,
+     "zh": "孩子是宝中之宝。",
+     "en": "There is no treasure more precious than a child."
+    },
+    {
+     "id": 342156,
+     "zh": "在我看来，澳洲是世界上最好的国家之一。",
+     "en": "From my point of view, Australia is one of the best countries in the world."
+    }
+   ]
+  },
+  {
+   "key": "所",
+   "title": "what is done",
+   "shape": "所 + verb (+ 的)",
+   "say": "所 before a verb forms a noun that means the thing acted on: what is said, what I know. 据我所知 is 'as far as I know'.",
+   "classical": "己所不欲，勿施於人 'what you do not want, do not do to others'.",
+   "examples": [
+    {
+     "id": 343747,
+     "zh": "这就是他所说的。",
+     "en": "That's exactly what he said."
+    },
+    {
+     "id": 9489490,
+     "zh": "汤姆所做的非常危险。",
+     "en": "What Tom did was extremely dangerous."
+    },
+    {
+     "id": 5576843,
+     "zh": "我们尽我们所能。",
+     "en": "We do the best we can."
+    },
+    {
+     "id": 1133337,
+     "zh": "据我所知，这本书还没被翻译成日语。",
+     "en": "As far as I know, this book has never been translated into Japanese."
+    }
+   ]
+  },
+  {
+   "key": "而",
+   "title": "and, but",
+   "shape": "A 而 B / 不是 A 而是 B / 而不是 B",
+   "say": "而 joins two clauses or verbs and may mean and, but, or 'and yet'. 不是…而是… is 'not A but B'.",
+   "classical": "而: 君子和而不同 'the gentleman is harmonious but not conforming'; 人不知而不慍.",
+   "examples": [
+    {
+     "id": 1361994,
+     "zh": "她爱的不是你，而是我。",
+     "en": "It's not you that she loves, it's me."
+    },
+    {
+     "id": 2607316,
+     "zh": "我是日本人，而你是美国人。",
+     "en": "I am Japanese, but you are an American."
+    },
+    {
+     "id": 333777,
+     "zh": "我决定去美国，而不是欧洲。",
+     "en": "Instead of going to Europe, I decided to go to America."
+    },
+    {
+     "id": 335526,
+     "zh": "约翰一整天待在床上而没去工作。",
+     "en": "John stayed in bed all day instead of going to work."
+    }
+   ]
+  },
+  {
+   "key": "其",
+   "title": "his, its, other",
+   "shape": "其 + 他 / 实 / 中 / 它",
+   "say": "其 alone stands for his, her or its, and in 其他 'others', 其中 'among them', 其实 'in fact' it is part of a word.",
+   "classical": "其 is the same: 其為人也孝弟 'as a person he is filial and respectful'.",
+   "examples": [
+    {
+     "id": 5911661,
+     "zh": "她比其他人都漂亮。",
+     "en": "She was more beautiful than all the others."
+    },
+    {
+     "id": 14002101,
+     "zh": "他们都说我的口音像北方人，但我其实是南方人。",
+     "en": "They all say I sound like someone from the north, but I'm actually from the south."
+    },
+    {
+     "id": 10484431,
+     "zh": "我想要买其中一个。",
+     "en": "I'd like to buy one of these."
+    },
+    {
+     "id": 470972,
+     "zh": "如果你有其他问题，请通过表格发给我。",
+     "en": "If you have any other issues, please notify me through the form."
+    }
+   ]
+  },
+  {
+   "key": "于",
+   "title": "at, in, than",
+   "shape": "verb / adjective + 于 + X",
+   "say": "于 survives inside words: 关于 about, 等于 equals, 有利于 good for, 终于 at last, 过于 too much. When you meet it, read it as 'at / in / toward'.",
+   "classical": "於 became 于: 吾十有五而志於學 'at fifteen I set my mind on learning'.",
+   "examples": [
+    {
+     "id": 333295,
+     "zh": "做运动有利于健康。",
+     "en": "Exercise is good for your health."
+    },
+    {
+     "id": 9084064,
+     "zh": "十减二等于八。",
+     "en": "Subtract two from ten and you have eight."
+    },
+    {
+     "id": 13839307,
+     "zh": "他们在问关于汤姆的事。",
+     "en": "They were asking questions about Tom."
+    },
+    {
+     "id": 431501,
+     "zh": "终于开始下雨了。",
+     "en": "At last, it began to rain."
+    }
+   ]
+  },
+  {
+   "key": "以",
+   "title": "with, so as to",
+   "shape": "以 + means / 以 + verb (purpose)",
+   "say": "以 survives as 'with, by means of' and as 'so as to', as in 以免 and 难以. It is rarely used alone in speech.",
+   "classical": "以 is the same: 以直報怨 'repay resentment with uprightness'.",
+   "examples": [
+    {
+     "id": 1785941,
+     "zh": "我尽快跑以赶上她。",
+     "en": "I ran as fast as possible to catch up with her."
+    },
+    {
+     "id": 1946803,
+     "zh": "我们小声谈话以免被人听到。",
+     "en": "We talked in a low voice so as not to be heard."
+    },
+    {
+     "id": 1409032,
+     "zh": "有时他让我难以理解。",
+     "en": "I don't understand him sometimes."
+    },
+    {
+     "id": 5094948,
+     "zh": "今年将会不同以往吗？",
+     "en": "Will this year be different?"
+    }
+   ]
+  },
+  {
+   "key": "或者 还是",
+   "title": "or",
+   "shape": "A 或者 B / A 还是 B？",
+   "say": "或者 says 'either' in a statement. 还是 is 'or' in a question that asks which one.",
+   "classical": "抑: 求之與？抑與之與？ 'did he seek it, or was it given him?'.",
+   "examples": [
+    {
+     "id": 1477278,
+     "zh": "我们喝葡萄酒或者啤酒吧。",
+     "en": "Let's drink wine or beer."
+    },
+    {
+     "id": 380678,
+     "zh": "我或者去看电影，或者去看歌剧。",
+     "en": "I am either going to see a film, or going to see an opera."
+    },
+    {
+     "id": 2029439,
+     "zh": "去读大学还是去上班，我还没决定。",
+     "en": "I haven't decided whether to study at university or to get a job."
+    },
+    {
+     "id": 8727862,
+     "zh": "你和爸爸更亲还是妈妈更亲？",
+     "en": "Are you closer to your mother or to your father?"
+    }
+   ]
+  },
+  {
+   "key": "像…一样",
+   "title": "just like",
+   "shape": "A + 像 + B + 一样 (+ adjective)",
+   "say": "A resembles B. A word after 一样 says in what way: 像你一样高 is as tall as you.",
+   "classical": "如: 譬如北辰，居其所而眾星共之 'like the polestar that stays in place while the stars turn about it'.",
+   "examples": [
+    {
+     "id": 4147447,
+     "zh": "他像国王一样开心。",
+     "en": "He is as happy as a king."
+    },
+    {
+     "id": 948168,
+     "zh": "我希望我有一个像你一样的朋友。",
+     "en": "I wish I had a friend like you."
+    },
+    {
+     "id": 13994841,
+     "zh": "那里就像战场一样。",
+     "en": "It's like a war zone there."
+    },
+    {
+     "id": 8746410,
+     "zh": "汤姆像往常一样来晚了。",
+     "en": "Tom is late as usual."
+    }
+   ]
+  },
+  {
+   "key": "起来",
+   "title": "begin, look, sound",
+   "shape": "verb + 起来 / 看起来 / 听起来",
+   "say": "起来 after a verb says the action begins. After 看, 听 or an adjective, it says how a thing looks or sounds on first impression.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 1400873,
+     "zh": "这方案听起来不错。",
+     "en": "That sounds like a fairly good proposal."
+    },
+    {
+     "id": 1992626,
+     "zh": "你看起来像个老实人。",
+     "en": "You seem to be an honest man."
+    },
+    {
+     "id": 333042,
+     "zh": "这辆车保养起来很贵。",
+     "en": "It is expensive running this car."
+    },
+    {
+     "id": 8725298,
+     "zh": "不要担心，都会好起来的。",
+     "en": "Don't worry, it will come out all right."
+    }
+   ]
+  },
+  {
+   "key": "下去",
+   "title": "keep on",
+   "shape": "verb + 下去",
+   "say": "下去 after a verb says the action keeps going from this point on. It looks ahead, where 过 looks back.",
+   "classical": "",
+   "examples": [
+    {
+     "id": 5613628,
+     "zh": "我要一直做下去。",
+     "en": "I'll keep doing it."
+    },
+    {
+     "id": 10983912,
+     "zh": "我真的不应该再呆下去了。",
+     "en": "I really shouldn't stay any longer."
+    },
+    {
+     "id": 5646165,
+     "zh": "我将会活下去。",
+     "en": "I will live."
+    },
+    {
+     "id": 1411602,
+     "zh": "这将永远继续下去。",
+     "en": "This is never going to end."
+    }
+   ]
+  }
+ ],
+ "credit": "Example sentences: Tatoeba, tatoeba.org (CC BY 2.0 FR), each with its sentence id. The explanations are Claude's own, unchecked."
+}

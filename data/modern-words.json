@@ -50,7 +50,7 @@
    "g": "at, in; be at",
    "k": "word",
    "card": true,
-   "n": 26,
+   "n": 33,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Classical 於. Before a verb it means \"in the middle of doing\".",
    "known": [
@@ -66,7 +66,7 @@
    "g": "'s, of; links a description to its noun",
    "k": "grammar",
    "card": true,
-   "n": 179,
+   "n": 205,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Classical 之. With no noun after it, \"the one that…\" (classical 者): 聪明的 \"the clever ones\"."
   },
@@ -130,7 +130,7 @@
    "g": "not",
    "k": "word",
    "card": false,
-   "n": 46,
+   "n": 48,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Same as classical.",
    "known": [
@@ -204,7 +204,7 @@
    "g": "not have; there is no; did not",
    "k": "word",
    "card": true,
-   "n": 16,
+   "n": 17,
    "src": "里仁 in modern Chinese · 4.2",
    "trad": "沒有",
    "parts": "没 not + 有 have",
@@ -314,7 +314,7 @@
    "g": "also, too",
    "k": "grammar",
    "card": true,
-   "n": 13,
+   "n": 15,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "False friend. Classical 也 is the full stop \"that's how it is\". Classical \"also\" is 亦.",
    "known": [
@@ -348,7 +348,7 @@
    "g": "(done); the action is complete, or things have changed",
    "k": "grammar",
    "card": true,
-   "n": 37,
+   "n": 40,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "Loosely classical 矣. After a verb: the action is complete. At the end of a sentence: \"now it is so\"."
   },
@@ -546,7 +546,7 @@
    "g": "then; right away; just",
    "k": "grammar",
    "card": true,
-   "n": 12,
+   "n": 13,
    "src": "里仁 in modern Chinese · 4.4",
    "note": "Classical 則, 斯. \"如果 A 就 B\": if A then B."
   },
@@ -603,7 +603,7 @@
    "g": "and; with",
    "k": "grammar",
    "card": true,
-   "n": 12,
+   "n": 20,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "Classical 與. Joins nouns; before a person, \"with\"."
   },
@@ -630,7 +630,7 @@
    "g": "is, am, are",
    "k": "grammar",
    "card": true,
-   "n": 32,
+   "n": 36,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "False friend. Classical 是 means \"this\"; classical says \"A, B 也\" with no verb.",
    "known": [
@@ -683,7 +683,7 @@
    "g": "use; with, by means of; use (noun)",
    "k": "word",
    "card": true,
-   "n": 8,
+   "n": 9,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "Classical 以, 用.",
    "known": [
@@ -852,7 +852,7 @@
    "g": "one; a",
    "k": "word",
    "card": false,
-   "n": 15,
+   "n": 17,
    "src": "里仁 in modern Chinese · 4.5",
    "known": [
     [
@@ -1065,7 +1065,7 @@
    "g": "even more",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.6",
    "note": "\"比 A 更好\": even better than A."
   },
@@ -1148,7 +1148,7 @@
    "g": "arrive; to, up to",
    "k": "word",
    "card": true,
-   "n": 7,
+   "n": 8,
    "src": "里仁 in modern Chinese · 4.6",
    "note": "After a verb: the action reached its target (听到 hear, 得到 get)."
   },
@@ -1249,7 +1249,7 @@
    "g": "(taking); moves the object in front of the verb",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.6",
    "note": "\"把 A 用在 B 上\": take A and use it on B. Loosely classical 以."
   },
@@ -1506,7 +1506,7 @@
    "g": "may, can; all right",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.8",
    "parts": "可 may + 以",
    "note": "Classical 可.",
@@ -1862,7 +1862,7 @@
    "g": "come; (before a verb) in order to",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.13",
    "trad": "來",
    "note": "\"用 A 来 B\": use A to do B.",
@@ -1879,7 +1879,7 @@
    "g": "manage, run",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.13",
    "parts": "管 control + 理 put in order",
    "note": "Classical 為 (為國 \"run a state\")."
@@ -1890,7 +1890,7 @@
    "g": "country, state",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.13",
    "trad": "國家",
    "parts": "国 state + 家 family",
@@ -1908,7 +1908,7 @@
    "g": "still; also; even",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.13",
    "trad": "還",
    "note": "Classical 尚, 猶."
@@ -2100,7 +2100,7 @@
    "g": "become",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.14",
    "trad": "成為",
    "parts": "成 complete + 为 be",
@@ -2460,7 +2460,7 @@
    "g": "right, correct",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.16",
    "trad": "對",
    "note": "Also \"facing, toward\"."
@@ -2772,7 +2772,7 @@
    "g": "year",
    "k": "word",
    "card": false,
-   "n": 1,
+   "n": 14,
    "src": "里仁 in modern Chinese · 4.20",
    "note": "Same as your card.",
    "known": [
@@ -2933,7 +2933,7 @@
    "g": "and so; (为 A 而 B) do B because of A",
    "k": "grammar",
    "card": true,
-   "n": 10,
+   "n": 13,
    "src": "里仁 in modern Chinese · 4.21",
    "note": "Straight from classical. Modern keeps it in set frames.",
    "known": [
@@ -3280,7 +3280,7 @@
    "g": "(is …-ed); marks the passive",
    "k": "grammar",
    "card": true,
-   "n": 15,
+   "n": 21,
    "src": "里仁 in modern Chinese · 4.26",
    "note": "Classical 見, or 為…所."
   },
@@ -3312,7 +3312,7 @@
    "g": "have; there is",
    "k": "word",
    "card": false,
-   "n": 21,
+   "n": 25,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Same as classical.",
    "known": [
@@ -3349,7 +3349,7 @@
    "g": "item; project",
    "k": "word",
    "card": true,
-   "n": 16,
+   "n": 17,
    "src": "SCP-CN-187 非礼勿言 · 187.1",
    "trad": "項目",
    "parts": "项 item + 目 heading",
@@ -3432,7 +3432,7 @@
    "g": "at, in, to; than",
    "k": "grammar",
    "card": false,
-   "n": 9,
+   "n": 13,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "trad": "於",
    "note": "Classical survivor: your card 於/于. After a verb: 收容于 \"held at\".",
@@ -3479,7 +3479,7 @@
    "g": "in, inside (after a noun); in the course of",
    "k": "grammar",
    "card": true,
-   "n": 10,
+   "n": 14,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "note": "The formal partner of 里. Classical 中."
   },
@@ -3489,7 +3489,7 @@
    "g": "not, not yet (formal)",
    "k": "grammar",
    "card": false,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "note": "Classical survivor, same as your card. Everyday speech: 没.",
    "known": [
@@ -3749,7 +3749,7 @@
    "g": "and (formal)",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.4",
    "note": "Classical survivor. Everyday speech: 和. 及以上 \"and above\"."
   },
@@ -3759,7 +3759,7 @@
    "g": "and above, more than; the above",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.4",
    "parts": "以 from + 上 up",
    "known": [
@@ -3803,7 +3803,7 @@
    "g": "is, serves as (formal)",
    "k": "grammar",
    "card": true,
-   "n": 14,
+   "n": 20,
    "src": "SCP-CN-187 非礼勿言 · 187.5",
    "trad": "為",
    "note": "Classical survivor: your card 為. Everyday speech: 是. Read wèi, it means \"for\".",
@@ -3974,7 +3974,7 @@
    "g": "(general counter)",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 7,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "個",
    "note": "After a number, or after 这 and 每, modern nouns need a counter: 每个字样."
@@ -3985,7 +3985,7 @@
    "g": "about, roughly",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "約",
    "note": "In your cards 約 is \"restraint, hardship\". \"Roughly\" is the common modern sense.",
@@ -4019,7 +4019,7 @@
    "g": "and, and also (joins verbs; formal)",
    "k": "grammar",
    "card": true,
-   "n": 10,
+   "n": 12,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "並"
   },
@@ -4029,7 +4029,7 @@
    "g": "with, by means of; in order to",
    "k": "grammar",
    "card": false,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "note": "Classical survivor, same as your card.",
    "known": [
@@ -4070,7 +4070,7 @@
    "g": "kind, type; -like",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "類",
    "note": "漆类物质 \"lacquer-type substance\"."
@@ -4092,7 +4092,7 @@
    "g": "carry out, conduct",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "進行",
    "parts": "进 advance + 行 go",
@@ -4199,7 +4199,7 @@
    "g": "after (follows a time or an event)",
    "k": "grammar",
    "card": true,
-   "n": 11,
+   "n": 14,
    "src": "SCP-CN-187 非礼勿言 · 187.7",
    "trad": "後",
    "note": "12秒后 \"after 12 seconds\"."
@@ -4210,7 +4210,7 @@
    "g": "receive, be subjected to",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.8"
   },
   "影响": {
@@ -4805,7 +4805,7 @@
    "g": "already (formal)",
    "k": "word",
    "card": false,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.13",
    "note": "Same as your card. Everyday speech: 已经.",
    "known": [
@@ -4849,7 +4849,7 @@
    "g": "and; with (formal)",
    "k": "grammar",
    "card": true,
-   "n": 8,
+   "n": 12,
    "src": "SCP-CN-187 非礼勿言 · 187.13",
    "trad": "與",
    "note": "Classical survivor: your card 與, in its mainland form. Everyday speech: 和, 跟.",
@@ -4947,7 +4947,7 @@
    "g": "according to, on the basis of",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.14",
    "trad": "根據",
    "parts": "根 root + 据 base on"
@@ -4997,7 +4997,7 @@
    "g": "and so on, etc.",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.14",
    "note": "After a list or an example: 书写等方式 \"writing and other means\"."
   },
@@ -5007,7 +5007,7 @@
    "g": "way, manner, means",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.14",
    "parts": "方 method + 式 form",
    "known": [
@@ -5206,7 +5206,7 @@
    "g": "according to, in proportion to (formal)",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.15"
   },
   "自": {
@@ -5289,7 +5289,7 @@
    "g": "day",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.16",
    "note": "In your cards 天 is \"heaven\". \"Day\" is the everyday modern sense.",
    "known": [
@@ -5326,7 +5326,7 @@
    "g": "use",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "parts": "使 employ + 用 use",
    "known": [
@@ -5357,7 +5357,7 @@
    "g": "begin, start; beginning",
    "k": "word",
    "card": true,
-   "n": 6,
+   "n": 7,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "trad": "開始",
    "parts": "开 open + 始 begin"
@@ -5378,7 +5378,7 @@
    "g": "carry out, put into effect",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "trad": "實施",
    "parts": "实 real + 施 carry out",
@@ -5489,7 +5489,7 @@
    "g": "Chinese (the language)",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.19",
    "parts": "中 China + 文 writing"
   },
@@ -5499,7 +5499,7 @@
    "g": "or",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.19"
   },
   "汉字": {
@@ -5508,7 +5508,7 @@
    "g": "Chinese characters",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 17,
    "src": "SCP-CN-187 非礼勿言 · 187.19",
    "trad": "漢字",
    "parts": "汉 Han (Chinese) + 字 character"
@@ -6284,7 +6284,7 @@
    "g": "already",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.27",
    "trad": "已經",
    "parts": "已 already + 经 pass",
@@ -6302,7 +6302,7 @@
    "g": "by (marks who does it)",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.28",
    "note": "由安保人员提供 \"provided by the security staff\"."
   },
@@ -6312,7 +6312,7 @@
    "g": "provide",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.28",
    "parts": "提 bring + 供 supply"
   },
@@ -6694,7 +6694,7 @@
    "g": "will, be about to (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.31",
    "trad": "將",
    "note": "Classical survivor: your card 將.",
@@ -6855,7 +6855,7 @@
    "g": "chaotic, confused; chaos",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.33",
    "trad": "混亂",
    "parts": "混 mix + 乱 disorder"
@@ -7062,7 +7062,7 @@
    "g": "different",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.35",
    "parts": "不 not + 同 same",
    "known": [
@@ -7354,7 +7354,7 @@
    "g": "continue",
    "k": "word",
    "card": true,
-   "n": 13,
+   "n": 14,
    "src": "SCP-CN-187 非礼勿言 · 187.41",
    "trad": "繼續",
    "parts": "继 continue + 续 carry on"
@@ -8288,7 +8288,7 @@
    "g": "language",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-303 朝闻道 · 303.9",
    "trad": "語言",
    "parts": "语 speech + 言 words",
@@ -8412,7 +8412,7 @@
    "g": "cause, bring about",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.10",
    "parts": "造 make + 成 become",
    "known": [
@@ -8438,7 +8438,7 @@
    "g": "for example",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.11",
    "parts": "例 example + 如 like",
    "known": [
@@ -8555,7 +8555,7 @@
    "g": "then (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 6,
    "src": "SCP-CN-303 朝闻道 · 303.12",
    "trad": "則",
    "note": "Classical survivor: your card 則, in its mainland form. 若…则 is the classical \"if… then\".",
@@ -8593,7 +8593,7 @@
    "g": "first",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.13",
    "parts": "第 (makes a number an ordinal) + 一 one",
    "known": [
@@ -8640,7 +8640,7 @@
    "g": "process, course",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.14",
    "trad": "過程",
    "parts": "过 pass + 程 journey",
@@ -8667,7 +8667,7 @@
    "g": "that is, namely (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.15",
    "note": "Classical survivor."
   },
@@ -8790,7 +8790,7 @@
    "g": "because, owing to",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.19",
    "trad": "由於",
    "parts": "由 from + 于 at",
@@ -8828,7 +8828,7 @@
    "g": "record",
    "k": "word",
    "card": true,
-   "n": 7,
+   "n": 8,
    "src": "SCP-CN-303 朝闻道 · 303.19",
    "trad": "記錄",
    "parts": "记 note + 录 record"
@@ -8860,7 +8860,7 @@
    "g": "correspond to",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.19",
    "trad": "對應",
    "parts": "对 facing + 应 respond"
@@ -9254,7 +9254,7 @@
    "g": "two (before a counter)",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.24",
    "trad": "兩"
   },
@@ -9609,7 +9609,7 @@
    "g": "another, other",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.32"
   },
   "道@m": {
@@ -9721,7 +9721,7 @@
    "g": "work, job",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.34",
    "parts": "工 work + 作 do",
    "known": [
@@ -9764,7 +9764,7 @@
    "g": "text, writing",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.35",
    "parts": "文 writing + 字 character"
   },
@@ -9915,7 +9915,7 @@
    "g": "safety; safe",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.37",
    "parts": "安 at peace + 全 whole",
    "known": [
@@ -10498,7 +10498,7 @@
    "g": "as, in the capacity of",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.43",
    "trad": "作為",
    "parts": "作 act + 为 as",
@@ -10780,7 +10780,7 @@
    "g": "explain",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-303 朝闻道 · 303.46",
    "trad": "解釋",
    "parts": "解 untie + 释 release"
@@ -10813,7 +10813,7 @@
    "g": "(passive); 为 A 所 B, \"is B-ed by A\"",
    "k": "grammar",
    "card": false,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.47",
    "note": "Classical survivor: your card 所, in the classical passive 為…所.",
    "known": [
@@ -11000,7 +11000,7 @@
    "g": "read",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.51",
    "trad": "讀"
   },
@@ -11104,7 +11104,7 @@
    "g": "day (formal); sun",
    "k": "word",
    "card": false,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-303 朝闻道 · 303.53",
    "note": "Same as your card."
   },
@@ -11198,6 +11198,2876 @@
    "src": "SCP-CN-303 朝闻道 · 303.55",
    "trad": "最後",
    "parts": "最 most + 后 after"
+  },
+  "训读": {
+   "s": "训读",
+   "py": "xùndú",
+   "g": "kun'yomi: reading a kanji by its native Japanese word",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "訓讀",
+   "parts": "训 explain + 读 read"
+  },
+  "日语": {
+   "s": "日语",
+   "py": "Rìyǔ",
+   "g": "Japanese (the language)",
+   "k": "word",
+   "card": false,
+   "n": 9,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "日語",
+   "parts": "日 Japan + 语 language"
+  },
+  "訓読": {
+   "s": "訓読",
+   "py": "xùndú",
+   "g": "kun'yomi, in Japanese spelling",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "訓讀",
+   "note": "読 is the Japanese form of 讀 (读). The み after it is kana."
+  },
+  "罗马化": {
+   "s": "罗马化",
+   "py": "luómǎhuà",
+   "g": "romanisation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "羅馬化",
+   "parts": "罗马 Rome + 化 -ise"
+  },
+  "一种": {
+   "s": "一种",
+   "py": "yīzhǒng",
+   "g": "a kind of, one kind",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "一種",
+   "parts": "一 one + 种 kind",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "发音": {
+   "s": "发音",
+   "py": "fāyīn",
+   "g": "pronunciation; pronounce",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "發音",
+   "parts": "发 send out + 音 sound",
+   "known": [
+    [
+     "發",
+     "set off"
+    ]
+   ]
+  },
+  "按": {
+   "s": "按",
+   "py": "àn",
+   "g": "according to, by",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "note": "Literally 'press'. Before a noun: 按汉字的字义 'by the meaning of the character'."
+  },
+  "字义": {
+   "s": "字义",
+   "py": "zìyì",
+   "g": "meaning of a character",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "字義",
+   "parts": "字 character + 义 meaning",
+   "known": [
+    [
+     "義",
+     "rightness"
+    ]
+   ]
+  },
+  "相应": {
+   "s": "相应",
+   "py": "xiāngyìng",
+   "g": "corresponding",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "相應",
+   "parts": "相 mutually + 应 answer",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "固有": {
+   "s": "固有",
+   "py": "gùyǒu",
+   "g": "native, inherent",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "parts": "固 firm + 有 have",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "词汇": {
+   "s": "词汇",
+   "py": "cíhuì",
+   "g": "vocabulary, words",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "詞彙",
+   "parts": "词 word + 汇 collection"
+  },
+  "读出": {
+   "s": "读出",
+   "py": "dúchū",
+   "g": "read out",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "讀出",
+   "parts": "读 read + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "称": {
+   "s": "称",
+   "py": "chēng",
+   "g": "call, name",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "稱"
+  },
+  "和训": {
+   "s": "和训",
+   "py": "héxùn",
+   "g": "wakun: another name for kun'yomi",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "和訓",
+   "parts": "和 Japan + 训 reading",
+   "note": "和 here is 'Japan' (the old name 倭, written 和)."
+  },
+  "字训": {
+   "s": "字训",
+   "py": "zìxùn",
+   "g": "jikun: another name for kun'yomi",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.1",
+   "trad": "字訓",
+   "parts": "字 character + 训 reading"
+  },
+  "传入": {
+   "s": "传入",
+   "py": "chuánrù",
+   "g": "come in, be brought in",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "傳入",
+   "parts": "传 pass on + 入 enter"
+  },
+  "日本": {
+   "s": "日本",
+   "py": "Rìběn",
+   "g": "Japan",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "日 sun + 本 origin"
+  },
+  "前": {
+   "s": "前",
+   "py": "qián",
+   "g": "before; front",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2"
+  },
+  "原本": {
+   "s": "原本",
+   "py": "yuánběn",
+   "g": "originally",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "原 origin + 本 root"
+  },
+  "接触": {
+   "s": "接触",
+   "py": "jiēchù",
+   "g": "come into contact with",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "接觸",
+   "parts": "接 meet + 触 touch"
+  },
+  "汉文": {
+   "s": "汉文",
+   "py": "Hànwén",
+   "g": "Chinese writing, Chinese texts",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "漢文",
+   "parts": "汉 Han + 文 writing",
+   "note": "In Japan: kanbun, classical Chinese read as Japanese."
+  },
+  "逐渐": {
+   "s": "逐渐",
+   "py": "zhújiàn",
+   "g": "gradually",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "逐漸",
+   "parts": "逐 one by one + 渐 gradually"
+  },
+  "形成": {
+   "s": "形成",
+   "py": "xíngchéng",
+   "g": "form, take shape",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "形 shape + 成 become",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "读法": {
+   "s": "读法",
+   "py": "dúfǎ",
+   "g": "way of reading",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "讀法",
+   "parts": "读 read + 法 method"
+  },
+  "借": {
+   "s": "借",
+   "py": "jiè",
+   "g": "borrow",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2"
+  },
+  "入": {
+   "s": "入",
+   "py": "rù",
+   "g": "enter, come in",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2"
+  },
+  "当时": {
+   "s": "当时",
+   "py": "dāngshí",
+   "g": "at that time",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "當時",
+   "parts": "当 at + 时 time",
+   "known": [
+    [
+     "時",
+     "time"
+    ]
+   ]
+  },
+  "汉语": {
+   "s": "汉语",
+   "py": "Hànyǔ",
+   "g": "Chinese (the language)",
+   "k": "word",
+   "card": false,
+   "n": 5,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "漢語",
+   "parts": "汉 Han + 语 language"
+  },
+  "字音": {
+   "s": "字音",
+   "py": "zìyīn",
+   "g": "the sound of a character",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "字 character + 音 sound"
+  },
+  "音系": {
+   "s": "音系",
+   "py": "yīnxì",
+   "g": "sound system (of a language)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "音 sound + 系 system",
+   "note": "Not in CC-CEDICT; a linguists' word: 音 + 系统."
+  },
+  "调整": {
+   "s": "调整",
+   "py": "tiáozhěng",
+   "g": "adjust",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "調整",
+   "parts": "调 tune + 整 put in order"
+  },
+  "称为": {
+   "s": "称为",
+   "py": "chēngwéi",
+   "g": "be called",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "稱為",
+   "parts": "称 call + 为 as",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "音读": {
+   "s": "音读",
+   "py": "yīndú",
+   "g": "on'yomi: reading a kanji by its Chinese sound",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "音讀",
+   "parts": "音 sound + 读 read"
+  },
+  "取": {
+   "s": "取",
+   "py": "qǔ",
+   "g": "take",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2"
+  },
+  "用来": {
+   "s": "用来",
+   "py": "yònglái",
+   "g": "use for, be used to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "用來",
+   "parts": "用 use + 来 to",
+   "known": [
+    [
+     "用",
+     "use"
+    ],
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "既有": {
+   "s": "既有",
+   "py": "jìyǒu",
+   "g": "already existing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "既 already + 有 have",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "本土": {
+   "s": "本土",
+   "py": "běntǔ",
+   "g": "native, local",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.2",
+   "parts": "本 own + 土 soil",
+   "known": [
+    [
+     "土",
+     "earth"
+    ]
+   ]
+  },
+  "语音": {
+   "s": "语音",
+   "py": "yǔyīn",
+   "g": "speech sound, pronunciation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.2",
+   "trad": "語音",
+   "parts": "语 speech + 音 sound"
+  },
+  "并存": {
+   "s": "并存",
+   "py": "bìngcún",
+   "g": "exist side by side",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "並存",
+   "parts": "并 together + 存 exist"
+  },
+  "同一": {
+   "s": "同一",
+   "py": "tóngyī",
+   "g": "the same",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "同 same + 一 one",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "山": {
+   "s": "山",
+   "py": "shān",
+   "g": "mountain",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3"
+  },
+  "字": {
+   "s": "字",
+   "py": "zì",
+   "g": "character, written sign",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "训读 (Wikipedia) · 1.3"
+  },
+  "为例": {
+   "s": "为例",
+   "py": "wéilì",
+   "g": "(以…为例) take … as an example",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "為例",
+   "parts": "为 as + 例 example",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "作": {
+   "s": "作",
+   "py": "zuò",
+   "g": "as (read as)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.3",
+   "note": "读作 'read as': here 作 is 'as'.",
+   "known": [
+    [
+     "作",
+     "create"
+    ]
+   ]
+  },
+  "前者": {
+   "s": "前者",
+   "py": "qiánzhě",
+   "g": "the former",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "前 front + 者 one",
+   "known": [
+    [
+     "者",
+     "the one who / as for"
+    ]
+   ]
+  },
+  "源自": {
+   "s": "源自",
+   "py": "yuánzì",
+   "g": "come from",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "源 source + 自 from",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ]
+   ]
+  },
+  "后者": {
+   "s": "后者",
+   "py": "hòuzhě",
+   "g": "the latter",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "後者",
+   "parts": "后 after + 者 one",
+   "known": [
+    [
+     "者",
+     "the one who / as for"
+    ]
+   ]
+  },
+  "直接": {
+   "s": "直接",
+   "py": "zhíjiē",
+   "g": "directly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "直 straight + 接 join"
+  },
+  "固有词": {
+   "s": "固有词",
+   "py": "gùyǒucí",
+   "g": "native word",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "固有詞",
+   "parts": "固有 native + 词 word",
+   "note": "Japanese linguistics: a word of Japanese origin.",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "读音": {
+   "s": "读音",
+   "py": "dúyīn",
+   "g": "pronunciation, reading",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "讀音",
+   "parts": "读 read + 音 sound"
+  },
+  "承袭": {
+   "s": "承袭",
+   "py": "chéngxí",
+   "g": "inherit, follow",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "承襲",
+   "parts": "承 receive + 袭 carry on"
+  },
+  "有些": {
+   "s": "有些",
+   "py": "yǒuxiē",
+   "g": "some",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "有 have + 些 some",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "相近": {
+   "s": "相近",
+   "py": "xiāngjìn",
+   "g": "close, similar",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "相 mutually + 近 near",
+   "known": [
+    [
+     "相",
+     "each other"
+    ],
+    [
+     "近",
+     "near"
+    ]
+   ]
+  },
+  "所以": {
+   "s": "所以",
+   "py": "suǒyǐ",
+   "g": "so, therefore",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "known": [
+    [
+     "所",
+     "that which"
+    ],
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "使用者": {
+   "s": "使用者",
+   "py": "shǐyòngzhě",
+   "g": "user, speaker",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "使用 use + 者 one who",
+   "known": [
+    [
+     "使",
+     "make / send"
+    ],
+    [
+     "用",
+     "use"
+    ],
+    [
+     "者",
+     "the one who / as for"
+    ]
+   ]
+  },
+  "较为": {
+   "s": "较为",
+   "py": "jiàowéi",
+   "g": "fairly, rather",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "較為",
+   "parts": "较 compare + 为 be",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "熟悉": {
+   "s": "熟悉",
+   "py": "shúxī",
+   "g": "familiar",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "熟 ripe, well known + 悉 know"
+  },
+  "相对": {
+   "s": "相对",
+   "py": "xiāngduì",
+   "g": "by comparison, relatively",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "训读 (Wikipedia) · 1.3",
+   "trad": "相對",
+   "parts": "相 mutually + 对 face",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "陌生": {
+   "s": "陌生",
+   "py": "mòshēng",
+   "g": "strange, unfamiliar",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3",
+   "parts": "陌 path + 生 raw"
+  },
+  "金": {
+   "s": "金",
+   "py": "jīn",
+   "g": "gold",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.3"
+  },
+  "训": {
+   "s": "训",
+   "py": "xùn",
+   "g": "explain; a reading",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.4",
+   "trad": "訓"
+  },
+  "本意": {
+   "s": "本意",
+   "py": "běnyì",
+   "g": "original meaning",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.4",
+   "parts": "本 root + 意 meaning"
+  },
+  "指": {
+   "s": "指",
+   "py": "zhǐ",
+   "g": "mean, refer to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "训读 (Wikipedia) · 1.4",
+   "note": "Literally 'finger, point at'."
+  },
+  "后来": {
+   "s": "后来",
+   "py": "hòulái",
+   "g": "later",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.4",
+   "trad": "後來",
+   "parts": "后 after + 来 come",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "称呼": {
+   "s": "称呼",
+   "py": "chēnghu",
+   "g": "call, name",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "训读 (Wikipedia) · 1.4",
+   "trad": "稱呼",
+   "parts": "称 call + 呼 call out"
+  },
+  "成都": {
+   "s": "成都",
+   "py": "Chéngdū",
+   "g": "Chengdu, capital of Sichuan",
+   "k": "word",
+   "card": false,
+   "n": 15,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "成 complete + 都 capital",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "地铁": {
+   "s": "地铁",
+   "py": "dìtiě",
+   "g": "metro, underground railway",
+   "k": "word",
+   "card": true,
+   "n": 12,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "地鐵",
+   "parts": "地 ground + 铁 iron",
+   "note": "Signs: 地铁站 'metro station'."
+  },
+  "服务": {
+   "s": "服务",
+   "py": "fúwù",
+   "g": "serve; service",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "服務",
+   "parts": "服 serve + 务 task"
+  },
+  "中华人民共和国": {
+   "s": "中华人民共和国",
+   "py": "Zhōnghuá Rénmín Gònghéguó",
+   "g": "People's Republic of China",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "中華人民共和國",
+   "parts": "中华 China + 人民 people + 共和国 republic",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ],
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "四川省": {
+   "s": "四川省",
+   "py": "Sìchuān Shěng",
+   "g": "Sichuan Province",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "四川 four rivers + 省 province",
+   "known": [
+    [
+     "省",
+     "examine"
+    ]
+   ]
+  },
+  "成都市": {
+   "s": "成都市",
+   "py": "Chéngdū Shì",
+   "g": "the city of Chengdu",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "成都 + 市 city",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "资阳市": {
+   "s": "资阳市",
+   "py": "Zīyáng Shì",
+   "g": "the city of Ziyang (Sichuan)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "資陽市"
+  },
+  "系统": {
+   "s": "系统",
+   "py": "xìtǒng",
+   "g": "system",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "系統",
+   "parts": "系 system + 统 unite"
+  },
+  "条": {
+   "s": "条",
+   "py": "tiáo",
+   "g": "(measure word for lines, roads, rivers)",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "條",
+   "note": "Long thin things: 一条线路 'one line'."
+  },
+  "线路": {
+   "s": "线路",
+   "py": "xiànlù",
+   "g": "line, route",
+   "k": "word",
+   "card": true,
+   "n": 8,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "線路",
+   "parts": "线 line + 路 road"
+  },
+  "号": {
+   "s": "号",
+   "py": "hào",
+   "g": "number",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "號",
+   "note": "1号线 'Line 1'. Read háo, 'howl'."
+  },
+  "线": {
+   "s": "线",
+   "py": "xiàn",
+   "g": "line",
+   "k": "word",
+   "card": true,
+   "n": 9,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "線"
+  },
+  "月": {
+   "s": "月",
+   "py": "yuè",
+   "g": "month; moon",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "成都地铁 (Wikipedia) · 2.1"
+  },
+  "投入": {
+   "s": "投入",
+   "py": "tóurù",
+   "g": "put into (service)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "投 throw + 入 in",
+   "note": "投入运营 'go into service'."
+  },
+  "运营": {
+   "s": "运营",
+   "py": "yùnyíng",
+   "g": "run, operate (a service)",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "運營",
+   "parts": "运 transport + 营 run"
+  },
+  "中国": {
+   "s": "中国",
+   "py": "Zhōngguó",
+   "g": "China",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "中國",
+   "parts": "中 middle + 国 state",
+   "known": [
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "中西部": {
+   "s": "中西部",
+   "py": "zhōngxībù",
+   "g": "central and western parts",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "中 middle + 西 west + 部 part"
+  },
+  "地区": {
+   "s": "地区",
+   "py": "dìqū",
+   "g": "region, area",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "地區",
+   "parts": "地 ground + 区 district"
+  },
+  "首": {
+   "s": "首",
+   "py": "shǒu",
+   "g": "first",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "note": "Literally 'head'. 首条 'the first (line)'."
+  },
+  "开通": {
+   "s": "开通",
+   "py": "kāitōng",
+   "g": "open (to traffic)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "開通",
+   "parts": "开 open + 通 through"
+  },
+  "营运": {
+   "s": "营运",
+   "py": "yíngyùn",
+   "g": "run, be in service",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "營運",
+   "parts": "营 run + 运 transport"
+  },
+  "全": {
+   "s": "全",
+   "py": "quán",
+   "g": "whole, all",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1"
+  },
+  "地下": {
+   "s": "地下",
+   "py": "dìxià",
+   "g": "underground",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "parts": "地 ground + 下 below",
+   "known": [
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "规划局": {
+   "s": "规划局",
+   "py": "guīhuàjú",
+   "g": "planning bureau",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "規劃局",
+   "parts": "规划 plan + 局 bureau"
+  },
+  "轨道交通": {
+   "s": "轨道交通",
+   "py": "guǐdào jiāotōng",
+   "g": "rail transit",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "軌道交通",
+   "parts": "轨道 track + 交通 transport",
+   "known": [
+    [
+     "道",
+     "the Way"
+    ]
+   ]
+  },
+  "集团": {
+   "s": "集团",
+   "py": "jítuán",
+   "g": "group (company)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "集團",
+   "parts": "集 gather + 团 group"
+  },
+  "负责": {
+   "s": "负责",
+   "py": "fùzé",
+   "g": "be responsible for",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "負責",
+   "parts": "负 bear + 责 duty"
+  },
+  "规划": {
+   "s": "规划",
+   "py": "guīhuà",
+   "g": "plan",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "規劃",
+   "parts": "规 rule + 划 mark out"
+  },
+  "建设": {
+   "s": "建设",
+   "py": "jiànshè",
+   "g": "build, construction",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "成都地铁 (Wikipedia) · 2.1",
+   "trad": "建設",
+   "parts": "建 build + 设 set up"
+  },
+  "截至": {
+   "s": "截至",
+   "py": "jiézhì",
+   "g": "as of, up to (a date)",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "截 cut off + 至 arrive",
+   "known": [
+    [
+     "至",
+     "arrive"
+    ]
+   ]
+  },
+  "共": {
+   "s": "共",
+   "py": "gòng",
+   "g": "in all, altogether",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.2"
+  },
+  "至": {
+   "s": "至",
+   "py": "zhì",
+   "g": "to (from … to)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "note": "1至10号线 'Lines 1 to 10'. Your card 至 'arrive'.",
+   "known": [
+    [
+     "至",
+     "arrive"
+    ]
+   ]
+  },
+  "市域": {
+   "s": "市域",
+   "py": "shìyù",
+   "g": "(of a whole city area) suburban",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "市 city + 域 area",
+   "note": "Not in CC-CEDICT. 市域铁路 'suburban railway'."
+  },
+  "铁路": {
+   "s": "铁路",
+   "py": "tiělù",
+   "g": "railway",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "鐵路",
+   "parts": "铁 iron + 路 road"
+  },
+  "启用": {
+   "s": "启用",
+   "py": "qǐyòng",
+   "g": "bring into use",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "啟用",
+   "parts": "启 open up + 用 use",
+   "known": [
+    [
+     "啟",
+     "open up"
+    ],
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "座": {
+   "s": "座",
+   "py": "zuò",
+   "g": "(measure word for stations, buildings, mountains)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "note": "Literally 'seat'."
+  },
+  "车站": {
+   "s": "车站",
+   "py": "chēzhàn",
+   "g": "station",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "車站",
+   "parts": "车 vehicle + 站 stand"
+  },
+  "总": {
+   "s": "总",
+   "py": "zǒng",
+   "g": "total",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "總"
+  },
+  "里程": {
+   "s": "里程",
+   "py": "lǐchéng",
+   "g": "distance, length (of line)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "里 mile + 程 stretch",
+   "known": [
+    [
+     "里",
+     "village"
+    ]
+   ]
+  },
+  "公里": {
+   "s": "公里",
+   "py": "gōnglǐ",
+   "g": "kilometre",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "公 public, metric + 里 Chinese mile",
+   "known": [
+    [
+     "里",
+     "village"
+    ]
+   ]
+  },
+  "全年": {
+   "s": "全年",
+   "py": "quánnián",
+   "g": "the whole year",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "全 whole + 年 year",
+   "known": [
+    [
+     "年",
+     "year"
+    ]
+   ]
+  },
+  "客流": {
+   "s": "客流",
+   "py": "kèliú",
+   "g": "passenger flow, ridership",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "客 guest + 流 flow"
+  },
+  "亿": {
+   "s": "亿",
+   "py": "yì",
+   "g": "hundred million",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "億",
+   "note": "22.09亿 = 2,209,000,000."
+  },
+  "乘": {
+   "s": "乘",
+   "py": "chéng",
+   "g": "ride (a vehicle)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "note": "乘次 'passenger trips'."
+  },
+  "次": {
+   "s": "次",
+   "py": "cì",
+   "g": "time, trip (measure word)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "known": [
+    [
+     "次",
+     "next"
+    ]
+   ]
+  },
+  "最高": {
+   "s": "最高",
+   "py": "zuìgāo",
+   "g": "highest",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "最 most + 高 high"
+  },
+  "单日": {
+   "s": "单日",
+   "py": "dānrì",
+   "g": "single day",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "單日",
+   "parts": "单 single + 日 day"
+  },
+  "客运量": {
+   "s": "客运量",
+   "py": "kèyùnliàng",
+   "g": "passengers carried",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "客運量",
+   "parts": "客 passenger + 运 transport + 量 amount"
+  },
+  "万": {
+   "s": "万",
+   "py": "wàn",
+   "g": "ten thousand",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "萬",
+   "note": "826.80万 = 8,268,000."
+  },
+  "连续": {
+   "s": "连续",
+   "py": "liánxù",
+   "g": "in a row, continuous",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "連續",
+   "parts": "连 link + 续 continue"
+  },
+  "超过": {
+   "s": "超过",
+   "py": "chāoguò",
+   "g": "exceed, more than",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "超過",
+   "parts": "超 leap over + 过 pass",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "公共交通": {
+   "s": "公共交通",
+   "py": "gōnggòng jiāotōng",
+   "g": "public transport",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "公共 public + 交通 transport"
+  },
+  "分担": {
+   "s": "分担",
+   "py": "fēndān",
+   "g": "share (a load)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "分擔",
+   "parts": "分 divide + 担 carry"
+  },
+  "率": {
+   "s": "率",
+   "py": "lǜ",
+   "g": "rate, share",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "note": "Read shuài, 'lead'. Here lǜ: 分担率 'share carried'."
+  },
+  "累计": {
+   "s": "累计",
+   "py": "lěijì",
+   "g": "in total, cumulative",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "累計",
+   "parts": "累 pile up + 计 count"
+  },
+  "运送": {
+   "s": "运送",
+   "py": "yùnsòng",
+   "g": "carry, transport",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "運送",
+   "parts": "运 transport + 送 send"
+  },
+  "乘客": {
+   "s": "乘客",
+   "py": "chéngkè",
+   "g": "passenger",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "乘 ride + 客 guest"
+  },
+  "市民": {
+   "s": "市民",
+   "py": "shìmín",
+   "g": "city resident",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "市 city + 民 people"
+  },
+  "市内": {
+   "s": "市内",
+   "py": "shìnèi",
+   "g": "within the city",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "trad": "市內",
+   "parts": "市 city + 内 inside",
+   "known": [
+    [
+     "內",
+     "inside"
+    ]
+   ]
+  },
+  "交通": {
+   "s": "交通",
+   "py": "jiāotōng",
+   "g": "transport, traffic",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "交 cross + 通 through"
+  },
+  "主要": {
+   "s": "主要",
+   "py": "zhǔyào",
+   "g": "main",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "主 master + 要 important"
+  },
+  "出行": {
+   "s": "出行",
+   "py": "chūxíng",
+   "g": "getting around, travel",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "出 go out + 行 walk",
+   "known": [
+    [
+     "出",
+     "go out"
+    ],
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "之一": {
+   "s": "之一",
+   "py": "zhīyī",
+   "g": "one of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.2",
+   "parts": "之 of + 一 one",
+   "note": "主要…方式之一 'one of the main ways'.",
+   "known": [
+    [
+     "之",
+     "it / of / go"
+    ],
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "在建": {
+   "s": "在建",
+   "py": "zàijiàn",
+   "g": "under construction",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "在 be at + 建 build",
+   "known": [
+    [
+     "在",
+     "be there"
+    ]
+   ]
+  },
+  "第": {
+   "s": "第",
+   "py": "dì",
+   "g": "(makes ordinals: first, second…)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "note": "第四期 'the fourth phase'."
+  },
+  "四": {
+   "s": "四",
+   "py": "sì",
+   "g": "four",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3"
+  },
+  "期": {
+   "s": "期",
+   "py": "qī",
+   "g": "phase, period",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3"
+  },
+  "以及": {
+   "s": "以及",
+   "py": "yǐjí",
+   "g": "as well as, and",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "以 + 及 and",
+   "note": "Formal: joins the last item of a list.",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "预计": {
+   "s": "预计",
+   "py": "yùjì",
+   "g": "expect, be forecast",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "trad": "預計",
+   "parts": "预 beforehand + 计 count"
+  },
+  "年底": {
+   "s": "年底",
+   "py": "niándǐ",
+   "g": "end of the year",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "年 year + 底 bottom",
+   "known": [
+    [
+     "年",
+     "year"
+    ]
+   ]
+  },
+  "完成": {
+   "s": "完成",
+   "py": "wánchéng",
+   "g": "finish",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "完 finish + 成 complete",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "线网": {
+   "s": "线网",
+   "py": "xiànwǎng",
+   "g": "network of lines",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "trad": "線網",
+   "parts": "线 line + 网 net",
+   "note": "Not in CC-CEDICT."
+  },
+  "千米": {
+   "s": "千米",
+   "py": "qiānmǐ",
+   "g": "kilometre",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "千 thousand + 米 metre"
+  },
+  "新增": {
+   "s": "新增",
+   "py": "xīnzēng",
+   "g": "newly add",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "新 new + 增 increase",
+   "known": [
+    [
+     "新",
+     "new"
+    ]
+   ]
+  },
+  "覆盖": {
+   "s": "覆盖",
+   "py": "fùgài",
+   "g": "coverage; cover",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "trad": "覆蓋",
+   "parts": "覆 cover + 盖 lid",
+   "known": [
+    [
+     "蓋",
+     "perhaps"
+    ]
+   ]
+  },
+  "眉山": {
+   "s": "眉山",
+   "py": "Méishān",
+   "g": "Meishan (a city in Sichuan)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "parts": "眉 eyebrow + 山 mountain"
+  },
+  "德阳": {
+   "s": "德阳",
+   "py": "Déyáng",
+   "g": "Deyang (a city in Sichuan)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "trad": "德陽",
+   "parts": "德 virtue + 阳 sun",
+   "known": [
+    [
+     "德",
+     "virtue"
+    ]
+   ]
+  },
+  "区域": {
+   "s": "区域",
+   "py": "qūyù",
+   "g": "area",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.3",
+   "trad": "區域",
+   "parts": "区 district + 域 area"
+  },
+  "计划": {
+   "s": "计划",
+   "py": "jìhuà",
+   "g": "plan",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "計劃",
+   "parts": "计 count + 划 mark out"
+  },
+  "未来": {
+   "s": "未来",
+   "py": "wèilái",
+   "g": "future",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "未來",
+   "parts": "未 not yet + 来 come",
+   "known": [
+    [
+     "未",
+     "not yet"
+    ],
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "拓展": {
+   "s": "拓展",
+   "py": "tuòzhǎn",
+   "g": "extend, expand",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "parts": "拓 open up + 展 stretch"
+  },
+  "现有": {
+   "s": "现有",
+   "py": "xiànyǒu",
+   "g": "existing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "現有",
+   "parts": "现 present + 有 have",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "网络": {
+   "s": "网络",
+   "py": "wǎngluò",
+   "g": "network",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "網絡",
+   "parts": "网 net + 络 web"
+  },
+  "远期": {
+   "s": "远期",
+   "py": "yuǎnqī",
+   "g": "long term",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "遠期",
+   "parts": "远 far + 期 period",
+   "known": [
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "达到": {
+   "s": "达到",
+   "py": "dádào",
+   "g": "reach",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "達到",
+   "parts": "达 reach + 到 arrive"
+  },
+  "规模": {
+   "s": "规模",
+   "py": "guīmó",
+   "g": "scale, size",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "規模",
+   "parts": "规 rule + 模 model"
+  },
+  "远景": {
+   "s": "远景",
+   "py": "yuǎnjǐng",
+   "g": "distant future, long view",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "成都地铁 (Wikipedia) · 2.4",
+   "trad": "遠景",
+   "parts": "远 far + 景 view",
+   "known": [
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "简化字": {
+   "s": "简化字",
+   "py": "jiǎnhuàzì",
+   "g": "simplified character",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "簡化字",
+   "parts": "简化 simplify + 字 character"
+  },
+  "简化": {
+   "s": "简化",
+   "py": "jiǎnhuà",
+   "g": "simplify",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "簡化",
+   "parts": "简 simple + 化 -ify"
+  },
+  "繁体字": {
+   "s": "繁体字",
+   "py": "fántǐzì",
+   "g": "traditional character",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "繁體字",
+   "parts": "繁 complex + 体 form + 字 character",
+   "note": "The script of your Analects cards."
+  },
+  "正体字": {
+   "s": "正体字",
+   "py": "zhèngtǐzì",
+   "g": "orthodox character (Taiwan's name for traditional)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "正體字",
+   "parts": "正 upright + 体 form + 字 character"
+  },
+  "背景": {
+   "s": "背景",
+   "py": "bèijǐng",
+   "g": "background, setting",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "parts": "背 back + 景 scene"
+  },
+  "之下": {
+   "s": "之下",
+   "py": "zhīxià",
+   "g": "under",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "parts": "之 of + 下 below",
+   "note": "在…之下 'under …'.",
+   "known": [
+    [
+     "之",
+     "it / of / go"
+    ],
+    [
+     "下",
+     "below"
+    ]
+   ]
+  },
+  "经常": {
+   "s": "经常",
+   "py": "jīngcháng",
+   "g": "often",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "經常",
+   "parts": "经 regular + 常 constant"
+  },
+  "俗称": {
+   "s": "俗称",
+   "py": "súchēng",
+   "g": "be popularly called",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "俗稱",
+   "parts": "俗 popular + 称 call"
+  },
+  "简体字": {
+   "s": "简体字",
+   "py": "jiǎntǐzì",
+   "g": "simplified character",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "簡體字",
+   "parts": "简 simple + 体 form + 字 character"
+  },
+  "简笔字": {
+   "s": "简笔字",
+   "py": "jiǎnbǐzì",
+   "g": "'few-stroke character' (a popular name)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "簡筆字",
+   "parts": "简 simple + 笔 stroke + 字 character",
+   "note": "Not in CC-CEDICT."
+  },
+  "俗体字": {
+   "s": "俗体字",
+   "py": "sútǐzì",
+   "g": "popular form of a character",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "俗體字",
+   "parts": "俗 popular + 体 form + 字 character"
+  },
+  "蔑称": {
+   "s": "蔑称",
+   "py": "mièchēng",
+   "g": "call with contempt; a slur",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "蔑稱",
+   "parts": "蔑 scorn + 称 call"
+  },
+  "残体字": {
+   "s": "残体字",
+   "py": "cántǐzì",
+   "g": "'crippled character' (a slur on simplified ones)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "殘體字",
+   "parts": "残 crippled + 体 form + 字 character",
+   "note": "Not in CC-CEDICT."
+  },
+  "仍": {
+   "s": "仍",
+   "py": "réng",
+   "g": "still",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1"
+  },
+  "大多数": {
+   "s": "大多数",
+   "py": "dàduōshù",
+   "g": "the great majority",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "大多數",
+   "parts": "大 big + 多数 majority",
+   "known": [
+    [
+     "多",
+     "many"
+    ],
+    [
+     "數",
+     "count"
+    ]
+   ]
+  },
+  "并未": {
+   "s": "并未",
+   "py": "bìngwèi",
+   "g": "did not in fact",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "並未",
+   "parts": "并 at all + 未 not yet",
+   "known": [
+    [
+     "未",
+     "not yet"
+    ]
+   ]
+  },
+  "这类": {
+   "s": "这类",
+   "py": "zhèlèi",
+   "g": "this kind",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "這類",
+   "parts": "这 this + 类 kind"
+  },
+  "中国大陆": {
+   "s": "中国大陆",
+   "py": "Zhōngguó dàlù",
+   "g": "mainland China",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "中國大陸",
+   "parts": "中国 China + 大陆 mainland",
+   "known": [
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "规范": {
+   "s": "规范",
+   "py": "guīfàn",
+   "g": "standard, norm",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "規範",
+   "parts": "规 rule + 范 model"
+  },
+  "名称": {
+   "s": "名称",
+   "py": "míngchēng",
+   "g": "name",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "名稱",
+   "parts": "名 name + 称 call",
+   "known": [
+    [
+     "名",
+     "name"
+    ]
+   ]
+  },
+  "传承字": {
+   "s": "传承字",
+   "py": "chuánchéngzì",
+   "g": "inherited character (never simplified)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.1",
+   "trad": "傳承字",
+   "parts": "传承 handed down + 字 character",
+   "note": "Not in CC-CEDICT."
+  },
+  "简体": {
+   "s": "简体",
+   "py": "jiǎntǐ",
+   "g": "simplified (script)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "簡體",
+   "parts": "简 simple + 体 form"
+  },
+  "网页": {
+   "s": "网页",
+   "py": "wǎngyè",
+   "g": "web page",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "網頁",
+   "parts": "网 net + 页 page"
+  },
+  "代码": {
+   "s": "代码",
+   "py": "dàimǎ",
+   "g": "code",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "代碼",
+   "parts": "代 stand for + 码 number"
+  },
+  "繁体": {
+   "s": "繁体",
+   "py": "fántǐ",
+   "g": "traditional (script)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "繁體",
+   "parts": "繁 complex + 体 form"
+  },
+  "字汇": {
+   "s": "字汇",
+   "py": "zìhuì",
+   "g": "stock of characters",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "字彙",
+   "parts": "字 character + 汇 collection"
+  },
+  "书面": {
+   "s": "书面",
+   "py": "shūmiàn",
+   "g": "written",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "書面",
+   "parts": "书 writing + 面 face"
+  },
+  "表达": {
+   "s": "表达",
+   "py": "biǎodá",
+   "g": "express",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "表達",
+   "parts": "表 show + 达 reach"
+  },
+  "常": {
+   "s": "常",
+   "py": "cháng",
+   "g": "often",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2"
+  },
+  "新加坡": {
+   "s": "新加坡",
+   "py": "Xīnjiāpō",
+   "g": "Singapore",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "note": "By sound.",
+   "known": [
+    [
+     "新",
+     "new"
+    ],
+    [
+     "加",
+     "add"
+    ]
+   ]
+  },
+  "马来西亚": {
+   "s": "马来西亚",
+   "py": "Mǎláixīyà",
+   "g": "Malaysia",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "馬來西亞",
+   "note": "By sound.",
+   "known": [
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "缅甸": {
+   "s": "缅甸",
+   "py": "Miǎndiàn",
+   "g": "Myanmar (Burma)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "緬甸",
+   "note": "By sound."
+  },
+  "佤邦": {
+   "s": "佤邦",
+   "py": "Wǎbāng",
+   "g": "the Wa State (in Myanmar)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "parts": "佤 the Wa people + 邦 state",
+   "note": "Not in CC-CEDICT."
+  },
+  "地": {
+   "s": "地",
+   "py": "dì",
+   "g": "place",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "note": "等地 'and other places'."
+  },
+  "联合国": {
+   "s": "联合国",
+   "py": "Liánhéguó",
+   "g": "the United Nations",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "聯合國",
+   "parts": "联合 united + 国 state",
+   "known": [
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "世界银行": {
+   "s": "世界银行",
+   "py": "Shìjiè Yínháng",
+   "g": "the World Bank",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "世界銀行",
+   "parts": "世界 world + 银行 bank",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "国际": {
+   "s": "国际",
+   "py": "guójì",
+   "g": "international",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "國際",
+   "parts": "国 state + 际 between",
+   "known": [
+    [
+     "國",
+     "state"
+    ]
+   ]
+  },
+  "组织": {
+   "s": "组织",
+   "py": "zǔzhī",
+   "g": "organisation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.2",
+   "trad": "組織",
+   "parts": "组 group + 织 weave"
+  },
+  "这些": {
+   "s": "这些",
+   "py": "zhèxiē",
+   "g": "these",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "這些",
+   "parts": "这 this + 些 some"
+  },
+  "方案": {
+   "s": "方案",
+   "py": "fāng'àn",
+   "g": "scheme, plan",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "方 method + 案 proposal",
+   "known": [
+    [
+     "方",
+     "region / direction"
+    ]
+   ]
+  },
+  "规则": {
+   "s": "规则",
+   "py": "guīzé",
+   "g": "rule",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "規則",
+   "parts": "规 rule + 则 rule",
+   "known": [
+    [
+     "則",
+     "then"
+    ]
+   ]
+  },
+  "传统": {
+   "s": "传统",
+   "py": "chuántǒng",
+   "g": "traditional",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "傳統",
+   "parts": "传 pass on + 统 unite"
+  },
+  "一些": {
+   "s": "一些",
+   "py": "yīxiē",
+   "g": "some",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "一 one + 些 some",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "合并": {
+   "s": "合并",
+   "py": "hébìng",
+   "g": "merge",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "合併",
+   "parts": "合 join + 并 together"
+  },
+  "改造": {
+   "s": "改造",
+   "py": "gǎizào",
+   "g": "remake, reshape",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "改 change + 造 make",
+   "known": [
+    [
+     "改",
+     "correct"
+    ]
+   ]
+  },
+  "新": {
+   "s": "新",
+   "py": "xīn",
+   "g": "newly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "known": [
+    [
+     "新",
+     "new"
+    ]
+   ]
+  },
+  "创": {
+   "s": "创",
+   "py": "chuàng",
+   "g": "create",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "創",
+   "note": "Read chuāng it is 'a wound'."
+  },
+  "搜集": {
+   "s": "搜集",
+   "py": "sōují",
+   "g": "collect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "蒐集",
+   "parts": "搜 search + 集 gather"
+  },
+  "历史": {
+   "s": "历史",
+   "py": "lìshǐ",
+   "g": "history",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "歷史",
+   "parts": "历 go through + 史 history"
+  },
+  "文献": {
+   "s": "文献",
+   "py": "wénxiàn",
+   "g": "documents, records",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "文獻",
+   "parts": "文 writing + 献 offering"
+  },
+  "异体字": {
+   "s": "异体字",
+   "py": "yìtǐzì",
+   "g": "variant character",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "異體字",
+   "parts": "异 different + 体 form + 字 character"
+  },
+  "俗字": {
+   "s": "俗字",
+   "py": "súzì",
+   "g": "popular form of a character",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "俗 popular + 字 character"
+  },
+  "潦草": {
+   "s": "潦草",
+   "py": "liáocǎo",
+   "g": "scrawled",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "潦 sloppy + 草 grass, rough"
+  },
+  "书法": {
+   "s": "书法",
+   "py": "shūfǎ",
+   "g": "calligraphy",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "書法",
+   "parts": "书 write + 法 method"
+  },
+  "连写": {
+   "s": "连写",
+   "py": "liánxiě",
+   "g": "joined-up writing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "連寫",
+   "parts": "连 join + 写 write"
+  },
+  "简写": {
+   "s": "简写",
+   "py": "jiǎnxiě",
+   "g": "shortened writing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "trad": "簡寫",
+   "parts": "简 simple + 写 write"
+  },
+  "古字": {
+   "s": "古字",
+   "py": "gǔzì",
+   "g": "ancient form of a character",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.3",
+   "parts": "古 ancient + 字 character",
+   "known": [
+    [
+     "古",
+     "ancient"
+    ]
+   ]
+  },
+  "颁布": {
+   "s": "颁布",
+   "py": "bānbù",
+   "g": "issue, promulgate",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.4",
+   "trad": "頒布",
+   "parts": "颁 issue + 布 spread"
+  },
+  "二简": {
+   "s": "二简",
+   "py": "Èrjiǎn",
+   "g": "the second simplification (1977)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.4",
+   "trad": "二簡",
+   "parts": "二 second + 简 simplified"
+  },
+  "人们": {
+   "s": "人们",
+   "py": "rénmen",
+   "g": "people",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.4",
+   "trad": "人們",
+   "parts": "人 person + 们 plural",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "欢迎": {
+   "s": "欢迎",
+   "py": "huānyíng",
+   "g": "welcome",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.4",
+   "trad": "歡迎",
+   "parts": "欢 joyous + 迎 meet"
+  },
+  "撤回": {
+   "s": "撤回",
+   "py": "chèhuí",
+   "g": "withdraw",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.4",
+   "parts": "撤 remove + 回 back"
+  },
+  "教育部": {
+   "s": "教育部",
+   "py": "Jiàoyùbù",
+   "g": "Ministry of Education",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "parts": "教育 education + 部 ministry"
+  },
+  "委员会": {
+   "s": "委员会",
+   "py": "wěiyuánhuì",
+   "g": "committee, commission",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "trad": "委員會",
+   "parts": "委员 member + 会 meeting"
+  },
+  "修改": {
+   "s": "修改",
+   "py": "xiūgǎi",
+   "g": "revise",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "parts": "修 repair + 改 change",
+   "known": [
+    [
+     "改",
+     "correct"
+    ]
+   ]
+  },
+  "表": {
+   "s": "表",
+   "py": "biǎo",
+   "g": "table, list",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "简化字 (Wikipedia) · 3.5"
+  },
+  "征询": {
+   "s": "征询",
+   "py": "zhēngxún",
+   "g": "ask for (views)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "trad": "徵詢",
+   "parts": "征 seek + 询 enquire"
+  },
+  "公众": {
+   "s": "公众",
+   "py": "gōngzhòng",
+   "g": "the public",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "trad": "公眾",
+   "parts": "公 public + 众 crowd"
+  },
+  "意见": {
+   "s": "意见",
+   "py": "yìjiàn",
+   "g": "opinion",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "trad": "意見",
+   "parts": "意 idea + 见 view",
+   "known": [
+    [
+     "見",
+     "see"
+    ]
+   ]
+  },
+  "通用": {
+   "s": "通用",
+   "py": "tōngyòng",
+   "g": "in general use",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "parts": "通 through + 用 use",
+   "known": [
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "正式": {
+   "s": "正式",
+   "py": "zhèngshì",
+   "g": "officially",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "parts": "正 upright + 式 form"
+  },
+  "收录": {
+   "s": "收录",
+   "py": "shōulù",
+   "g": "include (in a list)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "简化字 (Wikipedia) · 3.5",
+   "trad": "收錄",
+   "parts": "收 receive + 录 record"
   }
  }
 }

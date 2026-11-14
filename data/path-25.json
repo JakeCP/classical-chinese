@@ -1,0 +1,3098 @@
+{
+ "n": 25,
+ "title": "Hands, water and trees",
+ "groups": [
+  {
+   "title": "hand 扌",
+   "note": "A hand doing something: grabbing, lifting, fighting.",
+   "chars": [
+    {
+     "c": "捡",
+     "rank": 2408,
+     "py": "jiǎn",
+     "kw": "gather up",
+     "parts": "扌 hand + 佥 (sound)",
+     "story": "A hand stoops to the ground and takes up what was dropped.",
+     "trad": "撿",
+     "words": [
+      {
+       "w": "捡拾",
+       "py": "jiǎnshí",
+       "g": "pick up"
+      },
+      {
+       "w": "捡漏",
+       "py": "jiǎnlòu",
+       "g": "snap up a bargain"
+      }
+     ],
+     "note": "撿 became 捡: the right side was simplified.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "掀",
+     "rank": 2413,
+     "py": "xiān",
+     "kw": "lift lid",
+     "parts": "扌 hand + 欣 (sound)",
+     "story": "A hand grips the edge of a lid and heaves it up.",
+     "trad": "",
+     "words": [
+      {
+       "w": "掀起",
+       "py": "xiānqǐ",
+       "g": "lift up"
+      },
+      {
+       "w": "掀开",
+       "py": "xiānkāi",
+       "g": "open up"
+      },
+      {
+       "w": "掀翻",
+       "py": "xiānfān",
+       "g": "overturn"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "挨",
+     "rank": 2416,
+     "py": "ái",
+     "kw": "suffer a blow",
+     "parts": "扌 hand + 矣 (sound)",
+     "story": "A hand lands hard on you and you have to take it: suffer a blow.",
+     "trad": "",
+     "words": [
+      {
+       "w": "挨打",
+       "py": "áidǎ",
+       "g": "get beaten"
+      },
+      {
+       "w": "挨饿",
+       "py": "ái'è",
+       "g": "go hungry"
+      },
+      {
+       "w": "挨着",
+       "py": "āizhe",
+       "g": "next to"
+      }
+     ],
+     "note": "Also 'next to' (挨着) and 'one by one' (挨个).",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "搏",
+     "rank": 2454,
+     "py": "bó",
+     "kw": "combat",
+     "parts": "扌 hand + 尃 (sound)",
+     "story": "Hands grip hands and fight with all their strength.",
+     "trad": "",
+     "words": [
+      {
+       "w": "搏斗",
+       "py": "bódòu",
+       "g": "wrestle"
+      },
+      {
+       "w": "拼搏",
+       "py": "pīnbó",
+       "g": "struggle hard"
+      },
+      {
+       "w": "脉搏",
+       "py": "màibó",
+       "g": "pulse"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "捍",
+     "rank": 2465,
+     "py": "hàn",
+     "kw": "ward off",
+     "parts": "扌 hand + 旱 (sound)",
+     "story": "A hand holds firm against the blow coming in: ward off.",
+     "trad": "",
+     "words": [
+      {
+       "w": "捍卫",
+       "py": "hànwèi",
+       "g": "defend"
+      },
+      {
+       "w": "捍卫者",
+       "py": "hànwèizhě",
+       "g": "defender"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "捞",
+     "rank": 2483,
+     "py": "lāo",
+     "kw": "fish up",
+     "parts": "扌 hand + 劳 (sound)",
+     "story": "A hand reaches down into the water to bring something up.",
+     "trad": "撈",
+     "words": [
+      {
+       "w": "打捞",
+       "py": "dǎlāo",
+       "g": "salvage"
+      },
+      {
+       "w": "捕捞",
+       "py": "bǔlāo",
+       "g": "fish for"
+      },
+      {
+       "w": "捞钱",
+       "py": "lāoqián",
+       "g": "rake in money"
+      }
+     ],
+     "note": "撈 became 捞: the right side was simplified.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "water 氵",
+   "note": "Three drops on the left: liquid and what it does.",
+   "chars": [
+    {
+     "c": "泼",
+     "rank": 2409,
+     "py": "pō",
+     "kw": "splash",
+     "parts": "氵 water + 发 (sound)",
+     "story": "Water flung out of a bucket in one burst: it splashes everywhere.",
+     "trad": "潑",
+     "words": [
+      {
+       "w": "泼水",
+       "py": "pōshuǐ",
+       "g": "splash water"
+      },
+      {
+       "w": "泼冷水",
+       "py": "pōlěngshuǐ",
+       "g": "dampen hopes"
+      },
+      {
+       "w": "活泼",
+       "py": "huópo",
+       "g": "lively"
+      }
+     ],
+     "note": "潑 became 泼: the right side was simplified.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "浆",
+     "rank": 2417,
+     "py": "jiāng",
+     "kw": "thick liquid",
+     "parts": "将 (sound) + 水 water",
+     "story": "Water gone thick enough to pour slowly: soy milk, plasma, magma.",
+     "trad": "漿",
+     "words": [
+      {
+       "w": "豆浆",
+       "py": "dòujiāng",
+       "g": "soy milk"
+      },
+      {
+       "w": "血浆",
+       "py": "xuèjiāng",
+       "g": "blood plasma"
+      },
+      {
+       "w": "岩浆",
+       "py": "yánjiāng",
+       "g": "magma"
+      }
+     ],
+     "note": "漿 became 浆: the top part was simplified.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "溜",
+     "rank": 2474,
+     "py": "liū",
+     "kw": "slip away",
+     "parts": "氵 water + 留 (sound)",
+     "story": "Like water running off, it slides away before you can stop it.",
+     "trad": "",
+     "words": [
+      {
+       "w": "溜走",
+       "py": "liūzǒu",
+       "g": "slip away"
+      },
+      {
+       "w": "溜冰",
+       "py": "liūbīng",
+       "g": "ice skating"
+      },
+      {
+       "w": "溜达",
+       "py": "liūda",
+       "g": "stroll"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "汪",
+     "rank": 2478,
+     "py": "wāng",
+     "kw": "expanse",
+     "parts": "氵 water + 王 (sound)",
+     "story": "Water spread wide and brimming: a flat expanse of it.",
+     "trad": "",
+     "words": [
+      {
+       "w": "汪洋",
+       "py": "wāngyáng",
+       "g": "vast water"
+      },
+      {
+       "w": "水汪汪",
+       "py": "shuǐwāngwāng",
+       "g": "watery"
+      },
+      {
+       "w": "泪汪汪",
+       "py": "lèiwāngwāng",
+       "g": "eyes brimming"
+      }
+     ],
+     "note": "Also a dog's bark (汪汪).",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "浑",
+     "rank": 2467,
+     "py": "hún",
+     "kw": "muddy",
+     "parts": "氵 water + 军 army",
+     "story": "An army wades through a stream and churns it into mud.",
+     "trad": "渾",
+     "words": [
+      {
+       "w": "浑浊",
+       "py": "húnzhuó",
+       "g": "muddy"
+      },
+      {
+       "w": "浑身",
+       "py": "húnshēn",
+       "g": "whole body"
+      },
+      {
+       "w": "浑然",
+       "py": "húnrán",
+       "g": "completely"
+      }
+     ],
+     "note": "渾 became 浑: 軍 became 军.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "pools and floods 氵",
+   "note": "Water lying still, or rising over things.",
+   "chars": [
+    {
+     "c": "塘",
+     "rank": 2435,
+     "py": "táng",
+     "kw": "pond bank",
+     "parts": "土 earth + 唐 (sound)",
+     "story": "Earth banked up around a hollow of still water: a pond.",
+     "trad": "",
+     "words": [
+      {
+       "w": "池塘",
+       "py": "chítáng",
+       "g": "pond"
+      },
+      {
+       "w": "鱼塘",
+       "py": "yútáng",
+       "g": "fish pond"
+      },
+      {
+       "w": "荷塘",
+       "py": "hétáng",
+       "g": "lotus pond"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "淹",
+     "rank": 2489,
+     "py": "yān",
+     "kw": "submerge",
+     "parts": "氵 water + 奄 (sound)",
+     "story": "The water rises until everything is under it.",
+     "trad": "",
+     "words": [
+      {
+       "w": "淹没",
+       "py": "yānmò",
+       "g": "submerge"
+      },
+      {
+       "w": "淹死",
+       "py": "yānsǐ",
+       "g": "drown"
+      },
+      {
+       "w": "淹水",
+       "py": "yānshuǐ",
+       "g": "be flooded"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "澄",
+     "rank": 2500,
+     "py": "chéng",
+     "kw": "limpid",
+     "parts": "氵 water + 登 (sound)",
+     "story": "Water left to settle until you can see right to the bottom: limpid.",
+     "trad": "",
+     "words": [
+      {
+       "w": "澄清",
+       "py": "chéngqīng",
+       "g": "clarify"
+      },
+      {
+       "w": "澄澈",
+       "py": "chéngchè",
+       "g": "crystal clear"
+      },
+      {
+       "w": "黄澄澄",
+       "py": "huángdēngdēng",
+       "g": "bright yellow"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "names and places",
+   "note": "Characters you meet mostly in surnames and place names.",
+   "chars": [
+    {
+     "c": "萧",
+     "rank": 2403,
+     "py": "xiāo",
+     "kw": "dreary",
+     "parts": "艹 grass + 肃 (sound)",
+     "story": "Only grass on bare ground, empty and still: dreary.",
+     "trad": "蕭",
+     "words": [
+      {
+       "w": "萧条",
+       "py": "xiāotiáo",
+       "g": "bleak"
+      },
+      {
+       "w": "萧瑟",
+       "py": "xiāosè",
+       "g": "desolate"
+      },
+      {
+       "w": "萧索",
+       "py": "xiāosuǒ",
+       "g": "dreary"
+      }
+     ],
+     "note": "A surname (Xiao). 蕭 became 萧.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "潘",
+     "rank": 2418,
+     "py": "pān",
+     "kw": "surname pan",
+     "parts": "氵 water + 番 (sound)",
+     "story": "Rice-washing water, now just a family name: Pan.",
+     "trad": "",
+     "words": [
+      {
+       "w": "潘多拉",
+       "py": "Pānduōlā",
+       "g": "Pandora"
+      },
+      {
+       "w": "彼得潘",
+       "py": "Bǐdépān",
+       "g": "Peter Pan"
+      },
+      {
+       "w": "潘金莲",
+       "py": "Pānjīnlián",
+       "g": "Pan Jinlian"
+      }
+     ],
+     "note": "Originally rice-washing water; you will meet it as a surname.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "湘",
+     "rank": 2428,
+     "py": "xiāng",
+     "kw": "hunan",
+     "parts": "氵 water + 相 (sound)",
+     "story": "The river that runs through Hunan gives the province its short name.",
+     "trad": "",
+     "words": [
+      {
+       "w": "湘菜",
+       "py": "Xiāngcài",
+       "g": "Hunan cuisine"
+      },
+      {
+       "w": "湘江",
+       "py": "Xiāngjiāng",
+       "g": "Xiang River"
+      },
+      {
+       "w": "湘西",
+       "py": "Xiāngxī",
+       "g": "western Hunan"
+      }
+     ],
+     "note": "Short name for Hunan province.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "沪",
+     "rank": 2473,
+     "py": "hù",
+     "kw": "shanghai",
+     "parts": "氵 water + 户 door",
+     "story": "A door onto the sea: the short name for Shanghai.",
+     "trad": "滬",
+     "words": [
+      {
+       "w": "沪剧",
+       "py": "Hùjù",
+       "g": "Shanghai opera"
+      },
+      {
+       "w": "京沪",
+       "py": "Jīnghù",
+       "g": "Beijing-Shanghai"
+      },
+      {
+       "w": "沪语",
+       "py": "Hùyǔ",
+       "g": "Shanghainese"
+      }
+     ],
+     "note": "Short name for Shanghai. 滬 became 沪.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "plants 艹",
+   "note": "Grass on top: plants and what grows.",
+   "chars": [
+    {
+     "c": "芙",
+     "rank": 2424,
+     "py": "fú",
+     "kw": "lotus bloom",
+     "parts": "艹 grass + 夫 (sound)",
+     "story": "A tall water plant opening one big flower on the pond.",
+     "trad": "",
+     "words": [
+      {
+       "w": "芙蓉",
+       "py": "fúróng",
+       "g": "hibiscus"
+      },
+      {
+       "w": "木芙蓉",
+       "py": "mùfúróng",
+       "g": "cotton rose"
+      },
+      {
+       "w": "芙蓉花",
+       "py": "fúrónghuā",
+       "g": "hibiscus flower"
+      }
+     ],
+     "note": "Only seen in 芙蓉, a poetic name for the lotus bloom.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "芳",
+     "rank": 2446,
+     "py": "fāng",
+     "kw": "fragrant",
+     "parts": "艹 grass + 方 (sound)",
+     "story": "Grass in flower, sweet on every side.",
+     "trad": "",
+     "words": [
+      {
+       "w": "芳香",
+       "py": "fāngxiāng",
+       "g": "fragrance"
+      },
+      {
+       "w": "芬芳",
+       "py": "fēnfāng",
+       "g": "sweet scent"
+      },
+      {
+       "w": "芳心",
+       "py": "fāngxīn",
+       "g": "a woman's heart"
+      }
+     ],
+     "note": "Poetic 'fragrant': 芳香 'fragrance', and common in girls' names.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "芭",
+     "rank": 2468,
+     "py": "bā",
+     "kw": "fragrant plant",
+     "parts": "艹 grass + 巴 (sound)",
+     "story": "A big-leaved plant growing in the garden.",
+     "trad": "",
+     "words": [
+      {
+       "w": "芭蕾",
+       "py": "bālěi",
+       "g": "ballet"
+      },
+      {
+       "w": "芭蕾舞",
+       "py": "bālěiwǔ",
+       "g": "ballet dance"
+      },
+      {
+       "w": "芭蕉",
+       "py": "bājiāo",
+       "g": "banana tree"
+      }
+     ],
+     "note": "Mostly seen in 芭蕾 (ballet, a loanword) and 芭蕉.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "蓬",
+     "rank": 2433,
+     "py": "péng",
+     "kw": "disheveled",
+     "parts": "艹 grass + 逢 (sound)",
+     "story": "Grass left to grow wild, tangled and untidy.",
+     "trad": "",
+     "words": [
+      {
+       "w": "蓬勃",
+       "py": "péngbó",
+       "g": "thriving"
+      },
+      {
+       "w": "蓬松",
+       "py": "péngsōng",
+       "g": "fluffy"
+      },
+      {
+       "w": "朝气蓬勃",
+       "py": "zhāoqìpéngbó",
+       "g": "full of vitality"
+      }
+     ],
+     "note": "蓬勃 is positive: bursting with growth.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "tree 木",
+   "note": "A tree on the left: wood and what grows on it.",
+   "chars": [
+    {
+     "c": "株",
+     "rank": 2407,
+     "py": "zhū",
+     "kw": "stump",
+     "parts": "木 tree + 朱 (sound)",
+     "story": "A tree cut low, with only its trunk left standing.",
+     "trad": "",
+     "words": [
+      {
+       "w": "植株",
+       "py": "zhízhū",
+       "g": "plant"
+      },
+      {
+       "w": "毒株",
+       "py": "dúzhū",
+       "g": "virus strain"
+      },
+      {
+       "w": "守株待兔",
+       "py": "shǒuzhūdàitù",
+       "g": "wait for luck"
+      }
+     ],
+     "note": "Counts plants: 一株树 'one tree'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "枢",
+     "rank": 2411,
+     "py": "shū",
+     "kw": "hinge",
+     "parts": "木 tree + 区 (sound)",
+     "story": "The wooden pivot of a door, the spot everything turns on.",
+     "trad": "樞",
+     "words": [
+      {
+       "w": "枢纽",
+       "py": "shūniǔ",
+       "g": "hub"
+      },
+      {
+       "w": "中枢",
+       "py": "zhōngshū",
+       "g": "center"
+      },
+      {
+       "w": "交通枢纽",
+       "py": "jiāotōngshūniǔ",
+       "g": "transport hub"
+      }
+     ],
+     "note": "樞 became 枢: 區 became 区.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "梨",
+     "rank": 2420,
+     "py": "lí",
+     "kw": "pear",
+     "parts": "木 tree + 利 (sharp)",
+     "story": "A tree whose fruit you cut with a sharp knife: a pear.",
+     "trad": "",
+     "words": [
+      {
+       "w": "梨子",
+       "py": "lízi",
+       "g": "pear"
+      },
+      {
+       "w": "凤梨",
+       "py": "fènglí",
+       "g": "pineapple"
+      },
+      {
+       "w": "雪梨",
+       "py": "xuělí",
+       "g": "snow pear"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "橡",
+     "rank": 2431,
+     "py": "xiàng",
+     "kw": "oak",
+     "parts": "木 tree + 象 elephant",
+     "story": "A tree as huge as an elephant: the oak.",
+     "trad": "",
+     "words": [
+      {
+       "w": "橡树",
+       "py": "xiàngshù",
+       "g": "oak"
+      },
+      {
+       "w": "橡胶",
+       "py": "xiàngjiāo",
+       "g": "rubber"
+      },
+      {
+       "w": "橡皮",
+       "py": "xiàngpí",
+       "g": "eraser"
+      }
+     ],
+     "note": "Also rubber: 橡胶.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "栖",
+     "rank": 2499,
+     "py": "qī",
+     "kw": "perch",
+     "parts": "木 tree + 西 west",
+     "story": "A bird settles on a branch as the sun sets in the west.",
+     "trad": "棲",
+     "words": [
+      {
+       "w": "栖息",
+       "py": "qīxī",
+       "g": "perch"
+      },
+      {
+       "w": "两栖",
+       "py": "liǎngqī",
+       "g": "amphibious"
+      },
+      {
+       "w": "栖身",
+       "py": "qīshēn",
+       "g": "take shelter"
+      }
+     ],
+     "note": "棲 became 栖: 妻 became 西.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "椒",
+     "rank": 2495,
+     "py": "jiāo",
+     "kw": "pepper",
+     "parts": "木 tree + 叔 (sound)",
+     "story": "A small bush bearing hot little berries: pepper.",
+     "trad": "",
+     "words": [
+      {
+       "w": "辣椒",
+       "py": "làjiāo",
+       "g": "chili"
+      },
+      {
+       "w": "胡椒",
+       "py": "hújiāo",
+       "g": "black pepper"
+      },
+      {
+       "w": "花椒",
+       "py": "huājiāo",
+       "g": "Sichuan pepper"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "mouth 口",
+   "note": "A mouth on the left: breath and voice.",
+   "chars": [
+    {
+     "c": "喉",
+     "rank": 2401,
+     "py": "hóu",
+     "kw": "throat",
+     "parts": "口 mouth + 侯 (sound)",
+     "story": "The passage behind the mouth that food and voice pass through.",
+     "trad": "",
+     "words": [
+      {
+       "w": "喉咙",
+       "py": "hóulóng",
+       "g": "throat"
+      },
+      {
+       "w": "歌喉",
+       "py": "gēhóu",
+       "g": "singing voice"
+      },
+      {
+       "w": "喉舌",
+       "py": "hóushé",
+       "g": "mouthpiece"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "噢",
+     "rank": 2456,
+     "py": "ō",
+     "kw": "oh i see",
+     "parts": "口 mouth + 奥 (sound)",
+     "story": "A mouth falling open when something suddenly makes sense: oh.",
+     "trad": "",
+     "words": [
+      {
+       "w": "噢",
+       "py": "ō",
+       "g": "oh"
+      },
+      {
+       "w": "噢买嘎",
+       "py": "ōmǎigā",
+       "g": "oh my god"
+      }
+     ],
+     "note": "An interjection, 'oh, I see'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "噪",
+     "rank": 2472,
+     "py": "zào",
+     "kw": "noise",
+     "parts": "口 mouth + 喿 (sound)",
+     "story": "A tree crowded with squawking mouths: a racket.",
+     "trad": "",
+     "words": [
+      {
+       "w": "噪音",
+       "py": "zàoyīn",
+       "g": "noise"
+      },
+      {
+       "w": "噪声",
+       "py": "zàoshēng",
+       "g": "din"
+      },
+      {
+       "w": "降噪",
+       "py": "jiàngzào",
+       "g": "reduce noise"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "flesh 月",
+   "note": "The 月 here is flesh, not moon: parts of the body.",
+   "chars": [
+    {
+     "c": "脖",
+     "rank": 2460,
+     "py": "bó",
+     "kw": "neck stem",
+     "parts": "月 flesh + 孛 (sound)",
+     "story": "The stalk of flesh that holds the head up: the neck.",
+     "trad": "",
+     "words": [
+      {
+       "w": "脖子",
+       "py": "bózi",
+       "g": "neck"
+      },
+      {
+       "w": "围脖",
+       "py": "wéibó",
+       "g": "scarf"
+      },
+      {
+       "w": "脖颈",
+       "py": "bógěng",
+       "g": "nape"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "腺",
+     "rank": 2432,
+     "py": "xiàn",
+     "kw": "gland",
+     "parts": "月 flesh + 泉 spring",
+     "story": "A spring in the flesh that gives out its fluid: a gland.",
+     "trad": "",
+     "words": [
+      {
+       "w": "甲状腺",
+       "py": "jiǎzhuàngxiàn",
+       "g": "thyroid"
+      },
+      {
+       "w": "乳腺",
+       "py": "rǔxiàn",
+       "g": "breast gland"
+      },
+      {
+       "w": "肾上腺素",
+       "py": "shènshàngxiànsù",
+       "g": "adrenaline"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "腥",
+     "rank": 2451,
+     "py": "xīng",
+     "kw": "fishy",
+     "parts": "月 flesh + 星 star",
+     "story": "Raw flesh dotted with specks of blood: a fishy reek.",
+     "trad": "",
+     "words": [
+      {
+       "w": "血腥",
+       "py": "xuèxīng",
+       "g": "bloody"
+      },
+      {
+       "w": "腥风血雨",
+       "py": "xīngfēngxuèyǔ",
+       "g": "bloodshed"
+      },
+      {
+       "w": "鱼腥草",
+       "py": "yúxīngcǎo",
+       "g": "houttuynia"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "sun 日 and weather",
+   "note": "The sun above: heat, light and dry spells.",
+   "chars": [
+    {
+     "c": "暑",
+     "rank": 2415,
+     "py": "shǔ",
+     "kw": "summer heat",
+     "parts": "日 sun + 者 (sound)",
+     "story": "The sun beating down on everything: the heat of midsummer.",
+     "trad": "",
+     "words": [
+      {
+       "w": "暑假",
+       "py": "shǔjià",
+       "g": "summer vacation"
+      },
+      {
+       "w": "避暑",
+       "py": "bìshǔ",
+       "g": "escape the heat"
+      },
+      {
+       "w": "酷暑",
+       "py": "kùshǔ",
+       "g": "fierce heat"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "晃",
+     "rank": 2422,
+     "py": "huàng",
+     "kw": "sway",
+     "parts": "日 sun + 光 light",
+     "story": "Light flickers and glints, and everything seems to sway.",
+     "trad": "",
+     "words": [
+      {
+       "w": "摇晃",
+       "py": "yáohuàng",
+       "g": "sway"
+      },
+      {
+       "w": "晃动",
+       "py": "huàngdòng",
+       "g": "wobble"
+      },
+      {
+       "w": "一晃",
+       "py": "yīhuǎng",
+       "g": "in a flash"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "晴",
+     "rank": 2497,
+     "py": "qíng",
+     "kw": "fine weather",
+     "parts": "日 sun + 青 blue",
+     "story": "The sun in a blue sky: a fine, clear day.",
+     "trad": "",
+     "words": [
+      {
+       "w": "晴天",
+       "py": "qíngtiān",
+       "g": "sunny day"
+      },
+      {
+       "w": "晴朗",
+       "py": "qínglǎng",
+       "g": "clear and bright"
+      },
+      {
+       "w": "放晴",
+       "py": "fàngqíng",
+       "g": "clear up"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "旱",
+     "rank": 2457,
+     "py": "hàn",
+     "kw": "drought",
+     "parts": "日 sun + 干 dry",
+     "story": "The sun on dry ground, with no rain: a drought.",
+     "trad": "",
+     "words": [
+      {
+       "w": "干旱",
+       "py": "gānhàn",
+       "g": "drought"
+      },
+      {
+       "w": "旱灾",
+       "py": "hànzāi",
+       "g": "drought disaster"
+      },
+      {
+       "w": "抗旱",
+       "py": "kànghàn",
+       "g": "fight drought"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "fire 火",
+   "note": "Fire, or four dots under it.",
+   "chars": [
+    {
+     "c": "熬",
+     "rank": 2419,
+     "py": "áo",
+     "kw": "simmer",
+     "parts": "敖 (sound) + 灬 fire",
+     "story": "A pot kept on a low flame for hours: simmer.",
+     "trad": "",
+     "words": [
+      {
+       "w": "熬夜",
+       "py": "áoyè",
+       "g": "stay up late"
+      },
+      {
+       "w": "煎熬",
+       "py": "jiān'áo",
+       "g": "torment"
+      },
+      {
+       "w": "难熬",
+       "py": "nán'áo",
+       "g": "hard to bear"
+      }
+     ],
+     "note": "Also 'endure': 熬过 'get through'; 熬夜 'stay up late'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "烛",
+     "rank": 2425,
+     "py": "zhú",
+     "kw": "candle",
+     "parts": "火 fire + 虫 insect",
+     "story": "A fire that crawls along the wick like a worm: a candle.",
+     "trad": "燭",
+     "words": [
+      {
+       "w": "蜡烛",
+       "py": "làzhú",
+       "g": "candle"
+      },
+      {
+       "w": "烛光",
+       "py": "zhúguāng",
+       "g": "candlelight"
+      },
+      {
+       "w": "烛台",
+       "py": "zhútái",
+       "g": "candlestick"
+      }
+     ],
+     "note": "燭 became 烛: 蜀 became 虫.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "煽",
+     "rank": 2476,
+     "py": "shān",
+     "kw": "incite",
+     "parts": "火 fire + 扇 fan",
+     "story": "Fan the flames and make them leap: stir people up.",
+     "trad": "",
+     "words": [
+      {
+       "w": "煽动",
+       "py": "shāndòng",
+       "g": "incite"
+      },
+      {
+       "w": "煽情",
+       "py": "shānqíng",
+       "g": "tug at emotions"
+      },
+      {
+       "w": "煽风点火",
+       "py": "shānfēngdiǎnhuǒ",
+       "g": "stir up trouble"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "燥",
+     "rank": 2490,
+     "py": "zào",
+     "kw": "parched",
+     "parts": "火 fire + 喿 (sound)",
+     "story": "Fire sucks the moisture out until everything is dry.",
+     "trad": "",
+     "words": [
+      {
+       "w": "干燥",
+       "py": "gānzào",
+       "g": "dry"
+      },
+      {
+       "w": "枯燥",
+       "py": "kūzào",
+       "g": "dull"
+      },
+      {
+       "w": "燥热",
+       "py": "zàorè",
+       "g": "sweltering"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "person 亻",
+   "note": "A person on the left: roles and acts.",
+   "chars": [
+    {
+     "c": "侮",
+     "rank": 2438,
+     "py": "wǔ",
+     "kw": "insult",
+     "parts": "亻 person + 每 (sound)",
+     "story": "Treating a person as nothing: you insult them.",
+     "trad": "",
+     "words": [
+      {
+       "w": "侮辱",
+       "py": "wǔrǔ",
+       "g": "insult"
+      },
+      {
+       "w": "欺侮",
+       "py": "qīwǔ",
+       "g": "bully"
+      },
+      {
+       "w": "外侮",
+       "py": "wàiwǔ",
+       "g": "foreign aggression"
+      }
+     ],
+     "note": "His Analects card: 'insult'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "佑",
+     "rank": 2445,
+     "py": "yòu",
+     "kw": "bless",
+     "parts": "亻 person + 右 right",
+     "story": "A person at your right hand, helping you on: protection.",
+     "trad": "",
+     "words": [
+      {
+       "w": "保佑",
+       "py": "bǎoyòu",
+       "g": "protect"
+      },
+      {
+       "w": "庇佑",
+       "py": "bìyòu",
+       "g": "shelter"
+      },
+      {
+       "w": "护佑",
+       "py": "hùyòu",
+       "g": "guard"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "仲",
+     "rank": 2488,
+     "py": "zhòng",
+     "kw": "intermediate",
+     "parts": "亻 person + 中 middle",
+     "story": "The person in the middle: the second of three, or mid-season.",
+     "trad": "",
+     "words": [
+      {
+       "w": "仲裁",
+       "py": "zhòngcái",
+       "g": "arbitration"
+      },
+      {
+       "w": "仲夏",
+       "py": "zhòngxià",
+       "g": "midsummer"
+      },
+      {
+       "w": "仲秋",
+       "py": "zhòngqiū",
+       "g": "mid-autumn"
+      }
+     ],
+     "note": "仲裁 means a go-between settles a dispute.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "仑",
+     "rank": 2498,
+     "py": "lún",
+     "kw": "gallon",
+     "parts": "亼 roof + 匕 ladle shape",
+     "story": "A roofed measure with a ladle shape: you only meet it in gallon and Kunlun.",
+     "trad": "崙/侖",
+     "words": [
+      {
+       "w": "加仑",
+       "py": "jiālún",
+       "g": "gallon"
+      },
+      {
+       "w": "昆仑山",
+       "py": "Kūnlúnshān",
+       "g": "Kunlun Mountains"
+      },
+      {
+       "w": "拿破仑",
+       "py": "Nápòlún",
+       "g": "Napoleon"
+      }
+     ],
+     "note": "A transliteration character: 加仑 gallon, 拿破仑 Napoleon. 侖 became 仑.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "earth 土",
+   "note": "Soil and ground.",
+   "chars": [
+    {
+     "c": "坪",
+     "rank": 2429,
+     "py": "píng",
+     "kw": "level plain",
+     "parts": "土 earth + 平 flat",
+     "story": "Earth made flat: a level patch of ground.",
+     "trad": "",
+     "words": [
+      {
+       "w": "草坪",
+       "py": "cǎopíng",
+       "g": "lawn"
+      },
+      {
+       "w": "停机坪",
+       "py": "tíngjīpíng",
+       "g": "airport apron"
+      }
+     ],
+     "note": "Also a Japanese-style area unit, 1 ping.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "坟",
+     "rank": 2462,
+     "py": "fén",
+     "kw": "grave mound",
+     "parts": "土 earth + 文 (sound)",
+     "story": "Earth heaped up over the dead: a grave mound.",
+     "trad": "墳",
+     "words": [
+      {
+       "w": "坟墓",
+       "py": "fénmù",
+       "g": "tomb"
+      },
+      {
+       "w": "上坟",
+       "py": "shàngfén",
+       "g": "visit a grave"
+      },
+      {
+       "w": "祖坟",
+       "py": "zǔfén",
+       "g": "ancestral tomb"
+      }
+     ],
+     "note": "墳 became 坟: the right side became 文.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "圭",
+     "rank": 2466,
+     "py": "guī",
+     "kw": "jade tablet",
+     "parts": "土 earth + 土 earth",
+     "story": "Two lumps of earth stacked: an old pointed jade tablet.",
+     "trad": "",
+     "words": [
+      {
+       "w": "圭亚那",
+       "py": "Guīyànà",
+       "g": "Guyana"
+      },
+      {
+       "w": "巴拉圭",
+       "py": "Bālāguī",
+       "g": "Paraguay"
+      },
+      {
+       "w": "乌拉圭",
+       "py": "Wūlāguī",
+       "g": "Uruguay"
+      }
+     ],
+     "note": "Mostly a transliteration character (Guyana, Paraguay, Uruguay).",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "small creatures",
+   "note": "Insects and sea animals.",
+   "chars": [
+    {
+     "c": "蝶",
+     "rank": 2414,
+     "py": "dié",
+     "kw": "butterfly",
+     "parts": "虫 insect + 枼 (sound)",
+     "story": "The flat-winged insect that flutters from flower to flower.",
+     "trad": "",
+     "words": [
+      {
+       "w": "蝴蝶",
+       "py": "húdié",
+       "g": "butterfly"
+      },
+      {
+       "w": "蝶泳",
+       "py": "diéyǒng",
+       "g": "butterfly stroke"
+      },
+      {
+       "w": "蝴蝶结",
+       "py": "húdiéjié",
+       "g": "bow"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "蛛",
+     "rank": 2471,
+     "py": "zhū",
+     "kw": "spider",
+     "parts": "虫 insect + 朱 (sound)",
+     "story": "The insect that sits at the centre of its own web.",
+     "trad": "",
+     "words": [
+      {
+       "w": "蜘蛛",
+       "py": "zhīzhū",
+       "g": "spider"
+      },
+      {
+       "w": "蛛丝马迹",
+       "py": "zhūsīmǎjì",
+       "g": "faint clue"
+      },
+      {
+       "w": "蜘蛛网",
+       "py": "zhīzhūwǎng",
+       "g": "spider web"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "鲨",
+     "rank": 2406,
+     "py": "shā",
+     "kw": "shark",
+     "parts": "鱼 fish + 沙 sand",
+     "story": "The fish with rough sandy skin: a shark.",
+     "trad": "鯊",
+     "words": [
+      {
+       "w": "鲨鱼",
+       "py": "shāyú",
+       "g": "shark"
+      },
+      {
+       "w": "大白鲨",
+       "py": "dàbáishā",
+       "g": "great white shark"
+      },
+      {
+       "w": "鲸鲨",
+       "py": "jīngshā",
+       "g": "whale shark"
+      }
+     ],
+     "note": "鯊 became 鲨: 魚 became 鱼.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "豹",
+     "rank": 2442,
+     "py": "bào",
+     "kw": "leopard",
+     "parts": "豸 beast + 勺 (sound)",
+     "story": "A spotted beast that leaps lightly: the leopard.",
+     "trad": "",
+     "words": [
+      {
+       "w": "豹子",
+       "py": "bàozi",
+       "g": "leopard"
+      },
+      {
+       "w": "海豹",
+       "py": "hǎibào",
+       "g": "seal"
+      },
+      {
+       "w": "猎豹",
+       "py": "lièbào",
+       "g": "cheetah"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "birds and nests",
+   "note": "Birds, their eggs and their homes.",
+   "chars": [
+    {
+     "c": "雀",
+     "rank": 2453,
+     "py": "què",
+     "kw": "sparrow",
+     "parts": "小 small + 隹 bird",
+     "story": "A small bird hopping about: a sparrow.",
+     "trad": "",
+     "words": [
+      {
+       "w": "麻雀",
+       "py": "máquè",
+       "g": "sparrow"
+      },
+      {
+       "w": "孔雀",
+       "py": "kǒngquè",
+       "g": "peacock"
+      },
+      {
+       "w": "雀斑",
+       "py": "quèbān",
+       "g": "freckles"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "禽",
+     "rank": 2434,
+     "py": "qín",
+     "kw": "fowl",
+     "parts": "- a bird caught under a lid with a net",
+     "story": "Birds trapped under a cover: farm fowl.",
+     "trad": "",
+     "words": [
+      {
+       "w": "家禽",
+       "py": "jiāqín",
+       "g": "poultry"
+      },
+      {
+       "w": "禽流感",
+       "py": "qínliúgǎn",
+       "g": "bird flu"
+      },
+      {
+       "w": "猛禽",
+       "py": "měngqín",
+       "g": "bird of prey"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "卵",
+     "rank": 2477,
+     "py": "luǎn",
+     "kw": "egg",
+     "parts": "- two round eggs inside a curved shell",
+     "story": "Two round eggs lie in a hollow shape: an egg.",
+     "trad": "",
+     "words": [
+      {
+       "w": "产卵",
+       "py": "chǎnluǎn",
+       "g": "lay eggs"
+      },
+      {
+       "w": "卵巢",
+       "py": "luǎncháo",
+       "g": "ovary"
+      },
+      {
+       "w": "排卵",
+       "py": "páiluǎn",
+       "g": "ovulate"
+      }
+     ],
+     "note": "The scientific word for 蛋: 卵子 'ovum'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "巢",
+     "rank": 2481,
+     "py": "cháo",
+     "kw": "bird nest",
+     "parts": "木 tree + 田 nest + 巛 chicks",
+     "story": "Chicks cheeping in a woven nest at the top of a tree.",
+     "trad": "",
+     "words": [
+      {
+       "w": "鸟巢",
+       "py": "niǎocháo",
+       "g": "bird's nest"
+      },
+      {
+       "w": "巢穴",
+       "py": "cháoxué",
+       "g": "lair"
+      },
+      {
+       "w": "筑巢",
+       "py": "zhùcháo",
+       "g": "build a nest"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "words 讠",
+   "note": "Speech on the left: sayings and tricks.",
+   "chars": [
+    {
+     "c": "诀",
+     "rank": 2439,
+     "py": "jué",
+     "kw": "tricks",
+     "parts": "讠 words + 夬 (sound)",
+     "story": "A few key words passed on: the trick of the trade.",
+     "trad": "訣",
+     "words": [
+      {
+       "w": "秘诀",
+       "py": "mìjué",
+       "g": "secret"
+      },
+      {
+       "w": "诀窍",
+       "py": "juéqiào",
+       "g": "knack"
+      },
+      {
+       "w": "口诀",
+       "py": "kǒujué",
+       "g": "memory rhyme"
+      }
+     ],
+     "note": "Also 'to part', as in 诀别 (a last farewell). 訣 became 诀: 訁 became 讠.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "诡",
+     "rank": 2461,
+     "py": "guǐ",
+     "kw": "sly",
+     "parts": "讠 words + 危 danger",
+     "story": "Words that lead you into danger: sly and deceptive.",
+     "trad": "詭",
+     "words": [
+      {
+       "w": "诡异",
+       "py": "guǐyì",
+       "g": "bizarre"
+      },
+      {
+       "w": "诡计",
+       "py": "guǐjì",
+       "g": "scheme"
+      },
+      {
+       "w": "诡辩",
+       "py": "guǐbiàn",
+       "g": "sophistry"
+      }
+     ],
+     "note": "詭 became 诡: 訁 became 讠.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "going about 辶",
+   "note": "A walking foot: moving, loitering, a trip.",
+   "chars": [
+    {
+     "c": "逗",
+     "rank": 2448,
+     "py": "dòu",
+     "kw": "tease",
+     "parts": "辶 walk + 豆 (sound)",
+     "story": "Walking up to someone and poking at them: tease.",
+     "trad": "",
+     "words": [
+      {
+       "w": "逗号",
+       "py": "dòuhào",
+       "g": "comma"
+      },
+      {
+       "w": "逗留",
+       "py": "dòuliú",
+       "g": "stay a while"
+      },
+      {
+       "w": "挑逗",
+       "py": "tiǎodòu",
+       "g": "provoke"
+      }
+     ],
+     "note": "逗号 is the comma mark.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "逛",
+     "rank": 2463,
+     "py": "guàng",
+     "kw": "stroll",
+     "parts": "辶 walk + 狂 (sound)",
+     "story": "Walking about with no goal at all: a stroll.",
+     "trad": "",
+     "words": [
+      {
+       "w": "逛街",
+       "py": "guàngjiē",
+       "g": "go shopping"
+      },
+      {
+       "w": "闲逛",
+       "py": "xiánguàng",
+       "g": "wander"
+      },
+      {
+       "w": "逛逛",
+       "py": "guàngguang",
+       "g": "take a stroll"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "趟",
+     "rank": 2450,
+     "py": "tàng",
+     "kw": "round trip",
+     "parts": "走 walk + 尚 (sound)",
+     "story": "A walk there and back: one whole run.",
+     "trad": "",
+     "words": [
+      {
+       "w": "白跑一趟",
+       "py": "báipǎoyītàng",
+       "g": "make a wasted trip"
+      },
+      {
+       "w": "趟浑水",
+       "py": "tānghúnshuǐ",
+       "g": "get into mess"
+      }
+     ],
+     "note": "A counter for trips: 去一趟 'go once'.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "wine 酉",
+   "note": "A wine jar: brewing and strong drink.",
+   "chars": [
+    {
+     "c": "酿",
+     "rank": 2449,
+     "py": "niàng",
+     "kw": "brew",
+     "parts": "酉 wine jar + 良 good",
+     "story": "Good stuff left in a wine jar until it turns: brew.",
+     "trad": "釀",
+     "words": [
+      {
+       "w": "酿酒",
+       "py": "niàngjiǔ",
+       "g": "brew liquor"
+      },
+      {
+       "w": "酿造",
+       "py": "niàngzào",
+       "g": "brew"
+      },
+      {
+       "w": "酿成",
+       "py": "niàngchéng",
+       "g": "lead to"
+      }
+     ],
+     "note": "釀 became 酿: the right side became 良.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "醇",
+     "rank": 2493,
+     "py": "chún",
+     "kw": "mellow wine",
+     "parts": "酉 wine jar + 享 (sound)",
+     "story": "A jar of wine left until it is rich and pure: mellow wine.",
+     "trad": "",
+     "words": [
+      {
+       "w": "乙醇",
+       "py": "yǐchún",
+       "g": "ethanol"
+      },
+      {
+       "w": "甲醇",
+       "py": "jiǎchún",
+       "g": "methanol"
+      },
+      {
+       "w": "胆固醇",
+       "py": "dǎngùchún",
+       "g": "cholesterol"
+      }
+     ],
+     "note": "Also 'mellow, rich': 醇厚.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "clothes 衤",
+   "note": "Cloth on the left: garments.",
+   "chars": [
+    {
+     "c": "衫",
+     "rank": 2482,
+     "py": "shān",
+     "kw": "garment",
+     "parts": "衤 clothes + 彡 flowing strokes",
+     "story": "Clothing hanging loose in long lines: a shirt.",
+     "trad": "",
+     "words": [
+      {
+       "w": "衬衫",
+       "py": "chènshān",
+       "g": "shirt"
+      },
+      {
+       "w": "衣衫",
+       "py": "yīshān",
+       "g": "clothes"
+      },
+      {
+       "w": "羊毛衫",
+       "py": "yángmáoshān",
+       "g": "wool sweater"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "衬",
+     "rank": 2494,
+     "py": "chèn",
+     "kw": "lining",
+     "parts": "衤 clothes + 寸 inch",
+     "story": "Cloth cut to an inch of the skin: the lining.",
+     "trad": "襯",
+     "words": [
+      {
+       "w": "衬衫",
+       "py": "chènshān",
+       "g": "shirt"
+      },
+      {
+       "w": "衬衣",
+       "py": "chènyī",
+       "g": "shirt"
+      },
+      {
+       "w": "衬托",
+       "py": "chèntuō",
+       "g": "set off"
+      }
+     ],
+     "note": "襯 became 衬: the right side became 寸.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "jade 王",
+   "note": "Jade beads on a string: fine stone.",
+   "chars": [
+    {
+     "c": "琼",
+     "rank": 2487,
+     "py": "qióng",
+     "kw": "jasper",
+     "parts": "王 jade + 京 capital",
+     "story": "Fine jade from the capital: the best kind.",
+     "trad": "瓊",
+     "words": [
+      {
+       "w": "琼脂",
+       "py": "qióngzhī",
+       "g": "agar"
+      },
+      {
+       "w": "琼浆玉液",
+       "py": "qióngjiāngyùyè",
+       "g": "divine nectar"
+      }
+     ],
+     "note": "Also the short name for Hainan (琼). 瓊 became 琼.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "瑜",
+     "rank": 2479,
+     "py": "yú",
+     "kw": "excellence",
+     "parts": "王 jade + 俞 (sound)",
+     "story": "Jade that glows from within: its luster.",
+     "trad": "",
+     "words": [
+      {
+       "w": "瑜伽",
+       "py": "yújiā",
+       "g": "yoga"
+      },
+      {
+       "w": "瑕不掩瑜",
+       "py": "xiábùyǎnyú",
+       "g": "flaws don't hide merit"
+      }
+     ],
+     "note": "Mostly seen in 瑜伽 (yoga, a loanword).",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "knife 刂",
+   "note": "A blade on the right: cut and scrape.",
+   "chars": [
+    {
+     "c": "剖",
+     "rank": 2430,
+     "py": "pōu",
+     "kw": "cut open",
+     "parts": "咅 (sound) + 刂 knife",
+     "story": "A knife slices straight through to see inside.",
+     "trad": "",
+     "words": [
+      {
+       "w": "解剖",
+       "py": "jiěpōu",
+       "g": "dissect"
+      },
+      {
+       "w": "剖析",
+       "py": "pōuxī",
+       "g": "analyze"
+      },
+      {
+       "w": "剖腹产",
+       "py": "pōufùchǎn",
+       "g": "C-section"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "刮",
+     "rank": 2444,
+     "py": "guā",
+     "kw": "scrape",
+     "parts": "舌 tongue + 刂 knife",
+     "story": "A blade dragged flat along a surface: scrape, or blow hard.",
+     "trad": "颳",
+     "words": [
+      {
+       "w": "刮风",
+       "py": "guāfēng",
+       "g": "be windy"
+      },
+      {
+       "w": "刮胡子",
+       "py": "guāhúzi",
+       "g": "shave"
+      },
+      {
+       "w": "刮目相看",
+       "py": "guāmùxiāngkàn",
+       "g": "look anew"
+      }
+     ],
+     "note": "颳 became 刮: 風 became 舌+刂.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "mountain 山",
+   "note": "Peaks and rock.",
+   "chars": [
+    {
+     "c": "崛",
+     "rank": 2421,
+     "py": "jué",
+     "kw": "towering",
+     "parts": "山 mountain + 屈 (sound)",
+     "story": "A mountain that thrusts up above all the others.",
+     "trad": "",
+     "words": [
+      {
+       "w": "崛起",
+       "py": "juéqǐ",
+       "g": "rise up"
+      },
+      {
+       "w": "奇崛",
+       "py": "qíjué",
+       "g": "strange and bold"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "峻",
+     "rank": 2491,
+     "py": "jùn",
+     "kw": "harsh",
+     "parts": "山 mountain + 夋 (sound)",
+     "story": "A mountain reared up steep and hard to climb: harsh.",
+     "trad": "",
+     "words": [
+      {
+       "w": "严峻",
+       "py": "yánjùn",
+       "g": "grim"
+      },
+      {
+       "w": "险峻",
+       "py": "xiǎnjùn",
+       "g": "steep"
+      },
+      {
+       "w": "高峻",
+       "py": "gāojùn",
+       "g": "lofty"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "woman 女",
+   "note": "A woman on the left or below.",
+   "chars": [
+    {
+     "c": "娇",
+     "rank": 2496,
+     "py": "jiāo",
+     "kw": "delicate",
+     "parts": "女 woman + 乔 (sound)",
+     "story": "A woman held dear and fussed over: tender and fragile.",
+     "trad": "嬌",
+     "words": [
+      {
+       "w": "撒娇",
+       "py": "sājiāo",
+       "g": "act spoiled"
+      },
+      {
+       "w": "娇小",
+       "py": "jiāoxiǎo",
+       "g": "petite"
+      },
+      {
+       "w": "娇嫩",
+       "py": "jiāonen",
+       "g": "tender"
+      }
+     ],
+     "note": "嬌 became 娇: 喬 became 乔.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "妄",
+     "rank": 2443,
+     "py": "wàng",
+     "kw": "rash",
+     "parts": "亡 gone + 女 woman",
+     "story": "Good sense gone, and wild fancies take over: rash, baseless.",
+     "trad": "",
+     "words": [
+      {
+       "w": "妄想",
+       "py": "wàngxiǎng",
+       "g": "delusion"
+      },
+      {
+       "w": "狂妄",
+       "py": "kuángwàng",
+       "g": "arrogant"
+      },
+      {
+       "w": "轻举妄动",
+       "py": "qīngjǔwàngdòng",
+       "g": "act rashly"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "boat and cart",
+   "note": "Things that carry people.",
+   "chars": [
+    {
+     "c": "舟",
+     "rank": 2485,
+     "py": "zhōu",
+     "kw": "boat",
+     "parts": "- a long hollow boat seen from the side",
+     "story": "A narrow hull with ribs: a small boat.",
+     "trad": "",
+     "words": [
+      {
+       "w": "龙舟",
+       "py": "lóngzhōu",
+       "g": "dragon boat"
+      },
+      {
+       "w": "方舟",
+       "py": "fāngzhōu",
+       "g": "ark"
+      },
+      {
+       "w": "独木舟",
+       "py": "dúmùzhōu",
+       "g": "canoe"
+      }
+     ],
+     "note": "Classical 'boat'; modern prose uses 船.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "轿",
+     "rank": 2484,
+     "py": "jiào",
+     "kw": "sedan chair",
+     "parts": "车 cart + 乔 (sound)",
+     "story": "A cart seat raised high and carried by bearers.",
+     "trad": "轎",
+     "words": [
+      {
+       "w": "轿子",
+       "py": "jiàozi",
+       "g": "sedan chair"
+      },
+      {
+       "w": "轿车",
+       "py": "jiàochē",
+       "g": "car"
+      },
+      {
+       "w": "豪华轿车",
+       "py": "háohuájiàochē",
+       "g": "limousine"
+      }
+     ],
+     "note": "轎 became 轿: 車 became 车.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "soldiers, death and wrongs",
+   "note": "Hard words for harm.",
+   "chars": [
+    {
+     "c": "卒",
+     "rank": 2404,
+     "py": "zú",
+     "kw": "foot soldier",
+     "parts": "- a lid over two plain figures and a cross",
+     "story": "A plain coat on a rank-and-file man: the foot soldier.",
+     "trad": "",
+     "words": [
+      {
+       "w": "士卒",
+       "py": "shìzú",
+       "g": "soldier"
+      },
+      {
+       "w": "小卒",
+       "py": "xiǎozú",
+       "g": "lowly figure"
+      },
+      {
+       "w": "狱卒",
+       "py": "yùzú",
+       "g": "jailer"
+      }
+     ],
+     "note": "Also 'finally', and 'to die'.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "毙",
+     "rank": 2469,
+     "py": "bì",
+     "kw": "shoot dead",
+     "parts": "比 compare + 死 death",
+     "story": "A man cut down by a shot: he dies on the spot.",
+     "trad": "斃/獘",
+     "words": [
+      {
+       "w": "击毙",
+       "py": "jībì",
+       "g": "shoot dead"
+      },
+      {
+       "w": "枪毙",
+       "py": "qiāngbì",
+       "g": "execute"
+      },
+      {
+       "w": "毙命",
+       "py": "bìmìng",
+       "g": "meet one's end"
+      }
+     ],
+     "note": "斃 became 毙: the top became 比.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "殴",
+     "rank": 2480,
+     "py": "ōu",
+     "kw": "beat up",
+     "parts": "区 (sound) + 殳 weapon",
+     "story": "A weapon raised in the hand to strike: beat someone up.",
+     "trad": "毆",
+     "words": [
+      {
+       "w": "殴打",
+       "py": "ōudǎ",
+       "g": "beat up"
+      },
+      {
+       "w": "斗殴",
+       "py": "dòu'ōu",
+       "g": "brawl"
+      },
+      {
+       "w": "围殴",
+       "py": "wéi'ōu",
+       "g": "gang up on"
+      }
+     ],
+     "note": "毆 became 殴: 區 became 区.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "冤",
+     "rank": 2486,
+     "py": "yuān",
+     "kw": "injustice",
+     "parts": "冖 cover + 兔 rabbit",
+     "story": "A rabbit pinned under a lid, innocent and unable to escape.",
+     "trad": "",
+     "words": [
+      {
+       "w": "冤枉",
+       "py": "yuānwang",
+       "g": "wrong"
+      },
+      {
+       "w": "冤案",
+       "py": "yuān'àn",
+       "g": "wrongful case"
+      },
+      {
+       "w": "冤家",
+       "py": "yuānjia",
+       "g": "enemy"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "virtue and effort",
+   "note": "Pushing yourself and keeping steady.",
+   "chars": [
+    {
+     "c": "勉",
+     "rank": 2437,
+     "py": "miǎn",
+     "kw": "effort",
+     "parts": "免 (sound) + 力 strength",
+     "story": "Strength put in: you push yourself on.",
+     "trad": "",
+     "words": [
+      {
+       "w": "勉强",
+       "py": "miǎnqiǎng",
+       "g": "barely"
+      },
+      {
+       "w": "勉励",
+       "py": "miǎnlì",
+       "g": "encourage"
+      },
+      {
+       "w": "勤勉",
+       "py": "qínmiǎn",
+       "g": "diligent"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "毅",
+     "rank": 2492,
+     "py": "yì",
+     "kw": "resolute",
+     "parts": "豙 (sound) + 殳 weapon",
+     "story": "A hand with a weapon that will not back down: firm.",
+     "trad": "",
+     "words": [
+      {
+       "w": "毅力",
+       "py": "yìlì",
+       "g": "willpower"
+      },
+      {
+       "w": "坚毅",
+       "py": "jiānyì",
+       "g": "firm"
+      },
+      {
+       "w": "毅然",
+       "py": "yìrán",
+       "g": "resolutely"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "靖",
+     "rank": 2427,
+     "py": "jìng",
+     "kw": "pacify",
+     "parts": "立 stand + 青 green",
+     "story": "A person standing calm under a clear sky: all is quiet.",
+     "trad": "",
+     "words": [
+      {
+       "w": "绥靖",
+       "py": "suíjìng",
+       "g": "pacify"
+      },
+      {
+       "w": "绥靖主义",
+       "py": "suíjìngzhǔyì",
+       "g": "appeasement"
+      }
+     ],
+     "note": "A name character and a political word (appeasement).",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "song and verse",
+   "note": "Praising in words that rhyme.",
+   "chars": [
+    {
+     "c": "颂",
+     "rank": 2410,
+     "py": "sòng",
+     "kw": "ode",
+     "parts": "公 public + 页 head",
+     "story": "A head raised before everyone to sing a hymn.",
+     "trad": "頌",
+     "words": [
+      {
+       "w": "歌颂",
+       "py": "gēsòng",
+       "g": "sing the praises of"
+      },
+      {
+       "w": "颂歌",
+       "py": "sònggē",
+       "g": "song of praise"
+      },
+      {
+       "w": "赞颂",
+       "py": "zànsòng",
+       "g": "extol"
+      }
+     ],
+     "note": "頌 became 颂: 頁 became 页.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "韵",
+     "rank": 2464,
+     "py": "yùn",
+     "kw": "rhyme",
+     "parts": "音 music + 匀 (sound)",
+     "story": "Music evened out so each line matches the next: rhyme.",
+     "trad": "韻",
+     "words": [
+      {
+       "w": "韵味",
+       "py": "yùnwèi",
+       "g": "charm"
+      },
+      {
+       "w": "韵律",
+       "py": "yùnlǜ",
+       "g": "rhythm"
+      },
+      {
+       "w": "神韵",
+       "py": "shényùn",
+       "g": "grace"
+      }
+     ],
+     "note": "韻 became 韵: 員 became 匀.",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "waste and excess",
+   "note": "Dirt, rot and too much.",
+   "chars": [
+    {
+     "c": "霉",
+     "rank": 2402,
+     "py": "méi",
+     "kw": "mold",
+     "parts": "雨 rain + 每 (sound)",
+     "story": "Rain every day in the damp: mold grows.",
+     "trad": "",
+     "words": [
+      {
+       "w": "发霉",
+       "py": "fāméi",
+       "g": "go moldy"
+      },
+      {
+       "w": "倒霉",
+       "py": "dǎoméi",
+       "g": "unlucky"
+      },
+      {
+       "w": "霉菌",
+       "py": "méijūn",
+       "g": "mold"
+      }
+     ],
+     "note": "倒霉 'bad luck' is the most common word.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "屎",
+     "rank": 2412,
+     "py": "shǐ",
+     "kw": "excrement",
+     "parts": "尸 body + 米 rice",
+     "story": "What the body makes of rice: excrement.",
+     "trad": "",
+     "words": [
+      {
+       "w": "拉屎",
+       "py": "lāshǐ",
+       "g": "take a crap"
+      },
+      {
+       "w": "狗屎",
+       "py": "gǒushǐ",
+       "g": "dog mess"
+      },
+      {
+       "w": "鼻屎",
+       "py": "bíshǐ",
+       "g": "booger"
+      }
+     ],
+     "note": "A crude word.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "奢",
+     "rank": 2405,
+     "py": "shē",
+     "kw": "lavish",
+     "parts": "大 big + 者 (sound)",
+     "story": "Everything made big and showy: extravagance.",
+     "trad": "",
+     "words": [
+      {
+       "w": "奢侈",
+       "py": "shēchǐ",
+       "g": "luxury"
+      },
+      {
+       "w": "奢华",
+       "py": "shēhuá",
+       "g": "lavish"
+      },
+      {
+       "w": "奢望",
+       "py": "shēwàng",
+       "g": "wild hope"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "things and people",
+   "note": "Small tools and a craftsman.",
+   "chars": [
+    {
+     "c": "匙",
+     "rank": 2423,
+     "py": "chí",
+     "kw": "spoon",
+     "parts": "匕 ladle + 是 (sound)",
+     "story": "A small ladle shape: the spoon.",
+     "trad": "",
+     "words": [
+      {
+       "w": "钥匙",
+       "py": "yàoshi",
+       "g": "key"
+      },
+      {
+       "w": "汤匙",
+       "py": "tāngchí",
+       "g": "soup spoon"
+      },
+      {
+       "w": "茶匙",
+       "py": "cháchí",
+       "g": "teaspoon"
+      }
+     ],
+     "note": "In 钥匙 it means key.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "匠",
+     "rank": 2458,
+     "py": "jiàng",
+     "kw": "craftsman",
+     "parts": "匚 box + 斤 axe",
+     "story": "A box of tools with an axe: the craftsman.",
+     "trad": "",
+     "words": [
+      {
+       "w": "工匠",
+       "py": "gōngjiàng",
+       "g": "craftsman"
+      },
+      {
+       "w": "木匠",
+       "py": "mùjiàng",
+       "g": "carpenter"
+      },
+      {
+       "w": "铁匠",
+       "py": "tiějiang",
+       "g": "blacksmith"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "丸",
+     "rank": 2426,
+     "py": "wán",
+     "kw": "pill",
+     "parts": "九 nine + 丶 dot",
+     "story": "A nine with a dot added: a small rounded pill.",
+     "trad": "",
+     "words": [
+      {
+       "w": "药丸",
+       "py": "yàowán",
+       "g": "pill"
+      },
+      {
+       "w": "鱼丸",
+       "py": "yúwán",
+       "g": "fish ball"
+      },
+      {
+       "w": "丸子",
+       "py": "wánzi",
+       "g": "ball"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "亭",
+     "rank": 2441,
+     "py": "tíng",
+     "kw": "kiosk",
+     "parts": "高 tall (shortened) + 丁 (sound)",
+     "story": "A tall roof open to the air: a pavilion.",
+     "trad": "",
+     "words": [
+      {
+       "w": "凉亭",
+       "py": "liángtíng",
+       "g": "pavilion"
+      },
+      {
+       "w": "亭子",
+       "py": "tíngzi",
+       "g": "pavilion"
+      },
+      {
+       "w": "电话亭",
+       "py": "diànhuàtíng",
+       "g": "phone booth"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "low and flat",
+   "note": "Size and shape.",
+   "chars": [
+    {
+     "c": "矮",
+     "rank": 2440,
+     "py": "ǎi",
+     "kw": "short stature",
+     "parts": "矢 arrow + 委 (sound)",
+     "story": "Measured against an arrow, it falls short: low.",
+     "trad": "",
+     "words": [
+      {
+       "w": "矮子",
+       "py": "ǎizi",
+       "g": "short person"
+      },
+      {
+       "w": "矮小",
+       "py": "ǎixiǎo",
+       "g": "short and small"
+      },
+      {
+       "w": "低矮",
+       "py": "dī'ǎi",
+       "g": "low"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "扁",
+     "rank": 2447,
+     "py": "biǎn",
+     "kw": "flat shape",
+     "parts": "户 door + 册 volume",
+     "story": "A door-sized board with writing: a flat plaque.",
+     "trad": "",
+     "words": [
+      {
+       "w": "扁平",
+       "py": "biǎnpíng",
+       "g": "flat"
+      },
+      {
+       "w": "压扁",
+       "py": "yābiǎn",
+       "g": "flatten"
+      },
+      {
+       "w": "扁担",
+       "py": "biǎndan",
+       "g": "carrying pole"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  },
+  {
+   "title": "single shapes",
+   "note": "Characters on their own, no neat family.",
+   "chars": [
+    {
+     "c": "勿",
+     "rank": 2459,
+     "py": "wù",
+     "kw": "do not",
+     "parts": "勹 wrap + 丿 flicks",
+     "story": "A hand waving things away with flicks: don't!",
+     "trad": "",
+     "words": [
+      {
+       "w": "请勿",
+       "py": "qǐngwù",
+       "g": "please do not"
+      },
+      {
+       "w": "切勿",
+       "py": "qièwù",
+       "g": "never"
+      },
+      {
+       "w": "勿忘我",
+       "py": "wùwàngwǒ",
+       "g": "forget-me-not"
+      }
+     ],
+     "note": "His Analects card: 'don't!'. In modern use mostly on signs, 请勿.",
+     "have": "analects",
+     "akw": "don't!"
+    },
+    {
+     "c": "玄",
+     "rank": 2475,
+     "py": "xuán",
+     "kw": "mysterious",
+     "parts": "亠 lid + 幺 thread",
+     "story": "A thread hidden under a lid: dark and mysterious.",
+     "trad": "",
+     "words": [
+      {
+       "w": "玄机",
+       "py": "xuánjī",
+       "g": "hidden meaning"
+      },
+      {
+       "w": "玄学",
+       "py": "xuánxué",
+       "g": "metaphysics"
+      },
+      {
+       "w": "玄关",
+       "py": "xuánguān",
+       "g": "entryway"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "氢",
+     "rank": 2455,
+     "py": "qīng",
+     "kw": "hydrogen",
+     "parts": "气 gas + 巠 (light)",
+     "story": "The gas lighter than any other: hydrogen.",
+     "trad": "氫",
+     "words": [
+      {
+       "w": "氢气",
+       "py": "qīngqì",
+       "g": "hydrogen"
+      },
+      {
+       "w": "氢弹",
+       "py": "qīngdàn",
+       "g": "H-bomb"
+      },
+      {
+       "w": "氢原子",
+       "py": "qīngyuánzǐ",
+       "g": "hydrogen atom"
+      }
+     ],
+     "note": "氫 became 氢: 輕 became 巠.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "畴",
+     "rank": 2470,
+     "py": "chóu",
+     "kw": "cultivated field",
+     "parts": "田 field + 寿 (sound)",
+     "story": "Fields laid out in rows, each its own kind: farmland.",
+     "trad": "疇",
+     "words": [
+      {
+       "w": "范畴",
+       "py": "fànchóu",
+       "g": "category"
+      },
+      {
+       "w": "平畴",
+       "py": "píngchóu",
+       "g": "level fields"
+      }
+     ],
+     "note": "In practice mostly seen in 范畴, 'category'. 疇 became 畴.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "奠",
+     "rank": 2436,
+     "py": "diàn",
+     "kw": "settle",
+     "parts": "酋 wine jar + 大 stand",
+     "story": "A jar of wine set firmly on its stand: an offering put in place.",
+     "trad": "",
+     "words": [
+      {
+       "w": "奠定",
+       "py": "diàndìng",
+       "g": "establish"
+      },
+      {
+       "w": "奠基",
+       "py": "diànjī",
+       "g": "lay the foundation"
+      },
+      {
+       "w": "祭奠",
+       "py": "jìdiàn",
+       "g": "hold a memorial"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "耍",
+     "rank": 2452,
+     "py": "shuǎ",
+     "kw": "wield",
+     "parts": "而 + 女 woman",
+     "story": "Flourishing a thing about to show off or fool around.",
+     "trad": "",
+     "words": [
+      {
+       "w": "玩耍",
+       "py": "wánshuǎ",
+       "g": "play"
+      },
+      {
+       "w": "耍赖",
+       "py": "shuǎlài",
+       "g": "act shamelessly"
+      },
+      {
+       "w": "杂耍",
+       "py": "záshuǎ",
+       "g": "acrobatics"
+      }
+     ],
+     "note": "",
+     "have": "new",
+     "akw": ""
+    }
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "id": 335068,
+   "zh": "我很喜欢烛光。",
+   "en": "I like candlelight."
+  },
+  {
+   "id": 349271,
+   "zh": "钥匙在桌子上。",
+   "en": "The keys are on the table."
+  },
+  {
+   "id": 426442,
+   "zh": "您吃不吃辣椒？",
+   "en": "Do you want pepper on it?"
+  },
+  {
+   "id": 796115,
+   "zh": "请刮一下胡子。",
+   "en": "A shave, please."
+  },
+  {
+   "id": 819400,
+   "zh": "我真的很倒霉！",
+   "en": "How unlucky I am!"
+  },
+  {
+   "id": 856387,
+   "zh": "我妹妹比你矮。",
+   "en": "My sister is shorter than you."
+  },
+  {
+   "id": 918461,
+   "zh": "他是个好木匠。",
+   "en": "He is a good carpenter."
+  },
+  {
+   "id": 1185717,
+   "zh": "上帝保佑你们！",
+   "en": "God bless you!"
+  },
+  {
+   "id": 1319977,
+   "zh": "她熬夜习惯了。",
+   "en": "She is used to staying up late."
+  },
+  {
+   "id": 1948464,
+   "zh": "请把衬衫脱了。",
+   "en": "Please take off your shirt."
+  },
+  {
+   "id": 1923972,
+   "zh": "仲有五日就放暑假喇。",
+   "en": "We have five days to go before the summer vacation."
+  },
+  {
+   "id": 392246,
+   "zh": "良禽择木而栖，贤臣择主而事。",
+   "en": "A prudent bird chooses its tree. A wise servant chooses his master."
+  }
+ ]
+}

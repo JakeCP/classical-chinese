@@ -1,0 +1,1760 @@
+{
+ "id": "m-wp-jianhuazi",
+ "book": 0,
+ "order": 106,
+ "title": "简化字",
+ "label": "简化字 (Wikipedia)",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: the opening of the article 简化字, Chinese Wikipedia (zh.wikipedia.org/wiki/简化字, revision 94778894), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence.",
+ "chapters": [
+  {
+   "n": "3.1",
+   "text": "简化字指在汉字简化过程中已经被简化了的汉字，与繁体字（正体字）相对。在不同的语言背景之下，简化字经常被俗称为简体字、简笔字、俗体字，或被蔑称为残体字。由于仍有大多数汉字并未被简化，这类汉字在中国大陆的规范名称为传承字。",
+   "han": 98,
+   "toks": [
+    [
+     "简化字",
+     "简化字"
+    ],
+    [
+     "指",
+     "指"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    [
+     "过程",
+     "过程"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    "，",
+    [
+     "与",
+     "与"
+    ],
+    [
+     "繁体字",
+     "繁体字"
+    ],
+    "（",
+    [
+     "正体字",
+     "正体字"
+    ],
+    "）",
+    [
+     "相对",
+     "相对"
+    ],
+    "。",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "不同",
+     "不同"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "语言",
+     "语言"
+    ],
+    [
+     "背景",
+     "背景"
+    ],
+    [
+     "之下",
+     "之下"
+    ],
+    "，",
+    [
+     "简化字",
+     "简化字"
+    ],
+    [
+     "经常",
+     "经常"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "俗称",
+     "俗称"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "简体字",
+     "简体字"
+    ],
+    "、",
+    [
+     "简笔字",
+     "简笔字"
+    ],
+    "、",
+    [
+     "俗体字",
+     "俗体字"
+    ],
+    "，",
+    [
+     "或",
+     "或"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "蔑称",
+     "蔑称"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "残体字",
+     "残体字"
+    ],
+    "。",
+    [
+     "由于",
+     "由于"
+    ],
+    [
+     "仍",
+     "仍"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "大多数",
+     "大多数"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "并未",
+     "并未"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    "，",
+    [
+     "这类",
+     "这类"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "中国大陆",
+     "中国大陆"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "规范",
+     "规范"
+    ],
+    [
+     "名称",
+     "名称"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "传承字",
+     "传承字"
+    ],
+    "。"
+   ],
+   "new": [
+    "简化字",
+    "简化",
+    "繁体字",
+    "正体字",
+    "背景",
+    "之下",
+    "经常",
+    "俗称",
+    "简体字",
+    "简笔字",
+    "俗体字",
+    "蔑称",
+    "残体字",
+    "仍",
+    "大多数",
+    "并未",
+    "这类",
+    "规范",
+    "名称",
+    "传承字"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "简化字",
+      "simplified character"
+     ],
+     [
+      "指",
+      "mean, refer to"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "过程",
+      "process, course"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "繁体字",
+      "traditional character"
+     ],
+     [
+      "正体字",
+      "orthodox character (Taiwan's name for traditional)"
+     ],
+     [
+      "相对",
+      "by comparison, relatively"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "不同",
+      "different"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "语言",
+      "language"
+     ],
+     [
+      "背景",
+      "background, setting"
+     ],
+     [
+      "之下",
+      "under"
+     ],
+     [
+      "简化字",
+      "simplified character"
+     ],
+     [
+      "经常",
+      "often"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "俗称",
+      "be popularly called"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "简体字",
+      "simplified character"
+     ],
+     [
+      "简笔字",
+      "'few-stroke character' (a popular name)"
+     ],
+     [
+      "俗体字",
+      "popular form of a character"
+     ],
+     [
+      "或",
+      "or"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "蔑称",
+      "call with contempt"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "残体字",
+      "'crippled character' (a slur on simplified ones)"
+     ],
+     [
+      "由于",
+      "because, owing to"
+     ],
+     [
+      "仍",
+      "still"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "大多数",
+      "the great majority"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "并未",
+      "did not in fact"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "这类",
+      "this kind"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "中国大陆",
+      "mainland China"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "规范",
+      "standard, norm"
+     ],
+     [
+      "名称",
+      "name"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "传承字",
+      "inherited character (never simplified)"
+     ]
+    ]
+   ],
+   "translation": "Simplified characters are the Chinese characters that were simplified in the course of character simplification; they stand against traditional characters (orthodox characters). In different settings they are often popularly called 简体字, 简笔字 or 俗体字, or, with contempt, 残体字 'crippled characters'. Since most Chinese characters were in fact never simplified, those have the standard name 传承字 'inherited characters' in mainland China.",
+   "note": "The script of every modern card is 简化字; the script of your Analects cards is 繁体字."
+  },
+  {
+   "n": "3.2",
+   "text": "简体中文（网页语言代码：zh-Hans），与繁体中文相对，是使用未被简化的传承字以及简化字作为字汇的一种书面表达方式，常在中国大陆、新加坡、马来西亚、缅甸佤邦等地，以及联合国、世界银行等国际组织使用。",
+   "han": 81,
+   "toks": [
+    [
+     "简体",
+     "简体"
+    ],
+    [
+     "中文",
+     "中文"
+    ],
+    "（",
+    [
+     "网页",
+     "网页"
+    ],
+    [
+     "语言",
+     "语言"
+    ],
+    [
+     "代码",
+     "代码"
+    ],
+    "：zh-Hans），",
+    [
+     "与",
+     "与"
+    ],
+    [
+     "繁体",
+     "繁体"
+    ],
+    [
+     "中文",
+     "中文"
+    ],
+    [
+     "相对",
+     "相对"
+    ],
+    "，",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "使用",
+     "使用"
+    ],
+    [
+     "未",
+     "未"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "传承字",
+     "传承字"
+    ],
+    [
+     "以及",
+     "以及"
+    ],
+    [
+     "简化字",
+     "简化字"
+    ],
+    [
+     "作为",
+     "作为"
+    ],
+    [
+     "字汇",
+     "字汇"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一种",
+     "一种"
+    ],
+    [
+     "书面",
+     "书面"
+    ],
+    [
+     "表达",
+     "表达"
+    ],
+    [
+     "方式",
+     "方式"
+    ],
+    "，",
+    [
+     "常",
+     "常"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "中国大陆",
+     "中国大陆"
+    ],
+    "、",
+    [
+     "新加坡",
+     "新加坡"
+    ],
+    "、",
+    [
+     "马来西亚",
+     "马来西亚"
+    ],
+    "、",
+    [
+     "缅甸",
+     "缅甸"
+    ],
+    [
+     "佤邦",
+     "佤邦"
+    ],
+    [
+     "等",
+     "等"
+    ],
+    [
+     "地",
+     "地"
+    ],
+    "，",
+    [
+     "以及",
+     "以及"
+    ],
+    [
+     "联合国",
+     "联合国"
+    ],
+    "、",
+    [
+     "世界银行",
+     "世界银行"
+    ],
+    [
+     "等",
+     "等"
+    ],
+    [
+     "国际",
+     "国际"
+    ],
+    [
+     "组织",
+     "组织"
+    ],
+    [
+     "使用",
+     "使用"
+    ],
+    "。"
+   ],
+   "new": [
+    "简体",
+    "网页",
+    "代码",
+    "繁体",
+    "字汇",
+    "书面",
+    "表达",
+    "常",
+    "地",
+    "国际",
+    "组织"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "简体",
+      "simplified (script)"
+     ],
+     [
+      "中文",
+      "Chinese (the language)"
+     ],
+     [
+      "网页",
+      "web page"
+     ],
+     [
+      "语言",
+      "language"
+     ],
+     [
+      "代码",
+      "code"
+     ],
+     [
+      "：zh-Hans），",
+      ""
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "繁体",
+      "traditional (script)"
+     ],
+     [
+      "中文",
+      "Chinese (the language)"
+     ],
+     [
+      "相对",
+      "by comparison, relatively"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "使用",
+      "use"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "传承字",
+      "inherited character (never simplified)"
+     ],
+     [
+      "以及",
+      "as well as, and"
+     ],
+     [
+      "简化字",
+      "simplified character"
+     ],
+     [
+      "作为",
+      "as, in the capacity of"
+     ],
+     [
+      "字汇",
+      "stock of characters"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一种",
+      "a kind of, one kind"
+     ],
+     [
+      "书面",
+      "written"
+     ],
+     [
+      "表达",
+      "express"
+     ],
+     [
+      "方式",
+      "way, manner, means"
+     ],
+     [
+      "常",
+      "often"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "中国大陆",
+      "mainland China"
+     ],
+     [
+      "新加坡",
+      "Singapore"
+     ],
+     [
+      "马来西亚",
+      "Malaysia"
+     ],
+     [
+      "缅甸",
+      "Myanmar (Burma)"
+     ],
+     [
+      "佤邦",
+      "the Wa State (in Myanmar)"
+     ],
+     [
+      "等",
+      "and so on, etc."
+     ],
+     [
+      "地",
+      "place"
+     ],
+     [
+      "以及",
+      "as well as, and"
+     ],
+     [
+      "联合国",
+      "the United Nations"
+     ],
+     [
+      "世界银行",
+      "the World Bank"
+     ],
+     [
+      "等",
+      "and so on, etc."
+     ],
+     [
+      "国际",
+      "international"
+     ],
+     [
+      "组织",
+      "organisation"
+     ],
+     [
+      "使用",
+      "use"
+     ]
+    ]
+   ],
+   "translation": "Simplified Chinese (web language code zh-Hans), set against Traditional Chinese, is a way of writing that uses as its stock of characters the unsimplified inherited characters together with the simplified ones. It is used in mainland China, Singapore, Malaysia, the Wa State of Myanmar and elsewhere, and by international bodies such as the United Nations and the World Bank.",
+   "note": ""
+  },
+  {
+   "n": "3.3",
+   "text": "这些简化字是根据《汉字简化方案》中的规则把传统中文中的一些汉字进行简化、合并、改造、新创而来，以及搜集在中国历史文献中已有的异体字、俗字、潦草字、书法连写、书法简写、古字而来的。",
+   "han": 77,
+   "toks": [
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "简化字",
+     "简化字"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "根据",
+     "根据"
+    ],
+    "《",
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    [
+     "方案",
+     "方案"
+    ],
+    "》",
+    [
+     "中",
+     "中"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "规则",
+     "规则"
+    ],
+    [
+     "把",
+     "把"
+    ],
+    [
+     "传统",
+     "传统"
+    ],
+    [
+     "中文",
+     "中文"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一些",
+     "一些"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "进行",
+     "进行"
+    ],
+    [
+     "简化",
+     "简化"
+    ],
+    "、",
+    [
+     "合并",
+     "合并"
+    ],
+    "、",
+    [
+     "改造",
+     "改造"
+    ],
+    "、",
+    [
+     "新",
+     "新"
+    ],
+    [
+     "创",
+     "创"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "以及",
+     "以及"
+    ],
+    [
+     "搜集",
+     "搜集"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "历史",
+     "历史"
+    ],
+    [
+     "文献",
+     "文献"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "已",
+     "已"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "异体字",
+     "异体字"
+    ],
+    "、",
+    [
+     "俗字",
+     "俗字"
+    ],
+    "、",
+    [
+     "潦草",
+     "潦草"
+    ],
+    [
+     "字",
+     "字"
+    ],
+    "、",
+    [
+     "书法",
+     "书法"
+    ],
+    [
+     "连写",
+     "连写"
+    ],
+    "、",
+    [
+     "书法",
+     "书法"
+    ],
+    [
+     "简写",
+     "简写"
+    ],
+    "、",
+    [
+     "古字",
+     "古字"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "。"
+   ],
+   "new": [
+    "这些",
+    "方案",
+    "规则",
+    "传统",
+    "一些",
+    "合并",
+    "改造",
+    "新",
+    "创",
+    "搜集",
+    "历史",
+    "文献",
+    "异体字",
+    "俗字",
+    "潦草",
+    "书法",
+    "连写",
+    "简写",
+    "古字"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "简化字",
+      "simplified character"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "根据",
+      "according to, on the basis of"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "方案",
+      "scheme, plan"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "规则",
+      "rule"
+     ],
+     [
+      "把",
+      "(taking)"
+     ],
+     [
+      "传统",
+      "traditional"
+     ],
+     [
+      "中文",
+      "Chinese (the language)"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一些",
+      "some"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "进行",
+      "carry out, conduct"
+     ],
+     [
+      "简化",
+      "simplify"
+     ],
+     [
+      "合并",
+      "merge"
+     ],
+     [
+      "改造",
+      "remake, reshape"
+     ],
+     [
+      "新",
+      "newly"
+     ],
+     [
+      "创",
+      "create"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "以及",
+      "as well as, and"
+     ],
+     [
+      "搜集",
+      "collect"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "历史",
+      "history"
+     ],
+     [
+      "文献",
+      "documents, records"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "已",
+      "already (formal)"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "异体字",
+      "variant character"
+     ],
+     [
+      "俗字",
+      "popular form of a character"
+     ],
+     [
+      "潦草",
+      "scrawled"
+     ],
+     [
+      "字",
+      "character, written sign"
+     ],
+     [
+      "书法",
+      "calligraphy"
+     ],
+     [
+      "连写",
+      "joined-up writing"
+     ],
+     [
+      "书法",
+      "calligraphy"
+     ],
+     [
+      "简写",
+      "shortened writing"
+     ],
+     [
+      "古字",
+      "ancient form of a character"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "的",
+      "'s, of"
+     ]
+    ]
+   ],
+   "translation": "These simplified characters came from simplifying, merging, reshaping and newly creating some characters of traditional Chinese by the rules of the Chinese Character Simplification Scheme, and from collecting forms already found in Chinese historical documents: variant characters, popular forms, scrawled forms, joined-up and shortened calligraphy, and ancient forms.",
+   "note": ""
+  },
+  {
+   "n": "3.4",
+   "text": "1977年颁布的二简字造成了一些混乱，更不受人们欢迎，在1986年撤回。",
+   "han": 25,
+   "toks": [
+    "1977",
+    [
+     "年",
+     "年"
+    ],
+    [
+     "颁布",
+     "颁布"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "二简",
+     "二简"
+    ],
+    [
+     "字",
+     "字"
+    ],
+    [
+     "造成",
+     "造成"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一些",
+     "一些"
+    ],
+    [
+     "混乱",
+     "混乱"
+    ],
+    "，",
+    [
+     "更",
+     "更"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "人们",
+     "人们"
+    ],
+    [
+     "欢迎",
+     "欢迎"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    "1986",
+    [
+     "年",
+     "年"
+    ],
+    [
+     "撤回",
+     "撤回"
+    ],
+    "。"
+   ],
+   "new": [
+    "颁布",
+    "人们",
+    "欢迎",
+    "撤回"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "1977",
+      ""
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "颁布",
+      "issue, promulgate"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "二简",
+      "the second simplification (1977)"
+     ],
+     [
+      "字",
+      "character, written sign"
+     ],
+     [
+      "造成",
+      "cause, bring about"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一些",
+      "some"
+     ],
+     [
+      "混乱",
+      "chaotic, confused"
+     ],
+     [
+      "更",
+      "even more"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "人们",
+      "people"
+     ],
+     [
+      "欢迎",
+      "welcome"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "1986",
+      ""
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "撤回",
+      "withdraw"
+     ]
+    ]
+   ],
+   "translation": "The second round of simplified characters, issued in 1977, caused some confusion and, what is more, was unwelcome; it was withdrawn in 1986.",
+   "note": ""
+  },
+  {
+   "n": "3.5",
+   "text": "2009年5月，中华人民共和国教育部和国家语言文字工作委员会开始就修改后的简体字表征询公众意见。《通用规范汉字表》于2013年9月正式实施，收录2574个简化字。",
+   "han": 61,
+   "toks": [
+    "2009",
+    [
+     "年",
+     "年"
+    ],
+    "5",
+    [
+     "月",
+     "月"
+    ],
+    "，",
+    [
+     "中华人民共和国",
+     "中华人民共和国"
+    ],
+    [
+     "教育部",
+     "教育部"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "国家",
+     "国家"
+    ],
+    [
+     "语言",
+     "语言"
+    ],
+    [
+     "文字",
+     "文字"
+    ],
+    [
+     "工作",
+     "工作"
+    ],
+    [
+     "委员会",
+     "委员会"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "修改",
+     "修改"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "简体字",
+     "简体字"
+    ],
+    [
+     "表",
+     "表"
+    ],
+    [
+     "征询",
+     "征询"
+    ],
+    [
+     "公众",
+     "公众"
+    ],
+    [
+     "意见",
+     "意见"
+    ],
+    "。《",
+    [
+     "通用",
+     "通用"
+    ],
+    [
+     "规范",
+     "规范"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "表",
+     "表"
+    ],
+    "》",
+    [
+     "于",
+     "于"
+    ],
+    "2013",
+    [
+     "年",
+     "年"
+    ],
+    "9",
+    [
+     "月",
+     "月"
+    ],
+    [
+     "正式",
+     "正式"
+    ],
+    [
+     "实施",
+     "实施"
+    ],
+    "，",
+    [
+     "收录",
+     "收录"
+    ],
+    "2574",
+    [
+     "个",
+     "个"
+    ],
+    [
+     "简化字",
+     "简化字"
+    ],
+    "。"
+   ],
+   "new": [
+    "委员会",
+    "修改",
+    "表",
+    "征询",
+    "公众",
+    "意见",
+    "通用",
+    "正式",
+    "收录"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "2009",
+      ""
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "5",
+      ""
+     ],
+     [
+      "月",
+      "month"
+     ],
+     [
+      "中华人民共和国",
+      "People's Republic of China"
+     ],
+     [
+      "教育部",
+      "Ministry of Education"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "国家",
+      "country, state"
+     ],
+     [
+      "语言",
+      "language"
+     ],
+     [
+      "文字",
+      "text, writing"
+     ],
+     [
+      "工作",
+      "work, job"
+     ],
+     [
+      "委员会",
+      "committee, commission"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "修改",
+      "revise"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "简体字",
+      "simplified character"
+     ],
+     [
+      "表",
+      "table, list"
+     ],
+     [
+      "征询",
+      "ask for (views)"
+     ],
+     [
+      "公众",
+      "the public"
+     ],
+     [
+      "意见",
+      "opinion"
+     ],
+     [
+      "通用",
+      "in general use"
+     ],
+     [
+      "规范",
+      "standard, norm"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "表",
+      "table, list"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "2013",
+      ""
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "9",
+      ""
+     ],
+     [
+      "月",
+      "month"
+     ],
+     [
+      "正式",
+      "officially"
+     ],
+     [
+      "实施",
+      "carry out, put into effect"
+     ],
+     [
+      "收录",
+      "include (in a list)"
+     ],
+     [
+      "2574",
+      ""
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "简化字",
+      "simplified character"
+     ]
+    ]
+   ],
+   "translation": "In May 2009 the Ministry of Education of the People's Republic of China and the State Language Commission began asking the public for its views on the revised table of simplified characters. The Table of General Standard Chinese Characters came into force in September 2013; it holds 2,574 simplified characters.",
+   "note": ""
+  }
+ ]
+}

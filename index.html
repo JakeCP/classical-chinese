@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
 <title>Analects Reader</title>
-<meta name="description" content="A meaning-first reader for the Analects.">
+<meta name="description" content="A meaning-first reader for the Analects and modern Chinese.">
 <meta name="theme-color" content="#fbf8f2" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1d1c1a" media="(prefers-color-scheme: dark)">
 <meta name="color-scheme" content="light dark">
@@ -19,14 +19,23 @@
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
-<div id="app" class="app">
+<body class="focus" data-tab="read">
+<main id="app" class="app">
   <p class="loading">Loading the texts…</p>
-</div>
+</main>
+
+<nav id="tabs" class="tabs" aria-label="Sections">
+  <a href="#/" data-tab="read" aria-current="page"><span class="tab-seal" lang="zh-Hans" aria-hidden="true">读</span><span class="tab-label">Read</span></a>
+  <a href="#/path" data-tab="path"><span class="tab-seal" lang="zh-Hans" aria-hidden="true">路</span><span class="tab-label">Path</span></a>
+  <a href="#/words" data-tab="words"><span class="tab-seal" lang="zh-Hans" aria-hidden="true">词</span><span class="tab-label">Words</span></a>
+  <a href="#/grammar" data-tab="grammar"><span class="tab-seal" lang="zh-Hans" aria-hidden="true">法</span><span class="tab-label">Grammar</span></a>
+  <a href="#/me" data-tab="me"><span class="tab-seal" lang="zh-Hans" aria-hidden="true">我</span><span class="tab-label">Me</span></a>
+</nav>
 
 <div id="sheet-backdrop" class="sheet-backdrop" hidden></div>
 <section id="sheet" class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-head" hidden>
-  <div class="sheet-grip" aria-hidden="true"></div>
+  <div class="sheet-grip" id="sheet-grip" aria-hidden="true"></div>
+  <button type="button" class="sheet-back" id="sheet-back" aria-label="Back to the previous card" hidden><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
   <button type="button" class="sheet-close" id="sheet-close" aria-label="Close">×</button>
   <div id="sheet-body" class="sheet-body"></div>
 </section>

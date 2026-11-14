@@ -1,0 +1,1532 @@
+{
+ "id": "m-wp-xundu",
+ "book": 0,
+ "order": 104,
+ "title": "训读",
+ "label": "训读 (Wikipedia)",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: the opening of the article 训读, Chinese Wikipedia (zh.wikipedia.org/wiki/訓讀, revision 95276207), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence.",
+ "chapters": [
+  {
+   "n": "1.1",
+   "text": "训读（日语：訓読み／くんよみ，罗马化：kun'yomi）是日语汉字的一种发音方式，即按汉字的字义，用相应的日语固有词汇来读出，也称和训、字训。",
+   "han": 47,
+   "toks": [
+    [
+     "训读",
+     "训读"
+    ],
+    "（",
+    [
+     "日语",
+     "日语"
+    ],
+    "：",
+    [
+     "訓読",
+     "訓読"
+    ],
+    "み／くんよみ，",
+    [
+     "罗马化",
+     "罗马化"
+    ],
+    "：kun'yomi）",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一种",
+     "一种"
+    ],
+    [
+     "发音",
+     "发音"
+    ],
+    [
+     "方式",
+     "方式"
+    ],
+    "，",
+    [
+     "即",
+     "即"
+    ],
+    [
+     "按",
+     "按"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字义",
+     "字义"
+    ],
+    "，",
+    [
+     "用",
+     "用"
+    ],
+    [
+     "相应",
+     "相应"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "固有",
+     "固有"
+    ],
+    [
+     "词汇",
+     "词汇"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "读出",
+     "读出"
+    ],
+    "，",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "称",
+     "称"
+    ],
+    [
+     "和训",
+     "和训"
+    ],
+    "、",
+    [
+     "字训",
+     "字训"
+    ],
+    "。"
+   ],
+   "new": [
+    "训读",
+    "罗马化",
+    "一种",
+    "发音",
+    "按",
+    "字义",
+    "相应",
+    "固有",
+    "词汇",
+    "读出",
+    "称"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "训读",
+      "kun'yomi: reading a kanji by its native Japanese word"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "訓読",
+      "kun'yomi, in Japanese spelling"
+     ],
+     [
+      "罗马化",
+      "romanisation"
+     ],
+     [
+      "：kun'yomi）",
+      ""
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一种",
+      "a kind of, one kind"
+     ],
+     [
+      "发音",
+      "pronunciation"
+     ],
+     [
+      "方式",
+      "way, manner, means"
+     ],
+     [
+      "即",
+      "that is, namely (formal)"
+     ],
+     [
+      "按",
+      "according to, by"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字义",
+      "meaning of a character"
+     ],
+     [
+      "用",
+      "use"
+     ],
+     [
+      "相应",
+      "corresponding"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "固有",
+      "native, inherent"
+     ],
+     [
+      "词汇",
+      "vocabulary, words"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "读出",
+      "read out"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "称",
+      "call, name"
+     ],
+     [
+      "和训",
+      "wakun: another name for kun'yomi"
+     ],
+     [
+      "字训",
+      "jikun: another name for kun'yomi"
+     ]
+    ]
+   ],
+   "translation": "Kun'yomi (Japanese 訓読み, romanised kun'yomi) is one of the ways Japanese pronounces kanji: a character is read by its meaning, using the native Japanese word that corresponds to it. It is also called wakun or jikun.",
+   "note": "训读 is what made kanbun possible: a Chinese text read straight off the page as Japanese."
+  },
+  {
+   "n": "1.2",
+   "text": "汉字传入日本前，日语原本没有文字。接触汉字与汉文后，日语逐渐形成两类汉字读法：一类借入当时汉语的字音，并依日语音系调整，称为“音读”。另一类则取汉字的字义，用来记录日语原本既有词汇的本土语音，即为“训读”。",
+   "han": 89,
+   "toks": [
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "传入",
+     "传入"
+    ],
+    [
+     "日本",
+     "日本"
+    ],
+    [
+     "前",
+     "前"
+    ],
+    "，",
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "原本",
+     "原本"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "文字",
+     "文字"
+    ],
+    "。",
+    [
+     "接触",
+     "接触"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "汉文",
+     "汉文"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "逐渐",
+     "逐渐"
+    ],
+    [
+     "形成",
+     "形成"
+    ],
+    [
+     "两",
+     "两"
+    ],
+    [
+     "类",
+     "类"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "读法",
+     "读法"
+    ],
+    "：",
+    [
+     "一",
+     "一"
+    ],
+    [
+     "类",
+     "类"
+    ],
+    [
+     "借",
+     "借"
+    ],
+    [
+     "入",
+     "入"
+    ],
+    [
+     "当时",
+     "当时"
+    ],
+    [
+     "汉语",
+     "汉语"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字音",
+     "字音"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "依",
+     "依"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "音系",
+     "音系"
+    ],
+    [
+     "调整",
+     "调整"
+    ],
+    "，",
+    [
+     "称为",
+     "称为"
+    ],
+    "“",
+    [
+     "音读",
+     "音读"
+    ],
+    "”。",
+    [
+     "另",
+     "另"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "类",
+     "类"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "取",
+     "取"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字义",
+     "字义"
+    ],
+    "，",
+    [
+     "用来",
+     "用来"
+    ],
+    [
+     "记录",
+     "记录"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "原本",
+     "原本"
+    ],
+    [
+     "既有",
+     "既有"
+    ],
+    [
+     "词汇",
+     "词汇"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "本土",
+     "本土"
+    ],
+    [
+     "语音",
+     "语音"
+    ],
+    "，",
+    [
+     "即",
+     "即"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "“",
+    [
+     "训读",
+     "训读"
+    ],
+    "”。"
+   ],
+   "new": [
+    "传入",
+    "前",
+    "原本",
+    "接触",
+    "逐渐",
+    "形成",
+    "读法",
+    "借",
+    "入",
+    "当时",
+    "字音",
+    "音系",
+    "调整",
+    "称为",
+    "音读",
+    "取",
+    "用来",
+    "既有",
+    "本土",
+    "语音"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "传入",
+      "come in, be brought in"
+     ],
+     [
+      "日本",
+      "Japan"
+     ],
+     [
+      "前",
+      "before"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "原本",
+      "originally"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "文字",
+      "text, writing"
+     ],
+     [
+      "接触",
+      "come into contact with"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "汉文",
+      "Chinese writing, Chinese texts"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "逐渐",
+      "gradually"
+     ],
+     [
+      "形成",
+      "form, take shape"
+     ],
+     [
+      "两",
+      "two (before a counter)"
+     ],
+     [
+      "类",
+      "kind, type"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "读法",
+      "way of reading"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "类",
+      "kind, type"
+     ],
+     [
+      "借",
+      "borrow"
+     ],
+     [
+      "入",
+      "enter, come in"
+     ],
+     [
+      "当时",
+      "at that time"
+     ],
+     [
+      "汉语",
+      "Chinese (the language)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字音",
+      "the sound of a character"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "依",
+      "according to, in proportion to (formal)"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "音系",
+      "sound system (of a language)"
+     ],
+     [
+      "调整",
+      "adjust"
+     ],
+     [
+      "称为",
+      "be called"
+     ],
+     [
+      "音读",
+      "on'yomi: reading a kanji by its Chinese sound"
+     ],
+     [
+      "另",
+      "another, other"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "类",
+      "kind, type"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "取",
+      "take"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字义",
+      "meaning of a character"
+     ],
+     [
+      "用来",
+      "use for, be used to"
+     ],
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "原本",
+      "originally"
+     ],
+     [
+      "既有",
+      "already existing"
+     ],
+     [
+      "词汇",
+      "vocabulary, words"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "本土",
+      "native, local"
+     ],
+     [
+      "语音",
+      "speech sound, pronunciation"
+     ],
+     [
+      "即",
+      "that is, namely (formal)"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "训读",
+      "kun'yomi: reading a kanji by its native Japanese word"
+     ]
+    ]
+   ],
+   "translation": "Before Chinese characters reached Japan, Japanese had no writing. After it met Chinese characters and Chinese texts, Japanese gradually formed two kinds of character reading. One kind borrowed the sound the character had in the Chinese of the time, adjusted to the Japanese sound system: it is called on'yomi. The other kind takes the meaning of the character and uses it to write down the native sound of a word Japanese already had: that is kun'yomi.",
+   "note": ""
+  },
+  {
+   "n": "1.3",
+   "text": "两类读法可以并存于同一个汉字。以“山”字为例，音读作“サン”（san），训读则读作“やま”（yama）。前者源自汉语字音，后者则直接对应日语固有词（读音不承袭汉语）。有些音读与汉语发音相近，所以对汉语使用者较为熟悉，而训读则相对陌生。例如，“金”的训读有“かね”（kane），音读则有“キン”（kin）和“コン”（kon）。",
+   "han": 97,
+   "toks": [
+    [
+     "两",
+     "两"
+    ],
+    [
+     "类",
+     "类"
+    ],
+    [
+     "读法",
+     "读法"
+    ],
+    [
+     "可以",
+     "可以"
+    ],
+    [
+     "并存",
+     "并存"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "同一",
+     "同一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    "。",
+    [
+     "以",
+     "以"
+    ],
+    "“",
+    [
+     "山",
+     "山"
+    ],
+    "”",
+    [
+     "字",
+     "字"
+    ],
+    [
+     "为例",
+     "为例"
+    ],
+    "，",
+    [
+     "音读",
+     "音读"
+    ],
+    [
+     "作",
+     "作"
+    ],
+    "“サン”（san），",
+    [
+     "训读",
+     "训读"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "读",
+     "读"
+    ],
+    [
+     "作",
+     "作"
+    ],
+    "“やま”（yama）。",
+    [
+     "前者",
+     "前者"
+    ],
+    [
+     "源自",
+     "源自"
+    ],
+    [
+     "汉语",
+     "汉语"
+    ],
+    [
+     "字音",
+     "字音"
+    ],
+    "，",
+    [
+     "后者",
+     "后者"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "直接",
+     "直接"
+    ],
+    [
+     "对应",
+     "对应"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "固有词",
+     "固有词"
+    ],
+    "（",
+    [
+     "读音",
+     "读音"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "承袭",
+     "承袭"
+    ],
+    [
+     "汉语",
+     "汉语"
+    ],
+    "）。",
+    [
+     "有些",
+     "有些"
+    ],
+    [
+     "音读",
+     "音读"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "汉语",
+     "汉语"
+    ],
+    [
+     "发音",
+     "发音"
+    ],
+    [
+     "相近",
+     "相近"
+    ],
+    "，",
+    [
+     "所以",
+     "所以"
+    ],
+    [
+     "对",
+     "对"
+    ],
+    [
+     "汉语",
+     "汉语"
+    ],
+    [
+     "使用者",
+     "使用者"
+    ],
+    [
+     "较为",
+     "较为"
+    ],
+    [
+     "熟悉",
+     "熟悉"
+    ],
+    "，",
+    [
+     "而",
+     "而"
+    ],
+    [
+     "训读",
+     "训读"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "相对",
+     "相对"
+    ],
+    [
+     "陌生",
+     "陌生"
+    ],
+    "。",
+    [
+     "例如",
+     "例如"
+    ],
+    "，“",
+    [
+     "金",
+     "金"
+    ],
+    "”",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "训读",
+     "训读"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    "“かね”（kane），",
+    [
+     "音读",
+     "音读"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    "“キン”（kin）",
+    [
+     "和",
+     "和"
+    ],
+    "“コン”（kon）。"
+   ],
+   "new": [
+    "并存",
+    "同一",
+    "山",
+    "字",
+    "为例",
+    "作",
+    "前者",
+    "源自",
+    "后者",
+    "直接",
+    "固有词",
+    "读音",
+    "承袭",
+    "有些",
+    "相近",
+    "所以",
+    "使用者",
+    "较为",
+    "熟悉",
+    "相对",
+    "陌生",
+    "金"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "两",
+      "two (before a counter)"
+     ],
+     [
+      "类",
+      "kind, type"
+     ],
+     [
+      "读法",
+      "way of reading"
+     ],
+     [
+      "可以",
+      "may, can"
+     ],
+     [
+      "并存",
+      "exist side by side"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "同一",
+      "the same"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "以",
+      "with, by means of"
+     ],
+     [
+      "山",
+      "mountain"
+     ],
+     [
+      "字",
+      "character, written sign"
+     ],
+     [
+      "为例",
+      "(以…为例) take … as an example"
+     ],
+     [
+      "音读",
+      "on'yomi: reading a kanji by its Chinese sound"
+     ],
+     [
+      "作",
+      "as (read as)"
+     ],
+     [
+      "“サン”（san），",
+      ""
+     ],
+     [
+      "训读",
+      "kun'yomi: reading a kanji by its native Japanese word"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "读",
+      "read"
+     ],
+     [
+      "作",
+      "as (read as)"
+     ],
+     [
+      "“やま”（yama）。",
+      ""
+     ],
+     [
+      "前者",
+      "the former"
+     ],
+     [
+      "源自",
+      "come from"
+     ],
+     [
+      "汉语",
+      "Chinese (the language)"
+     ],
+     [
+      "字音",
+      "the sound of a character"
+     ],
+     [
+      "后者",
+      "the latter"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "直接",
+      "directly"
+     ],
+     [
+      "对应",
+      "correspond to"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "固有词",
+      "native word"
+     ],
+     [
+      "读音",
+      "pronunciation, reading"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "承袭",
+      "inherit, follow"
+     ],
+     [
+      "汉语",
+      "Chinese (the language)"
+     ],
+     [
+      "有些",
+      "some"
+     ],
+     [
+      "音读",
+      "on'yomi: reading a kanji by its Chinese sound"
+     ],
+     [
+      "与",
+      "and"
+     ],
+     [
+      "汉语",
+      "Chinese (the language)"
+     ],
+     [
+      "发音",
+      "pronunciation"
+     ],
+     [
+      "相近",
+      "close, similar"
+     ],
+     [
+      "所以",
+      "so, therefore"
+     ],
+     [
+      "对",
+      "right, correct"
+     ],
+     [
+      "汉语",
+      "Chinese (the language)"
+     ],
+     [
+      "使用者",
+      "user, speaker"
+     ],
+     [
+      "较为",
+      "fairly, rather"
+     ],
+     [
+      "熟悉",
+      "familiar"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "训读",
+      "kun'yomi: reading a kanji by its native Japanese word"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "相对",
+      "by comparison, relatively"
+     ],
+     [
+      "陌生",
+      "strange, unfamiliar"
+     ],
+     [
+      "例如",
+      "for example"
+     ],
+     [
+      "金",
+      "gold"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "训读",
+      "kun'yomi: reading a kanji by its native Japanese word"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "“かね”（kane），",
+      ""
+     ],
+     [
+      "音读",
+      "on'yomi: reading a kanji by its Chinese sound"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "“キン”（kin）",
+      ""
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "“コン”（kon）。",
+      ""
+     ]
+    ]
+   ],
+   "translation": "The two kinds of reading can live side by side in one character. Take the character 山 'mountain': its on'yomi is サン (san), and its kun'yomi is やま (yama). The first comes from the Chinese sound of the character; the second answers directly to a native Japanese word (its sound owes nothing to Chinese). Some on'yomi sound close to Chinese, so they feel fairly familiar to Chinese speakers, while kun'yomi feel strange. For example, 金 'gold' has the kun'yomi かね (kane), and the on'yomi キン (kin) and コン (kon).",
+   "note": ""
+  },
+  {
+   "n": "1.4",
+   "text": "“训”本意指汉字的字义及对字义的解释，后来也被用来称呼汉字所对应的日语本土词汇读音。",
+   "han": 38,
+   "toks": [
+    "“",
+    [
+     "训",
+     "训"
+    ],
+    "”",
+    [
+     "本意",
+     "本意"
+    ],
+    [
+     "指",
+     "指"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字义",
+     "字义"
+    ],
+    [
+     "及",
+     "及"
+    ],
+    [
+     "对",
+     "对"
+    ],
+    [
+     "字义",
+     "字义"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "解释",
+     "解释"
+    ],
+    "，",
+    [
+     "后来",
+     "后来"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "用来",
+     "用来"
+    ],
+    [
+     "称呼",
+     "称呼"
+    ],
+    [
+     "汉字",
+     "汉字"
+    ],
+    [
+     "所",
+     "所"
+    ],
+    [
+     "对应",
+     "对应"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "日语",
+     "日语"
+    ],
+    [
+     "本土",
+     "本土"
+    ],
+    [
+     "词汇",
+     "词汇"
+    ],
+    [
+     "读音",
+     "读音"
+    ],
+    "。"
+   ],
+   "new": [
+    "训",
+    "本意",
+    "指",
+    "后来",
+    "称呼"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "训",
+      "explain"
+     ],
+     [
+      "本意",
+      "original meaning"
+     ],
+     [
+      "指",
+      "mean, refer to"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字义",
+      "meaning of a character"
+     ],
+     [
+      "及",
+      "and (formal)"
+     ],
+     [
+      "对",
+      "right, correct"
+     ],
+     [
+      "字义",
+      "meaning of a character"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "解释",
+      "explain"
+     ],
+     [
+      "后来",
+      "later"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "用来",
+      "use for, be used to"
+     ],
+     [
+      "称呼",
+      "call, name"
+     ],
+     [
+      "汉字",
+      "Chinese characters"
+     ],
+     [
+      "所",
+      "(passive)"
+     ],
+     [
+      "对应",
+      "correspond to"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "日语",
+      "Japanese (the language)"
+     ],
+     [
+      "本土",
+      "native, local"
+     ],
+     [
+      "词汇",
+      "vocabulary, words"
+     ],
+     [
+      "读音",
+      "pronunciation, reading"
+     ]
+    ]
+   ],
+   "translation": "训 first meant the meaning of a character and the explaining of that meaning; later it was also used as the name for the native Japanese reading that a character stands for.",
+   "note": ""
+  }
+ ]
+}

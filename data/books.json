@@ -53,6 +53,48 @@
    "shelf": "modern",
    "seal": "今",
    "credit": "Text: SCP-CN-303, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-303, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence."
+  },
+  {
+   "id": "m-wp-xundu",
+   "book": 0,
+   "order": 104,
+   "title": "训读",
+   "label": "训读 (Wikipedia)",
+   "chapters": 4,
+   "han": 271,
+   "file": "data/m-wp-xundu.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: the opening of the article 训读, Chinese Wikipedia (zh.wikipedia.org/wiki/訓讀, revision 95276207), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence."
+  },
+  {
+   "id": "m-wp-chengdu-metro",
+   "book": 0,
+   "order": 105,
+   "title": "成都地铁",
+   "label": "成都地铁 (Wikipedia)",
+   "chapters": 4,
+   "han": 385,
+   "file": "data/m-wp-chengdu-metro.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: the opening of the article 成都地铁, Chinese Wikipedia (zh.wikipedia.org/wiki/成都地铁, revision 95407380), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence."
+  },
+  {
+   "id": "m-wp-jianhuazi",
+   "book": 0,
+   "order": 106,
+   "title": "简化字",
+   "label": "简化字 (Wikipedia)",
+   "chapters": 5,
+   "han": 342,
+   "file": "data/m-wp-jianhuazi.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: the opening of the article 简化字, Chinese Wikipedia (zh.wikipedia.org/wiki/简化字, revision 94778894), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence."
   }
  ]
 }

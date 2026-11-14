@@ -39,6 +39,20 @@
    "shelf": "modern",
    "seal": "今",
    "credit": "Text: SCP-CN-187, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-187, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence."
+  },
+  {
+   "id": "m-scp-cn-303",
+   "book": 0,
+   "order": 103,
+   "title": "朝闻道",
+   "label": "SCP-CN-303 朝闻道",
+   "chapters": 56,
+   "han": 1567,
+   "file": "data/m-scp-cn-303.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: SCP-CN-303, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-303, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence."
   }
  ]
 }

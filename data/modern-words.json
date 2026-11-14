@@ -50,7 +50,7 @@
    "g": "at, in; be at",
    "k": "word",
    "card": true,
-   "n": 14,
+   "n": 26,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Classical 於. Before a verb it means \"in the middle of doing\".",
    "known": [
@@ -66,7 +66,7 @@
    "g": "'s, of; links a description to its noun",
    "k": "grammar",
    "card": true,
-   "n": 115,
+   "n": 179,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Classical 之. With no noun after it, \"the one that…\" (classical 者): 聪明的 \"the clever ones\"."
   },
@@ -103,7 +103,7 @@
    "g": "good",
    "k": "word",
    "card": false,
-   "n": 6,
+   "n": 8,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Same as your card. \"To like\" (classical 好 hào) is now 喜欢.",
    "known": [
@@ -130,7 +130,7 @@
    "g": "not",
    "k": "word",
    "card": false,
-   "n": 38,
+   "n": 46,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Same as classical.",
    "known": [
@@ -157,7 +157,7 @@
    "g": "can, be able to",
    "k": "word",
    "card": false,
-   "n": 9,
+   "n": 13,
    "src": "里仁 in modern Chinese · 4.1",
    "note": "Same as classical.",
    "known": [
@@ -204,7 +204,7 @@
    "g": "not have; there is no; did not",
    "k": "word",
    "card": true,
-   "n": 10,
+   "n": 16,
    "src": "里仁 in modern Chinese · 4.2",
    "trad": "沒有",
    "parts": "没 not + 有 have",
@@ -222,7 +222,7 @@
    "g": "person, people",
    "k": "word",
    "card": false,
-   "n": 27,
+   "n": 31,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "Same as classical.",
    "known": [
@@ -260,7 +260,7 @@
    "g": "-ly; turns the words before it into an adverb, before a verb",
    "k": "grammar",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "The same character as 地 dì \"ground\". Classical has no marker here: 久處 \"long stay\"."
   },
@@ -270,7 +270,7 @@
    "g": "pass, live through (time)",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.2",
    "trad": "過",
    "note": "Classical 過 is \"pass by\" and \"a fault\". 过日子: \"get through one's days\".",
@@ -314,7 +314,7 @@
    "g": "also, too",
    "k": "grammar",
    "card": true,
-   "n": 9,
+   "n": 13,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "False friend. Classical 也 is the full stop \"that's how it is\". Classical \"also\" is 亦.",
    "known": [
@@ -348,7 +348,7 @@
    "g": "(done); the action is complete, or things have changed",
    "k": "grammar",
    "card": true,
-   "n": 26,
+   "n": 37,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "Loosely classical 矣. After a verb: the action is complete. At the end of a sentence: \"now it is so\"."
   },
@@ -375,7 +375,7 @@
    "g": "know",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 7,
    "src": "里仁 in modern Chinese · 4.2",
    "parts": "知 know + 道 way",
    "note": "Classical 知 alone.",
@@ -418,7 +418,7 @@
    "g": "go; go and (do)",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.2",
    "note": "False friend. Classical 去 is \"leave\" (去仁). Modern \"leave\" is 离开.",
    "known": [
@@ -497,7 +497,7 @@
    "g": "if",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.4",
    "parts": "如 if + 果 result",
    "note": "Classical 苟, 若, 如.",
@@ -546,7 +546,7 @@
    "g": "then; right away; just",
    "k": "grammar",
    "card": true,
-   "n": 8,
+   "n": 12,
    "src": "里仁 in modern Chinese · 4.4",
    "note": "Classical 則, 斯. \"如果 A 就 B\": if A then B."
   },
@@ -556,7 +556,7 @@
    "g": "will; be likely to; know how to",
    "k": "grammar",
    "card": true,
-   "n": 16,
+   "n": 24,
    "src": "里仁 in modern Chinese · 4.4",
    "trad": "會",
    "note": "Classical leaves \"will\" unsaid, or uses 將."
@@ -603,7 +603,7 @@
    "g": "and; with",
    "k": "grammar",
    "card": true,
-   "n": 9,
+   "n": 12,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "Classical 與. Joins nouns; before a person, \"with\"."
   },
@@ -630,7 +630,7 @@
    "g": "is, am, are",
    "k": "grammar",
    "card": true,
-   "n": 25,
+   "n": 32,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "False friend. Classical 是 means \"this\"; classical says \"A, B 也\" with no verb.",
    "known": [
@@ -662,7 +662,7 @@
    "g": "all; both (goes before the verb)",
    "k": "grammar",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "Classical 皆."
   },
@@ -672,7 +672,7 @@
    "g": "want",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.5",
    "parts": "想 wish + 要 want",
    "note": "Classical 欲."
@@ -683,7 +683,7 @@
    "g": "use; with, by means of; use (noun)",
    "k": "word",
    "card": true,
-   "n": 7,
+   "n": 8,
    "src": "里仁 in modern Chinese · 4.5",
    "note": "Classical 以, 用.",
    "known": [
@@ -711,7 +711,7 @@
    "g": "method, way",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.5",
    "parts": "方 direction + 法 model",
    "note": "Classical 道.",
@@ -728,7 +728,7 @@
    "g": "get, obtain",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.5",
    "parts": "得 get + 到 reach",
    "note": "Classical 得.",
@@ -776,7 +776,7 @@
    "g": "not have (short for 没有)",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.5",
    "trad": "沒"
   },
@@ -852,7 +852,7 @@
    "g": "one; a",
    "k": "word",
    "card": false,
-   "n": 7,
+   "n": 15,
    "src": "里仁 in modern Chinese · 4.5",
    "known": [
     [
@@ -940,7 +940,7 @@
    "g": "surely; fixed, set",
    "k": "word",
    "card": true,
-   "n": 6,
+   "n": 7,
    "src": "里仁 in modern Chinese · 4.5",
    "parts": "一 one + 定 settled",
    "note": "Classical 必.",
@@ -981,7 +981,7 @@
    "g": "I, me",
    "k": "word",
    "card": false,
-   "n": 9,
+   "n": 19,
    "src": "里仁 in modern Chinese · 4.6",
    "note": "Same as classical.",
    "known": [
@@ -1075,7 +1075,7 @@
    "g": "thing",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.6",
    "trad": "東西",
    "parts": "东 east + 西 west",
@@ -1113,7 +1113,7 @@
    "g": "because",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.6",
    "trad": "因為",
    "parts": "因 cause + 为 for",
@@ -1148,7 +1148,7 @@
    "g": "arrive; to, up to",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 7,
    "src": "里仁 in modern Chinese · 4.6",
    "note": "After a verb: the action reached its target (听到 hear, 得到 get)."
   },
@@ -1158,7 +1158,7 @@
    "g": "oneself",
    "k": "word",
    "card": true,
-   "n": 11,
+   "n": 14,
    "src": "里仁 in modern Chinese · 4.6",
    "parts": "自 self + 己 self",
    "note": "Classical 己, 自.",
@@ -1277,7 +1277,7 @@
    "g": "on, above (after a noun); in the matter of",
    "k": "grammar",
    "card": true,
-   "n": 8,
+   "n": 15,
    "src": "里仁 in modern Chinese · 4.6"
   },
   "吗": {
@@ -1397,7 +1397,7 @@
    "g": "look at; see; read",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.7",
    "note": "Classical 觀, 視."
   },
@@ -1445,7 +1445,7 @@
    "g": "morning",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.8",
    "parts": "早 early + 上",
    "note": "Classical 朝."
@@ -1490,7 +1490,7 @@
    "g": "die",
    "k": "word",
    "card": false,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.8",
    "note": "Same as classical.",
    "known": [
@@ -1572,7 +1572,7 @@
    "g": "(how well:); links a verb to how well or how much",
    "k": "grammar",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "里仁 in modern Chinese · 4.9",
    "note": "穿得不好 \"dress badly\". Not the classical 得 \"get\".",
    "known": [
@@ -1588,7 +1588,7 @@
    "g": "very",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "里仁 in modern Chinese · 4.9",
    "note": "Often just glue before an adjective."
   },
@@ -1645,7 +1645,7 @@
    "g": "toward, as regards",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.10",
    "trad": "對於",
    "parts": "对 facing + 于 at",
@@ -1707,7 +1707,7 @@
    "g": "think (of); want to",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 9,
    "src": "里仁 in modern Chinese · 4.11",
    "note": "Classical 思, 欲; in 4.11 懷 \"cherish\"."
   },
@@ -1786,7 +1786,7 @@
    "g": "only, just",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.12",
    "note": "Classical 唯."
   },
@@ -1796,7 +1796,7 @@
    "g": "for the sake of, in order to",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.12",
    "trad": "為了",
    "note": "Classical 為 (wèi).",
@@ -1830,7 +1830,7 @@
    "g": "you",
    "k": "word",
    "card": true,
-   "n": 12,
+   "n": 19,
    "src": "里仁 in modern Chinese · 4.12",
    "note": "Classical 爾, 汝."
   },
@@ -1963,7 +1963,7 @@
    "g": "don't; not want",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.14",
    "parts": "不 not + 要 want",
    "note": "Classical 勿, 毋.",
@@ -2294,7 +2294,7 @@
    "g": "other",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.15",
    "trad": "別的",
    "parts": "别 other + 的"
@@ -2323,7 +2323,7 @@
    "g": "ask",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.15",
    "trad": "問",
    "note": "Your card 問, in its mainland form.",
@@ -2340,7 +2340,7 @@
    "g": "this",
    "k": "grammar",
    "card": true,
-   "n": 9,
+   "n": 10,
    "src": "里仁 in modern Chinese · 4.15",
    "trad": "這",
    "note": "Classical 此, 斯, 是."
@@ -2616,7 +2616,7 @@
    "g": "they, them",
    "k": "word",
    "card": true,
-   "n": 7,
+   "n": 11,
    "src": "里仁 in modern Chinese · 4.18",
    "trad": "他們",
    "parts": "他 he + 们 (plural for people)",
@@ -2628,7 +2628,7 @@
    "g": "see, notice",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.18",
    "parts": "看 look + 到 reach"
   },
@@ -2649,7 +2649,7 @@
    "g": "still, all the same",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.18",
    "trad": "還是",
    "parts": "还 still + 是",
@@ -2696,7 +2696,7 @@
    "g": "again; (再 A 也 B) however A, still B",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.18"
   },
   "辛苦": {
@@ -2788,7 +2788,7 @@
    "g": "change",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.20",
    "trad": "改變",
    "parts": "改 alter + 变 change",
@@ -2890,7 +2890,7 @@
    "g": "for, on account of",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 4,
    "src": "里仁 in modern Chinese · 4.21",
    "trad": "為",
    "note": "Classical 為 read wèi. Not 为 wéi \"be, do\".",
@@ -2907,7 +2907,7 @@
    "g": "live",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.21"
   },
   "长": {
@@ -2916,7 +2916,7 @@
    "g": "long",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "里仁 in modern Chinese · 4.21",
    "trad": "長",
    "note": "Your card 長, in its mainland form.",
@@ -2933,7 +2933,7 @@
    "g": "and so; (为 A 而 B) do B because of A",
    "k": "grammar",
    "card": true,
-   "n": 4,
+   "n": 10,
    "src": "里仁 in modern Chinese · 4.21",
    "note": "Straight from classical. Modern keeps it in set frames.",
    "known": [
@@ -3111,7 +3111,7 @@
    "g": "fast, quick",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.24",
    "note": "Classical 敏."
   },
@@ -3217,7 +3217,7 @@
    "g": "many, much",
    "k": "word",
    "card": false,
-   "n": 3,
+   "n": 5,
    "src": "里仁 in modern Chinese · 4.12",
    "note": "Same as your card.",
    "known": [
@@ -3233,7 +3233,7 @@
    "g": "receive, suffer",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "里仁 in modern Chinese · 4.26",
    "parts": "受 receive + 到 reach"
   },
@@ -3280,7 +3280,7 @@
    "g": "(is …-ed); marks the passive",
    "k": "grammar",
    "card": true,
-   "n": 5,
+   "n": 15,
    "src": "里仁 in modern Chinese · 4.26",
    "note": "Classical 見, or 為…所."
   },
@@ -3349,7 +3349,7 @@
    "g": "item; project",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 16,
    "src": "SCP-CN-187 非礼勿言 · 187.1",
    "trad": "項目",
    "parts": "项 item + 目 heading",
@@ -3361,7 +3361,7 @@
    "g": "serial number; to number",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.1",
    "trad": "編號",
    "parts": "编 arrange + 号 number"
@@ -3372,7 +3372,7 @@
    "g": "grade, class, level",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.1",
    "trad": "等級",
    "parts": "等 rank + 级 step"
@@ -3383,7 +3383,7 @@
    "g": "special",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "parts": "特 particular + 殊 different"
   },
@@ -3393,7 +3393,7 @@
    "g": "contain, take in and hold",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 9,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "parts": "收 take in + 容 hold",
    "note": "The SCP word for \"containment\"."
@@ -3404,7 +3404,7 @@
    "g": "measure, procedure",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "parts": "措 arrange + 施 carry out",
    "note": "施 is in your cards (己所不欲，勿施於人).",
@@ -3421,7 +3421,7 @@
    "g": "the said, this (formal)",
    "k": "grammar",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "trad": "該",
    "note": "Formal written style, from old official documents. Everyday 该 is \"ought to\" (应该)."
@@ -3432,7 +3432,7 @@
    "g": "at, in, to; than",
    "k": "grammar",
    "card": false,
-   "n": 5,
+   "n": 9,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "trad": "於",
    "note": "Classical survivor: your card 於/于. After a verb: 收容于 \"held at\".",
@@ -3479,7 +3479,7 @@
    "g": "in, inside (after a noun); in the course of",
    "k": "grammar",
    "card": true,
-   "n": 5,
+   "n": 10,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "note": "The formal partner of 里. Classical 中."
   },
@@ -3489,7 +3489,7 @@
    "g": "not, not yet (formal)",
    "k": "grammar",
    "card": false,
-   "n": 2,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "note": "Classical survivor, same as your card. Everyday speech: 没.",
    "known": [
@@ -3555,7 +3555,7 @@
    "g": "this (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.2",
    "note": "Classical survivor, unchanged. Everyday speech: 这."
   },
@@ -3565,7 +3565,7 @@
    "g": "experiment",
    "k": "word",
    "card": true,
-   "n": 9,
+   "n": 14,
    "src": "SCP-CN-187 非礼勿言 · 187.3",
    "trad": "實驗",
    "parts": "实 real + 验 test"
@@ -3621,7 +3621,7 @@
    "g": "the rest, the others",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.3",
    "trad": "其餘",
    "parts": "其 its + 余 remainder",
@@ -3638,7 +3638,7 @@
    "g": "personnel, staff",
    "k": "word",
    "card": true,
-   "n": 8,
+   "n": 21,
    "src": "SCP-CN-187 非礼勿言 · 187.3",
    "trad": "人員",
    "parts": "人 person + 员 member",
@@ -3677,7 +3677,7 @@
    "g": "meme",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.3",
    "parts": "模 pattern + 因 cause",
    "note": "A sound loan: mó-yīn imitates \"meme\". Words like this cannot be read from their characters."
@@ -3688,7 +3688,7 @@
    "g": "harm, injury; to harm",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 7,
    "src": "SCP-CN-187 非礼勿言 · 187.3",
    "trad": "傷害",
    "parts": "伤 wound + 害 harm"
@@ -3727,7 +3727,7 @@
    "g": "to, toward, regarding",
    "k": "grammar",
    "card": true,
-   "n": 4,
+   "n": 9,
    "src": "SCP-CN-187 非礼勿言 · 187.4",
    "trad": "對",
    "note": "Puts the target before the verb: 对该项目的实验 \"experiments on the item\". Classical 於."
@@ -3738,7 +3738,7 @@
    "g": "must (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.4",
    "trad": "須",
    "note": "Literary. Everyday speech: 必须."
@@ -3786,7 +3786,7 @@
    "g": "describe; description",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.5",
    "parts": "描 trace + 述 tell",
    "note": "述 is in your cards (述而不作).",
@@ -3803,7 +3803,7 @@
    "g": "is, serves as (formal)",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 14,
    "src": "SCP-CN-187 非礼勿言 · 187.5",
    "trad": "為",
    "note": "Classical survivor: your card 為. Everyday speech: 是. Read wèi, it means \"for\".",
@@ -3873,7 +3873,7 @@
    "g": "its, his, their; it (formal)",
    "k": "grammar",
    "card": false,
-   "n": 9,
+   "n": 20,
    "src": "SCP-CN-187 非礼勿言 · 187.5",
    "note": "Classical survivor, same as your card. Everyday speech: 他的, 它的.",
    "known": [
@@ -3906,7 +3906,7 @@
    "g": "script, typeface",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.5",
    "trad": "字體",
    "parts": "字 character + 体 body"
@@ -3974,7 +3974,7 @@
    "g": "(general counter)",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "個",
    "note": "After a number, or after 这 and 每, modern nouns need a counter: 每个字样."
@@ -3985,7 +3985,7 @@
    "g": "about, roughly",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "約",
    "note": "In your cards 約 is \"restraint, hardship\". \"Roughly\" is the common modern sense.",
@@ -4002,7 +4002,7 @@
    "g": "size",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "parts": "大 big + 小 small",
    "note": "Two opposites make the abstract noun: \"big-small\".",
@@ -4019,7 +4019,7 @@
    "g": "and, and also (joins verbs; formal)",
    "k": "grammar",
    "card": true,
-   "n": 7,
+   "n": 10,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "並"
   },
@@ -4029,7 +4029,7 @@
    "g": "with, by means of; in order to",
    "k": "grammar",
    "card": false,
-   "n": 4,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "note": "Classical survivor, same as your card.",
    "known": [
@@ -4092,7 +4092,7 @@
    "g": "carry out, conduct",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.6",
    "trad": "進行",
    "parts": "进 advance + 行 go",
@@ -4136,7 +4136,7 @@
    "g": "understand, comprehend",
    "k": "word",
    "card": true,
-   "n": 6,
+   "n": 7,
    "src": "SCP-CN-187 非礼勿言 · 187.7",
    "parts": "理 reason + 解 untie"
   },
@@ -4146,7 +4146,7 @@
    "g": "observe",
    "k": "word",
    "card": true,
-   "n": 16,
+   "n": 17,
    "src": "SCP-CN-187 非礼勿言 · 187.7",
    "trad": "觀察",
    "parts": "观 look at + 察 examine",
@@ -4174,7 +4174,7 @@
    "g": "information, message",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.7",
    "parts": "信 message + 息 news",
    "known": [
@@ -4199,7 +4199,7 @@
    "g": "after (follows a time or an event)",
    "k": "grammar",
    "card": true,
-   "n": 8,
+   "n": 11,
    "src": "SCP-CN-187 非礼勿言 · 187.7",
    "trad": "後",
    "note": "12秒后 \"after 12 seconds\"."
@@ -4219,7 +4219,7 @@
    "g": "influence, affect; effect",
    "k": "word",
    "card": true,
-   "n": 5,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.8",
    "trad": "影響",
    "parts": "影 shadow + 响 echo"
@@ -4230,7 +4230,7 @@
    "g": "the one who, -er",
    "k": "grammar",
    "card": false,
-   "n": 12,
+   "n": 16,
    "src": "SCP-CN-187 非礼勿言 · 187.8",
    "note": "Classical survivor, same as your card: 受影响者 \"the one affected\".",
    "known": [
@@ -4284,7 +4284,7 @@
    "g": "produce, give rise to",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.8",
    "trad": "產生",
    "parts": "产 produce + 生 be born"
@@ -4414,7 +4414,7 @@
    "g": "refuse",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.8",
    "trad": "拒絕",
    "parts": "拒 resist + 绝 cut off"
@@ -4457,7 +4457,7 @@
    "g": "unable to, have no way to",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 7,
    "src": "SCP-CN-187 非礼勿言 · 187.9",
    "trad": "無法",
    "parts": "无 have no + 法 way",
@@ -4502,7 +4502,7 @@
    "g": "all, every",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.10",
    "parts": "所 that which + 有 exists",
    "note": "\"All that there is\": the classical 所 + verb.",
@@ -4557,7 +4557,7 @@
    "g": "show, display; behaviour",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.10",
    "trad": "表現",
    "parts": "表 surface + 现 appear"
@@ -4568,7 +4568,7 @@
    "g": "out (after a verb: the action brings something out)",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.10",
    "note": "表现出 \"show outwardly\".",
    "known": [
@@ -4584,7 +4584,7 @@
    "g": "extreme, enormous",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.10",
    "trad": "極大",
    "parts": "极 extreme + 大 big"
@@ -4651,7 +4651,7 @@
    "g": "and, moreover",
    "k": "word",
    "card": true,
-   "n": 7,
+   "n": 8,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "trad": "並且",
    "parts": "并 and + 且 moreover"
@@ -4679,7 +4679,7 @@
    "g": "physics; physical",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "parts": "物 thing + 理 principle"
   },
@@ -4689,7 +4689,7 @@
    "g": "attack",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "trad": "攻擊",
    "parts": "攻 attack + 击 strike"
@@ -4700,7 +4700,7 @@
    "g": "attempt to",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "trad": "試圖",
    "parts": "试 try + 图 plan"
@@ -4711,7 +4711,7 @@
    "g": "make, cause (someone to do)",
    "k": "word",
    "card": false,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "note": "Same as your card (不使不仁者加乎其身).",
    "known": [
@@ -4744,7 +4744,7 @@
    "g": "stop",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.11",
    "parts": "停 halt + 止 stop"
   },
@@ -4777,7 +4777,7 @@
    "g": "within (after a span of time or a place)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.12",
    "trad": "內",
    "note": "Your card 內 (內自省).",
@@ -4849,7 +4849,7 @@
    "g": "and; with (formal)",
    "k": "grammar",
    "card": true,
-   "n": 6,
+   "n": 8,
    "src": "SCP-CN-187 非礼勿言 · 187.13",
    "trad": "與",
    "note": "Classical survivor: your card 與, in its mainland form. Everyday speech: 和, 跟.",
@@ -5044,7 +5044,7 @@
    "g": "lose",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.14",
    "parts": "失 lose + 去 gone",
    "note": "失 is in your cards.",
@@ -5141,7 +5141,7 @@
    "g": "when, at the time of (after a clause)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.15",
    "trad": "時",
    "note": "Classical 時. Everyday speech: …的时候.",
@@ -5196,7 +5196,7 @@
    "g": "degree, extent",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.15",
    "parts": "程 measure + 度 degree"
   },
@@ -5206,7 +5206,7 @@
    "g": "according to, in proportion to (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.15"
   },
   "自": {
@@ -5326,7 +5326,7 @@
    "g": "use",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "parts": "使 employ + 用 use",
    "known": [
@@ -5357,7 +5357,7 @@
    "g": "begin, start; beginning",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "trad": "開始",
    "parts": "开 open + 始 begin"
@@ -5368,7 +5368,7 @@
    "g": "but",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.17",
    "note": "The short form of 但是."
   },
@@ -5448,7 +5448,7 @@
    "g": "reaction, response",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.18",
    "trad": "反應",
    "parts": "反 back + 应 respond"
@@ -5469,7 +5469,7 @@
    "g": "if (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.19",
    "note": "Classical survivor. Everyday speech: 如果."
   },
@@ -5479,7 +5479,7 @@
    "g": "because of (formal)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.19",
    "note": "Classical survivor. Everyday speech: 因为. 因 A 而 B: \"B because of A\"."
   },
@@ -5499,7 +5499,7 @@
    "g": "or",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.19"
   },
   "汉字": {
@@ -5529,7 +5529,7 @@
    "g": "result",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.21",
    "trad": "結果",
    "parts": "结 bear + 果 fruit"
@@ -5645,7 +5645,7 @@
    "g": "lead to, cause",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.21",
    "trad": "導致",
    "parts": "导 lead + 致 bring about",
@@ -5673,7 +5673,7 @@
    "g": "ability, capacity",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.21",
    "parts": "能 able + 力 strength",
    "known": [
@@ -5742,7 +5742,7 @@
    "g": "phenomenon",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.22",
    "trad": "現象",
    "parts": "现 appear + 象 image"
@@ -5781,7 +5781,7 @@
    "g": "appendix",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.23",
    "trad": "附錄",
    "parts": "附 attach + 录 record"
@@ -5803,7 +5803,7 @@
    "g": "standard",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.23",
    "trad": "標準",
    "parts": "标 mark + 准 norm"
@@ -5842,7 +5842,7 @@
    "g": "subject, object, target",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 19,
    "src": "SCP-CN-187 非礼勿言 · 187.23",
    "trad": "對象",
    "parts": "对 facing + 象 figure"
@@ -5853,7 +5853,7 @@
    "g": "remarks, note",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.23",
    "trad": "備註",
    "parts": "备 for reference + 注 note"
@@ -5884,7 +5884,7 @@
    "g": "doctor (PhD), Dr.",
    "k": "word",
    "card": true,
-   "n": 21,
+   "n": 29,
    "src": "SCP-CN-187 非礼勿言 · 187.24",
    "parts": "博 broad + 士 scholar",
    "note": "士 is in your cards.",
@@ -6070,7 +6070,7 @@
    "g": "whether; is it so or not",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.25",
    "parts": "是 is + 否 not",
    "note": "The formal yes/no question: 你是否有… \"do you have…?\"",
@@ -6191,7 +6191,7 @@
    "g": "security (staff)",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.27",
    "parts": "安 safe + 保 protect",
    "known": [
@@ -6273,7 +6273,7 @@
    "g": "confirm",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.27",
    "trad": "確認",
    "parts": "确 firm + 认 recognise"
@@ -6284,7 +6284,7 @@
    "g": "already",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.27",
    "trad": "已經",
    "parts": "已 already + 经 pass",
@@ -6302,7 +6302,7 @@
    "g": "by (marks who does it)",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.28",
    "note": "由安保人员提供 \"provided by the security staff\"."
   },
@@ -6485,7 +6485,7 @@
    "g": "most, -est",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.29"
   },
   "美好": {
@@ -6532,7 +6532,7 @@
    "g": "please; ask, invite",
    "k": "word",
    "card": true,
-   "n": 4,
+   "n": 5,
    "src": "SCP-CN-187 非礼勿言 · 187.30",
    "trad": "請"
   },
@@ -6559,7 +6559,7 @@
    "g": "reason, grounds",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.30",
    "parts": "理 reason + 由 cause"
   },
@@ -6650,7 +6650,7 @@
    "g": "should, ought to",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.30",
    "trad": "應該",
    "parts": "应 ought + 该 ought"
@@ -6722,7 +6722,7 @@
    "g": "grade, level, class",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 6,
    "src": "SCP-CN-187 非礼勿言 · 187.31",
    "trad": "級",
    "note": "一级 \"grade one\"."
@@ -6838,7 +6838,7 @@
    "g": "become, turn",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.33",
    "trad": "變得",
    "parts": "变 change + 得 (result)",
@@ -6925,7 +6925,7 @@
    "g": "toward, at",
    "k": "grammar",
    "card": true,
-   "n": 2,
+   "n": 4,
    "src": "SCP-CN-187 非礼勿言 · 187.33"
   },
   "躲过": {
@@ -6981,7 +6981,7 @@
    "g": "room (after a word naming its use)",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.34",
    "trad": "間",
    "note": "观察间 \"observation room\". Your card 間 \"interval\".",
@@ -7062,7 +7062,7 @@
    "g": "different",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.35",
    "parts": "不 not + 同 same",
    "known": [
@@ -7088,7 +7088,7 @@
    "g": "angry; anger",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.36",
    "trad": "憤怒",
    "parts": "愤 indignant + 怒 anger",
@@ -7133,7 +7133,7 @@
    "g": "from",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.36",
    "trad": "從",
    "note": "Classical 自. Your card 從 is \"follow\" (4.18); \"from\" is the common modern sense.",
@@ -7170,7 +7170,7 @@
    "g": "afterwards, after",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.36",
    "trad": "之後",
    "parts": "之 of that + 后 after",
@@ -7224,7 +7224,7 @@
    "g": "(facial) expression",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.39",
    "parts": "表 surface + 情 feeling"
   },
@@ -7264,7 +7264,7 @@
    "g": "report",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.39",
    "trad": "報告",
    "parts": "报 report + 告 tell"
@@ -7275,7 +7275,7 @@
    "g": "tell",
    "k": "word",
    "card": true,
-   "n": 2,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.40",
    "trad": "告訴",
    "parts": "告 tell + 诉 inform"
@@ -7286,7 +7286,7 @@
    "g": "read (formal)",
    "k": "word",
    "card": true,
-   "n": 3,
+   "n": 30,
    "src": "SCP-CN-187 非礼勿言 · 187.40",
    "trad": "閱讀",
    "parts": "阅 look over + 读 read",
@@ -7298,7 +7298,7 @@
    "g": "(after a verb) finish …-ing",
    "k": "grammar",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.40",
    "note": "阅读完 \"finish reading\"."
   },
@@ -7338,7 +7338,7 @@
    "g": "but",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 3,
    "src": "SCP-CN-187 非礼勿言 · 187.41",
    "parts": "但 but + 是",
    "known": [
@@ -7354,7 +7354,7 @@
    "g": "continue",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 13,
    "src": "SCP-CN-187 非礼勿言 · 187.41",
    "trad": "繼續",
    "parts": "继 continue + 续 carry on"
@@ -7638,7 +7638,7 @@
    "g": "no matter what, in any case",
    "k": "word",
    "card": true,
-   "n": 1,
+   "n": 2,
    "src": "SCP-CN-187 非礼勿言 · 187.44",
    "trad": "無論如何",
    "parts": "无论 regardless + 如何 how",
@@ -7771,6 +7771,3433 @@
    "n": 1,
    "src": "SCP-CN-187 非礼勿言 · 187.45",
    "parts": "制 control + 止 stop"
+  },
+  "初始": {
+   "s": "初始",
+   "py": "chūshǐ",
+   "g": "initial, original",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.1",
+   "parts": "初 first + 始 begin"
+  },
+  "厚度": {
+   "s": "厚度",
+   "py": "hòudù",
+   "g": "thickness",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.1",
+   "parts": "厚 thick + 度 degree"
+  },
+  "置": {
+   "s": "置",
+   "py": "zhì",
+   "g": "place, put (formal)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.2",
+   "note": "被置于 \"is placed in\"."
+  },
+  "室": {
+   "s": "室",
+   "py": "shì",
+   "g": "room, chamber",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.2"
+  },
+  "研究": {
+   "s": "研究",
+   "py": "yánjiū",
+   "g": "research, study",
+   "k": "word",
+   "card": true,
+   "n": 12,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "研 grind + 究 probe to the end"
+  },
+  "经过": {
+   "s": "经过",
+   "py": "jīngguò",
+   "g": "go through, pass; after",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "trad": "經過",
+   "parts": "经 pass through + 过 pass",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "研究员": {
+   "s": "研究员",
+   "py": "yánjiūyuán",
+   "g": "researcher",
+   "k": "word",
+   "card": true,
+   "n": 14,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "trad": "研究員",
+   "parts": "研究 research + 员 member"
+  },
+  "批准": {
+   "s": "批准",
+   "py": "pīzhǔn",
+   "g": "approve; approval",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "批 sign off + 准 permit"
+  },
+  "任何": {
+   "s": "任何",
+   "py": "rènhé",
+   "g": "any",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "任 whichever + 何 what",
+   "known": [
+    [
+     "何",
+     "what / how"
+    ]
+   ]
+  },
+  "不得": {
+   "s": "不得",
+   "py": "bùdé",
+   "g": "must not, may not",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "不 not + 得 get to",
+   "note": "Classical survivor: 不得 \"cannot, may not\". Rules and signs use it.",
+   "known": [
+    [
+     "不",
+     "not"
+    ],
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "出于": {
+   "s": "出于",
+   "py": "chūyú",
+   "g": "out of, stemming from",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "trad": "出於",
+   "parts": "出 come out + 于 from",
+   "known": [
+    [
+     "出",
+     "go out"
+    ],
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "以外": {
+   "s": "以外",
+   "py": "yǐwài",
+   "g": "other than, beyond",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "以 from + 外 outside",
+   "known": [
+    [
+     "以",
+     "by means of"
+    ]
+   ]
+  },
+  "目的": {
+   "s": "目的",
+   "py": "mùdì",
+   "g": "purpose, aim",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.3",
+   "parts": "目 eye + 的 target",
+   "note": "Here 的 is read dì, \"target\"."
+  },
+  "当前": {
+   "s": "当前",
+   "py": "dāngqián",
+   "g": "current, at present",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "當前",
+   "parts": "当 at + 前 front"
+  },
+  "本": {
+   "s": "本",
+   "py": "běn",
+   "g": "(counter for books)",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-303 朝闻道 · 303.5"
+  },
+  "页": {
+   "s": "页",
+   "py": "yè",
+   "g": "page",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "頁"
+  },
+  "厚": {
+   "s": "厚",
+   "py": "hòu",
+   "g": "thick",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5"
+  },
+  "平装书": {
+   "s": "平装书",
+   "py": "píngzhuāngshū",
+   "g": "paperback",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "平裝書",
+   "parts": "平装 flat-bound + 书 book"
+  },
+  "封面": {
+   "s": "封面",
+   "py": "fēngmiàn",
+   "g": "cover (of a book)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "parts": "封 seal + 面 face"
+  },
+  "英文": {
+   "s": "英文",
+   "py": "Yīngwén",
+   "g": "English (the language)",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "parts": "英 England + 文 writing"
+  },
+  "手写体": {
+   "s": "手写体",
+   "py": "shǒuxiětǐ",
+   "g": "handwriting, script",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "手寫體",
+   "parts": "手写 handwritten + 体 style"
+  },
+  "写": {
+   "s": "写",
+   "py": "xiě",
+   "g": "write",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "寫"
+  },
+  "着": {
+   "s": "着",
+   "py": "zhe",
+   "g": "(ongoing); after a verb, the state stays: \"is …-ing, is …-ed\"",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "trad": "著",
+   "note": "写着 \"is written there\". No classical equivalent."
+  },
+  "一切": {
+   "s": "一切",
+   "py": "yíqiè",
+   "g": "everything, all",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "parts": "一 one + 切 cut: all in one sweep",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "答案": {
+   "s": "答案",
+   "py": "dá'àn",
+   "g": "answer",
+   "k": "word",
+   "card": true,
+   "n": 14,
+   "src": "SCP-CN-303 朝闻道 · 303.5",
+   "parts": "答 reply + 案 record"
+  },
+  "事故": {
+   "s": "事故",
+   "py": "shìgù",
+   "g": "accident, incident",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "parts": "事 matter + 故 mishap",
+   "note": "故 is in your cards.",
+   "known": [
+    [
+     "事",
+     "serve"
+    ],
+    [
+     "故",
+     "old (also: therefore)"
+    ]
+   ]
+  },
+  "发生": {
+   "s": "发生",
+   "py": "fāshēng",
+   "g": "happen, occur",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "trad": "發生",
+   "parts": "发 arise + 生 be born",
+   "known": [
+    [
+     "發",
+     "set off"
+    ]
+   ]
+  },
+  "扉页": {
+   "s": "扉页",
+   "py": "fēiyè",
+   "g": "title page, flyleaf",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "trad": "扉頁",
+   "parts": "扉 door leaf + 页 page"
+  },
+  "出现": {
+   "s": "出现",
+   "py": "chūxiàn",
+   "g": "appear",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "trad": "出現",
+   "parts": "出 come out + 现 appear",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "行@line": {
+   "s": "行",
+   "py": "háng",
+   "g": "line, row (also a counter)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "note": "一行英文 \"a line of English\". Read xíng, the same character is \"walk, act\".",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "内容": {
+   "s": "内容",
+   "py": "nèiróng",
+   "g": "content",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-303 朝闻道 · 303.6",
+   "trad": "內容",
+   "parts": "内 inside + 容 hold",
+   "known": [
+    [
+     "內",
+     "inside"
+    ]
+   ]
+  },
+  "指出": {
+   "s": "指出",
+   "py": "zhǐchū",
+   "g": "point out",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.7",
+   "parts": "指 point + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "赵": {
+   "s": "赵",
+   "py": "Zhào",
+   "g": "Zhao (a surname)",
+   "k": "word",
+   "card": false,
+   "n": 9,
+   "src": "SCP-CN-303 朝闻道 · 303.7",
+   "trad": "趙"
+  },
+  "非常": {
+   "s": "非常",
+   "py": "fēicháng",
+   "g": "very, extremely",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.7",
+   "parts": "非 not + 常 usual"
+  },
+  "相似": {
+   "s": "相似",
+   "py": "xiāngsì",
+   "g": "similar, alike",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.7",
+   "parts": "相 mutual + 似 resemble",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "解决": {
+   "s": "解决",
+   "py": "jiějué",
+   "g": "solve, settle",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.8",
+   "trad": "解決",
+   "parts": "解 untie + 决 decide"
+  },
+  "问题": {
+   "s": "问题",
+   "py": "wèntí",
+   "g": "question; problem",
+   "k": "word",
+   "card": true,
+   "n": 6,
+   "src": "SCP-CN-303 朝闻道 · 303.8",
+   "trad": "問題",
+   "parts": "问 ask + 题 topic",
+   "note": "One word for both.",
+   "known": [
+    [
+     "問",
+     "ask"
+    ]
+   ]
+  },
+  "按照": {
+   "s": "按照",
+   "py": "ànzhào",
+   "g": "according to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.8",
+   "parts": "按 follow + 照 in line with"
+  },
+  "重要": {
+   "s": "重要",
+   "py": "zhòngyào",
+   "g": "important",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.8",
+   "parts": "重 heavy + 要 essential"
+  },
+  "排序": {
+   "s": "排序",
+   "py": "páixù",
+   "g": "put in order, sort",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.8",
+   "parts": "排 line up + 序 order"
+  },
+  "语言": {
+   "s": "语言",
+   "py": "yǔyán",
+   "g": "language",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.9",
+   "trad": "語言",
+   "parts": "语 speech + 言 words",
+   "known": [
+    [
+     "言",
+     "words"
+    ]
+   ]
+  },
+  "母语": {
+   "s": "母语",
+   "py": "mǔyǔ",
+   "g": "native language",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.9",
+   "trad": "母語",
+   "parts": "母 mother + 语 speech",
+   "note": "\"Mother tongue\", exactly.",
+   "known": [
+    [
+     "母",
+     "mother"
+    ]
+   ]
+  },
+  "立即": {
+   "s": "立即",
+   "py": "lìjí",
+   "g": "immediately",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "parts": "立 at once + 即 right then",
+   "note": "Formal. Everyday speech: 马上.",
+   "known": [
+    [
+     "立",
+     "stand"
+    ]
+   ]
+  },
+  "多次": {
+   "s": "多次",
+   "py": "duōcì",
+   "g": "many times, repeatedly",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "parts": "多 many + 次 times",
+   "known": [
+    [
+     "多",
+     "many"
+    ],
+    [
+     "次",
+     "next"
+    ]
+   ]
+  },
+  "表明": {
+   "s": "表明",
+   "py": "biǎomíng",
+   "g": "show, make clear",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "parts": "表 show + 明 clear"
+  },
+  "严重": {
+   "s": "严重",
+   "py": "yánzhòng",
+   "g": "serious, severe",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "trad": "嚴重",
+   "parts": "严 strict + 重 heavy"
+  },
+  "可能": {
+   "s": "可能",
+   "py": "kěnéng",
+   "g": "may, possibly; possible",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "parts": "可 can + 能 able",
+   "known": [
+    [
+     "可",
+     "can"
+    ],
+    [
+     "能",
+     "able"
+    ]
+   ]
+  },
+  "现实": {
+   "s": "现实",
+   "py": "xiànshí",
+   "g": "reality",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "trad": "現實",
+   "parts": "现 present + 实 real"
+  },
+  "造成": {
+   "s": "造成",
+   "py": "zàochéng",
+   "g": "cause, bring about",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "parts": "造 make + 成 become",
+   "known": [
+    [
+     "成",
+     "complete"
+    ]
+   ]
+  },
+  "定": {
+   "s": "定",
+   "py": "dìng",
+   "g": "be settled, be determined",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.10",
+   "note": "依…而定 \"is determined by…\"."
+  },
+  "例如": {
+   "s": "例如",
+   "py": "lìrú",
+   "g": "for example",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "parts": "例 example + 如 like",
+   "known": [
+    [
+     "如",
+     "like"
+    ]
+   ]
+  },
+  "丢": {
+   "s": "丢",
+   "py": "diū",
+   "g": "lose",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "trad": "丟"
+  },
+  "桌": {
+   "s": "桌",
+   "py": "zhuō",
+   "g": "table, desk",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "note": "The short form of 桌子."
+  },
+  "皮肤": {
+   "s": "皮肤",
+   "py": "pífū",
+   "g": "skin",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "trad": "皮膚",
+   "parts": "皮 hide + 肤 skin"
+  },
+  "擦伤": {
+   "s": "擦伤",
+   "py": "cāshāng",
+   "g": "graze, abrasion",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "trad": "擦傷",
+   "parts": "擦 rub + 伤 wound"
+  },
+  "询问": {
+   "s": "询问",
+   "py": "xúnwèn",
+   "g": "ask about, inquire",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "trad": "詢問",
+   "parts": "询 inquire + 问 ask",
+   "known": [
+    [
+     "問",
+     "ask"
+    ]
+   ]
+  },
+  "死亡": {
+   "s": "死亡",
+   "py": "sǐwáng",
+   "g": "death; die",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.11",
+   "parts": "死 die + 亡 perish",
+   "note": "亡 is one of your components.",
+   "known": [
+    [
+     "死",
+     "die"
+    ]
+   ]
+  },
+  "可能性": {
+   "s": "可能性",
+   "py": "kěnéngxìng",
+   "g": "possibility",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.12",
+   "parts": "可能 possible + 性 -ness",
+   "note": "性 after a word makes \"-ness, -ity\". 性 is in your cards (性相近也).",
+   "known": [
+    [
+     "可",
+     "can"
+    ],
+    [
+     "能",
+     "able"
+    ],
+    [
+     "性",
+     "nature"
+    ]
+   ]
+  },
+  "则": {
+   "s": "则",
+   "py": "zé",
+   "g": "then (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.12",
+   "trad": "則",
+   "note": "Classical survivor: your card 則, in its mainland form. 若…则 is the classical \"if… then\".",
+   "known": [
+    [
+     "則",
+     "then"
+    ]
+   ]
+  },
+  "作用": {
+   "s": "作用",
+   "py": "zuòyòng",
+   "g": "act on; effect",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.13",
+   "parts": "作 do + 用 use",
+   "note": "作用于 \"acts on\".",
+   "known": [
+    [
+     "作",
+     "create"
+    ],
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "第一": {
+   "s": "第一",
+   "py": "dìyī",
+   "g": "first",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.13",
+   "parts": "第 (makes a number an ordinal) + 一 one",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "空白": {
+   "s": "空白",
+   "py": "kòngbái",
+   "g": "blank",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.13",
+   "parts": "空 empty + 白 white"
+  },
+  "增厚": {
+   "s": "增厚",
+   "py": "zēnghòu",
+   "g": "thicken",
+   "k": "word",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-303 朝闻道 · 303.14",
+   "parts": "增 increase + 厚 thick"
+  },
+  "目前": {
+   "s": "目前",
+   "py": "mùqián",
+   "g": "at present, so far",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.14",
+   "parts": "目 eye + 前 before",
+   "note": "\"Before the eyes.\""
+  },
+  "过程": {
+   "s": "过程",
+   "py": "guòchéng",
+   "g": "process, course",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.14",
+   "trad": "過程",
+   "parts": "过 pass + 程 journey",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "回到": {
+   "s": "回到",
+   "py": "huídào",
+   "g": "return to",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.15",
+   "parts": "回 return + 到 arrive"
+  },
+  "即": {
+   "s": "即",
+   "py": "jí",
+   "g": "that is, namely (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.15",
+   "note": "Classical survivor."
+  },
+  "数": {
+   "s": "数",
+   "py": "shù",
+   "g": "several (formal); number",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.16",
+   "trad": "數",
+   "note": "数名 \"several (people)\".",
+   "known": [
+    [
+     "數",
+     "count"
+    ]
+   ]
+  },
+  "名": {
+   "s": "名",
+   "py": "míng",
+   "g": "(counter for people; formal)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.16",
+   "note": "Your card 名 is \"name\". 一名研究人员 \"one researcher\".",
+   "known": [
+    [
+     "名",
+     "name"
+    ]
+   ]
+  },
+  "展开": {
+   "s": "展开",
+   "py": "zhǎnkāi",
+   "g": "carry out, launch; unfold",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.16",
+   "trad": "展開",
+   "parts": "展 unfold + 开 open"
+  },
+  "测试": {
+   "s": "测试",
+   "py": "cèshì",
+   "g": "test",
+   "k": "word",
+   "card": true,
+   "n": 13,
+   "src": "SCP-CN-303 朝闻道 · 303.17",
+   "trad": "測試",
+   "parts": "测 measure + 试 try"
+  },
+  "表格": {
+   "s": "表格",
+   "py": "biǎogé",
+   "g": "table, form",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.17",
+   "parts": "表 chart + 格 grid"
+  },
+  "顺序": {
+   "s": "顺序",
+   "py": "shùnxù",
+   "g": "order, sequence",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.17",
+   "trad": "順序",
+   "parts": "顺 in line + 序 order"
+  },
+  "排列": {
+   "s": "排列",
+   "py": "páiliè",
+   "g": "arrange, line up",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.17",
+   "parts": "排 row + 列 line"
+  },
+  "均": {
+   "s": "均",
+   "py": "jūn",
+   "g": "all, without exception (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.18",
+   "note": "Like 皆. Everyday speech: 都."
+  },
+  "转述": {
+   "s": "转述",
+   "py": "zhuǎnshù",
+   "g": "relay, report in one's own words",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.18",
+   "trad": "轉述",
+   "parts": "转 pass on + 述 tell",
+   "known": [
+    [
+     "述",
+     "pass on"
+    ]
+   ]
+  },
+  "由于": {
+   "s": "由于",
+   "py": "yóuyú",
+   "g": "because, owing to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "trad": "由於",
+   "parts": "由 from + 于 at",
+   "known": [
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "通常": {
+   "s": "通常",
+   "py": "tōngcháng",
+   "g": "usually",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "parts": "通 general + 常 usual"
+  },
+  "具体": {
+   "s": "具体",
+   "py": "jùtǐ",
+   "g": "specific, concrete",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "trad": "具體",
+   "parts": "具 complete + 体 body"
+  },
+  "记录": {
+   "s": "记录",
+   "py": "jìlù",
+   "g": "record",
+   "k": "word",
+   "card": true,
+   "n": 7,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "trad": "記錄",
+   "parts": "记 note + 录 record"
+  },
+  "并@not": {
+   "s": "并",
+   "py": "bìng",
+   "g": "in fact (not); before 不 or 没, it stresses the negative",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "trad": "並",
+   "note": "并没有 \"does not in fact\"."
+  },
+  "包含": {
+   "s": "包含",
+   "py": "bāohán",
+   "g": "contain, include",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "parts": "包 wrap + 含 hold"
+  },
+  "对应": {
+   "s": "对应",
+   "py": "duìyìng",
+   "g": "correspond to",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.19",
+   "trad": "對應",
+   "parts": "对 facing + 应 respond"
+  },
+  "给出": {
+   "s": "给出",
+   "py": "gěichū",
+   "g": "give, put forward",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.20",
+   "trad": "給出",
+   "parts": "给 give + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "指令": {
+   "s": "指令",
+   "py": "zhǐlìng",
+   "g": "instruction, order",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.20",
+   "parts": "指 point + 令 command",
+   "note": "令 is in your cards (巧言令色).",
+   "known": [
+    [
+     "令",
+     "command (in 1.3: pleasing)"
+    ]
+   ]
+  },
+  "番茄": {
+   "s": "番茄",
+   "py": "fānqié",
+   "g": "tomato",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "番 foreign + 茄 aubergine",
+   "note": "\"Foreign aubergine.\" Also called 西红柿."
+  },
+  "炒": {
+   "s": "炒",
+   "py": "chǎo",
+   "g": "stir-fry",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "note": "On every menu."
+  },
+  "鸡蛋": {
+   "s": "鸡蛋",
+   "py": "jīdàn",
+   "g": "egg",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "雞蛋",
+   "parts": "鸡 chicken + 蛋 egg"
+  },
+  "清炒": {
+   "s": "清炒",
+   "py": "qīngchǎo",
+   "g": "plain stir-fried",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "清 clear + 炒 stir-fry"
+  },
+  "土豆丝": {
+   "s": "土豆丝",
+   "py": "tǔdòusī",
+   "g": "shredded potato",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "土豆絲",
+   "parts": "土豆 potato (\"earth bean\") + 丝 shreds",
+   "known": [
+    [
+     "土",
+     "earth"
+    ]
+   ]
+  },
+  "包菜": {
+   "s": "包菜",
+   "py": "bāocài",
+   "g": "cabbage",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "包 wrapped + 菜 vegetable"
+  },
+  "紫菜": {
+   "s": "紫菜",
+   "py": "zǐcài",
+   "g": "laver (the seaweed)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "紫 purple + 菜 vegetable"
+  },
+  "蛋": {
+   "s": "蛋",
+   "py": "dàn",
+   "g": "egg",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21"
+  },
+  "汤": {
+   "s": "汤",
+   "py": "tāng",
+   "g": "soup",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "湯"
+  },
+  "米饭": {
+   "s": "米饭",
+   "py": "mǐfàn",
+   "g": "cooked rice",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "米飯",
+   "parts": "米 rice + 饭 cooked meal"
+  },
+  "手部": {
+   "s": "手部",
+   "py": "shǒubù",
+   "g": "the hand (as a part of the body)",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "手 hand + 部 part"
+  },
+  "轻微": {
+   "s": "轻微",
+   "py": "qīngwēi",
+   "g": "slight",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "輕微",
+   "parts": "轻 light + 微 tiny"
+  },
+  "捂住": {
+   "s": "捂住",
+   "py": "wǔzhù",
+   "g": "cover with the hand",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "parts": "捂 cover + 住 firmly"
+  },
+  "手": {
+   "s": "手",
+   "py": "shǒu",
+   "g": "hand",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.21"
+  },
+  "伤口": {
+   "s": "伤口",
+   "py": "shāngkǒu",
+   "g": "wound",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.21",
+   "trad": "傷口",
+   "parts": "伤 wound + 口 opening"
+  },
+  "开": {
+   "s": "开",
+   "py": "kāi",
+   "g": "turn on; open",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.22",
+   "trad": "開"
+  },
+  "空调": {
+   "s": "空调",
+   "py": "kōngtiáo",
+   "g": "air conditioning",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.22",
+   "trad": "空調",
+   "parts": "空 air + 调 adjust"
+  },
+  "这里": {
+   "s": "这里",
+   "py": "zhèlǐ",
+   "g": "here",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.22",
+   "trad": "這裡",
+   "parts": "这 this + 里 inside"
+  },
+  "撇嘴": {
+   "s": "撇嘴",
+   "py": "piězuǐ",
+   "g": "curl one's lip",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.22",
+   "parts": "撇 twist aside + 嘴 mouth"
+  },
+  "儿子": {
+   "s": "儿子",
+   "py": "érzi",
+   "g": "son",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "兒子",
+   "parts": "儿 child + 子 son",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "数据": {
+   "s": "数据",
+   "py": "shùjù",
+   "g": "data",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "數據",
+   "parts": "数 number + 据 evidence",
+   "known": [
+    [
+     "數",
+     "count"
+    ]
+   ]
+  },
+  "删除": {
+   "s": "删除",
+   "py": "shānchú",
+   "g": "delete",
+   "k": "word",
+   "card": true,
+   "n": 5,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "刪除",
+   "parts": "删 cut + 除 remove",
+   "note": "[数据删除] is the SCP \"[DATA EXPUNGED]\"."
+  },
+  "腿": {
+   "s": "腿",
+   "py": "tuǐ",
+   "g": "leg",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23"
+  },
+  "大": {
+   "s": "大",
+   "py": "dà",
+   "g": "big",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "note": "Same as your card."
+  },
+  "面积": {
+   "s": "面积",
+   "py": "miànjī",
+   "g": "area",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "面積",
+   "parts": "面 surface + 积 amount"
+  },
+  "兴趣": {
+   "s": "兴趣",
+   "py": "xìngqù",
+   "g": "interest",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "興趣",
+   "parts": "兴 spirits + 趣 delight"
+  },
+  "要求": {
+   "s": "要求",
+   "py": "yāoqiú",
+   "g": "demand, ask; requirement",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "parts": "要 ask + 求 seek",
+   "note": "Here 要 is read yāo.",
+   "known": [
+    [
+     "求",
+     "seek"
+    ]
+   ]
+  },
+  "回家": {
+   "s": "回家",
+   "py": "huíjiā",
+   "g": "go home",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "parts": "回 return + 家 home"
+  },
+  "一同": {
+   "s": "一同",
+   "py": "yìtóng",
+   "g": "together (formal)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "parts": "一 one + 同 same",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "观看": {
+   "s": "观看",
+   "py": "guānkàn",
+   "g": "watch",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.23",
+   "trad": "觀看",
+   "parts": "观 look at + 看 look",
+   "known": [
+    [
+     "觀",
+     "observe"
+    ]
+   ]
+  },
+  "两": {
+   "s": "两",
+   "py": "liǎng",
+   "g": "two (before a counter)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "trad": "兩"
+  },
+  "男人": {
+   "s": "男人",
+   "py": "nánrén",
+   "g": "man",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "parts": "男 male + 人 person",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "痛苦": {
+   "s": "痛苦",
+   "py": "tòngkǔ",
+   "g": "pain, suffering; painful",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "parts": "痛 ache + 苦 bitter"
+  },
+  "过于": {
+   "s": "过于",
+   "py": "guòyú",
+   "g": "too, excessively (formal)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "trad": "過於",
+   "parts": "过 beyond + 于 at",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ],
+    [
+     "於",
+     "at / to / on"
+    ]
+   ]
+  },
+  "被迫": {
+   "s": "被迫",
+   "py": "bèipò",
+   "g": "be forced to",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "parts": "被 (passive) + 迫 force"
+  },
+  "中止": {
+   "s": "中止",
+   "py": "zhōngzhǐ",
+   "g": "halt, break off",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.24",
+   "parts": "中 midway + 止 stop"
+  },
+  "普通": {
+   "s": "普通",
+   "py": "pǔtōng",
+   "g": "ordinary",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.25",
+   "parts": "普 general + 通 common"
+  },
+  "页面": {
+   "s": "页面",
+   "py": "yèmiàn",
+   "g": "page",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.26",
+   "trad": "頁面",
+   "parts": "页 page + 面 face"
+  },
+  "争执": {
+   "s": "争执",
+   "py": "zhēngzhí",
+   "g": "argue, dispute",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.26",
+   "trad": "爭執",
+   "parts": "争 contend + 执 hold fast"
+  },
+  "只@m": {
+   "s": "只",
+   "py": "zhī",
+   "g": "(counter for animals)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.27",
+   "trad": "隻",
+   "note": "Read zhǐ, 只 is \"only\"."
+  },
+  "猴子": {
+   "s": "猴子",
+   "py": "hóuzi",
+   "g": "monkey",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.27",
+   "parts": "猴 monkey + 子 (noun ending)",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "翻开": {
+   "s": "翻开",
+   "py": "fānkāi",
+   "g": "open (a book)",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.27",
+   "trad": "翻開",
+   "parts": "翻 turn over + 开 open"
+  },
+  "原谅": {
+   "s": "原谅",
+   "py": "yuánliàng",
+   "g": "forgive",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.29",
+   "trad": "原諒",
+   "parts": "原 pardon + 谅 understand"
+  },
+  "无": {
+   "s": "无",
+   "py": "wú",
+   "g": "none; have no",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.29",
+   "trad": "無",
+   "note": "Your card 無, in its mainland form.",
+   "known": [
+    [
+     "無",
+     "have no"
+    ]
+   ]
+  },
+  "那": {
+   "s": "那",
+   "py": "nà",
+   "g": "that",
+   "k": "grammar",
+   "card": true,
+   "n": 4,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "note": "Classical 彼, 其."
+  },
+  "孩子": {
+   "s": "孩子",
+   "py": "háizi",
+   "g": "child",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "parts": "孩 child + 子 (noun ending)",
+   "known": [
+    [
+     "子",
+     "child / Master"
+    ]
+   ]
+  },
+  "现在": {
+   "s": "现在",
+   "py": "xiànzài",
+   "g": "now",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "trad": "現在",
+   "parts": "现 present + 在 at",
+   "known": [
+    [
+     "在",
+     "be there"
+    ]
+   ]
+  },
+  "打扰": {
+   "s": "打扰",
+   "py": "dǎrǎo",
+   "g": "disturb",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "trad": "打擾",
+   "parts": "打 strike + 扰 trouble"
+  },
+  "她": {
+   "s": "她",
+   "py": "tā",
+   "g": "she, her",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "note": "A character made in the 1910s. Before that 他 served for both."
+  },
+  "手臂": {
+   "s": "手臂",
+   "py": "shǒubì",
+   "g": "arm",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "parts": "手 hand + 臂 arm"
+  },
+  "刀伤": {
+   "s": "刀伤",
+   "py": "dāoshāng",
+   "g": "knife wound",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "trad": "刀傷",
+   "parts": "刀 knife + 伤 wound"
+  },
+  "止血": {
+   "s": "止血",
+   "py": "zhǐxuè",
+   "g": "stop the bleeding",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.30",
+   "parts": "止 stop + 血 blood"
+  },
+  "等@wait": {
+   "s": "等",
+   "py": "děng",
+   "g": "wait (for)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.31",
+   "note": "The same character as 等 \"and so on\"."
+  },
+  "它": {
+   "s": "它",
+   "py": "tā",
+   "g": "it",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.31"
+  },
+  "长@grow": {
+   "s": "长",
+   "py": "zhǎng",
+   "g": "grow",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.31",
+   "trad": "長",
+   "note": "Read cháng, the same character is \"long\". 长好 \"heal over\".",
+   "known": [
+    [
+     "長",
+     "long"
+    ]
+   ]
+  },
+  "办法": {
+   "s": "办法",
+   "py": "bànfǎ",
+   "g": "way, means (of dealing with something)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.31",
+   "trad": "辦法",
+   "parts": "办 handle + 法 way"
+  },
+  "索要": {
+   "s": "索要",
+   "py": "suǒyào",
+   "g": "ask for, demand",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.31",
+   "parts": "索 demand + 要 want"
+  },
+  "绷带": {
+   "s": "绷带",
+   "py": "bēngdài",
+   "g": "bandage",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.31",
+   "trad": "繃帶",
+   "parts": "绷 stretch tight + 带 band"
+  },
+  "人权": {
+   "s": "人权",
+   "py": "rénquán",
+   "g": "human rights",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.32",
+   "trad": "人權",
+   "parts": "人 person + 权 right",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ]
+   ]
+  },
+  "另": {
+   "s": "另",
+   "py": "lìng",
+   "g": "another, other",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.32"
+  },
+  "道@m": {
+   "s": "道",
+   "py": "dào",
+   "g": "(counter for lines, cuts, long thin things)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.32",
+   "note": "一道刀伤 \"one knife wound\". Your card 道 is \"the Way\".",
+   "known": [
+    [
+     "道",
+     "the Way"
+    ]
+   ]
+  },
+  "玻璃": {
+   "s": "玻璃",
+   "py": "bōli",
+   "g": "glass",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.32"
+  },
+  "挡住": {
+   "s": "挡住",
+   "py": "dǎngzhù",
+   "g": "block, stop",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.32",
+   "trad": "擋住",
+   "parts": "挡 block + 住 firmly"
+  },
+  "威胁": {
+   "s": "威胁",
+   "py": "wēixié",
+   "g": "threat; threaten",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.33",
+   "trad": "威脅",
+   "parts": "威 might + 胁 coerce"
+  },
+  "无效": {
+   "s": "无效",
+   "py": "wúxiào",
+   "g": "ineffective, to no effect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.33",
+   "trad": "無效",
+   "parts": "无 have no + 效 effect",
+   "known": [
+    [
+     "無",
+     "have no"
+    ]
+   ]
+  },
+  "自愿": {
+   "s": "自愿",
+   "py": "zìyuàn",
+   "g": "voluntarily; volunteer",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.34",
+   "trad": "自願",
+   "parts": "自 self + 愿 wish",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ]
+   ]
+  },
+  "获取": {
+   "s": "获取",
+   "py": "huòqǔ",
+   "g": "obtain",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.34",
+   "trad": "獲取",
+   "parts": "获 gain + 取 take"
+  },
+  "帮助": {
+   "s": "帮助",
+   "py": "bāngzhù",
+   "g": "help",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.34",
+   "trad": "幫助",
+   "parts": "帮 help + 助 assist"
+  },
+  "工作": {
+   "s": "工作",
+   "py": "gōngzuò",
+   "g": "work, job",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.34",
+   "parts": "工 work + 作 do",
+   "known": [
+    [
+     "作",
+     "create"
+    ]
+   ]
+  },
+  "大段": {
+   "s": "大段",
+   "py": "dàduàn",
+   "g": "a long stretch (of text)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "parts": "大 big + 段 section"
+  },
+  "有关": {
+   "s": "有关",
+   "py": "yǒuguān",
+   "g": "concerning, about",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "trad": "有關",
+   "parts": "有 have + 关 connection",
+   "known": [
+    [
+     "有",
+     "have / there is"
+    ]
+   ]
+  },
+  "文字": {
+   "s": "文字",
+   "py": "wénzì",
+   "g": "text, writing",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "parts": "文 writing + 字 character"
+  },
+  "少数": {
+   "s": "少数",
+   "py": "shǎoshù",
+   "g": "a few, a small number",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "trad": "少數",
+   "parts": "少 few + 数 number",
+   "known": [
+    [
+     "數",
+     "count"
+    ]
+   ]
+  },
+  "公式": {
+   "s": "公式",
+   "py": "gōngshì",
+   "g": "formula",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "parts": "公 common + 式 form"
+  },
+  "头部": {
+   "s": "头部",
+   "py": "tóubù",
+   "g": "the head (as a part of the body)",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "trad": "頭部",
+   "parts": "头 head + 部 part"
+  },
+  "钝器": {
+   "s": "钝器",
+   "py": "dùnqì",
+   "g": "blunt instrument",
+   "k": "word",
+   "card": false,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "trad": "鈍器",
+   "parts": "钝 blunt + 器 tool",
+   "known": [
+    [
+     "器",
+     "vessel / tool"
+    ]
+   ]
+  },
+  "伤": {
+   "s": "伤",
+   "py": "shāng",
+   "g": "wound, injury",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "trad": "傷"
+  },
+  "流血": {
+   "s": "流血",
+   "py": "liúxuè",
+   "g": "bleed",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.35",
+   "parts": "流 flow + 血 blood"
+  },
+  "改进": {
+   "s": "改进",
+   "py": "gǎijìn",
+   "g": "improve; improvement",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.36",
+   "trad": "改進",
+   "parts": "改 change + 进 advance",
+   "note": "改 is in your cards.",
+   "known": [
+    [
+     "改",
+     "correct"
+    ]
+   ]
+  },
+  "处@m": {
+   "s": "处",
+   "py": "chù",
+   "g": "(counter for places, spots)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.36",
+   "trad": "處",
+   "note": "Your card 處 is \"dwell\". As a noun: a place.",
+   "known": [
+    [
+     "處",
+     "dwell"
+    ]
+   ]
+  },
+  "考虑": {
+   "s": "考虑",
+   "py": "kǎolǜ",
+   "g": "consider",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.37",
+   "trad": "考慮",
+   "parts": "考 examine + 虑 think over"
+  },
+  "人身": {
+   "s": "人身",
+   "py": "rénshēn",
+   "g": "one's person (as in personal safety)",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.37",
+   "parts": "人 person + 身 body",
+   "known": [
+    [
+     "人",
+     "person / others"
+    ],
+    [
+     "身",
+     "body / self"
+    ]
+   ]
+  },
+  "安全": {
+   "s": "安全",
+   "py": "ānquán",
+   "g": "safety; safe",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.37",
+   "parts": "安 at peace + 全 whole",
+   "known": [
+    [
+     "安",
+     "at peace"
+    ]
+   ]
+  },
+  "强行": {
+   "s": "强行",
+   "py": "qiángxíng",
+   "g": "by force",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.37",
+   "trad": "強行",
+   "parts": "强 force + 行 act",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "带离": {
+   "s": "带离",
+   "py": "dàilí",
+   "g": "take away from",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.37",
+   "trad": "帶離",
+   "parts": "带 take along + 离 away from"
+  },
+  "极力": {
+   "s": "极力",
+   "py": "jílì",
+   "g": "do one's utmost",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.38",
+   "trad": "極力",
+   "parts": "极 utmost + 力 strength",
+   "known": [
+    [
+     "力",
+     "strength"
+    ]
+   ]
+  },
+  "阻止": {
+   "s": "阻止",
+   "py": "zǔzhǐ",
+   "g": "prevent, stop",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.38",
+   "parts": "阻 block + 止 stop"
+  },
+  "夺走": {
+   "s": "夺走",
+   "py": "duózǒu",
+   "g": "snatch away",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.38",
+   "trad": "奪走",
+   "parts": "夺 seize + 走 away"
+  },
+  "案例": {
+   "s": "案例",
+   "py": "ànlì",
+   "g": "case, instance",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "parts": "案 case + 例 example"
+  },
+  "速度": {
+   "s": "速度",
+   "py": "sùdù",
+   "g": "speed",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "parts": "速 fast + 度 degree"
+  },
+  "较": {
+   "s": "较",
+   "py": "jiào",
+   "g": "comparatively, rather (formal)",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "較",
+   "note": "较快 \"rather fast\". Everyday speech: 比较."
+  },
+  "据": {
+   "s": "据",
+   "py": "jù",
+   "g": "according to",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "據",
+   "note": "据推测 \"according to conjecture\"."
+  },
+  "推测": {
+   "s": "推测",
+   "py": "tuīcè",
+   "g": "conjecture, infer",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "推測",
+   "parts": "推 reason out + 测 gauge"
+  },
+  "思维": {
+   "s": "思维",
+   "py": "sīwéi",
+   "g": "thinking, thought",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "思維",
+   "parts": "思 think + 维 hold together",
+   "known": [
+    [
+     "思",
+     "think"
+    ]
+   ]
+  },
+  "强": {
+   "s": "强",
+   "py": "qiáng",
+   "g": "strong",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "強"
+  },
+  "迅速": {
+   "s": "迅速",
+   "py": "xùnsù",
+   "g": "rapid, quickly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "parts": "迅 swift + 速 fast"
+  },
+  "联想": {
+   "s": "联想",
+   "py": "liánxiǎng",
+   "g": "associate, be reminded of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "聯想",
+   "parts": "联 link + 想 think"
+  },
+  "许多": {
+   "s": "许多",
+   "py": "xǔduō",
+   "g": "many",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "許多",
+   "parts": "许 quite + 多 many",
+   "known": [
+    [
+     "多",
+     "many"
+    ]
+   ]
+  },
+  "相关": {
+   "s": "相关",
+   "py": "xiāngguān",
+   "g": "related",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.39",
+   "trad": "相關",
+   "parts": "相 mutual + 关 connect",
+   "known": [
+    [
+     "相",
+     "each other"
+    ]
+   ]
+  },
+  "送医": {
+   "s": "送医",
+   "py": "sòngyī",
+   "g": "take to hospital",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "trad": "送醫",
+   "parts": "送 send + 医 doctor"
+  },
+  "途中": {
+   "s": "途中",
+   "py": "túzhōng",
+   "g": "on the way",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "parts": "途 road + 中 in"
+  },
+  "一度": {
+   "s": "一度",
+   "py": "yídù",
+   "g": "for a time, at one point",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "parts": "一 one + 度 time",
+   "known": [
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "生命": {
+   "s": "生命",
+   "py": "shēngmìng",
+   "g": "life",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "parts": "生 life + 命 fate"
+  },
+  "体征": {
+   "s": "体征",
+   "py": "tǐzhēng",
+   "g": "(vital) signs",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "trad": "體徵",
+   "parts": "体 body + 征 sign"
+  },
+  "最终": {
+   "s": "最终",
+   "py": "zuìzhōng",
+   "g": "in the end, finally",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "trad": "最終",
+   "parts": "最 most + 终 end",
+   "known": [
+    [
+     "終",
+     "end"
+    ]
+   ]
+  },
+  "恢复": {
+   "s": "恢复",
+   "py": "huīfù",
+   "g": "recover; restore",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "trad": "恢復",
+   "parts": "恢 extensive + 复 return"
+  },
+  "更新": {
+   "s": "更新",
+   "py": "gēngxīn",
+   "g": "update, renew",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "parts": "更 change + 新 new",
+   "note": "Here 更 is read gēng. 新 is in your cards (溫故而知新).",
+   "known": [
+    [
+     "新",
+     "new"
+    ]
+   ]
+  },
+  "贡献": {
+   "s": "贡献",
+   "py": "gòngxiàn",
+   "g": "contribution; contribute",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "trad": "貢獻",
+   "parts": "贡 tribute + 献 offer"
+  },
+  "突出": {
+   "s": "突出",
+   "py": "tūchū",
+   "g": "outstanding; stick out",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40",
+   "parts": "突 jut + 出 out",
+   "known": [
+    [
+     "出",
+     "go out"
+    ]
+   ]
+  },
+  "升": {
+   "s": "升",
+   "py": "shēng",
+   "g": "rise, be promoted",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.40"
+  },
+  "大概": {
+   "s": "大概",
+   "py": "dàgài",
+   "g": "probably; roughly",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.41",
+   "parts": "大 big + 概 general"
+  },
+  "极限": {
+   "s": "极限",
+   "py": "jíxiàn",
+   "g": "limit",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.41",
+   "trad": "極限",
+   "parts": "极 utmost + 限 bound"
+  },
+  "些": {
+   "s": "些",
+   "py": "xiē",
+   "g": "some, a bit",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.41",
+   "note": "After an adjective: 重要些 \"a bit more important\"."
+  },
+  "估计": {
+   "s": "估计",
+   "py": "gūjì",
+   "g": "reckon, estimate",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.41",
+   "trad": "估計",
+   "parts": "估 appraise + 计 count"
+  },
+  "回不来": {
+   "s": "回不来",
+   "py": "huíbulái",
+   "g": "cannot come back",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.41",
+   "trad": "回不來",
+   "parts": "回 return + 不 not + 来 come",
+   "note": "Verb + 不 + result: \"can't\". The same pattern as 做不到.",
+   "known": [
+    [
+     "不",
+     "not"
+    ],
+    [
+     "來",
+     "come"
+    ]
+   ]
+  },
+  "利用": {
+   "s": "利用",
+   "py": "lìyòng",
+   "g": "make use of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.42",
+   "parts": "利 advantage + 用 use",
+   "note": "利 is in your cards (小人喻於利).",
+   "known": [
+    [
+     "利",
+     "profit"
+    ],
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "技术": {
+   "s": "技术",
+   "py": "jìshù",
+   "g": "technology; technical",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.42",
+   "trad": "技術",
+   "parts": "技 skill + 术 art"
+  },
+  "身份": {
+   "s": "身份",
+   "py": "shēnfèn",
+   "g": "identity, status",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.42",
+   "parts": "身 person + 份 share",
+   "known": [
+    [
+     "身",
+     "body / self"
+    ]
+   ]
+  },
+  "进入": {
+   "s": "进入",
+   "py": "jìnrù",
+   "g": "enter",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.42",
+   "trad": "進入",
+   "parts": "进 advance + 入 enter"
+  },
+  "原": {
+   "s": "原",
+   "py": "yuán",
+   "g": "originally; original",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43"
+  },
+  "曾": {
+   "s": "曾",
+   "py": "céng",
+   "g": "once, formerly",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "note": "Classical survivor. Everyday speech uses 过 after the verb. Read Zēng, it is the surname in 曾子.",
+   "known": [
+    [
+     "曾",
+     "Zeng (a surname)"
+    ]
+   ]
+  },
+  "任教": {
+   "s": "任教",
+   "py": "rènjiào",
+   "g": "teach, hold a teaching post",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "parts": "任 hold a post + 教 teach"
+  },
+  "进展": {
+   "s": "进展",
+   "py": "jìnzhǎn",
+   "g": "progress",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "進展",
+   "parts": "进 advance + 展 unfold"
+  },
+  "艰难": {
+   "s": "艰难",
+   "py": "jiānnán",
+   "g": "hard, arduous",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "艱難",
+   "parts": "艰 hard + 难 difficult"
+  },
+  "转行": {
+   "s": "转行",
+   "py": "zhuǎnháng",
+   "g": "change careers",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "轉行",
+   "parts": "转 turn + 行 trade",
+   "note": "Here 行 is read háng, \"line of work\".",
+   "known": [
+    [
+     "行",
+     "walk / go"
+    ]
+   ]
+  },
+  "软件": {
+   "s": "软件",
+   "py": "ruǎnjiàn",
+   "g": "software",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "軟件",
+   "parts": "软 soft + 件 item"
+  },
+  "工程师": {
+   "s": "工程师",
+   "py": "gōngchéngshī",
+   "g": "engineer",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "工程師",
+   "parts": "工程 engineering + 师 master",
+   "note": "师 is your 師.",
+   "known": [
+    [
+     "師",
+     "teacher"
+    ]
+   ]
+  },
+  "作为": {
+   "s": "作为",
+   "py": "zuòwéi",
+   "g": "as, in the capacity of",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "作為",
+   "parts": "作 act + 为 as",
+   "known": [
+    [
+     "作",
+     "create"
+    ],
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "基金会": {
+   "s": "基金会",
+   "py": "jījīnhuì",
+   "g": "foundation; the Foundation",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "trad": "基金會",
+   "parts": "基金 fund + 会 society"
+  },
+  "聘用": {
+   "s": "聘用",
+   "py": "pìnyòng",
+   "g": "hire, employ",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.43",
+   "parts": "聘 engage + 用 use",
+   "known": [
+    [
+     "用",
+     "use"
+    ]
+   ]
+  },
+  "递交": {
+   "s": "递交",
+   "py": "dìjiāo",
+   "g": "submit, hand in",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.44",
+   "trad": "遞交",
+   "parts": "递 pass + 交 hand over"
+  },
+  "辞职": {
+   "s": "辞职",
+   "py": "cízhí",
+   "g": "resign",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.44",
+   "trad": "辭職",
+   "parts": "辞 take leave + 职 post"
+  },
+  "申请": {
+   "s": "申请",
+   "py": "shēnqǐng",
+   "g": "application; apply",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.44",
+   "trad": "申請",
+   "parts": "申 state + 请 request"
+  },
+  "遗体": {
+   "s": "遗体",
+   "py": "yítǐ",
+   "g": "remains, body (of the dead)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "遺體",
+   "parts": "遗 left behind + 体 body"
+  },
+  "发现": {
+   "s": "发现",
+   "py": "fāxiàn",
+   "g": "discover, find",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "發現",
+   "parts": "发 bring out + 现 appear",
+   "known": [
+    [
+     "發",
+     "set off"
+    ]
+   ]
+  },
+  "肝脏": {
+   "s": "肝脏",
+   "py": "gānzàng",
+   "g": "liver",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "肝臟",
+   "parts": "肝 liver + 脏 organ"
+  },
+  "温度": {
+   "s": "温度",
+   "py": "wēndù",
+   "g": "temperature",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "溫度",
+   "parts": "温 warm + 度 degree",
+   "note": "温 is your 溫 (溫故而知新).",
+   "known": [
+    [
+     "溫",
+     "warm / review"
+    ]
+   ]
+  },
+  "摄氏度": {
+   "s": "摄氏度",
+   "py": "shèshìdù",
+   "g": "degrees Celsius",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "攝氏度",
+   "parts": "摄氏 \"Mr Celsius\" (a sound loan) + 度 degree"
+  },
+  "体温": {
+   "s": "体温",
+   "py": "tǐwēn",
+   "g": "body temperature",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "體溫",
+   "parts": "体 body + 温 warmth",
+   "known": [
+    [
+     "溫",
+     "warm / review"
+    ]
+   ]
+  },
+  "过低": {
+   "s": "过低",
+   "py": "guòdī",
+   "g": "too low",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.45",
+   "trad": "過低",
+   "parts": "过 beyond + 低 low",
+   "known": [
+    [
+     "過",
+     "mistake"
+    ]
+   ]
+  },
+  "去世": {
+   "s": "去世",
+   "py": "qùshì",
+   "g": "pass away, die",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "parts": "去 leave + 世 the world",
+   "note": "Here 去 keeps its classical sense, \"leave\".",
+   "known": [
+    [
+     "去",
+     "leave"
+    ]
+   ]
+  },
+  "当天": {
+   "s": "当天",
+   "py": "dàngtiān",
+   "g": "that day, the same day",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "當天",
+   "parts": "当 that very + 天 day",
+   "known": [
+    [
+     "天",
+     "heaven"
+    ]
+   ]
+  },
+  "给": {
+   "s": "给",
+   "py": "gěi",
+   "g": "to, for; give",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "給",
+   "note": "Before a person and a verb: 给同事发送 \"send to a colleague\"."
+  },
+  "同事": {
+   "s": "同事",
+   "py": "tóngshì",
+   "g": "colleague",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "parts": "同 same + 事 work",
+   "known": [
+    [
+     "事",
+     "serve"
+    ]
+   ]
+  },
+  "发送": {
+   "s": "发送",
+   "py": "fāsòng",
+   "g": "send",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "發送",
+   "parts": "发 send out + 送 deliver",
+   "known": [
+    [
+     "發",
+     "set off"
+    ]
+   ]
+  },
+  "邮件": {
+   "s": "邮件",
+   "py": "yóujiàn",
+   "g": "email, mail",
+   "k": "word",
+   "card": true,
+   "n": 3,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "郵件",
+   "parts": "邮 post + 件 item"
+  },
+  "大致": {
+   "s": "大致",
+   "py": "dàzhì",
+   "g": "roughly, more or less",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "parts": "大 big + 致 overall"
+  },
+  "解释": {
+   "s": "解释",
+   "py": "jiěshì",
+   "g": "explain",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "解釋",
+   "parts": "解 untie + 释 release"
+  },
+  "动机": {
+   "s": "动机",
+   "py": "dòngjī",
+   "g": "motive",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.46",
+   "trad": "動機",
+   "parts": "动 move + 机 trigger"
+  },
+  "效应": {
+   "s": "效应",
+   "py": "xiàoyìng",
+   "g": "effect",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.47",
+   "trad": "效應",
+   "parts": "效 effect + 应 response"
+  },
+  "所": {
+   "s": "所",
+   "py": "suǒ",
+   "g": "(passive); 为 A 所 B, \"is B-ed by A\"",
+   "k": "grammar",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.47",
+   "note": "Classical survivor: your card 所, in the classical passive 為…所.",
+   "known": [
+    [
+     "所",
+     "that which"
+    ]
+   ]
+  },
+  "封": {
+   "s": "封",
+   "py": "fēng",
+   "g": "(counter for letters)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.48"
+  },
+  "之前": {
+   "s": "之前",
+   "py": "zhīqián",
+   "g": "before, earlier",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.49",
+   "parts": "之 of that + 前 before",
+   "known": [
+    [
+     "之",
+     "it / of / go"
+    ]
+   ]
+  },
+  "课题": {
+   "s": "课题",
+   "py": "kètí",
+   "g": "research topic, problem",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.49",
+   "trad": "課題",
+   "parts": "课 lesson + 题 topic"
+  },
+  "做得动": {
+   "s": "做得动",
+   "py": "zuòdedòng",
+   "g": "able to make headway on",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.50",
+   "trad": "做得動",
+   "parts": "做 do + 得 can + 动 move",
+   "note": "The same pattern as 站得住.",
+   "known": [
+    [
+     "得",
+     "get"
+    ]
+   ]
+  },
+  "唯一": {
+   "s": "唯一",
+   "py": "wéiyī",
+   "g": "only, sole",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.50",
+   "parts": "唯 only + 一 one",
+   "note": "唯 is in your cards (唯仁者能好人).",
+   "known": [
+    [
+     "唯",
+     "only"
+    ],
+    [
+     "一",
+     "one"
+    ]
+   ]
+  },
+  "选择": {
+   "s": "选择",
+   "py": "xuǎnzé",
+   "g": "choice; choose",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.50",
+   "trad": "選擇",
+   "parts": "选 pick + 择 select",
+   "note": "择 is your 擇 (擇不處仁).",
+   "known": [
+    [
+     "擇",
+     "choose"
+    ]
+   ]
+  },
+  "书": {
+   "s": "书",
+   "py": "shū",
+   "g": "book",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "trad": "書"
+  },
+  "像": {
+   "s": "像",
+   "py": "xiàng",
+   "g": "be like, resemble",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "note": "Classical 如, 若."
+  },
+  "整个": {
+   "s": "整个",
+   "py": "zhěnggè",
+   "g": "whole, entire",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "trad": "整個",
+   "parts": "整 whole + 个 (counter)"
+  },
+  "世界": {
+   "s": "世界",
+   "py": "shìjiè",
+   "g": "world",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "parts": "世 age + 界 bounds"
+  },
+  "越": {
+   "s": "越",
+   "py": "yuè",
+   "g": "the more; 越 A 越 B, \"the more A, the more B\"",
+   "k": "grammar",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.51"
+  },
+  "探索": {
+   "s": "探索",
+   "py": "tànsuǒ",
+   "g": "explore",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "parts": "探 probe + 索 search"
+  },
+  "永远": {
+   "s": "永远",
+   "py": "yǒngyuǎn",
+   "g": "forever, always",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "trad": "永遠",
+   "parts": "永 forever + 远 far",
+   "note": "With a negative: never.",
+   "known": [
+    [
+     "遠",
+     "far"
+    ]
+   ]
+  },
+  "读": {
+   "s": "读",
+   "py": "dú",
+   "g": "read",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.51",
+   "trad": "讀"
+  },
+  "尽管如此": {
+   "s": "尽管如此",
+   "py": "jǐnguǎn rúcǐ",
+   "g": "even so",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.52",
+   "trad": "儘管如此",
+   "parts": "尽管 although + 如此 like this",
+   "note": "如此 is classical: \"like this\".",
+   "known": [
+    [
+     "如",
+     "like"
+    ]
+   ]
+  },
+  "忍不住": {
+   "s": "忍不住",
+   "py": "rěnbuzhù",
+   "g": "cannot help (doing)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.52",
+   "parts": "忍 endure + 不 not + 住 hold",
+   "note": "The same pattern as 做不到.",
+   "known": [
+    [
+     "不",
+     "not"
+    ]
+   ]
+  },
+  "阻挡": {
+   "s": "阻挡",
+   "py": "zǔdǎng",
+   "g": "block, hold back",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.52",
+   "trad": "阻擋",
+   "parts": "阻 block + 挡 ward off"
+  },
+  "憧憬": {
+   "s": "憧憬",
+   "py": "chōngjǐng",
+   "g": "longing, yearning",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.52",
+   "parts": "憧 yearn + 憬 awaken",
+   "note": "A literary word. Both characters carry the heart radical 忄."
+  },
+  "自从": {
+   "s": "自从",
+   "py": "zìcóng",
+   "g": "ever since",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.53",
+   "trad": "自從",
+   "parts": "自 from + 从 from",
+   "known": [
+    [
+     "自",
+     "from / self"
+    ],
+    [
+     "從",
+     "follow"
+    ]
+   ]
+  },
+  "之": {
+   "s": "之",
+   "py": "zhī",
+   "g": "of (classical)",
+   "k": "grammar",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.53",
+   "note": "Classical survivor: your card 之. 之日 \"the day of\".",
+   "known": [
+    [
+     "之",
+     "it / of / go"
+    ]
+   ]
+  },
+  "日": {
+   "s": "日",
+   "py": "rì",
+   "g": "day (formal); sun",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.53",
+   "note": "Same as your card."
+  },
+  "起": {
+   "s": "起",
+   "py": "qǐ",
+   "g": "from … on; closes 自从…起",
+   "k": "grammar",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.53"
+  },
+  "合上": {
+   "s": "合上",
+   "py": "héshàng",
+   "g": "close (a book, the eyes)",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.53",
+   "parts": "合 join + 上 up"
+  },
+  "其他": {
+   "s": "其他",
+   "py": "qítā",
+   "g": "other",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.54",
+   "parts": "其 the + 他 other",
+   "known": [
+    [
+     "其",
+     "his / its"
+    ]
+   ]
+  },
+  "问起": {
+   "s": "问起",
+   "py": "wènqǐ",
+   "g": "ask about",
+   "k": "word",
+   "card": false,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.54",
+   "trad": "問起",
+   "parts": "问 ask + 起 raise",
+   "known": [
+    [
+     "問",
+     "ask"
+    ]
+   ]
+  },
+  "为什么": {
+   "s": "为什么",
+   "py": "wèishénme",
+   "g": "why",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.54",
+   "trad": "為什麼",
+   "parts": "为 for + 什么 what",
+   "known": [
+    [
+     "為",
+     "be / act as / treat as"
+    ]
+   ]
+  },
+  "悲伤": {
+   "s": "悲伤",
+   "py": "bēishāng",
+   "g": "grieve; grief",
+   "k": "word",
+   "card": true,
+   "n": 1,
+   "src": "SCP-CN-303 朝闻道 · 303.54",
+   "trad": "悲傷",
+   "parts": "悲 sad + 伤 hurt"
+  },
+  "最后": {
+   "s": "最后",
+   "py": "zuìhòu",
+   "g": "last, the end; finally",
+   "k": "word",
+   "card": true,
+   "n": 2,
+   "src": "SCP-CN-303 朝闻道 · 303.55",
+   "trad": "最後",
+   "parts": "最 most + 后 after"
   }
  }
 }

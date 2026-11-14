@@ -1,0 +1,9567 @@
+{
+ "id": "m-scp-cn-303",
+ "book": 0,
+ "order": 103,
+ "title": "朝闻道",
+ "label": "SCP-CN-303 朝闻道",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: SCP-CN-303, SCP Foundation Chinese branch, scp-wiki-cn.wikidot.com/scp-cn-303, CC BY-SA 3.0. Glosses, notes and translation added by Claude, under the same licence.",
+ "chapters": [
+  {
+   "n": "303.1",
+   "text": "SCP-CN-303,初始厚度\n项目编号：SCP-CN-303\n项目等级：Euclid",
+   "han": 12,
+   "toks": [
+    "SCP-CN-303,",
+    [
+     "初始",
+     "初始"
+    ],
+    [
+     "厚度",
+     "厚度"
+    ],
+    "\n",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "编号",
+     "编号"
+    ],
+    "：SCP-CN-303\n",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "等级",
+     "等级"
+    ],
+    "：Euclid"
+   ],
+   "new": [
+    "初始",
+    "厚度"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303,",
+      ""
+     ],
+     [
+      "初始",
+      "initial, original"
+     ],
+     [
+      "厚度",
+      "thickness"
+     ]
+    ],
+    [
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "编号",
+      "serial number"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ]
+    ],
+    [
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "等级",
+      "class"
+     ],
+     [
+      "Euclid",
+      ""
+     ]
+    ]
+   ],
+   "translation": "(Picture caption:) SCP-CN-303 at its initial thickness. Item number: SCP-CN-303. Object class: Euclid.",
+   "note": "The file's title is 朝闻道, \"hear the Way in the morning\": Analects 4.8, 朝聞道，夕死可矣. Read the file with the second half in mind."
+  },
+  {
+   "n": "303.2",
+   "text": "特殊收容措施：SCP-CN-303被置于Site-CN-75的一间标准收容室内。",
+   "han": 18,
+   "toks": [
+    [
+     "特殊",
+     "特殊"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    "：SCP-CN-303",
+    [
+     "被",
+     "被"
+    ],
+    [
+     "置",
+     "置"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    "Site-CN-75",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "间",
+     "间"
+    ],
+    [
+     "标准",
+     "标准"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "室",
+     "室"
+    ],
+    [
+     "内",
+     "内"
+    ],
+    "。"
+   ],
+   "new": [
+    "置",
+    "室"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "特殊",
+      "special"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "置",
+      "place, put (formal)"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "Site-CN-75",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "间",
+      "(counter for rooms)"
+     ],
+     [
+      "标准",
+      "standard"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "室",
+      "room, chamber"
+     ],
+     [
+      "内",
+      "within (after a span of time or a place)"
+     ]
+    ]
+   ],
+   "translation": "Special Containment Procedures: SCP-CN-303 is kept in a standard containment chamber at Site-CN-75.",
+   "note": ""
+  },
+  {
+   "n": "303.3",
+   "text": "对项目的研究须经过Dorothy研究员批准，任何人员不得出于研究以外目的阅读SCP-CN-303。",
+   "han": 30,
+   "toks": [
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "须",
+     "须"
+    ],
+    [
+     "经过",
+     "经过"
+    ],
+    "Dorothy",
+    [
+     "研究员",
+     "研究员"
+    ],
+    [
+     "批准",
+     "批准"
+    ],
+    "，",
+    [
+     "任何",
+     "任何"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "不得",
+     "不得"
+    ],
+    [
+     "出于",
+     "出于"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "以外",
+     "以外"
+    ],
+    [
+     "目的",
+     "目的"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "SCP-CN-303。"
+   ],
+   "new": [
+    "研究",
+    "经过",
+    "研究员",
+    "批准",
+    "任何",
+    "不得",
+    "出于",
+    "以外",
+    "目的"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "须",
+      "must (formal)"
+     ],
+     [
+      "经过",
+      "go through, pass"
+     ],
+     [
+      "Dorothy",
+      ""
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "批准",
+      "approve"
+     ],
+     [
+      "任何",
+      "any"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "不得",
+      "must not, may not"
+     ],
+     [
+      "出于",
+      "out of, stemming from"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "以外",
+      "other than, beyond"
+     ],
+     [
+      "目的",
+      "purpose, aim"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ]
+    ]
+   ],
+   "translation": "Research on the item must be approved by Researcher Dorothy; no personnel may read SCP-CN-303 for any purpose other than research.",
+   "note": ""
+  },
+  {
+   "n": "303.4",
+   "text": "任何人员不得阅读SCP-CN-303。",
+   "han": 8,
+   "toks": [
+    [
+     "任何",
+     "任何"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "不得",
+     "不得"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "SCP-CN-303。"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "任何",
+      "any"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "不得",
+      "must not, may not"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ]
+    ]
+   ],
+   "translation": "No personnel may read SCP-CN-303.",
+   "note": "The sentence before this one still allows reading for research. Someone added this flat ban afterwards."
+  },
+  {
+   "n": "303.5",
+   "text": "描述：SCP-CN-303当前为一本约500页厚的平装书，其封面上用英文手写体写着“一切的答案”。",
+   "han": 31,
+   "toks": [
+    [
+     "描述",
+     "描述"
+    ],
+    "：SCP-CN-303",
+    [
+     "当前",
+     "当前"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "本",
+     "本"
+    ],
+    [
+     "约",
+     "约"
+    ],
+    "500",
+    [
+     "页",
+     "页"
+    ],
+    [
+     "厚",
+     "厚"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "平装书",
+     "平装书"
+    ],
+    "，",
+    [
+     "其",
+     "其"
+    ],
+    [
+     "封面",
+     "封面"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "用",
+     "用"
+    ],
+    [
+     "英文",
+     "英文"
+    ],
+    [
+     "手写体",
+     "手写体"
+    ],
+    [
+     "写",
+     "写"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    "“",
+    [
+     "一切",
+     "一切"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "”。"
+   ],
+   "new": [
+    "当前",
+    "本",
+    "页",
+    "厚",
+    "封面",
+    "英文",
+    "写",
+    "着",
+    "一切",
+    "答案"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "描述",
+      "describe"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "当前",
+      "current, at present"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "本",
+      "(counter for books)"
+     ],
+     [
+      "约",
+      "about, roughly"
+     ],
+     [
+      "500",
+      ""
+     ],
+     [
+      "页",
+      "page"
+     ],
+     [
+      "厚",
+      "thick"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "平装书",
+      "paperback"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "封面",
+      "cover (of a book)"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "用",
+      "in"
+     ],
+     [
+      "英文",
+      "English (the language)"
+     ],
+     [
+      "手写体",
+      "handwriting, script"
+     ],
+     [
+      "写",
+      "write"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "一切",
+      "everything, all"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "答案",
+      "answer"
+     ]
+    ]
+   ],
+   "translation": "Description: SCP-CN-303 is at present a paperback about 500 pages thick; on its cover, handwritten in English, are the words \"The Answer to Everything\".",
+   "note": ""
+  },
+  {
+   "n": "303.6",
+   "text": "在事故303-A发生后，项目的扉页上出现了一行英文，内容为：“We cannot conquer the unknown, but I will still devote my life to this impossible task.\"。",
+   "han": 22,
+   "toks": [
+    [
+     "在",
+     "在"
+    ],
+    [
+     "事故",
+     "事故"
+    ],
+    "303-A",
+    [
+     "发生",
+     "发生"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "扉页",
+     "扉页"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "行",
+     "行@line"
+    ],
+    [
+     "英文",
+     "英文"
+    ],
+    "，",
+    [
+     "内容",
+     "内容"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "：“We cannot conquer the unknown, but I will still devote my life to this impossible task.\"。"
+   ],
+   "new": [
+    "事故",
+    "发生",
+    "出现",
+    "行@line",
+    "内容"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "事故",
+      "accident, incident"
+     ],
+     [
+      "303-A",
+      ""
+     ],
+     [
+      "发生",
+      "happen, occur"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "扉页",
+      "title page, flyleaf"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "行",
+      "line, row (also a counter)"
+     ],
+     [
+      "英文",
+      "English (the language)"
+     ],
+     [
+      "内容",
+      "content"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ]
+    ],
+    [
+     [
+      "“We",
+      ""
+     ],
+     [
+      "cannot",
+      ""
+     ],
+     [
+      "conquer",
+      ""
+     ],
+     [
+      "the",
+      ""
+     ],
+     [
+      "unknown,",
+      ""
+     ],
+     [
+      "but",
+      ""
+     ],
+     [
+      "I",
+      ""
+     ],
+     [
+      "will",
+      ""
+     ],
+     [
+      "still",
+      ""
+     ],
+     [
+      "devote",
+      ""
+     ],
+     [
+      "my",
+      ""
+     ],
+     [
+      "life",
+      ""
+     ],
+     [
+      "to",
+      ""
+     ],
+     [
+      "this",
+      ""
+     ],
+     [
+      "impossible",
+      ""
+     ],
+     [
+      "task.\"。",
+      ""
+     ]
+    ]
+   ],
+   "translation": "After Incident 303-A, a line of English appeared on the item's title page, reading: \"We cannot conquer the unknown, but I will still devote my life to this impossible task.\"",
+   "note": "The page's footnote gives the line in Chinese: 未知是无法被征服的，但我仍愿意为征服未知而献出生命。 \"The unknown cannot be conquered, but I am still willing to give my life to conquering it.\""
+  },
+  {
+   "n": "303.7",
+   "text": "研究员██指出英文的字体与赵██博士的字体非常相似。",
+   "han": 21,
+   "toks": [
+    [
+     "研究员",
+     "研究员"
+    ],
+    "██",
+    [
+     "指出",
+     "指出"
+    ],
+    [
+     "英文",
+     "英文"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字体",
+     "字体"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "赵",
+     "赵"
+    ],
+    "██",
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "字体",
+     "字体"
+    ],
+    [
+     "非常",
+     "非常"
+    ],
+    [
+     "相似",
+     "相似"
+    ],
+    "。"
+   ],
+   "new": [
+    "指出",
+    "非常",
+    "相似"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "指出",
+      "point out"
+     ],
+     [
+      "英文",
+      "English (the language)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字体",
+      "handwriting"
+     ],
+     [
+      "与",
+      "with"
+     ],
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "字体",
+      "handwriting"
+     ],
+     [
+      "非常",
+      "very, extremely"
+     ],
+     [
+      "相似",
+      "similar, alike"
+     ]
+    ]
+   ],
+   "translation": "Researcher ██ pointed out that the handwriting of the English is very similar to Dr. Zhao ██'s.",
+   "note": ""
+  },
+  {
+   "n": "303.8",
+   "text": "SCP-CN-303的内容为当前阅读者想要解决的问题的答案，答案按照问题对于阅读者的重要程度排序。",
+   "han": 37,
+   "toks": [
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "内容",
+     "内容"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "当前",
+     "当前"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "想要",
+     "想要"
+    ],
+    [
+     "解决",
+     "解决"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "，",
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "按照",
+     "按照"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "重要",
+     "重要"
+    ],
+    [
+     "程度",
+     "程度"
+    ],
+    [
+     "排序",
+     "排序"
+    ],
+    "。"
+   ],
+   "new": [
+    "解决",
+    "问题",
+    "按照",
+    "重要",
+    "排序"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "内容",
+      "content"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "当前",
+      "current, at present"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "想要",
+      "want"
+     ],
+     [
+      "解决",
+      "solve, settle"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "问题",
+      "question"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "按照",
+      "according to"
+     ],
+     [
+      "问题",
+      "question"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "重要",
+      "important"
+     ],
+     [
+      "程度",
+      "degree, extent"
+     ],
+     [
+      "排序",
+      "put in order, sort"
+     ]
+    ]
+   ],
+   "translation": "The content of SCP-CN-303 is the answers to the questions its current reader wants solved; the answers are ordered by how important each question is to the reader.",
+   "note": "Two descriptions nested before 答案: [[当前阅读者想要解决的] 问题的] 答案."
+  },
+  {
+   "n": "303.9",
+   "text": "答案的语言为阅读者的母语。",
+   "han": 12,
+   "toks": [
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "语言",
+     "语言"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "母语",
+     "母语"
+    ],
+    "。"
+   ],
+   "new": [
+    "语言",
+    "母语"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "语言",
+      "language"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "母语",
+      "native language"
+     ]
+    ]
+   ],
+   "translation": "The answers are in the reader's native language.",
+   "note": "For you, it would be English."
+  },
+  {
+   "n": "303.10",
+   "text": "阅读项目会立即使对象受到物理伤害，多次实验表明伤害的严重程度依答案可能对现实造成的影响大小而定。",
+   "han": 46,
+   "toks": [
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "立即",
+     "立即"
+    ],
+    [
+     "使",
+     "使"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "受到",
+     "受到"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "伤害",
+     "伤害"
+    ],
+    "，",
+    [
+     "多次",
+     "多次"
+    ],
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "表明",
+     "表明"
+    ],
+    [
+     "伤害",
+     "伤害"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "严重",
+     "严重"
+    ],
+    [
+     "程度",
+     "程度"
+    ],
+    [
+     "依",
+     "依"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "可能",
+     "可能"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "现实",
+     "现实"
+    ],
+    [
+     "造成",
+     "造成"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "大小",
+     "大小"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "定",
+     "定"
+    ],
+    "。"
+   ],
+   "new": [
+    "立即",
+    "多次",
+    "表明",
+    "严重",
+    "可能",
+    "现实",
+    "造成",
+    "定"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "立即",
+      "immediately"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "受到",
+      "receive, suffer"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "伤害",
+      "harm, injury"
+     ],
+     [
+      "多次",
+      "many times, repeatedly"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "表明",
+      "show, make clear"
+     ],
+     [
+      "伤害",
+      "harm, injury"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "严重",
+      "serious, severe"
+     ],
+     [
+      "程度",
+      "degree, extent"
+     ],
+     [
+      "依",
+      "depends on"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "可能",
+      "may, possibly"
+     ],
+     [
+      "对",
+      "on"
+     ],
+     [
+      "现实",
+      "reality"
+     ],
+     [
+      "造成",
+      "cause, bring about"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "大小",
+      "size"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "定",
+      "be settled, be determined"
+     ]
+    ]
+   ],
+   "translation": "Reading the item immediately causes the subject physical harm; repeated experiments show that the severity of the harm depends on how large an effect the answer could have on reality.",
+   "note": "依…而定, \"is determined by…\", is a classical frame."
+  },
+  {
+   "n": "303.11",
+   "text": "例如，“你丢的东西在██研究员桌上”会使对象皮肤擦伤，而询问Keter级项目的收容措施会导致对象死亡。",
+   "han": 39,
+   "toks": [
+    [
+     "例如",
+     "例如"
+    ],
+    "，“",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "丢",
+     "丢"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "东西",
+     "东西"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    "██",
+    [
+     "研究员",
+     "研究员"
+    ],
+    [
+     "桌",
+     "桌"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    "”",
+    [
+     "会",
+     "会"
+    ],
+    [
+     "使",
+     "使"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "皮肤",
+     "皮肤"
+    ],
+    [
+     "擦伤",
+     "擦伤"
+    ],
+    "，",
+    [
+     "而",
+     "而"
+    ],
+    [
+     "询问",
+     "询问"
+    ],
+    "Keter",
+    [
+     "级",
+     "级"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "导致",
+     "导致"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "死亡",
+     "死亡"
+    ],
+    "。"
+   ],
+   "new": [
+    "例如",
+    "丢",
+    "皮肤",
+    "擦伤",
+    "询问",
+    "死亡"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "例如",
+      "for example"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "丢",
+      "lose"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "东西",
+      "thing"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "桌",
+      "table, desk"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "皮肤",
+      "skin"
+     ],
+     [
+      "擦伤",
+      "graze, abrasion"
+     ],
+     [
+      "而",
+      "whereas"
+     ],
+     [
+      "询问",
+      "ask about, inquire"
+     ],
+     [
+      "Keter",
+      ""
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "导致",
+      "lead to, cause"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "死亡",
+      "death"
+     ]
+    ]
+   ],
+   "translation": "For example, \"the thing you lost is on Researcher ██'s desk\" gives the subject a graze on the skin, whereas asking about the containment procedures for a Keter-class item causes the subject's death.",
+   "note": ""
+  },
+  {
+   "n": "303.12",
+   "text": "若答案没有改变现实的可能性，伤害则不会发生。",
+   "han": 20,
+   "toks": [
+    [
+     "若",
+     "若"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "改变",
+     "改变"
+    ],
+    [
+     "现实",
+     "现实"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "可能性",
+     "可能性"
+    ],
+    "，",
+    [
+     "伤害",
+     "伤害"
+    ],
+    [
+     "则",
+     "则"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "发生",
+     "发生"
+    ],
+    "。"
+   ],
+   "new": [
+    "可能性",
+    "则"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "若",
+      "if (formal)"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "改变",
+      "change"
+     ],
+     [
+      "现实",
+      "reality"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "可能性",
+      "possibility"
+     ],
+     [
+      "伤害",
+      "harm, injury"
+     ],
+     [
+      "则",
+      "then (formal)"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "发生",
+      "happen, occur"
+     ]
+    ]
+   ],
+   "translation": "If an answer has no possibility of changing reality, no harm occurs.",
+   "note": ""
+  },
+  {
+   "n": "303.13",
+   "text": "SCP-CN-303只作用于第一个开始阅读的人，其余人只能看到空白页。",
+   "han": 23,
+   "toks": [
+    "SCP-CN-303",
+    [
+     "只",
+     "只"
+    ],
+    [
+     "作用",
+     "作用"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "第一",
+     "第一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "，",
+    [
+     "其余",
+     "其余"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "只",
+     "只"
+    ],
+    [
+     "能",
+     "能"
+    ],
+    [
+     "看到",
+     "看到"
+    ],
+    [
+     "空白",
+     "空白"
+    ],
+    [
+     "页",
+     "页"
+    ],
+    "。"
+   ],
+   "new": [
+    "作用",
+    "第一",
+    "空白"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "作用",
+      "act on"
+     ],
+     [
+      "于",
+      "on"
+     ],
+     [
+      "第一",
+      "first"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "其余",
+      "the rest, the others"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "能",
+      "can, be able to"
+     ],
+     [
+      "看到",
+      "see, notice"
+     ],
+     [
+      "空白",
+      "blank"
+     ],
+     [
+      "页",
+      "page"
+     ]
+    ]
+   ],
+   "translation": "SCP-CN-303 acts only on the first person who begins reading; the others can see only blank pages.",
+   "note": ""
+  },
+  {
+   "n": "303.14",
+   "text": "阅读SCP-CN-303会使其增厚，目前未观察到项目在阅读过程中停止增厚的现象。",
+   "han": 28,
+   "toks": [
+    [
+     "阅读",
+     "阅读"
+    ],
+    "SCP-CN-303",
+    [
+     "会",
+     "会"
+    ],
+    [
+     "使",
+     "使"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "增厚",
+     "增厚"
+    ],
+    "，",
+    [
+     "目前",
+     "目前"
+    ],
+    [
+     "未",
+     "未"
+    ],
+    [
+     "观察",
+     "观察"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "过程",
+     "过程"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "停止",
+     "停止"
+    ],
+    [
+     "增厚",
+     "增厚"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "现象",
+     "现象"
+    ],
+    "。"
+   ],
+   "new": [
+    "增厚",
+    "目前",
+    "过程"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "增厚",
+      "thicken"
+     ],
+     [
+      "目前",
+      "at present, so far"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "观察",
+      "observe"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "过程",
+      "process, course"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "停止",
+      "stop"
+     ],
+     [
+      "增厚",
+      "thicken"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "现象",
+      "phenomenon"
+     ]
+    ]
+   ],
+   "translation": "Reading SCP-CN-303 makes it grow thicker; so far it has not been observed to stop thickening during a reading.",
+   "note": ""
+  },
+  {
+   "n": "303.15",
+   "text": "阅读者停止阅读或死亡后，项目会回到其初始厚度，即约500页。",
+   "han": 24,
+   "toks": [
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "者",
+     "者"
+    ],
+    [
+     "停止",
+     "停止"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "或",
+     "或"
+    ],
+    [
+     "死亡",
+     "死亡"
+    ],
+    [
+     "后",
+     "后"
+    ],
+    "，",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "回到",
+     "回到"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "初始",
+     "初始"
+    ],
+    [
+     "厚度",
+     "厚度"
+    ],
+    "，",
+    [
+     "即",
+     "即"
+    ],
+    [
+     "约",
+     "约"
+    ],
+    "500",
+    [
+     "页",
+     "页"
+    ],
+    "。"
+   ],
+   "new": [
+    "回到",
+    "即"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "者",
+      "the one who, -er"
+     ],
+     [
+      "停止",
+      "stop"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "或",
+      "or"
+     ],
+     [
+      "死亡",
+      "death"
+     ],
+     [
+      "后",
+      "after (follows a time or an event)"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "回到",
+      "return to"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "初始",
+      "initial, original"
+     ],
+     [
+      "厚度",
+      "thickness"
+     ],
+     [
+      "即",
+      "that is, namely (formal)"
+     ],
+     [
+      "约",
+      "about, roughly"
+     ],
+     [
+      "500",
+      ""
+     ],
+     [
+      "页",
+      "page"
+     ]
+    ]
+   ],
+   "translation": "After the reader stops reading or dies, the item returns to its initial thickness, that is, about 500 pages.",
+   "note": ""
+  },
+  {
+   "n": "303.16",
+   "text": "对SCP-CN-303的研究由Site-CN-75的数名研究员展开。",
+   "han": 13,
+   "toks": [
+    [
+     "对",
+     "对@to"
+    ],
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "由",
+     "由"
+    ],
+    "Site-CN-75",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "数",
+     "数"
+    ],
+    [
+     "名",
+     "名"
+    ],
+    [
+     "研究员",
+     "研究员"
+    ],
+    [
+     "展开",
+     "展开"
+    ],
+    "。"
+   ],
+   "new": [
+    "数",
+    "名",
+    "展开"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "由",
+      "by (marks who does it)"
+     ],
+     [
+      "Site-CN-75",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "数",
+      "several (formal)"
+     ],
+     [
+      "名",
+      "(counter for people"
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "展开",
+      "carry out, launch"
+     ]
+    ]
+   ],
+   "translation": "Research on SCP-CN-303 is carried out by several researchers at Site-CN-75.",
+   "note": ""
+  },
+  {
+   "n": "303.17",
+   "text": "附录1：项目对不同测试对象的作用\n表格中的内容按照答案出现的顺序排列。",
+   "han": 31,
+   "toks": [
+    [
+     "附录",
+     "附录"
+    ],
+    "1：",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "不同",
+     "不同"
+    ],
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "作用",
+     "作用"
+    ],
+    "\n",
+    [
+     "表格",
+     "表格"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "内容",
+     "内容"
+    ],
+    [
+     "按照",
+     "按照"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "顺序",
+     "顺序"
+    ],
+    [
+     "排列",
+     "排列"
+    ],
+    "。"
+   ],
+   "new": [
+    "测试",
+    "表格",
+    "顺序",
+    "排列"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "附录",
+      "appendix"
+     ],
+     [
+      "1",
+      ""
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "对",
+      "on"
+     ],
+     [
+      "不同",
+      "different"
+     ],
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "作用",
+      "effect"
+     ]
+    ],
+    [
+     [
+      "表格",
+      "table, form"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "内容",
+      "content"
+     ],
+     [
+      "按照",
+      "according to"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "顺序",
+      "order, sequence"
+     ],
+     [
+      "排列",
+      "arrange, line up"
+     ]
+    ]
+   ],
+   "translation": "Appendix 1: The item's effect on different test subjects. The contents of the tables are arranged in the order in which the answers appeared.",
+   "note": ""
+  },
+  {
+   "n": "303.18",
+   "text": "所有内容均为测试对象转述。",
+   "han": 12,
+   "toks": [
+    [
+     "所有",
+     "所有"
+    ],
+    [
+     "内容",
+     "内容"
+    ],
+    [
+     "均",
+     "均"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "转述",
+     "转述"
+    ],
+    "。"
+   ],
+   "new": [
+    "均"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "所有",
+      "all, every"
+     ],
+     [
+      "内容",
+      "content"
+     ],
+     [
+      "均",
+      "all, without exception (formal)"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "转述",
+      "relay, report in one's own words"
+     ]
+    ]
+   ],
+   "translation": "All contents are as reported by the test subjects.",
+   "note": ""
+  },
+  {
+   "n": "303.19",
+   "text": "由于测试对象通常不能具体地描述他们最想知道答案的问题，实验记录中并没有包含答案对应的问题。",
+   "han": 43,
+   "toks": [
+    [
+     "由于",
+     "由于"
+    ],
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "通常",
+     "通常"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "能",
+     "能"
+    ],
+    [
+     "具体",
+     "具体"
+    ],
+    [
+     "地",
+     "地@ly"
+    ],
+    [
+     "描述",
+     "描述"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "最",
+     "最"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    "，",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "记录",
+     "记录"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "并",
+     "并@not"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "包含",
+     "包含"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    [
+     "对应",
+     "对应"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    "。"
+   ],
+   "new": [
+    "由于",
+    "通常",
+    "具体",
+    "记录",
+    "并@not",
+    "包含",
+    "对应"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "由于",
+      "because, owing to"
+     ],
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "通常",
+      "usually"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "能",
+      "can, be able to"
+     ],
+     [
+      "具体",
+      "specific, concrete"
+     ],
+     [
+      "地",
+      "-ly"
+     ],
+     [
+      "描述",
+      "describe"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "最",
+      "most, -est"
+     ],
+     [
+      "想",
+      "want to"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "问题",
+      "question"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "并",
+      "in fact (not)"
+     ],
+     [
+      "没有",
+      "do not"
+     ],
+     [
+      "包含",
+      "contain, include"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "对应",
+      "correspond to"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "问题",
+      "question"
+     ]
+    ]
+   ],
+   "translation": "Because test subjects usually cannot describe specifically the questions they most want answered, the experiment records do not include the questions the answers correspond to.",
+   "note": ""
+  },
+  {
+   "n": "303.20",
+   "text": "记录1：D-1527\nSCP-CN-303给出的答案\n伤害\n测试对象反应\n研究人员指令",
+   "han": 21,
+   "toks": [
+    [
+     "记录",
+     "记录"
+    ],
+    "1：D-1527\nSCP-CN-303",
+    [
+     "给出",
+     "给出"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "\n",
+    [
+     "伤害",
+     "伤害"
+    ],
+    "\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "反应",
+     "反应"
+    ],
+    "\n",
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "指令",
+     "指令"
+    ]
+   ],
+   "new": [
+    "给出",
+    "指令"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "1",
+      ""
+     ],
+     [
+      "D-1527",
+      ""
+     ]
+    ],
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "给出",
+      "give, put forward"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "答案",
+      "answer"
+     ]
+    ],
+    [
+     [
+      "伤害",
+      "harm, injury"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "反应",
+      "reaction, response"
+     ]
+    ],
+    [
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "指令",
+      "instruction, order"
+     ]
+    ]
+   ],
+   "translation": "Record 1: D-1527. Table columns: the answer SCP-CN-303 gave; injury; the test subject's reaction; the researchers' instruction.",
+   "note": ""
+  },
+  {
+   "n": "303.21",
+   "text": "番茄炒鸡蛋，清炒土豆丝，包菜，紫菜蛋汤，米饭。\n手部皮肤轻微擦伤\n捂住手上的伤口\n继续阅读",
+   "han": 37,
+   "toks": [
+    [
+     "番茄",
+     "番茄"
+    ],
+    [
+     "炒",
+     "炒"
+    ],
+    [
+     "鸡蛋",
+     "鸡蛋"
+    ],
+    "，",
+    [
+     "清炒",
+     "清炒"
+    ],
+    [
+     "土豆丝",
+     "土豆丝"
+    ],
+    "，",
+    [
+     "包菜",
+     "包菜"
+    ],
+    "，",
+    [
+     "紫菜",
+     "紫菜"
+    ],
+    [
+     "蛋",
+     "蛋"
+    ],
+    [
+     "汤",
+     "汤"
+    ],
+    "，",
+    [
+     "米饭",
+     "米饭"
+    ],
+    "。\n",
+    [
+     "手部",
+     "手部"
+    ],
+    [
+     "皮肤",
+     "皮肤"
+    ],
+    [
+     "轻微",
+     "轻微"
+    ],
+    [
+     "擦伤",
+     "擦伤"
+    ],
+    "\n",
+    [
+     "捂住",
+     "捂住"
+    ],
+    [
+     "手",
+     "手"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "伤口",
+     "伤口"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "番茄",
+    "炒",
+    "鸡蛋",
+    "土豆丝",
+    "蛋",
+    "汤",
+    "米饭",
+    "轻微",
+    "手",
+    "伤口"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "番茄",
+      "tomato"
+     ],
+     [
+      "炒",
+      "stir-fry"
+     ],
+     [
+      "鸡蛋",
+      "egg"
+     ],
+     [
+      "清炒",
+      "plain stir-fried"
+     ],
+     [
+      "土豆丝",
+      "shredded potato"
+     ],
+     [
+      "包菜",
+      "cabbage"
+     ],
+     [
+      "紫菜",
+      "laver (the seaweed)"
+     ],
+     [
+      "蛋",
+      "egg"
+     ],
+     [
+      "汤",
+      "soup"
+     ],
+     [
+      "米饭",
+      "cooked rice"
+     ]
+    ],
+    [
+     [
+      "手部",
+      "the hand (as a part of the body)"
+     ],
+     [
+      "皮肤",
+      "skin"
+     ],
+     [
+      "轻微",
+      "slight"
+     ],
+     [
+      "擦伤",
+      "graze, abrasion"
+     ]
+    ],
+    [
+     [
+      "捂住",
+      "cover with the hand"
+     ],
+     [
+      "手",
+      "hand"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "伤口",
+      "wound"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: Stir-fried tomato and egg, plain stir-fried shredded potato, cabbage, seaweed and egg soup, rice. Injury: a slight graze on the skin of the hand. Reaction: covered the wound on his hand. Instruction: continue reading.",
+   "note": "The question D-1527 most wanted answered was tonight's dinner. This is also a real menu: 番茄炒鸡蛋 and 土豆丝 are on tables all over China."
+  },
+  {
+   "n": "303.22",
+   "text": "他们不会开空调的，这里没有空调。\n手部皮肤轻微擦伤\n撇嘴\n继续阅读",
+   "han": 28,
+   "toks": [
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "开",
+     "开"
+    ],
+    [
+     "空调",
+     "空调"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "，",
+    [
+     "这里",
+     "这里"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "空调",
+     "空调"
+    ],
+    "。\n",
+    [
+     "手部",
+     "手部"
+    ],
+    [
+     "皮肤",
+     "皮肤"
+    ],
+    [
+     "轻微",
+     "轻微"
+    ],
+    [
+     "擦伤",
+     "擦伤"
+    ],
+    "\n",
+    [
+     "撇嘴",
+     "撇嘴"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "开",
+    "空调",
+    "这里"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "开",
+      "turn on"
+     ],
+     [
+      "空调",
+      "air conditioning"
+     ],
+     [
+      "的",
+      "(that's certain)"
+     ],
+     [
+      "这里",
+      "here"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "空调",
+      "air conditioning"
+     ]
+    ],
+    [
+     [
+      "手部",
+      "the hand (as a part of the body)"
+     ],
+     [
+      "皮肤",
+      "skin"
+     ],
+     [
+      "轻微",
+      "slight"
+     ],
+     [
+      "擦伤",
+      "graze, abrasion"
+     ]
+    ],
+    [
+     [
+      "撇嘴",
+      "curl one's lip"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: They won't turn on the air conditioning; there is no air conditioning here. Injury: a slight graze on the skin of the hand. Reaction: curled his lip. Instruction: continue reading.",
+   "note": ""
+  },
+  {
+   "n": "303.23",
+   "text": "你儿子在看[数据删除]。\n测试对象腿上出现大面积擦伤\n表现出极大兴趣，要求回家与其儿子一同观看\n继续阅读",
+   "han": 45,
+   "toks": [
+    [
+     "你",
+     "你"
+    ],
+    [
+     "儿子",
+     "儿子"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "看",
+     "看"
+    ],
+    "[",
+    [
+     "数据",
+     "数据"
+    ],
+    [
+     "删除",
+     "删除"
+    ],
+    "]。\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "腿",
+     "腿"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "面积",
+     "面积"
+    ],
+    [
+     "擦伤",
+     "擦伤"
+    ],
+    "\n",
+    [
+     "表现",
+     "表现"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "极大",
+     "极大"
+    ],
+    [
+     "兴趣",
+     "兴趣"
+    ],
+    "，",
+    [
+     "要求",
+     "要求"
+    ],
+    [
+     "回家",
+     "回家"
+    ],
+    [
+     "与",
+     "与"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "儿子",
+     "儿子"
+    ],
+    [
+     "一同",
+     "一同"
+    ],
+    [
+     "观看",
+     "观看"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "儿子",
+    "数据",
+    "删除",
+    "腿",
+    "面积",
+    "兴趣",
+    "要求",
+    "回家",
+    "观看"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "儿子",
+      "son"
+     ],
+     [
+      "在",
+      "is (in the middle of)"
+     ],
+     [
+      "看",
+      "watching"
+     ],
+     [
+      "数据",
+      "data"
+     ],
+     [
+      "删除",
+      "delete"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "腿",
+      "leg"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "面积",
+      "area"
+     ],
+     [
+      "擦伤",
+      "graze, abrasion"
+     ]
+    ],
+    [
+     [
+      "表现",
+      "show, display"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "极大",
+      "extreme, enormous"
+     ],
+     [
+      "兴趣",
+      "interest"
+     ],
+     [
+      "要求",
+      "demand, ask"
+     ],
+     [
+      "回家",
+      "go home"
+     ],
+     [
+      "与",
+      "with"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "儿子",
+      "son"
+     ],
+     [
+      "一同",
+      "together (formal)"
+     ],
+     [
+      "观看",
+      "watch"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: Your son is watching [DATA EXPUNGED]. Injury: a large graze appeared on the test subject's leg. Reaction: showed great interest and asked to go home and watch together with his son. Instruction: continue reading.",
+   "note": "在 before a verb means \"in the middle of doing\": 在看, \"is watching\"."
+  },
+  {
+   "n": "303.24",
+   "text": "两个男人在[数据删除]\n测试对象的[数据删除][数据删除]\n表现出极大的痛苦，捂住[数据删除]\n继续阅读\n由于对象过于痛苦，无法继续阅读，实验被迫中止。",
+   "han": 60,
+   "toks": [
+    [
+     "两",
+     "两"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "男人",
+     "男人"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    "[",
+    [
+     "数据",
+     "数据"
+    ],
+    [
+     "删除",
+     "删除"
+    ],
+    "]\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "[",
+    [
+     "数据",
+     "数据"
+    ],
+    [
+     "删除",
+     "删除"
+    ],
+    "][",
+    [
+     "数据",
+     "数据"
+    ],
+    [
+     "删除",
+     "删除"
+    ],
+    "]\n",
+    [
+     "表现",
+     "表现"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "极大",
+     "极大"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "痛苦",
+     "痛苦"
+    ],
+    "，",
+    [
+     "捂住",
+     "捂住"
+    ],
+    "[",
+    [
+     "数据",
+     "数据"
+    ],
+    [
+     "删除",
+     "删除"
+    ],
+    "]\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "\n",
+    [
+     "由于",
+     "由于"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "过于",
+     "过于"
+    ],
+    [
+     "痛苦",
+     "痛苦"
+    ],
+    "，",
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "，",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "被迫",
+     "被迫"
+    ],
+    [
+     "中止",
+     "中止"
+    ],
+    "。"
+   ],
+   "new": [
+    "两",
+    "男人",
+    "痛苦",
+    "过于",
+    "被迫",
+    "中止"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "两",
+      "two (before a counter)"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "男人",
+      "man"
+     ],
+     [
+      "在",
+      "are (in the middle of)"
+     ],
+     [
+      "数据",
+      "data"
+     ],
+     [
+      "删除",
+      "delete"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "数据",
+      "data"
+     ],
+     [
+      "删除",
+      "delete"
+     ],
+     [
+      "数据",
+      "data"
+     ],
+     [
+      "删除",
+      "delete"
+     ]
+    ],
+    [
+     [
+      "表现",
+      "show, display"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "极大",
+      "extreme, enormous"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "痛苦",
+      "pain, suffering"
+     ],
+     [
+      "捂住",
+      "cover with the hand"
+     ],
+     [
+      "数据",
+      "data"
+     ],
+     [
+      "删除",
+      "delete"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ],
+    [
+     [
+      "由于",
+      "because, owing to"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "过于",
+      "too, excessively (formal)"
+     ],
+     [
+      "痛苦",
+      "pain, suffering"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "被迫",
+      "be forced to"
+     ],
+     [
+      "中止",
+      "halt, break off"
+     ]
+    ]
+   ],
+   "translation": "Answer: Two men are [DATA EXPUNGED]. Injury: the test subject's [DATA EXPUNGED][DATA EXPUNGED]. Reaction: showed extreme pain, covering [DATA EXPUNGED]. Instruction: continue reading. Because the subject was in too much pain to continue reading, the experiment had to be halted.",
+   "note": ""
+  },
+  {
+   "n": "303.25",
+   "text": "记录2：D-1827和D-2936\nSCP-CN-303表现为一本普通的平装书，在被阅读时没有增厚。",
+   "han": 23,
+   "toks": [
+    [
+     "记录",
+     "记录"
+    ],
+    "2：D-1827",
+    [
+     "和",
+     "和"
+    ],
+    "D-2936\nSCP-CN-303",
+    [
+     "表现",
+     "表现"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "本",
+     "本"
+    ],
+    [
+     "普通",
+     "普通"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "平装书",
+     "平装书"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "时",
+     "时"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "增厚",
+     "增厚"
+    ],
+    "。"
+   ],
+   "new": [
+    "普通"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "2",
+      ""
+     ],
+     [
+      "D-1827",
+      ""
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "D-2936",
+      ""
+     ]
+    ],
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "表现",
+      "show, display"
+     ],
+     [
+      "为",
+      "as"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "本",
+      "(counter for books)"
+     ],
+     [
+      "普通",
+      "ordinary"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "平装书",
+      "paperback"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "没有",
+      "did not"
+     ],
+     [
+      "增厚",
+      "thicken"
+     ]
+    ]
+   ],
+   "translation": "Record 2: D-1827 and D-2936. SCP-CN-303 behaved as an ordinary paperback and did not thicken while being read.",
+   "note": ""
+  },
+  {
+   "n": "303.26",
+   "text": "D-1827和D-2936均报告项目为空白页面，并开始争执。",
+   "han": 16,
+   "toks": [
+    "D-1827",
+    [
+     "和",
+     "和"
+    ],
+    "D-2936",
+    [
+     "均",
+     "均"
+    ],
+    [
+     "报告",
+     "报告"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "空白",
+     "空白"
+    ],
+    [
+     "页面",
+     "页面"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "争执",
+     "争执"
+    ],
+    "。"
+   ],
+   "new": [
+    "页面",
+    "争执"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "D-1827",
+      ""
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "D-2936",
+      ""
+     ],
+     [
+      "均",
+      "both"
+     ],
+     [
+      "报告",
+      "report"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "空白",
+      "blank"
+     ],
+     [
+      "页面",
+      "page"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "争执",
+      "argue, dispute"
+     ]
+    ]
+   ],
+   "translation": "D-1827 and D-2936 both reported that the item was blank pages, and began to argue.",
+   "note": "Two people opened it together, so neither was \"the first person to begin reading\"."
+  },
+  {
+   "n": "303.27",
+   "text": "记录3：一只猴子\n猴子无法翻开SCP-CN-303，实验无法进行。",
+   "han": 18,
+   "toks": [
+    [
+     "记录",
+     "记录"
+    ],
+    "3：",
+    [
+     "一",
+     "一"
+    ],
+    [
+     "只",
+     "只@m"
+    ],
+    [
+     "猴子",
+     "猴子"
+    ],
+    "\n",
+    [
+     "猴子",
+     "猴子"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "翻开",
+     "翻开"
+    ],
+    "SCP-CN-303，",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "进行",
+     "进行"
+    ],
+    "。"
+   ],
+   "new": [
+    "只@m",
+    "猴子",
+    "翻开"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "3",
+      ""
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "只",
+      "(counter for animals)"
+     ],
+     [
+      "猴子",
+      "monkey"
+     ]
+    ],
+    [
+     [
+      "猴子",
+      "monkey"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "翻开",
+      "open (a book)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "进行",
+      "proceed"
+     ]
+    ]
+   ],
+   "translation": "Record 3: a monkey. The monkey could not open SCP-CN-303; the experiment could not proceed.",
+   "note": ""
+  },
+  {
+   "n": "303.28",
+   "text": "记录4：D-3291\nSCP-CN-303给出的答案\n伤害\n测试对象反应\n研究人员指令",
+   "han": 21,
+   "toks": [
+    [
+     "记录",
+     "记录"
+    ],
+    "4：D-3291\nSCP-CN-303",
+    [
+     "给出",
+     "给出"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "\n",
+    [
+     "伤害",
+     "伤害"
+    ],
+    "\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "反应",
+     "反应"
+    ],
+    "\n",
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "指令",
+     "指令"
+    ]
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "4",
+      ""
+     ],
+     [
+      "D-3291",
+      ""
+     ]
+    ],
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "给出",
+      "give, put forward"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "答案",
+      "answer"
+     ]
+    ],
+    [
+     [
+      "伤害",
+      "harm, injury"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "反应",
+      "reaction, response"
+     ]
+    ],
+    [
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "指令",
+      "instruction, order"
+     ]
+    ]
+   ],
+   "translation": "Record 4: D-3291. Table columns as before: answer, injury, reaction, instruction.",
+   "note": ""
+  },
+  {
+   "n": "303.29",
+   "text": "你不会被原谅。\n无\n表情变得愤怒\n继续阅读",
+   "han": 17,
+   "toks": [
+    [
+     "你",
+     "你"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "原谅",
+     "原谅"
+    ],
+    "。\n",
+    [
+     "无",
+     "无"
+    ],
+    "\n",
+    [
+     "表情",
+     "表情"
+    ],
+    [
+     "变得",
+     "变得"
+    ],
+    [
+     "愤怒",
+     "愤怒"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "原谅",
+    "无"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "原谅",
+      "forgive"
+     ]
+    ],
+    [
+     [
+      "无",
+      "none"
+     ]
+    ],
+    [
+     [
+      "表情",
+      "(facial) expression"
+     ],
+     [
+      "变得",
+      "become, turn"
+     ],
+     [
+      "愤怒",
+      "angry"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: You will not be forgiven. Injury: none. Reaction: his expression turned angry. Instruction: continue reading.",
+   "note": "No injury, because this answer changes nothing in the world."
+  },
+  {
+   "n": "303.30",
+   "text": "那孩子现在过得很好，不要去打扰她了。\n测试对象手臂上出现约5cm长的刀伤\n试图止血\n继续阅读",
+   "han": 38,
+   "toks": [
+    [
+     "那",
+     "那"
+    ],
+    [
+     "孩子",
+     "孩子"
+    ],
+    [
+     "现在",
+     "现在"
+    ],
+    [
+     "过",
+     "过"
+    ],
+    [
+     "得",
+     "得@c"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "好",
+     "好"
+    ],
+    "，",
+    [
+     "不要",
+     "不要"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "打扰",
+     "打扰"
+    ],
+    [
+     "她",
+     "她"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "手臂",
+     "手臂"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "约",
+     "约"
+    ],
+    "5cm",
+    [
+     "长",
+     "长"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "刀伤",
+     "刀伤"
+    ],
+    "\n",
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "止血",
+     "止血"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "那",
+    "孩子",
+    "现在",
+    "打扰",
+    "她",
+    "手臂"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "那",
+      "that"
+     ],
+     [
+      "孩子",
+      "child"
+     ],
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "过",
+      "is living"
+     ],
+     [
+      "得",
+      "(how well:)"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "好",
+      "good"
+     ],
+     [
+      "不要",
+      "don't"
+     ],
+     [
+      "去",
+      "go and"
+     ],
+     [
+      "打扰",
+      "disturb"
+     ],
+     [
+      "她",
+      "she, her"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "手臂",
+      "arm"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "约",
+      "about, roughly"
+     ],
+     [
+      "5cm",
+      ""
+     ],
+     [
+      "长",
+      "long"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "刀伤",
+      "knife wound"
+     ]
+    ],
+    [
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "止血",
+      "stop the bleeding"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: That child is doing very well now; don't go and disturb her any more. Injury: a knife wound about 5 cm long appeared on the test subject's arm. Reaction: tried to stop the bleeding. Instruction: continue reading.",
+   "note": ""
+  },
+  {
+   "n": "303.31",
+   "text": "等它自己长好，没别的办法。\n无\n向研究人员索要绷带\n继续阅读",
+   "han": 25,
+   "toks": [
+    [
+     "等",
+     "等@wait"
+    ],
+    [
+     "它",
+     "它"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "长",
+     "长@grow"
+    ],
+    [
+     "好",
+     "好"
+    ],
+    "，",
+    [
+     "没",
+     "没"
+    ],
+    [
+     "别的",
+     "别的"
+    ],
+    [
+     "办法",
+     "办法"
+    ],
+    "。\n",
+    [
+     "无",
+     "无"
+    ],
+    "\n",
+    [
+     "向",
+     "向"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "索要",
+     "索要"
+    ],
+    [
+     "绷带",
+     "绷带"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "等@wait",
+    "它",
+    "长@grow",
+    "办法"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "等",
+      "wait (for)"
+     ],
+     [
+      "它",
+      "it"
+     ],
+     [
+      "自己",
+      "by itself"
+     ],
+     [
+      "长",
+      "grow"
+     ],
+     [
+      "好",
+      "well again"
+     ],
+     [
+      "没",
+      "not have (short for 没有)"
+     ],
+     [
+      "别的",
+      "other"
+     ],
+     [
+      "办法",
+      "way, means (of dealing with something)"
+     ]
+    ],
+    [
+     [
+      "无",
+      "none"
+     ]
+    ],
+    [
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "索要",
+      "ask for, demand"
+     ],
+     [
+      "绷带",
+      "bandage"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: Wait for it to heal by itself; there is no other way. Injury: none. Reaction: asked the researchers for a bandage. Instruction: continue reading.",
+   "note": ""
+  },
+  {
+   "n": "303.32",
+   "text": "因为你是D级人员。D级人员没有人权。\n测试对象手臂上出现另一道约5cm长的刀伤\n测试对象试图攻击研究人员，被玻璃挡住。\n继续阅读",
+   "han": 52,
+   "toks": [
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    "D",
+    [
+     "级",
+     "级"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    "。D",
+    [
+     "级",
+     "级"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "人权",
+     "人权"
+    ],
+    "。\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "手臂",
+     "手臂"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "另",
+     "另"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "道",
+     "道@m"
+    ],
+    [
+     "约",
+     "约"
+    ],
+    "5cm",
+    [
+     "长",
+     "长"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "刀伤",
+     "刀伤"
+    ],
+    "\n",
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "试图",
+     "试图"
+    ],
+    [
+     "攻击",
+     "攻击"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    "，",
+    [
+     "被",
+     "被"
+    ],
+    [
+     "玻璃",
+     "玻璃"
+    ],
+    [
+     "挡住",
+     "挡住"
+    ],
+    "。\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "人权",
+    "另",
+    "道@m",
+    "玻璃",
+    "挡住"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "D",
+      ""
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "D",
+      ""
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "人权",
+      "human rights"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "手臂",
+      "arm"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "另",
+      "another, other"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "道",
+      "(counter for lines, cuts, long thin things)"
+     ],
+     [
+      "约",
+      "about, roughly"
+     ],
+     [
+      "5cm",
+      ""
+     ],
+     [
+      "长",
+      "long"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "刀伤",
+      "knife wound"
+     ]
+    ],
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "试图",
+      "attempt to"
+     ],
+     [
+      "攻击",
+      "attack"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "玻璃",
+      "glass"
+     ],
+     [
+      "挡住",
+      "block, stop"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: Because you are D-class personnel. D-class personnel have no human rights. Injury: another knife wound about 5 cm long appeared on the test subject's arm. Reaction: the test subject tried to attack the researchers and was stopped by the glass. Instruction: continue reading.",
+   "note": ""
+  },
+  {
+   "n": "303.33",
+   "text": "测试对象拒绝继续阅读，威胁无效。实验被迫中止。",
+   "han": 20,
+   "toks": [
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "拒绝",
+     "拒绝"
+    ],
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "，",
+    [
+     "威胁",
+     "威胁"
+    ],
+    [
+     "无效",
+     "无效"
+    ],
+    "。",
+    [
+     "实验",
+     "实验"
+    ],
+    [
+     "被迫",
+     "被迫"
+    ],
+    [
+     "中止",
+     "中止"
+    ],
+    "。"
+   ],
+   "new": [
+    "威胁",
+    "无效"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "拒绝",
+      "refuse"
+     ],
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "威胁",
+      "threat"
+     ],
+     [
+      "无效",
+      "ineffective, to no effect"
+     ],
+     [
+      "实验",
+      "experiment"
+     ],
+     [
+      "被迫",
+      "be forced to"
+     ],
+     [
+      "中止",
+      "halt, break off"
+     ]
+    ]
+   ],
+   "translation": "The test subject refused to continue reading; threats had no effect. The experiment had to be halted.",
+   "note": ""
+  },
+  {
+   "n": "303.34",
+   "text": "记录5：研究员Lisa\n研究员Lisa自愿阅读SCP-CN-303，以获取帮助其工作的信息。",
+   "han": 23,
+   "toks": [
+    [
+     "记录",
+     "记录"
+    ],
+    "5：",
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa\n",
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "自愿",
+     "自愿"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "SCP-CN-303，",
+    [
+     "以",
+     "以"
+    ],
+    [
+     "获取",
+     "获取"
+    ],
+    [
+     "帮助",
+     "帮助"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "工作",
+     "工作"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "信息",
+     "信息"
+    ],
+    "。"
+   ],
+   "new": [
+    "自愿",
+    "获取",
+    "帮助",
+    "工作"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "5",
+      ""
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ]
+    ],
+    [
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "自愿",
+      "voluntarily"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "以",
+      "in order to"
+     ],
+     [
+      "获取",
+      "obtain"
+     ],
+     [
+      "帮助",
+      "help"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "工作",
+      "work, job"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "信息",
+      "information, message"
+     ]
+    ]
+   ],
+   "translation": "Record 5: Researcher Lisa. Researcher Lisa volunteered to read SCP-CN-303, in order to obtain information that would help her work.",
+   "note": ""
+  },
+  {
+   "n": "303.35",
+   "text": "SCP-CN-303给出的答案\n伤害\n研究员Lisa的反应\n大段有关SCP-CN-███的文字和少数公式\n研究员Lisa的头部出现钝器伤，开始流血\n继续阅读",
+   "han": 44,
+   "toks": [
+    "SCP-CN-303",
+    [
+     "给出",
+     "给出"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "\n",
+    [
+     "伤害",
+     "伤害"
+    ],
+    "\n",
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "反应",
+     "反应"
+    ],
+    "\n",
+    [
+     "大段",
+     "大段"
+    ],
+    [
+     "有关",
+     "有关"
+    ],
+    "SCP-CN-███",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "文字",
+     "文字"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "少数",
+     "少数"
+    ],
+    [
+     "公式",
+     "公式"
+    ],
+    "\n",
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "头部",
+     "头部"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "钝器",
+     "钝器"
+    ],
+    [
+     "伤",
+     "伤"
+    ],
+    "，",
+    [
+     "开始",
+     "开始"
+    ],
+    [
+     "流血",
+     "流血"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "有关",
+    "文字",
+    "少数",
+    "公式",
+    "伤",
+    "流血"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "给出",
+      "give, put forward"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "答案",
+      "answer"
+     ]
+    ],
+    [
+     [
+      "伤害",
+      "harm, injury"
+     ]
+    ],
+    [
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "反应",
+      "reaction, response"
+     ]
+    ],
+    [
+     [
+      "大段",
+      "a long stretch (of text)"
+     ],
+     [
+      "有关",
+      "concerning, about"
+     ],
+     [
+      "SCP-CN-███",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "文字",
+      "text, writing"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "少数",
+      "a few, a small number"
+     ],
+     [
+      "公式",
+      "formula"
+     ]
+    ],
+    [
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "头部",
+      "the head (as a part of the body)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "钝器",
+      "blunt instrument"
+     ],
+     [
+      "伤",
+      "wound, injury"
+     ],
+     [
+      "开始",
+      "begin, start"
+     ],
+     [
+      "流血",
+      "bleed"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Table columns: the answer SCP-CN-303 gave; injury; Researcher Lisa's reaction. Answer: a long passage of text about SCP-CN-███ and a few formulas. Injury: a blunt-force wound appeared on Researcher Lisa's head and began to bleed. Reaction: continued reading.",
+   "note": ""
+  },
+  {
+   "n": "303.36",
+   "text": "SCP-CN-303的收容措施的改进方法\n研究员Lisa的头部出现另一处钝器伤\n继续阅读",
+   "han": 28,
+   "toks": [
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "改进",
+     "改进"
+    ],
+    [
+     "方法",
+     "方法"
+    ],
+    "\n",
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "头部",
+     "头部"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "另",
+     "另"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "处",
+     "处@m"
+    ],
+    [
+     "钝器",
+     "钝器"
+    ],
+    [
+     "伤",
+     "伤"
+    ],
+    "\n",
+    [
+     "继续",
+     "继续"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ]
+   ],
+   "new": [
+    "改进",
+    "处@m"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "改进",
+      "improve"
+     ],
+     [
+      "方法",
+      "method, way"
+     ]
+    ],
+    [
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "头部",
+      "the head (as a part of the body)"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "另",
+      "another, other"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "处",
+      "(counter for places, spots)"
+     ],
+     [
+      "钝器",
+      "blunt instrument"
+     ],
+     [
+      "伤",
+      "wound, injury"
+     ]
+    ],
+    [
+     [
+      "继续",
+      "continue"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ]
+    ]
+   ],
+   "translation": "Answer: a way to improve the containment procedures for SCP-CN-303. Injury: another blunt-force wound appeared on Researcher Lisa's head. Reaction: continued reading.",
+   "note": ""
+  },
+  {
+   "n": "303.37",
+   "text": "备注：考虑到研究员Lisa的人身安全，项目被强行带离测试对象。",
+   "han": 24,
+   "toks": [
+    [
+     "备注",
+     "备注"
+    ],
+    "：",
+    [
+     "考虑",
+     "考虑"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "人身",
+     "人身"
+    ],
+    [
+     "安全",
+     "安全"
+    ],
+    "，",
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "强行",
+     "强行"
+    ],
+    [
+     "带离",
+     "带离"
+    ],
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    "。"
+   ],
+   "new": [
+    "考虑",
+    "安全",
+    "强行"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "备注",
+      "remarks, note"
+     ],
+     [
+      "考虑",
+      "consider"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人身",
+      "one's person (as in personal safety)"
+     ],
+     [
+      "安全",
+      "safety"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "强行",
+      "by force"
+     ],
+     [
+      "带离",
+      "take away from"
+     ],
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ]
+    ]
+   ],
+   "translation": "Remarks: Out of consideration for Researcher Lisa's personal safety, the item was forcibly taken away from the test subject.",
+   "note": ""
+  },
+  {
+   "n": "303.38",
+   "text": "测试对象极力阻止安保人员从其手中夺走SCP-CN-303。",
+   "han": 18,
+   "toks": [
+    [
+     "测试",
+     "测试"
+    ],
+    [
+     "对象",
+     "对象"
+    ],
+    [
+     "极力",
+     "极力"
+    ],
+    [
+     "阻止",
+     "阻止"
+    ],
+    [
+     "安保",
+     "安保"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "从",
+     "从"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "手",
+     "手"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "夺走",
+     "夺走"
+    ],
+    "SCP-CN-303。"
+   ],
+   "new": [
+    "极力",
+    "阻止",
+    "夺走"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "测试",
+      "test"
+     ],
+     [
+      "对象",
+      "subject, object, target"
+     ],
+     [
+      "极力",
+      "do one's utmost"
+     ],
+     [
+      "阻止",
+      "prevent, stop"
+     ],
+     [
+      "安保",
+      "security (staff)"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "手",
+      "hand"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "夺走",
+      "snatch away"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ]
+    ]
+   ],
+   "translation": "The test subject did her utmost to stop the security staff from taking SCP-CN-303 out of her hands.",
+   "note": ""
+  },
+  {
+   "n": "303.39",
+   "text": "SCP-CN-303在此案例中增厚速度较快，据推测可能是因为研究员Lisa思维能力较强，迅速联想到了许多相关问题。",
+   "han": 40,
+   "toks": [
+    "SCP-CN-303",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "此",
+     "此"
+    ],
+    [
+     "案例",
+     "案例"
+    ],
+    [
+     "中",
+     "中"
+    ],
+    [
+     "增厚",
+     "增厚"
+    ],
+    [
+     "速度",
+     "速度"
+    ],
+    [
+     "较",
+     "较"
+    ],
+    [
+     "快",
+     "快"
+    ],
+    "，",
+    [
+     "据",
+     "据"
+    ],
+    [
+     "推测",
+     "推测"
+    ],
+    [
+     "可能",
+     "可能"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "研究员",
+     "研究员"
+    ],
+    "Lisa",
+    [
+     "思维",
+     "思维"
+    ],
+    [
+     "能力",
+     "能力"
+    ],
+    [
+     "较",
+     "较"
+    ],
+    [
+     "强",
+     "强"
+    ],
+    "，",
+    [
+     "迅速",
+     "迅速"
+    ],
+    [
+     "联想",
+     "联想"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "许多",
+     "许多"
+    ],
+    [
+     "相关",
+     "相关"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    "。"
+   ],
+   "new": [
+    "案例",
+    "速度",
+    "较",
+    "据",
+    "推测",
+    "思维",
+    "强",
+    "迅速",
+    "联想",
+    "许多",
+    "相关"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "此",
+      "this (formal)"
+     ],
+     [
+      "案例",
+      "case, instance"
+     ],
+     [
+      "中",
+      "in, inside (after a noun)"
+     ],
+     [
+      "增厚",
+      "thicken"
+     ],
+     [
+      "速度",
+      "speed"
+     ],
+     [
+      "较",
+      "comparatively, rather (formal)"
+     ],
+     [
+      "快",
+      "fast, quick"
+     ],
+     [
+      "据",
+      "according to"
+     ],
+     [
+      "推测",
+      "conjecture, infer"
+     ],
+     [
+      "可能",
+      "may, possibly"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "思维",
+      "thinking, thought"
+     ],
+     [
+      "能力",
+      "ability, capacity"
+     ],
+     [
+      "较",
+      "comparatively, rather (formal)"
+     ],
+     [
+      "强",
+      "strong"
+     ],
+     [
+      "迅速",
+      "rapid, quickly"
+     ],
+     [
+      "联想",
+      "associate, be reminded of"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "许多",
+      "many"
+     ],
+     [
+      "相关",
+      "related"
+     ],
+     [
+      "问题",
+      "question"
+     ]
+    ]
+   ],
+   "translation": "In this case SCP-CN-303 thickened rather fast. It is conjectured that this may be because Researcher Lisa's powers of thought are rather strong, so that she quickly thought of many related questions.",
+   "note": ""
+  },
+  {
+   "n": "303.40",
+   "text": "Lisa研究员在送医途中一度失去生命体征，但最终恢复，并在恢复之后更新了SCP-CN-███的研究报告，因其贡献突出，升为3级人员。",
+   "han": 46,
+   "toks": [
+    "Lisa",
+    [
+     "研究员",
+     "研究员"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "送医",
+     "送医"
+    ],
+    [
+     "途中",
+     "途中"
+    ],
+    [
+     "一度",
+     "一度"
+    ],
+    [
+     "失去",
+     "失去"
+    ],
+    [
+     "生命",
+     "生命"
+    ],
+    [
+     "体征",
+     "体征"
+    ],
+    "，",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "最终",
+     "最终"
+    ],
+    [
+     "恢复",
+     "恢复"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "恢复",
+     "恢复"
+    ],
+    [
+     "之后",
+     "之后"
+    ],
+    [
+     "更新",
+     "更新"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "SCP-CN-███",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "报告",
+     "报告"
+    ],
+    "，",
+    [
+     "因",
+     "因"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "贡献",
+     "贡献"
+    ],
+    [
+     "突出",
+     "突出"
+    ],
+    "，",
+    [
+     "升",
+     "升"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "3",
+    [
+     "级",
+     "级"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    "。"
+   ],
+   "new": [
+    "途中",
+    "一度",
+    "生命",
+    "最终",
+    "恢复",
+    "更新",
+    "贡献",
+    "突出",
+    "升"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "送医",
+      "take to hospital"
+     ],
+     [
+      "途中",
+      "on the way"
+     ],
+     [
+      "一度",
+      "for a time, at one point"
+     ],
+     [
+      "失去",
+      "lose"
+     ],
+     [
+      "生命",
+      "life"
+     ],
+     [
+      "体征",
+      "(vital) signs"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "最终",
+      "in the end, finally"
+     ],
+     [
+      "恢复",
+      "recover"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "恢复",
+      "recover"
+     ],
+     [
+      "之后",
+      "afterwards, after"
+     ],
+     [
+      "更新",
+      "update, renew"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "SCP-CN-███",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "报告",
+      "report"
+     ],
+     [
+      "因",
+      "because of (formal)"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "贡献",
+      "contribution"
+     ],
+     [
+      "突出",
+      "outstanding"
+     ],
+     [
+      "升",
+      "rise, be promoted"
+     ],
+     [
+      "为",
+      "to be"
+     ],
+     [
+      "3",
+      ""
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ]
+    ]
+   ],
+   "translation": "On the way to hospital Researcher Lisa for a time lost vital signs, but in the end recovered. After recovering she updated the research report on SCP-CN-███ and, because her contribution was outstanding, was promoted to Level 3.",
+   "note": ""
+  },
+  {
+   "n": "303.41",
+   "text": "问SCP-CN-303Euclid级项目的收容措施大概是极限了。再重要些的问题我估计就回不来了。—Lisa研究员",
+   "han": 33,
+   "toks": [
+    [
+     "问",
+     "问"
+    ],
+    "SCP-CN-303Euclid",
+    [
+     "级",
+     "级"
+    ],
+    [
+     "项目",
+     "项目"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "措施",
+     "措施"
+    ],
+    [
+     "大概",
+     "大概"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "极限",
+     "极限"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。",
+    [
+     "再",
+     "再"
+    ],
+    [
+     "重要",
+     "重要"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "问题",
+     "问题"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "估计",
+     "估计"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "回不来",
+     "回不来"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。—Lisa",
+    [
+     "研究员",
+     "研究员"
+    ]
+   ],
+   "new": [
+    "大概",
+    "极限",
+    "些",
+    "估计",
+    "回不来"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "问",
+      "ask"
+     ],
+     [
+      "SCP-CN-303Euclid",
+      ""
+     ],
+     [
+      "级",
+      "grade, level, class"
+     ],
+     [
+      "项目",
+      "item"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "措施",
+      "measure, procedure"
+     ],
+     [
+      "大概",
+      "probably"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "极限",
+      "limit"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ],
+    [
+     [
+      "再",
+      "any more"
+     ],
+     [
+      "重要",
+      "important"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "问题",
+      "question"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "估计",
+      "reckon, estimate"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "回不来",
+      "cannot come back"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "研究员",
+      "researcher"
+     ]
+    ]
+   ],
+   "translation": "\"Asking SCP-CN-303 about the containment procedures for a Euclid-class item is probably the limit. With a question any more important, I reckon I would not come back.\" (Researcher Lisa)",
+   "note": ""
+  },
+  {
+   "n": "303.42",
+   "text": "附录2：事故记录303-A\n赵博士利用其技术人员身份进入了SCP-CN-303的收容室，并阅读了SCP-CN-303。",
+   "han": 29,
+   "toks": [
+    [
+     "附录",
+     "附录"
+    ],
+    "2：",
+    [
+     "事故",
+     "事故"
+    ],
+    [
+     "记录",
+     "记录"
+    ],
+    "303-A\n",
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "利用",
+     "利用"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "技术",
+     "技术"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "身份",
+     "身份"
+    ],
+    [
+     "进入",
+     "进入"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "室",
+     "室"
+    ],
+    "，",
+    [
+     "并",
+     "并"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "SCP-CN-303。"
+   ],
+   "new": [
+    "利用",
+    "技术",
+    "身份",
+    "进入"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "附录",
+      "appendix"
+     ],
+     [
+      "2",
+      ""
+     ],
+     [
+      "事故",
+      "accident, incident"
+     ],
+     [
+      "记录",
+      "record"
+     ],
+     [
+      "303-A",
+      ""
+     ]
+    ],
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "利用",
+      "make use of"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "技术",
+      "technology"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "身份",
+      "identity, status"
+     ],
+     [
+      "进入",
+      "enter"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "室",
+      "room, chamber"
+     ],
+     [
+      "并",
+      "and, and also (joins verbs"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ]
+    ]
+   ],
+   "translation": "Appendix 2: Incident Record 303-A. Dr. Zhao used his status as technical staff to enter SCP-CN-303's containment chamber, and read SCP-CN-303.",
+   "note": ""
+  },
+  {
+   "n": "303.43",
+   "text": "赵博士原是一名物理研究人员，曾任教于█████████ Lab，因研究进展艰难而转行为软件工程师，后作为技术人员被基金会聘用。",
+   "han": 46,
+   "toks": [
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "原",
+     "原"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "名",
+     "名"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    "，",
+    [
+     "曾",
+     "曾"
+    ],
+    [
+     "任教",
+     "任教"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    "█████████ Lab，",
+    [
+     "因",
+     "因"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "进展",
+     "进展"
+    ],
+    [
+     "艰难",
+     "艰难"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "转行",
+     "转行"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "软件",
+     "软件"
+    ],
+    [
+     "工程师",
+     "工程师"
+    ],
+    "，",
+    [
+     "后",
+     "后"
+    ],
+    [
+     "作为",
+     "作为"
+    ],
+    [
+     "技术",
+     "技术"
+    ],
+    [
+     "人员",
+     "人员"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "基金会",
+     "基金会"
+    ],
+    [
+     "聘用",
+     "聘用"
+    ],
+    "。"
+   ],
+   "new": [
+    "原",
+    "曾",
+    "进展",
+    "艰难",
+    "转行",
+    "软件",
+    "工程师",
+    "作为",
+    "基金会",
+    "聘用"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "原",
+      "originally"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "名",
+      "(counter for people"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "曾",
+      "once, formerly"
+     ],
+     [
+      "任教",
+      "teach, hold a teaching post"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "Lab",
+      ""
+     ],
+     [
+      "因",
+      "because of (formal)"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "进展",
+      "progress"
+     ],
+     [
+      "艰难",
+      "hard, arduous"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "转行",
+      "change careers"
+     ],
+     [
+      "为",
+      "to be"
+     ],
+     [
+      "软件",
+      "software"
+     ],
+     [
+      "工程师",
+      "engineer"
+     ],
+     [
+      "后",
+      "later"
+     ],
+     [
+      "作为",
+      "as, in the capacity of"
+     ],
+     [
+      "技术",
+      "technology"
+     ],
+     [
+      "人员",
+      "personnel, staff"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "基金会",
+      "foundation"
+     ],
+     [
+      "聘用",
+      "hire, employ"
+     ]
+    ]
+   ],
+   "translation": "Dr. Zhao was originally a physics researcher who once taught at █████████ Lab. Because his research was going badly he changed careers and became a software engineer, and was later hired by the Foundation as technical staff.",
+   "note": ""
+  },
+  {
+   "n": "303.44",
+   "text": "之后，赵博士曾多次递交辞职申请，理由为想恢复物理研究的工作。未批准。",
+   "han": 30,
+   "toks": [
+    [
+     "之后",
+     "之后"
+    ],
+    "，",
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "曾",
+     "曾"
+    ],
+    [
+     "多次",
+     "多次"
+    ],
+    [
+     "递交",
+     "递交"
+    ],
+    [
+     "辞职",
+     "辞职"
+    ],
+    [
+     "申请",
+     "申请"
+    ],
+    "，",
+    [
+     "理由",
+     "理由"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "恢复",
+     "恢复"
+    ],
+    [
+     "物理",
+     "物理"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "工作",
+     "工作"
+    ],
+    "。",
+    [
+     "未",
+     "未"
+    ],
+    [
+     "批准",
+     "批准"
+    ],
+    "。"
+   ],
+   "new": [
+    "递交",
+    "辞职",
+    "申请"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "之后",
+      "afterwards, after"
+     ],
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "曾",
+      "once, formerly"
+     ],
+     [
+      "多次",
+      "many times, repeatedly"
+     ],
+     [
+      "递交",
+      "submit, hand in"
+     ],
+     [
+      "辞职",
+      "resign"
+     ],
+     [
+      "申请",
+      "application"
+     ],
+     [
+      "理由",
+      "reason, grounds"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "想",
+      "wanting to"
+     ],
+     [
+      "恢复",
+      "return to"
+     ],
+     [
+      "物理",
+      "physics"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "工作",
+      "work, job"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "批准",
+      "approve"
+     ]
+    ]
+   ],
+   "translation": "Afterwards Dr. Zhao submitted his resignation several times, giving as his reason that he wanted to return to physics research. Not approved.",
+   "note": "未批准: three characters of official refusal."
+  },
+  {
+   "n": "303.45",
+   "text": "赵博士的遗体被发现于SCP-CN-303的收容室，发现时其肝脏温度为-███摄氏度。赵博士因体温过低死亡。",
+   "han": 36,
+   "toks": [
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "遗体",
+     "遗体"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "发现",
+     "发现"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "收容",
+     "收容"
+    ],
+    [
+     "室",
+     "室"
+    ],
+    "，",
+    [
+     "发现",
+     "发现"
+    ],
+    [
+     "时",
+     "时"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "肝脏",
+     "肝脏"
+    ],
+    [
+     "温度",
+     "温度"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "-███",
+    [
+     "摄氏度",
+     "摄氏度"
+    ],
+    "。",
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "因",
+     "因"
+    ],
+    [
+     "体温",
+     "体温"
+    ],
+    [
+     "过低",
+     "过低"
+    ],
+    [
+     "死亡",
+     "死亡"
+    ],
+    "。"
+   ],
+   "new": [
+    "遗体",
+    "发现",
+    "温度",
+    "体温",
+    "过低"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "遗体",
+      "remains, body (of the dead)"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "发现",
+      "discover, find"
+     ],
+     [
+      "于",
+      "at, in, to"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "收容",
+      "contain, take in and hold"
+     ],
+     [
+      "室",
+      "room, chamber"
+     ],
+     [
+      "发现",
+      "discover, find"
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "肝脏",
+      "liver"
+     ],
+     [
+      "温度",
+      "temperature"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "摄氏度",
+      "degrees Celsius"
+     ]
+    ],
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "因",
+      "because of (formal)"
+     ],
+     [
+      "体温",
+      "body temperature"
+     ],
+     [
+      "过低",
+      "too low"
+     ],
+     [
+      "死亡",
+      "death"
+     ]
+    ]
+   ],
+   "translation": "Dr. Zhao's body was found in SCP-CN-303's containment chamber; when it was found, the temperature of his liver was −███ degrees Celsius. Dr. Zhao died of hypothermia.",
+   "note": ""
+  },
+  {
+   "n": "303.46",
+   "text": "赵博士去世当天早上给其同事发送的邮件大致解释了其阅读SCP-CN-303的动机。",
+   "han": 29,
+   "toks": [
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "去世",
+     "去世"
+    ],
+    [
+     "当天",
+     "当天"
+    ],
+    [
+     "早上",
+     "早上"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "同事",
+     "同事"
+    ],
+    [
+     "发送",
+     "发送"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "邮件",
+     "邮件"
+    ],
+    [
+     "大致",
+     "大致"
+    ],
+    [
+     "解释",
+     "解释"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "其",
+     "其"
+    ],
+    [
+     "阅读",
+     "阅读"
+    ],
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "动机",
+     "动机"
+    ],
+    "。"
+   ],
+   "new": [
+    "去世",
+    "当天",
+    "给",
+    "同事",
+    "发送",
+    "邮件",
+    "大致",
+    "解释",
+    "动机"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "去世",
+      "pass away, die"
+     ],
+     [
+      "当天",
+      "that day, the same day"
+     ],
+     [
+      "早上",
+      "morning"
+     ],
+     [
+      "给",
+      "to, for"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "同事",
+      "colleague"
+     ],
+     [
+      "发送",
+      "send"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "邮件",
+      "email, mail"
+     ],
+     [
+      "大致",
+      "roughly, more or less"
+     ],
+     [
+      "解释",
+      "explain"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "其",
+      "its, his, their"
+     ],
+     [
+      "阅读",
+      "read (formal)"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "动机",
+      "motive"
+     ]
+    ]
+   ],
+   "translation": "The email Dr. Zhao sent to his colleague on the morning of the day he died explains, in outline, his motive for reading SCP-CN-303.",
+   "note": "One long description stands before 的: [赵博士去世当天早上给其同事发送] 的 邮件."
+  },
+  {
+   "n": "303.47",
+   "text": "目前未确认该动机的产生是否为SCP-CN-303的模因效应所导致。",
+   "han": 22,
+   "toks": [
+    [
+     "目前",
+     "目前"
+    ],
+    [
+     "未",
+     "未"
+    ],
+    [
+     "确认",
+     "确认"
+    ],
+    [
+     "该",
+     "该"
+    ],
+    [
+     "动机",
+     "动机"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "产生",
+     "产生"
+    ],
+    [
+     "是否",
+     "是否"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    "SCP-CN-303",
+    [
+     "的",
+     "的"
+    ],
+    [
+     "模因",
+     "模因"
+    ],
+    [
+     "效应",
+     "效应"
+    ],
+    [
+     "所",
+     "所"
+    ],
+    [
+     "导致",
+     "导致"
+    ],
+    "。"
+   ],
+   "new": [
+    "效应"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "目前",
+      "at present, so far"
+     ],
+     [
+      "未",
+      "not, not yet (formal)"
+     ],
+     [
+      "确认",
+      "confirm"
+     ],
+     [
+      "该",
+      "the said, this (formal)"
+     ],
+     [
+      "动机",
+      "motive"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "产生",
+      "arising"
+     ],
+     [
+      "是否",
+      "whether"
+     ],
+     [
+      "为",
+      "was"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "模因",
+      "meme"
+     ],
+     [
+      "效应",
+      "effect"
+     ],
+     [
+      "所",
+      "(passive)"
+     ],
+     [
+      "导致",
+      "lead to, cause"
+     ]
+    ]
+   ],
+   "translation": "It has not yet been confirmed whether this motive was produced by a memetic effect of SCP-CN-303.",
+   "note": "为…所导致 is the classical passive 為…所, alive in formal prose."
+  },
+  {
+   "n": "303.48",
+   "text": "附录3：赵博士在事故当天早上给Lisa研究员发送的邮件\nLisa：\n你看到这封邮件时，我应该已经不在了。",
+   "han": 37,
+   "toks": [
+    [
+     "附录",
+     "附录"
+    ],
+    "3：",
+    [
+     "赵",
+     "赵"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "事故",
+     "事故"
+    ],
+    [
+     "当天",
+     "当天"
+    ],
+    [
+     "早上",
+     "早上"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    "Lisa",
+    [
+     "研究员",
+     "研究员"
+    ],
+    [
+     "发送",
+     "发送"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "邮件",
+     "邮件"
+    ],
+    "\nLisa：\n",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "看到",
+     "看到"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "封",
+     "封"
+    ],
+    [
+     "邮件",
+     "邮件"
+    ],
+    [
+     "时",
+     "时"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "应该",
+     "应该"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "封"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "附录",
+      "appendix"
+     ],
+     [
+      "3",
+      ""
+     ],
+     [
+      "赵",
+      "Zhao (a surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "事故",
+      "accident, incident"
+     ],
+     [
+      "当天",
+      "that day, the same day"
+     ],
+     [
+      "早上",
+      "morning"
+     ],
+     [
+      "给",
+      "to, for"
+     ],
+     [
+      "Lisa",
+      ""
+     ],
+     [
+      "研究员",
+      "researcher"
+     ],
+     [
+      "发送",
+      "send"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "邮件",
+      "email, mail"
+     ]
+    ],
+    [
+     [
+      "Lisa",
+      ""
+     ]
+    ],
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "看到",
+      "see, notice"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "封",
+      "(counter for letters)"
+     ],
+     [
+      "邮件",
+      "email, mail"
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "应该",
+      "should, ought to"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "在",
+      "here"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "Appendix 3: The email Dr. Zhao sent to Researcher Lisa on the morning of the incident. \"Lisa: By the time you read this email, I should already be gone.\"",
+   "note": "不在了, \"no longer here\", is the gentle way to say that someone has died."
+  },
+  {
+   "n": "303.49",
+   "text": "我使用SCP-CN-303是为了得到之前的研究课题的结果。",
+   "han": 18,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "使用",
+     "使用"
+    ],
+    "SCP-CN-303",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "为了",
+     "为了"
+    ],
+    [
+     "得到",
+     "得到"
+    ],
+    [
+     "之前",
+     "之前"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "课题",
+     "课题"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "结果",
+     "结果"
+    ],
+    "。"
+   ],
+   "new": [
+    "之前",
+    "课题"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "使用",
+      "use"
+     ],
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "为了",
+      "for the sake of, in order to"
+     ],
+     [
+      "得到",
+      "get, obtain"
+     ],
+     [
+      "之前",
+      "before, earlier"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "课题",
+      "research topic, problem"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "结果",
+      "result"
+     ]
+    ]
+   ],
+   "translation": "I used SCP-CN-303 in order to get the result of my earlier research problem.",
+   "note": ""
+  },
+  {
+   "n": "303.50",
+   "text": "那个课题没有人做得动，但是我无论如何也想知道答案。SCP-CN-303是唯一的选择。",
+   "han": 29,
+   "toks": [
+    [
+     "那",
+     "那"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "课题",
+     "课题"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "做得动",
+     "做得动"
+    ],
+    "，",
+    [
+     "但是",
+     "但是"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "无论如何",
+     "无论如何"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "。SCP-CN-303",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "唯一",
+     "唯一"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "选择",
+     "选择"
+    ],
+    "。"
+   ],
+   "new": [
+    "唯一",
+    "选择"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "那",
+      "that"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "课题",
+      "research topic, problem"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "做得动",
+      "able to make headway on"
+     ],
+     [
+      "但是",
+      "but"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "无论如何",
+      "no matter what, in any case"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "想",
+      "want to"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "答案",
+      "answer"
+     ]
+    ],
+    [
+     [
+      "SCP-CN-303",
+      ""
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "唯一",
+      "only, sole"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "选择",
+      "choice"
+     ]
+    ]
+   ],
+   "translation": "Nobody could make headway on that problem, but I wanted to know the answer no matter what. SCP-CN-303 was the only choice.",
+   "note": ""
+  },
+  {
+   "n": "303.51",
+   "text": "我想你一定能理解我。你也看了那本书，它就像整个世界，越是探索，不知道的东西也就越多，永远也不可能被读完。",
+   "han": 46,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "一定",
+     "一定"
+    ],
+    [
+     "能",
+     "能"
+    ],
+    [
+     "理解",
+     "理解"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    "。",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "看",
+     "看"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "那",
+     "那"
+    ],
+    [
+     "本",
+     "本"
+    ],
+    [
+     "书",
+     "书"
+    ],
+    "，",
+    [
+     "它",
+     "它"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "像",
+     "像"
+    ],
+    [
+     "整个",
+     "整个"
+    ],
+    [
+     "世界",
+     "世界"
+    ],
+    "，",
+    [
+     "越",
+     "越"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "探索",
+     "探索"
+    ],
+    "，",
+    [
+     "不",
+     "不"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "东西",
+     "东西"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "越",
+     "越"
+    ],
+    [
+     "多",
+     "多"
+    ],
+    "，",
+    [
+     "永远",
+     "永远"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "可能",
+     "可能"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "读",
+     "读"
+    ],
+    [
+     "完",
+     "完"
+    ],
+    "。"
+   ],
+   "new": [
+    "书",
+    "像",
+    "整个",
+    "世界",
+    "越",
+    "探索",
+    "永远",
+    "读"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "一定",
+      "surely"
+     ],
+     [
+      "能",
+      "can, be able to"
+     ],
+     [
+      "理解",
+      "understand, comprehend"
+     ],
+     [
+      "我",
+      "I, me"
+     ]
+    ],
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "看",
+      "read"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "本",
+      "(counter for books)"
+     ],
+     [
+      "书",
+      "book"
+     ],
+     [
+      "它",
+      "it"
+     ],
+     [
+      "就",
+      "just"
+     ],
+     [
+      "像",
+      "be like, resemble"
+     ],
+     [
+      "整个",
+      "whole, entire"
+     ],
+     [
+      "世界",
+      "world"
+     ],
+     [
+      "越",
+      "the more"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "探索",
+      "explore"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "东西",
+      "thing"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "越",
+      "the more"
+     ],
+     [
+      "多",
+      "many, much"
+     ],
+     [
+      "永远",
+      "forever, always"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "可能",
+      "may, possibly"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "读",
+      "read"
+     ],
+     [
+      "完",
+      "(after a verb) finish …-ing"
+     ]
+    ]
+   ],
+   "translation": "I think you will surely understand me. You read that book too. It is like the whole world: the more you explore, the more there is that you do not know, and it can never be read to the end.",
+   "note": ""
+  },
+  {
+   "n": "303.52",
+   "text": "但是，尽管如此，我还是忍不住想要知道答案，多大的痛苦都不能阻挡我对它的憧憬。",
+   "han": 34,
+   "toks": [
+    [
+     "但是",
+     "但是"
+    ],
+    "，",
+    [
+     "尽管如此",
+     "尽管如此"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "忍不住",
+     "忍不住"
+    ],
+    [
+     "想要",
+     "想要"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "答案",
+     "答案"
+    ],
+    "，",
+    [
+     "多",
+     "多"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "痛苦",
+     "痛苦"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "能",
+     "能"
+    ],
+    [
+     "阻挡",
+     "阻挡"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "它",
+     "它"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "憧憬",
+     "憧憬"
+    ],
+    "。"
+   ],
+   "new": [
+    "尽管如此",
+    "忍不住",
+    "阻挡",
+    "憧憬"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "但是",
+      "but"
+     ],
+     [
+      "尽管如此",
+      "even so"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "还是",
+      "still, all the same"
+     ],
+     [
+      "忍不住",
+      "cannot help (doing)"
+     ],
+     [
+      "想要",
+      "want"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "答案",
+      "answer"
+     ],
+     [
+      "多",
+      "however"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "痛苦",
+      "pain, suffering"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "能",
+      "can, be able to"
+     ],
+     [
+      "阻挡",
+      "block, hold back"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "对",
+      "for"
+     ],
+     [
+      "它",
+      "it"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "憧憬",
+      "longing, yearning"
+     ]
+    ]
+   ],
+   "translation": "But even so, I still cannot help wanting to know the answer; no pain, however great, can hold back my longing for it.",
+   "note": ""
+  },
+  {
+   "n": "303.53",
+   "text": "那本书自从被翻开之日起就无法被合上。",
+   "han": 17,
+   "toks": [
+    [
+     "那",
+     "那"
+    ],
+    [
+     "本",
+     "本"
+    ],
+    [
+     "书",
+     "书"
+    ],
+    [
+     "自从",
+     "自从"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "翻开",
+     "翻开"
+    ],
+    [
+     "之",
+     "之"
+    ],
+    [
+     "日",
+     "日"
+    ],
+    [
+     "起",
+     "起"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "无法",
+     "无法"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "合上",
+     "合上"
+    ],
+    "。"
+   ],
+   "new": [
+    "自从",
+    "起",
+    "合上"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "那",
+      "that"
+     ],
+     [
+      "本",
+      "(counter for books)"
+     ],
+     [
+      "书",
+      "book"
+     ],
+     [
+      "自从",
+      "ever since"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "翻开",
+      "open (a book)"
+     ],
+     [
+      "之",
+      "of (classical)"
+     ],
+     [
+      "日",
+      "day (formal)"
+     ],
+     [
+      "起",
+      "from … on"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "无法",
+      "unable to, have no way to"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "合上",
+      "close (a book, the eyes)"
+     ]
+    ]
+   ],
+   "translation": "From the day that book is opened, it can never be closed.",
+   "note": ""
+  },
+  {
+   "n": "303.54",
+   "text": "如果其他人问起我为什么而死，请向他们解释，告诉他们不要悲伤。",
+   "han": 27,
+   "toks": [
+    [
+     "如果",
+     "如果"
+    ],
+    [
+     "其他",
+     "其他"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "问起",
+     "问起"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "为什么",
+     "为什么"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "死",
+     "死"
+    ],
+    "，",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "向",
+     "向"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "解释",
+     "解释"
+    ],
+    "，",
+    [
+     "告诉",
+     "告诉"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "不要",
+     "不要"
+    ],
+    [
+     "悲伤",
+     "悲伤"
+    ],
+    "。"
+   ],
+   "new": [
+    "其他",
+    "为什么",
+    "悲伤"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "如果",
+      "if"
+     ],
+     [
+      "其他",
+      "other"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "问起",
+      "ask about"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "为什么",
+      "why"
+     ],
+     [
+      "而",
+      "(and so)"
+     ],
+     [
+      "死",
+      "die"
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "解释",
+      "explain"
+     ],
+     [
+      "告诉",
+      "tell"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "不要",
+      "don't"
+     ],
+     [
+      "悲伤",
+      "grieve"
+     ]
+    ]
+   ],
+   "translation": "If other people ask why I died, please explain to them, and tell them not to grieve.",
+   "note": ""
+  },
+  {
+   "n": "303.55",
+   "text": "我为自己而死，并且，在最后的最后，为自己而活。",
+   "han": 19,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "为",
+     "为@for"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "死",
+     "死"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "最后",
+     "最后"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "最后",
+     "最后"
+    ],
+    "，",
+    [
+     "为",
+     "为@for"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "活",
+     "活"
+    ],
+    "。"
+   ],
+   "new": [
+    "最后"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "为",
+      "for, on account of"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "死",
+      "die"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "最后",
+      "last, the end"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "最后",
+      "last, the end"
+     ],
+     [
+      "为",
+      "for, on account of"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "活",
+      "live"
+     ]
+    ]
+   ],
+   "translation": "I die for myself and, at the very last, I live for myself.",
+   "note": "朝闻道，夕死可矣 (Analects 4.8): \"hear the Way in the morning, and it is all right to die that evening.\" That is the title of the file."
+  },
+  {
+   "n": "303.56",
+   "text": "赵██\n20██/██/██",
+   "han": 1,
+   "toks": [
+    [
+     "赵",
+     "赵"
+    ],
+    "██\n20██/██/██"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "赵",
+      "Zhao (a surname)"
+     ]
+    ],
+    [
+     [
+      "20██/██/██",
+      ""
+     ]
+    ]
+   ],
+   "translation": "Zhao ██. 20██/██/██.",
+   "note": ""
+  }
+ ]
+}

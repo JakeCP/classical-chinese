@@ -98,7 +98,7 @@
      "rank": 447,
      "py": "yuán",
      "kw": "source",
-     "parts": "氵 water + 原 origin",
+     "parts": "氵 water + 原 origin (sound)",
      "story": "Water at its origin, the spring under the cliff: the source.",
      "trad": "",
      "words": [
@@ -429,7 +429,7 @@
      "rank": 411,
      "py": "àn",
      "kw": "case",
-     "parts": "安 peace + 木 tree",
+     "parts": "安 peace (sound) + 木 tree",
      "story": "A wooden table where disputes are settled in peace: a case.",
      "trad": "",
      "words": [
@@ -493,7 +493,7 @@
      "rank": 416,
      "py": "fèi",
      "kw": "fee",
-     "parts": "弗 not + 贝 shell",
+     "parts": "弗 not (sound) + 贝 shell",
      "story": "Shells going out and not coming back: a fee.",
      "trad": "費",
      "words": [
@@ -522,8 +522,8 @@
      "rank": 410,
      "py": "zhì",
      "kw": "quality",
-     "parts": "斤 axe + 贝 shell",
-     "story": "Shell money tested under the axe: is it good? Its quality.",
+     "parts": "厂 cliff + 十 ten + 贝 shell",
+     "story": "Ten shells weighed under the cliff, each one tested: quality.",
      "trad": "質",
      "words": [
       {
@@ -790,7 +790,7 @@
      "rank": 486,
      "py": "shéi",
      "kw": "who",
-     "parts": "讠 words + 隹 bird",
+     "parts": "讠 words + 隹 bird (sound)",
      "story": "Words called out at a bird rustling in the branches: who's there?",
      "trad": "誰",
      "words": [
@@ -849,7 +849,7 @@
      "rank": 434,
      "py": "què",
      "kw": "however",
-     "parts": "去 go + 卩 kneeling man",
+     "parts": "去 go (sound) + 卩 kneeling man",
      "story": "Setting off, then kneeling back down: however.",
      "trad": "卻",
      "words": [
@@ -1122,7 +1122,7 @@
      "rank": 417,
      "py": "kōng",
      "kw": "empty",
-     "parts": "穴 cave + 工 work",
+     "parts": "穴 cave + 工 work (sound)",
      "story": "A cave dug out by work: empty inside.",
      "trad": "",
      "words": [
@@ -1151,7 +1151,7 @@
      "rank": 472,
      "py": "jiū",
      "kw": "investigate",
-     "parts": "穴 cave + 九 nine",
+     "parts": "穴 cave + 九 nine (sound)",
      "story": "Nine turns into the cave, right to the end: investigate.",
      "trad": "",
      "words": [
@@ -1587,7 +1587,7 @@
      "rank": 421,
      "py": "shén",
      "kw": "god",
-     "parts": "礻 altar + 申 lightning",
+     "parts": "礻 altar + 申 lightning (sound)",
      "story": "Lightning striking over the altar: a god.",
      "trad": "",
      "words": [
@@ -1651,7 +1651,7 @@
      "rank": 462,
      "py": "xiàng",
      "kw": "listed item",
-     "parts": "工 work + 页 head",
+     "parts": "工 work (sound) + 页 head",
      "story": "Each head of work written up in a list: a listed item.",
      "trad": "項",
      "words": [
@@ -1930,7 +1930,7 @@
      "rank": 453,
      "py": "tóu",
      "kw": "throw",
-     "parts": "扌 hand + 殳 club",
+     "parts": "扌 hand + 殳 club (sound)",
      "story": "A hand hurling a club: throw.",
      "trad": "",
      "words": [
@@ -2517,7 +2517,7 @@
      "rank": 493,
      "py": "zhù",
      "kw": "assist",
-     "parts": "且 stack + 力 strength",
+     "parts": "且 stack (sound) + 力 strength",
      "story": "Putting your strength under the stack: assist.",
      "trad": "",
      "words": [
@@ -2581,7 +2581,7 @@
      "rank": 432,
      "py": "chuàng",
      "kw": "create",
-     "parts": "仓 granary + 刂 knife",
+     "parts": "仓 granary (sound) + 刂 knife",
      "story": "Cutting the first timbers for a granary: create.",
      "trad": "創",
      "words": [
@@ -2668,7 +2668,7 @@
      "rank": 414,
      "py": "zhěng",
      "kw": "entire",
-     "parts": "束 bundle + 攵 tap + 正 straight",
+     "parts": "束 bundle + 攵 tap + 正 straight (sound)",
      "story": "Tapping the bundle until it stands straight and whole: entire.",
      "trad": "",
      "words": [
@@ -2761,7 +2761,7 @@
      "rank": 463,
      "py": "zhāng",
      "kw": "sheet",
-     "parts": "弓 bow + 长 long",
+     "parts": "弓 bow + 长 long (sound)",
      "story": "A bow drawn long and opened out flat: a sheet.",
      "trad": "張",
      "words": [
@@ -2790,7 +2790,7 @@
      "rank": 495,
      "py": "bǎn",
      "kw": "edition",
-     "parts": "片 slice + 反 turn over",
+     "parts": "片 slice + 反 turn over (sound)",
      "story": "A slice of wood carved, inked and turned over: an edition.",
      "trad": "",
      "words": [

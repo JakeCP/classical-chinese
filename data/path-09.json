@@ -40,7 +40,7 @@
      "rank": 829,
      "py": "xùn",
      "kw": "train",
-     "parts": "讠 words + 川 river",
+     "parts": "讠 words + 川 river (sound)",
      "story": "Words flowing steadily like a river 川: teach, train.",
      "trad": "訓",
      "words": [
@@ -69,7 +69,7 @@
      "rank": 848,
      "py": "cí",
      "kw": "word",
-     "parts": "讠 words + 司 manage",
+     "parts": "讠 words + 司 manage (sound)",
      "story": "Words 讠 a clerk 司 sorts and records: a word, a term.",
      "trad": "詞",
      "words": [
@@ -98,7 +98,7 @@
      "rank": 867,
      "py": "kè",
      "kw": "lesson",
-     "parts": "讠 words + 果 fruit",
+     "parts": "讠 words + 果 fruit (sound)",
      "story": "Words 讠 that bear fruit 果: a lesson.",
      "trad": "課",
      "words": [
@@ -127,7 +127,7 @@
      "rank": 881,
      "py": "wù",
      "kw": "error",
-     "parts": "讠 words + 吴 a man with head thrown back",
+     "parts": "讠 words + 吴 a man with head thrown back (sound)",
      "story": "Words 讠 shouted by a man swaying with his head thrown back 吴: an error.",
      "trad": "誤",
      "words": [
@@ -220,7 +220,7 @@
      "rank": 872,
      "py": "zhuī",
      "kw": "chase",
-     "parts": "辶 walk + 𠂤 troops",
+     "parts": "辶 walk + 𠂤 troops (sound)",
      "story": "Walking 辶 hard after the troops 𠂤: chase.",
      "trad": "",
      "words": [
@@ -458,7 +458,7 @@
      "rank": 801,
      "py": "è",
      "kw": "evil",
-     "parts": "亚 second + 心 heart",
+     "parts": "亚 second (sound) + 心 heart",
      "story": "A heart 心 crushed down under 亚: evil.",
      "trad": "惡",
      "words": [
@@ -580,7 +580,7 @@
      "rank": 812,
      "py": "jiǎn",
      "kw": "reduce",
-     "parts": "冫 ice + 咸 all",
+     "parts": "冫 ice + 咸 all (sound)",
      "story": "Ice 冫 melting away, all 咸 of it: reduce.",
      "trad": "減",
      "words": [
@@ -609,7 +609,7 @@
      "rank": 813,
      "py": "chōng",
      "kw": "dash",
-     "parts": "冫 ice + 中 middle",
+     "parts": "冫 ice + 中 middle (sound)",
      "story": "Water rushing 冫 through the middle 中: dash, charge.",
      "trad": "衝/沖",
      "words": [
@@ -668,7 +668,7 @@
      "rank": 860,
      "py": "cái",
      "kw": "timber",
-     "parts": "木 tree + 才 talent",
+     "parts": "木 tree + 才 talent (sound)",
      "story": "Wood 木 with the talent 才 to become something: timber, material.",
      "trad": "",
      "words": [
@@ -697,7 +697,7 @@
      "rank": 870,
      "py": "bǎn",
      "kw": "board",
-     "parts": "木 tree + 反 turn over",
+     "parts": "木 tree + 反 turn over (sound)",
      "story": "Wood 木 sawn flat and turned over 反: a board.",
      "trad": "闆",
      "words": [
@@ -726,7 +726,7 @@
      "rank": 893,
      "py": "qiāng",
      "kw": "gun",
-     "parts": "木 tree + 仓 armoury",
+     "parts": "木 tree + 仓 armoury (sound)",
      "story": "A wooden 木 shaft from the armoury 仓: spear, now gun.",
      "trad": "槍/鎗",
      "words": [
@@ -936,7 +936,7 @@
      "rank": 835,
      "py": "jiē",
      "kw": "stairs",
-     "parts": "阝 mound + 介 between",
+     "parts": "阝 mound + 介 between (sound)",
      "story": "Steps cut into a hillside 阝, one between 介 the next: stairs.",
      "trad": "階",
      "words": [
@@ -1087,7 +1087,7 @@
      "rank": 863,
      "py": "méng",
      "kw": "league",
-     "parts": "明 bright + 皿 dish",
+     "parts": "明 bright (sound) + 皿 dish",
      "story": "An oath sworn over a dish 皿 of blood, before sun and moon 明: a league.",
      "trad": "",
      "words": [
@@ -1180,7 +1180,7 @@
      "rank": 875,
      "py": "róng",
      "kw": "melt",
-     "parts": "鬲 cauldron + 虫 insect",
+     "parts": "鬲 cauldron + 虫 insect (sound)",
      "story": "A cauldron 鬲 with steam curling up like a worm 虫: things melt and blend.",
      "trad": "",
      "words": [
@@ -1238,7 +1238,7 @@
      "rank": 855,
      "py": "pái",
      "kw": "signboard",
-     "parts": "片 slice + 卑 low",
+     "parts": "片 slice + 卑 low (sound)",
      "story": "A slice 片 of wood hung low 卑 over the shop door: signboard.",
      "trad": "",
      "words": [
@@ -1331,7 +1331,7 @@
      "rank": 824,
      "py": "zhēng",
      "kw": "expedition",
-     "parts": "彳 step + 正 straight",
+     "parts": "彳 step + 正 straight (sound)",
      "story": "Steps 彳 marching straight 正 at the enemy: an expedition.",
      "trad": "徵",
      "words": [
@@ -1360,7 +1360,7 @@
      "rank": 819,
      "py": "kào",
      "kw": "lean on",
-     "parts": "告 tell + 非 two backs",
+     "parts": "告 tell (sound) + 非 two backs",
      "story": "Two sides 非 pressed back to back, one leaning on the other: lean on.",
      "trad": "",
      "words": [
@@ -1424,7 +1424,7 @@
      "rank": 852,
      "py": "é",
      "kw": "fixed amount",
-     "parts": "客 guest + 页 head",
+     "parts": "客 guest (sound) + 页 head",
      "story": "The sum written on the board above the guest's 客 head 页: a fixed amount.",
      "trad": "額",
      "words": [
@@ -1546,7 +1546,7 @@
      "rank": 891,
      "py": "qiān",
      "kw": "sign",
-     "parts": "⺮ bamboo + 佥 all",
+     "parts": "⺮ bamboo + 佥 all (sound)",
      "story": "Everyone 佥 marks the bamboo ⺮ slip: sign.",
      "trad": "簽/籤",
      "words": [
@@ -1581,7 +1581,7 @@
      "rank": 816,
      "py": "méi",
      "kw": "media",
-     "parts": "女 woman + 某 certain",
+     "parts": "女 woman + 某 certain (sound)",
      "story": "A woman 女 who brings a certain 某 man and woman together: go-between, media.",
      "trad": "",
      "words": [
@@ -1762,7 +1762,7 @@
      "rank": 817,
      "py": "mì",
      "kw": "secret",
-     "parts": "禾 grain + 必 must",
+     "parts": "禾 grain + 必 must (sound)",
      "story": "Grain 禾 that must 必 be hidden away: secret.",
      "trad": "",
      "words": [
@@ -1855,7 +1855,7 @@
      "rank": 880,
      "py": "shòu",
      "kw": "confer",
-     "parts": "扌 hand + 受 receive",
+     "parts": "扌 hand + 受 receive (sound)",
      "story": "A hand 扌 giving so the other hand can receive 受: confer, teach.",
      "trad": "",
      "words": [
@@ -1884,7 +1884,7 @@
      "rank": 898,
      "py": "bì",
      "kw": "finished",
-     "parts": "比 side by side + 十 ten",
+     "parts": "比 side by side (sound) + 十 ten",
      "story": "Two figures 比 side by side over a crossed 十: all done: finished.",
      "trad": "畢",
      "words": [
@@ -1943,7 +1943,7 @@
      "rank": 827,
      "py": "duǎn",
      "kw": "short",
-     "parts": "矢 arrow + 豆 vessel",
+     "parts": "矢 arrow + 豆 vessel (sound)",
      "story": "An arrow 矢 no longer than a small vessel 豆: short.",
      "trad": "",
      "words": [
@@ -1972,7 +1972,7 @@
      "rank": 883,
      "py": "quē",
      "kw": "lack",
-     "parts": "缶 pot + 夬 broken",
+     "parts": "缶 pot + 夬 broken (sound)",
      "story": "A pot 缶 with a piece broken 夬 out: lacking.",
      "trad": "",
      "words": [
@@ -2001,7 +2001,7 @@
      "rank": 803,
      "py": "lüè",
      "kw": "slightly",
-     "parts": "田 field + 各 each",
+     "parts": "田 field + 各 each (sound)",
      "story": "Walking each 各 field 田 quickly, just roughly: brief, slightly.",
      "trad": "",
      "words": [
@@ -2158,7 +2158,7 @@
      "rank": 885,
      "py": "cāo",
      "kw": "steer",
-     "parts": "扌 hand + 喿 birds on a tree",
+     "parts": "扌 hand + 喿 birds on a tree (sound)",
      "story": "A hand 扌 on a tree full of chirping mouths 喿: steer them, operate.",
      "trad": "",
      "words": [
@@ -2187,7 +2187,7 @@
      "rank": 884,
      "py": "dū",
      "kw": "supervisor",
-     "parts": "叔 uncle + 目 eye",
+     "parts": "叔 uncle (sound) + 目 eye",
      "story": "An uncle's 叔 eye 目 on you: the supervisor.",
      "trad": "",
      "words": [
@@ -2403,7 +2403,7 @@
      "rank": 804,
      "py": "bài",
      "kw": "defeat",
-     "parts": "贝 shell + 攵 tap",
+     "parts": "贝 shell (sound) + 攵 tap",
      "story": "A shell 贝 tapped 攵 to pieces: ruined, defeated.",
      "trad": "敗",
      "words": [
@@ -2566,7 +2566,7 @@
      "rank": 886,
      "py": "wèi",
      "kw": "flavor",
-     "parts": "口 mouth + 未 not yet",
+     "parts": "口 mouth + 未 not yet (sound)",
      "story": "A mouth 口 on food not yet 未 swallowed: flavor.",
      "trad": "",
      "words": [
@@ -2595,7 +2595,7 @@
      "rank": 896,
      "py": "xī",
      "kw": "inhale",
-     "parts": "口 mouth + 及 reach",
+     "parts": "口 mouth + 及 reach (sound)",
      "story": "A mouth 口 reaching 及 for air: breathe in, inhale.",
      "trad": "",
      "words": [
@@ -2659,7 +2659,7 @@
      "rank": 840,
      "py": "dǎo",
      "kw": "fall over",
-     "parts": "亻 person + 到 arrive",
+     "parts": "亻 person + 到 arrive (sound)",
      "story": "A person 亻 who arrives 到 face-down: fallen over.",
      "trad": "",
      "words": [
@@ -2694,7 +2694,7 @@
      "rank": 806,
      "py": "dàn",
      "kw": "bullet",
-     "parts": "弓 bow + 单 single",
+     "parts": "弓 bow + 单 single (sound)",
      "story": "A single 单 pellet shot from a bow 弓: bullet.",
      "trad": "彈",
      "words": [
@@ -2787,7 +2787,7 @@
      "rank": 897,
      "py": "chǔ",
      "kw": "foundation",
-     "parts": "石 stone + 出 out",
+     "parts": "石 stone + 出 out (sound)",
      "story": "The stone 石 that sticks out 出 under a pillar: foundation.",
      "trad": "礎",
      "words": [
@@ -2846,7 +2846,7 @@
      "rank": 856,
      "py": "bǔ",
      "kw": "mend",
-     "parts": "衤 clothes + 卜 crack",
+     "parts": "衤 clothes + 卜 crack (sound)",
      "story": "Clothes 衤 with a crack 卜 in them: patch, mend.",
      "trad": "補",
      "words": [

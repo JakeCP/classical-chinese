@@ -11,8 +11,8 @@
      "rank": 2301,
      "py": "pān",
      "kw": "climb",
-     "parts": "木 tree + 木 tree + 大 big + 手 hand",
-     "story": "Hand over hand up tree after tree, up the big slope: climb.",
+     "parts": "樊 fence (sound) + 手 hand",
+     "story": "A hand 手 pulling you up and over a fence 樊: climb.",
      "trad": "",
      "words": [
       {
@@ -69,7 +69,7 @@
      "rank": 2322,
      "py": "cuò",
      "kw": "obstructed",
-     "parts": "扌 hand + 坐 sit",
+     "parts": "扌 hand + 坐 sit (sound)",
      "story": "A hand pressing someone down into his seat: held back.",
      "trad": "",
      "words": [
@@ -156,7 +156,7 @@
      "rank": 2395,
      "py": "dǒu",
      "kw": "tremble",
-     "parts": "扌 hand + 斗 dipper",
+     "parts": "扌 hand + 斗 dipper (sound)",
      "story": "A hand flicks the dipper to shake the drops loose: it trembles.",
      "trad": "",
      "words": [
@@ -303,7 +303,7 @@
      "rank": 2365,
      "py": "zé",
      "kw": "how come",
-     "parts": "口 mouth + 乍 suddenly",
+     "parts": "口 mouth + 乍 suddenly (sound)",
      "story": "A mouth that blurts out a sudden 乍 question: how come?",
      "trad": "",
      "words": [
@@ -332,7 +332,7 @@
      "rank": 2381,
      "py": "pí",
      "kw": "beer",
-     "parts": "口 mouth + 卑 low",
+     "parts": "口 mouth + 卑 low (sound)",
      "story": "The everyday drink for the mouth: beer.",
      "trad": "",
      "words": [
@@ -425,7 +425,7 @@
      "rank": 2398,
      "py": "nà",
      "kw": "battle cry",
-     "parts": "口 mouth + 内 inside",
+     "parts": "口 mouth + 内 inside (sound)",
      "story": "A cry that rises from inside the chest: a battle cry.",
      "trad": "吶",
      "words": [
@@ -460,7 +460,7 @@
      "rank": 2308,
      "py": "zhì",
      "kw": "stagnant",
-     "parts": "氵 water + 带 belt",
+     "parts": "氵 water + 带 belt (sound)",
      "story": "Water held back by a belt: stagnant.",
      "trad": "滯",
      "words": [
@@ -518,7 +518,7 @@
      "rank": 2352,
      "py": "huái",
      "kw": "huai river",
-     "parts": "氵 water + 隹 bird",
+     "parts": "氵 water + 隹 bird (sound)",
      "story": "Birds gather along the water: the Huai river.",
      "trad": "",
      "words": [
@@ -547,7 +547,7 @@
      "rank": 2369,
      "py": "zhī",
      "kw": "juice",
-     "parts": "氵 water + 十 ten",
+     "parts": "氵 water + 十 ten (sound)",
      "story": "Water pressed out of the fruit after ten squeezes: juice.",
      "trad": "",
      "words": [
@@ -611,7 +611,7 @@
      "rank": 2346,
      "py": "kuì",
      "kw": "ashamed",
-     "parts": "忄 heart + 鬼 ghost",
+     "parts": "忄 heart + 鬼 ghost (sound)",
      "story": "A heart haunted by a ghost: ashamed.",
      "trad": "",
      "words": [
@@ -640,7 +640,7 @@
      "rank": 2385,
      "py": "kǎi",
      "kw": "impassioned",
-     "parts": "忄 heart + 既 already",
+     "parts": "忄 heart + 既 already (sound)",
      "story": "A heart already full to the brim: impassioned.",
      "trad": "嘅",
      "words": [
@@ -675,7 +675,7 @@
      "rank": 2314,
      "py": "pàn",
      "kw": "hope for",
-     "parts": "目 eye + 分 part",
+     "parts": "目 eye + 分 part (sound)",
      "story": "An eye that watches the road for someone's return: hope for.",
      "trad": "",
      "words": [
@@ -704,7 +704,7 @@
      "rank": 2350,
      "py": "miáo",
      "kw": "aim",
-     "parts": "目 eye + 苗 sprout",
+     "parts": "目 eye + 苗 sprout (sound)",
      "story": "An eye fixed on one small sprout: aim.",
      "trad": "",
      "words": [
@@ -733,7 +733,7 @@
      "rank": 2397,
      "py": "dīng",
      "kw": "stare",
-     "parts": "目 eye + 丁 nail",
+     "parts": "目 eye + 丁 nail (sound)",
      "story": "An eye nailed to one spot: stare.",
      "trad": "",
      "words": [
@@ -797,7 +797,7 @@
      "rank": 2316,
      "py": "pí",
      "kw": "spleen",
-     "parts": "月 flesh + 卑 low",
+     "parts": "月 flesh + 卑 low (sound)",
      "story": "The low organ in the flesh: the spleen.",
      "trad": "",
      "words": [
@@ -855,7 +855,7 @@
      "rank": 2356,
      "py": "zhī",
      "kw": "limb",
-     "parts": "月 flesh + 支 branch",
+     "parts": "月 flesh + 支 branch (sound)",
      "story": "The branches of the body: limbs.",
      "trad": "",
      "words": [
@@ -919,7 +919,7 @@
      "rank": 2396,
      "py": "wán",
      "kw": "stubborn",
-     "parts": "元 first + 页 head",
+     "parts": "元 first (sound) + 页 head",
      "story": "A head that will not turn: stubborn.",
      "trad": "頑",
      "words": [
@@ -1007,7 +1007,7 @@
      "rank": 2351,
      "py": "rú",
      "kw": "confucian scholar",
-     "parts": "亻 person + 需 need",
+     "parts": "亻 person + 需 need (sound)",
      "story": "The person society needs for learning: a Confucian scholar.",
      "trad": "",
      "words": [
@@ -1094,7 +1094,7 @@
      "rank": 2312,
      "py": "wēng",
      "kw": "old man",
-     "parts": "公 gentleman + 羽 feather",
+     "parts": "公 gentleman (sound) + 羽 feather",
      "story": "A gentleman with feathery white hair: an old man.",
      "trad": "",
      "words": [
@@ -1222,7 +1222,7 @@
      "rank": 2313,
      "py": "lěi",
      "kw": "rampart",
-     "parts": "厽 pile + 土 earth",
+     "parts": "厽 pile (sound) + 土 earth",
      "story": "Earth piled on earth on earth: a rampart.",
      "trad": "壘",
      "words": [
@@ -1280,7 +1280,7 @@
      "rank": 2378,
      "py": "wù",
      "kw": "low area",
-     "parts": "土 earth + 乌 crow",
+     "parts": "土 earth + 乌 crow (sound)",
      "story": "A low spot ringed by a bank of earth.",
      "trad": "塢",
      "words": [
@@ -1309,7 +1309,7 @@
      "rank": 2399,
      "py": "kǎn",
      "kw": "threshold",
-     "parts": "土 earth + 欠 owe",
+     "parts": "土 earth + 欠 owe (sound)",
      "story": "A step of earth you must cross: a threshold, and a pit if you miss it.",
      "trad": "埳",
      "words": [
@@ -1344,7 +1344,7 @@
      "rank": 2333,
      "py": "bì",
      "kw": "shelter",
-     "parts": "广 lean-to + 比 side by side",
+     "parts": "广 lean-to + 比 side by side (sound)",
      "story": "Two people side by side under a lean-to: shelter.",
      "trad": "",
      "words": [
@@ -1373,7 +1373,7 @@
      "rank": 2332,
      "py": "xiāng",
      "kw": "side room",
-     "parts": "厂 cliff + 相 each other",
+     "parts": "厂 cliff + 相 each other (sound)",
      "story": "Rooms face one another across a courtyard: the side rooms.",
      "trad": "廂",
      "words": [
@@ -1402,7 +1402,7 @@
      "rank": 2376,
      "py": "yōng",
      "kw": "mediocre",
-     "parts": "广 lean-to + 肀 hand + 用 use",
+     "parts": "广 lean-to + 肀 hand + 用 use (sound)",
      "story": "Under a plain roof, used day in day out: mediocre.",
      "trad": "",
      "words": [
@@ -1466,7 +1466,7 @@
      "rank": 2383,
      "py": "yuè",
      "kw": "door key",
-     "parts": "钅 metal + 月 moon",
+     "parts": "钅 metal + 月 moon (sound)",
      "story": "A piece of metal cut like a crescent moon: a door key.",
      "trad": "鑰",
      "words": [
@@ -1530,7 +1530,7 @@
      "rank": 2337,
      "py": "shā",
      "kw": "yarn",
-     "parts": "纟 silk + 少 little",
+     "parts": "纟 silk + 少 little (sound)",
      "story": "Thin silk with little thread: fine yarn.",
      "trad": "紗",
      "words": [
@@ -1751,7 +1751,7 @@
      "rank": 2309,
      "py": "hóng",
      "kw": "wild goose",
-     "parts": "江 river + 鸟 bird",
+     "parts": "江 river (sound) + 鸟 bird",
      "story": "A big bird that follows the river: a wild goose.",
      "trad": "鴻",
      "words": [
@@ -1780,7 +1780,7 @@
      "rank": 2357,
      "py": "é",
      "kw": "goose",
-     "parts": "我 I + 鸟 bird",
+     "parts": "我 I (sound) + 鸟 bird",
      "story": "A big white bird that struts as if it owned the pond: a goose.",
      "trad": "鵝",
      "words": [
@@ -1809,7 +1809,7 @@
      "rank": 2372,
      "py": "bào",
      "kw": "abalone",
-     "parts": "鱼 fish + 包 wrap",
+     "parts": "鱼 fish + 包 wrap (sound)",
      "story": "A fish-like creature wrapped in its shell: abalone.",
      "trad": "鮑",
      "words": [
@@ -1833,7 +1833,7 @@
      "rank": 2303,
      "py": "shān",
      "kw": "coral",
-     "parts": "王 jade + 册 tablets",
+     "parts": "王 jade + 册 tablets (sound)",
      "story": "Jade-like stems standing like tablets under the sea: coral.",
      "trad": "",
      "words": [
@@ -1932,7 +1932,7 @@
      "rank": 2368,
      "py": "máng",
      "kw": "awn",
-     "parts": "艹 grass + 亡 lost",
+     "parts": "艹 grass + 亡 lost (sound)",
      "story": "The bristle at a grass seed's tip.",
      "trad": "",
      "words": [
@@ -2025,7 +2025,7 @@
      "rank": 2355,
      "py": "yīng",
      "kw": "cherry",
-     "parts": "木 tree + 婴 baby",
+     "parts": "木 tree + 婴 baby (sound)",
      "story": "A tree with fruit small and red as a baby's cheek: cherry.",
      "trad": "櫻",
      "words": [
@@ -2142,7 +2142,7 @@
      "rank": 2327,
      "py": "huáng",
      "kw": "brilliant",
-     "parts": "火 fire + 皇 emperor",
+     "parts": "火 fire + 皇 emperor (sound)",
      "story": "A fire fit for an emperor: brilliant.",
      "trad": "",
      "words": [
@@ -2230,7 +2230,7 @@
      "rank": 2321,
      "py": "zhān",
      "kw": "stick to",
-     "parts": "米 rice + 占",
+     "parts": "米 rice + 占 (sound)",
      "story": "Cooked rice clings to everything: stick to.",
      "trad": "",
      "words": [
@@ -2294,7 +2294,7 @@
      "rank": 2334,
      "py": "pén",
      "kw": "basin",
-     "parts": "分 divide + 皿 dish",
+     "parts": "分 divide (sound) + 皿 dish",
      "story": "A dish you pour things out of: a basin.",
      "trad": "",
      "words": [
@@ -2323,7 +2323,7 @@
      "rank": 2390,
      "py": "tǒng",
      "kw": "tube",
-     "parts": "⺮ bamboo + 同 same",
+     "parts": "⺮ bamboo + 同 same (sound)",
      "story": "A length of bamboo hollow all the way through: a tube.",
      "trad": "",
      "words": [
@@ -2358,7 +2358,7 @@
      "rank": 2340,
      "py": "cǎi",
      "kw": "step on",
-     "parts": "足 foot + 采 pick",
+     "parts": "足 foot + 采 pick (sound)",
      "story": "A foot comes down on it: step on.",
      "trad": "",
      "words": [
@@ -2387,7 +2387,7 @@
      "rank": 2341,
      "py": "chí",
      "kw": "gallop",
-     "parts": "马 horse + 也",
+     "parts": "马 horse + 也 (sound)",
      "story": "A horse at full speed: gallop.",
      "trad": "馳",
      "words": [
@@ -2416,7 +2416,7 @@
      "rank": 2349,
      "py": "piāo",
      "kw": "flutter",
-     "parts": "票 ticket + 风 wind",
+     "parts": "票 ticket (sound) + 风 wind",
      "story": "A paper ticket carried off by the wind: flutter.",
      "trad": "飄",
      "words": [
@@ -2445,7 +2445,7 @@
      "rank": 2388,
      "py": "xiáng",
      "kw": "glide",
-     "parts": "羊 sheep + 羽 wings",
+     "parts": "羊 sheep (sound) + 羽 wings",
      "story": "Wings spread wide: glide.",
      "trad": "",
      "words": [
@@ -2538,7 +2538,7 @@
      "rank": 2389,
      "py": "guǒ",
      "kw": "wrap around",
-     "parts": "衣 clothes + 果 fruit",
+     "parts": "衣 clothes + 果 fruit (sound)",
      "story": "A fruit wrapped inside clothing: wrap around.",
      "trad": "",
      "words": [
@@ -2695,7 +2695,7 @@
      "rank": 2347,
      "py": "guǎ",
      "kw": "scant",
-     "parts": "宀 roof + 页 head + 刀 knife",
+     "parts": "宀 roof + 頁 head + 刀 knife",
      "story": "Under the roof one head is left, the rest are gone: scant.",
      "trad": "",
      "words": [
@@ -2991,7 +2991,7 @@
      "rank": 2311,
      "py": "gān",
      "kw": "embarrassed",
-     "parts": "尢 lame leg + 监 watch",
+     "parts": "尢 lame leg + 监 watch (sound)",
      "story": "Limping while everyone watches: embarrassed.",
      "trad": "尷",
      "words": [
@@ -3010,7 +3010,7 @@
      "rank": 2400,
      "py": "yǐn",
      "kw": "addiction",
-     "parts": "疒 sickness + 隐 hidden",
+     "parts": "疒 sickness + 隐 hidden (sound)",
      "story": "A hidden sickness that keeps drawing you back: addiction.",
      "trad": "癮",
      "words": [

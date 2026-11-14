@@ -127,7 +127,7 @@
      "rank": 1538,
      "py": "tuō",
      "kw": "drag",
-     "parts": "扌 hand + 也 (sound)",
+     "parts": "扌 hand + 𠂉 + 也 (sound)",
      "story": "A hand pulls a heavy bag along the floor: drag.",
      "trad": "",
      "words": [
@@ -365,7 +365,7 @@
      "rank": 1589,
      "py": "pào",
      "kw": "bubble",
-     "parts": "氵 water + 包 wrap",
+     "parts": "氵 water + 包 wrap (sound)",
      "story": "Water wrapped in a thin skin: a bubble.",
      "trad": "",
      "words": [
@@ -429,7 +429,7 @@
      "rank": 1505,
      "py": "zán",
      "kw": "inclusive we",
-     "parts": "口 mouth + 自 self",
+     "parts": "口 mouth + 自 self (sound)",
      "story": "Our mouths say 'self' together: we, you and I included.",
      "trad": "",
      "words": [
@@ -453,7 +453,7 @@
      "rank": 1510,
      "py": "shá",
      "kw": "what",
-     "parts": "口 mouth + 舍 house",
+     "parts": "口 mouth + 舍 house (sound)",
      "story": "A mouth asking about the thing in the house: what?",
      "trad": "",
      "words": [
@@ -477,7 +477,7 @@
      "rank": 1581,
      "py": "wěn",
      "kw": "kiss",
-     "parts": "口 mouth + 勿 not",
+     "parts": "口 mouth + 勿 not (sound)",
      "story": "Mouth meets mouth: a kiss.",
      "trad": "",
      "words": [
@@ -589,7 +589,7 @@
      "rank": 1564,
      "py": "xīn",
      "kw": "joyful",
-     "parts": "斤 axe + 欠 yawn",
+     "parts": "斤 axe (sound) + 欠 yawn",
      "story": "An axe put down, the mouth stretched wide in a grin: joyful.",
      "trad": "",
      "words": [
@@ -740,7 +740,7 @@
      "rank": 1517,
      "py": "gé",
      "kw": "pavilion",
-     "parts": "门 gate + 各 each",
+     "parts": "门 gate + 各 each (sound)",
      "story": "A gate-building where each person climbs up: a pavilion.",
      "trad": "閣",
      "words": [
@@ -804,7 +804,7 @@
      "rank": 1520,
      "py": "zhōng",
      "kw": "loyalty",
-     "parts": "中 middle + 心 heart",
+     "parts": "中 middle (sound) + 心 heart",
      "story": "The heart kept in the middle, never leaning away: loyalty.",
      "trad": "",
      "words": [
@@ -897,7 +897,7 @@
      "rank": 1508,
      "py": "jù",
      "kw": "entirely",
-     "parts": "亻 person + 具 tool",
+     "parts": "亻 person + 具 tool (sound)",
      "story": "Every person arrives with the full kit: all present.",
      "trad": "",
      "words": [
@@ -926,7 +926,7 @@
      "rank": 1556,
      "py": "wěi",
      "kw": "forged",
-     "parts": "亻 person + 为 act",
+     "parts": "亻 person + 为 act (sound)",
      "story": "A person acting a part he does not own: forged.",
      "trad": "偽",
      "words": [
@@ -1048,7 +1048,7 @@
      "rank": 1579,
      "py": "pǔ",
      "kw": "chart",
-     "parts": "讠 words + 普 common",
+     "parts": "讠 words + 普 common (sound)",
      "story": "Words set out in rows for everyone to read: a chart.",
      "trad": "譜",
      "words": [
@@ -1205,7 +1205,7 @@
      "rank": 1525,
      "py": "luó",
      "kw": "patrol",
-     "parts": "辶 walk + 罗 net",
+     "parts": "辶 walk + 罗 net (sound)",
      "story": "Walking round with a net of watchmen: patrol.",
      "trad": "邏",
      "words": [
@@ -1269,7 +1269,7 @@
      "rank": 1515,
      "py": "xún",
      "kw": "follow a track",
-     "parts": "彳 step + 盾 shield",
+     "parts": "彳 step + 盾 shield (sound)",
      "story": "Steps taken one behind another, shield up: follow.",
      "trad": "",
      "words": [
@@ -1420,7 +1420,7 @@
      "rank": 1595,
      "py": "kù",
      "kw": "trousers",
-     "parts": "衤 clothes + 库 storehouse",
+     "parts": "衤 clothes + 库 storehouse (sound)",
      "story": "Clothes that store both legs: trousers.",
      "trad": "褲",
      "words": [
@@ -1542,7 +1542,7 @@
      "rank": 1528,
      "py": "hún",
      "kw": "soul",
-     "parts": "云 cloud + 鬼 ghost",
+     "parts": "云 cloud (sound) + 鬼 ghost",
      "story": "A cloud-like ghost drifting out of the body: the soul.",
      "trad": "",
      "words": [
@@ -1699,8 +1699,8 @@
      "rank": 1553,
      "py": "mài",
      "kw": "vein",
-     "parts": "月 flesh + 𠂢 branching stream",
-     "story": "Branching streams in the flesh: veins.",
+     "parts": "月 flesh + 永 forever",
+     "story": "Streams that run forever 永 through the flesh: veins.",
      "trad": "脈",
      "words": [
       {
@@ -1763,7 +1763,7 @@
      "rank": 1569,
      "py": "shēng",
      "kw": "domestic animal",
-     "parts": "牛 cow + 生 alive",
+     "parts": "牛 cow + 生 alive (sound)",
      "story": "A cow kept alive for use: a farm animal.",
      "trad": "",
      "words": [
@@ -1856,7 +1856,7 @@
      "rank": 1570,
      "py": "fēng",
      "kw": "edge",
-     "parts": "钅 metal + 丰 (sound)",
+     "parts": "钅 metal + 夆 (sound)",
      "story": "The thin edge of the metal blade: its edge.",
      "trad": "鋒",
      "words": [
@@ -1876,7 +1876,7 @@
        "g": "charge"
       }
      ],
-     "note": "鋒 had 夆 on the right; 丰 replaced it.",
+     "note": "鋒: 金 became 钅.",
      "have": "new",
      "akw": ""
     },
@@ -1885,7 +1885,7 @@
      "rank": 1561,
      "py": "jiàn",
      "kw": "bronze mirror",
-     "parts": "监 watch over + 金 metal",
+     "parts": "监 watch over (top) + 金 metal",
      "story": "A polished bronze plate you watch yourself in: a mirror.",
      "trad": "鑑",
      "words": [
@@ -1920,7 +1920,7 @@
      "rank": 1512,
      "py": "chuāng",
      "kw": "window",
-     "parts": "穴 hole + 囱 vent",
+     "parts": "穴 hole + 囱 vent (sound)",
      "story": "A hole in the wall that lets the light in: window.",
      "trad": "",
      "words": [
@@ -1949,7 +1949,7 @@
      "rank": 1504,
      "py": "zhàng",
      "kw": "tent",
-     "parts": "巾 cloth + 长 long",
+     "parts": "巾 cloth + 长 long (sound)",
      "story": "A long cloth stretched out as a tent.",
      "trad": "帳",
      "words": [
@@ -2100,7 +2100,7 @@
      "rank": 1509,
      "py": "mǐn",
      "kw": "sensitive",
-     "parts": "每 every + 攵 tap",
+     "parts": "每 every (sound) + 攵 tap",
      "story": "A tap at every moment, so quick to respond: sensitive.",
      "trad": "",
      "words": [
@@ -2158,7 +2158,7 @@
      "rank": 1543,
      "py": "jiā",
      "kw": "commend",
-     "parts": "壴 drum + 加 add",
+     "parts": "壴 drum + 加 add (sound)",
      "story": "A drum added to the party to cheer someone on: praise.",
      "trad": "",
      "words": [
@@ -2187,7 +2187,7 @@
      "rank": 1536,
      "py": "shū",
      "kw": "relax",
-     "parts": "舍 house + 予 give",
+     "parts": "舍 house + 予 give (sound)",
      "story": "At home you give yourself room to stretch out: relax.",
      "trad": "",
      "words": [
@@ -2280,7 +2280,7 @@
      "rank": 1524,
      "py": "héng",
      "kw": "horizontal",
-     "parts": "木 tree + 黄 yellow",
+     "parts": "木 tree + 黄 yellow (sound)",
      "story": "A beam of wood laid sideways across the door: horizontal.",
      "trad": "橫",
      "words": [
@@ -2408,7 +2408,7 @@
      "rank": 1534,
      "py": "zhè",
      "kw": "zhejiang",
-     "parts": "氵 water + 折 break",
+     "parts": "氵 water + 折 break (sound)",
      "story": "A river that bends and breaks its course: Zhejiang province.",
      "trad": "",
      "words": [
@@ -2461,7 +2461,7 @@
      "rank": 1544,
      "py": "lì",
      "kw": "jasmine",
-     "parts": "艹 grass + 利 sharp",
+     "parts": "艹 grass + 利 sharp (sound)",
      "story": "A grassy plant with sharp-scented white flowers: jasmine.",
      "trad": "",
      "words": [
@@ -2543,7 +2543,7 @@
      "rank": 1568,
      "py": "kā",
      "kw": "coffee",
-     "parts": "口 mouth + 加 add",
+     "parts": "口 mouth + 加 add (sound)",
      "story": "A mouth adds sip after sip of dark liquid: coffee.",
      "trad": "",
      "words": [
@@ -2787,7 +2787,7 @@
      "rank": 1576,
      "py": "lán",
      "kw": "basket",
-     "parts": "⺮ bamboo + 监 watch",
+     "parts": "⺮ bamboo + 监 watch (sound)",
      "story": "Bamboo strips woven so you can watch the load: a basket.",
      "trad": "籃",
      "words": [
@@ -2816,7 +2816,7 @@
      "rank": 1546,
      "py": "guàn",
      "kw": "thread through",
-     "parts": "毌 pierced bar + 贝 shell",
+     "parts": "毌 pierced bar (sound) + 贝 shell",
      "story": "A cord threaded through a shell: thread through.",
      "trad": "貫",
      "words": [
@@ -2938,7 +2938,7 @@
      "rank": 1582,
      "py": "gù",
      "kw": "hire",
-     "parts": "户 door + 隹 bird",
+     "parts": "户 door (sound) + 隹 bird",
      "story": "A bird at the door that comes to work: hire.",
      "trad": "",
      "words": [
@@ -2996,7 +2996,7 @@
      "rank": 1592,
      "py": "jì",
      "kw": "send by mail",
-     "parts": "宀 roof + 奇 odd",
+     "parts": "宀 roof + 奇 odd (sound)",
      "story": "Putting a thing under another's roof for safekeeping: mail.",
      "trad": "",
      "words": [

@@ -210,7 +210,7 @@
      "rank": 2417,
      "py": "jiāng",
      "kw": "thick liquid",
-     "parts": "将 (sound) + 水 water",
+     "parts": "将 (shortened) (sound) + 水 water",
      "story": "Water gone thick enough to pour slowly: soy milk, plasma, magma.",
      "trad": "漿",
      "words": [
@@ -297,7 +297,7 @@
      "rank": 2467,
      "py": "hún",
      "kw": "muddy",
-     "parts": "氵 water + 军 army",
+     "parts": "氵 water + 军 army (sound)",
      "story": "An army wades through a stream and churns it into mud.",
      "trad": "渾",
      "words": [
@@ -512,7 +512,7 @@
      "rank": 2473,
      "py": "hù",
      "kw": "shanghai",
-     "parts": "氵 water + 户 door",
+     "parts": "氵 water + 户 door (sound)",
      "story": "A door onto the sea: the short name for Shanghai.",
      "trad": "滬",
      "words": [
@@ -727,7 +727,7 @@
      "rank": 2420,
      "py": "lí",
      "kw": "pear",
-     "parts": "木 tree + 利 (sharp)",
+     "parts": "木 tree + 利 sharp (sound)",
      "story": "A tree whose fruit you cut with a sharp knife: a pear.",
      "trad": "",
      "words": [
@@ -756,7 +756,7 @@
      "rank": 2431,
      "py": "xiàng",
      "kw": "oak",
-     "parts": "木 tree + 象 elephant",
+     "parts": "木 tree + 象 elephant (sound)",
      "story": "A tree as huge as an elephant: the oak.",
      "trad": "",
      "words": [
@@ -785,7 +785,7 @@
      "rank": 2499,
      "py": "qī",
      "kw": "perch",
-     "parts": "木 tree + 西 west",
+     "parts": "木 tree + 西 west (sound)",
      "story": "A bird settles on a branch as the sun sets in the west.",
      "trad": "棲",
      "words": [
@@ -966,7 +966,7 @@
      "rank": 2432,
      "py": "xiàn",
      "kw": "gland",
-     "parts": "月 flesh + 泉 spring",
+     "parts": "月 flesh + 泉 spring (sound)",
      "story": "A spring in the flesh that gives out its fluid: a gland.",
      "trad": "",
      "words": [
@@ -995,7 +995,7 @@
      "rank": 2451,
      "py": "xīng",
      "kw": "fishy",
-     "parts": "月 flesh + 星 star",
+     "parts": "月 flesh + 星 star (sound)",
      "story": "Raw flesh dotted with specks of blood: a fishy reek.",
      "trad": "",
      "words": [
@@ -1059,7 +1059,7 @@
      "rank": 2422,
      "py": "huàng",
      "kw": "sway",
-     "parts": "日 sun + 光 light",
+     "parts": "日 sun + 光 light (sound)",
      "story": "Light flickers and glints, and everything seems to sway.",
      "trad": "",
      "words": [
@@ -1088,7 +1088,7 @@
      "rank": 2497,
      "py": "qíng",
      "kw": "fine weather",
-     "parts": "日 sun + 青 blue",
+     "parts": "日 sun + 青 blue (sound)",
      "story": "The sun in a blue sky: a fine, clear day.",
      "trad": "",
      "words": [
@@ -1181,7 +1181,7 @@
      "rank": 2425,
      "py": "zhú",
      "kw": "candle",
-     "parts": "火 fire + 虫 insect",
+     "parts": "火 fire + 虫 insect (sound)",
      "story": "A fire that crawls along the wick like a worm: a candle.",
      "trad": "燭",
      "words": [
@@ -1303,7 +1303,7 @@
      "rank": 2445,
      "py": "yòu",
      "kw": "bless",
-     "parts": "亻 person + 右 right",
+     "parts": "亻 person + 右 right (sound)",
      "story": "A person at your right hand, helping you on: protection.",
      "trad": "",
      "words": [
@@ -1396,7 +1396,7 @@
      "rank": 2429,
      "py": "píng",
      "kw": "level plain",
-     "parts": "土 earth + 平 flat",
+     "parts": "土 earth + 平 flat (sound)",
      "story": "Earth made flat: a level patch of ground.",
      "trad": "",
      "words": [
@@ -1542,7 +1542,7 @@
      "rank": 2406,
      "py": "shā",
      "kw": "shark",
-     "parts": "鱼 fish + 沙 sand",
+     "parts": "鱼 fish + 沙 sand (sound)",
      "story": "The fish with rough sandy skin: a shark.",
      "trad": "鯊",
      "words": [
@@ -1757,7 +1757,7 @@
      "rank": 2461,
      "py": "guǐ",
      "kw": "sly",
-     "parts": "讠 words + 危 danger",
+     "parts": "讠 words + 危 danger (sound)",
      "story": "Words that lead you into danger: sly and deceptive.",
      "trad": "詭",
      "words": [
@@ -1880,7 +1880,7 @@
      "rank": 2449,
      "py": "niàng",
      "kw": "brew",
-     "parts": "酉 wine jar + 良 good",
+     "parts": "酉 wine jar + 良 good (sound)",
      "story": "Good stuff left in a wine jar until it turns: brew.",
      "trad": "釀",
      "words": [
@@ -1944,7 +1944,7 @@
      "rank": 2482,
      "py": "shān",
      "kw": "garment",
-     "parts": "衤 clothes + 彡 flowing strokes",
+     "parts": "衤 clothes + 彡 flowing strokes (sound)",
      "story": "Clothing hanging loose in long lines: a shirt.",
      "trad": "",
      "words": [
@@ -1973,7 +1973,7 @@
      "rank": 2494,
      "py": "chèn",
      "kw": "lining",
-     "parts": "衤 clothes + 寸 inch",
+     "parts": "衤 clothes + 寸 inch (sound)",
      "story": "Cloth cut to an inch of the skin: the lining.",
      "trad": "襯",
      "words": [
@@ -2008,7 +2008,7 @@
      "rank": 2487,
      "py": "qióng",
      "kw": "jasper",
-     "parts": "王 jade + 京 capital",
+     "parts": "王 jade + 京 capital (sound)",
      "story": "Fine jade from the capital: the best kind.",
      "trad": "瓊",
      "words": [
@@ -2091,7 +2091,7 @@
      "rank": 2444,
      "py": "guā",
      "kw": "scrape",
-     "parts": "舌 tongue + 刂 knife",
+     "parts": "舌 tongue (sound) + 刂 knife",
      "story": "A blade dragged flat along a surface: scrape, or blow hard.",
      "trad": "颳",
      "words": [
@@ -2214,7 +2214,7 @@
      "rank": 2443,
      "py": "wàng",
      "kw": "rash",
-     "parts": "亡 gone + 女 woman",
+     "parts": "亡 gone (sound) + 女 woman",
      "story": "Good sense gone, and wild fancies take over: rash, baseless.",
      "trad": "",
      "words": [
@@ -2342,7 +2342,7 @@
      "rank": 2469,
      "py": "bì",
      "kw": "shoot dead",
-     "parts": "比 compare + 死 death",
+     "parts": "比 compare (sound) + 死 death",
      "story": "A man cut down by a shot: he dies on the spot.",
      "trad": "斃/獘",
      "words": [
@@ -2523,7 +2523,7 @@
      "rank": 2410,
      "py": "sòng",
      "kw": "ode",
-     "parts": "公 public + 页 head",
+     "parts": "公 public (sound) + 页 head",
      "story": "A head raised before everyone to sing a hymn.",
      "trad": "頌",
      "words": [
@@ -2924,7 +2924,7 @@
      "rank": 2455,
      "py": "qīng",
      "kw": "hydrogen",
-     "parts": "气 gas + 巠 (light)",
+     "parts": "气 gas + 𢀖 light (sound)",
      "story": "The gas lighter than any other: hydrogen.",
      "trad": "氫",
      "words": [
@@ -2944,7 +2944,7 @@
        "g": "hydrogen atom"
       }
      ],
-     "note": "氫 became 氢: 輕 became 巠.",
+     "note": "氫 became 氢: the inside is the right half of 轻 'light'.",
      "have": "new",
      "akw": ""
     },

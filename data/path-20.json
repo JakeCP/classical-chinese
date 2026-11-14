@@ -98,7 +98,7 @@
      "rank": 1930,
      "py": "qiǎn",
      "kw": "shallow",
-     "parts": "氵 water + 戋 small",
+     "parts": "氵 water + 戋 small (sound)",
      "story": "Water only a little deep: shallow.",
      "trad": "淺",
      "words": [
@@ -512,7 +512,7 @@
      "rank": 1954,
      "py": "chǎo",
      "kw": "noisy",
-     "parts": "口 mouth + 少 few",
+     "parts": "口 mouth + 少 few (sound)",
      "story": "Far too many mouths going at once, not a few: noisy.",
      "trad": "",
      "words": [
@@ -576,7 +576,7 @@
      "rank": 1925,
      "py": "sòng",
      "kw": "litigation",
-     "parts": "讠 words + 公 public",
+     "parts": "讠 words + 公 public (sound)",
      "story": "Words argued out in public: litigation.",
      "trad": "訟",
      "words": [
@@ -727,7 +727,7 @@
      "rank": 1991,
      "py": "bǐng",
      "kw": "flat cake",
-     "parts": "饣 food + 并 together",
+     "parts": "饣 food + 并 together (sound)",
      "story": "Food pressed together flat: a flat cake.",
      "trad": "餅",
      "words": [
@@ -966,7 +966,7 @@
      "rank": 1974,
      "py": "áng",
      "kw": "hold high",
-     "parts": "日 sun + 卬",
+     "parts": "日 sun + 卬 (sound)",
      "story": "Head raised toward the sun: hold high.",
      "trad": "",
      "words": [
@@ -995,7 +995,7 @@
      "rank": 1971,
      "py": "shèn",
      "kw": "careful",
-     "parts": "忄 heart + 真 true",
+     "parts": "忄 heart + 真 true (sound)",
      "story": "A heart that wants it exactly right: careful.",
      "trad": "",
      "words": [
@@ -1053,7 +1053,7 @@
      "rank": 1926,
      "py": "huǐ",
      "kw": "repent",
-     "parts": "忄 heart + 每 each",
+     "parts": "忄 heart + 每 each (sound)",
      "story": "The heart replays it each time: repent.",
      "trad": "",
      "words": [
@@ -1088,7 +1088,7 @@
      "rank": 1901,
      "py": "pàng",
      "kw": "plump",
-     "parts": "月 flesh + 半 half",
+     "parts": "月 flesh + 半 half (sound)",
      "story": "Flesh piled up past half: plump.",
      "trad": "",
      "words": [
@@ -1239,7 +1239,7 @@
      "rank": 1973,
      "py": "mián",
      "kw": "sleep",
-     "parts": "目 eye + 民 people",
+     "parts": "目 eye + 民 people (sound)",
      "story": "Eyes shut like everyone's at night: sleep.",
      "trad": "",
      "words": [
@@ -1332,7 +1332,7 @@
      "rank": 1902,
      "py": "shī",
      "kw": "lion",
-     "parts": "犭 animal + 师 teacher",
+     "parts": "犭 animal + 师 teacher (sound)",
      "story": "The animal everyone looks up to: lion.",
      "trad": "獅",
      "words": [
@@ -1361,7 +1361,7 @@
      "rank": 1910,
      "py": "shé",
      "kw": "snake",
-     "parts": "虫 insect + 它 it",
+     "parts": "虫 insect + 它 it (sound)",
      "story": "A creeping creature, an 'it' you step round: snake.",
      "trad": "",
      "words": [
@@ -1571,7 +1571,7 @@
      "rank": 1918,
      "py": "hóng",
      "kw": "magnificent",
-     "parts": "宀 roof + 厶",
+     "parts": "宀 roof + 厷 arm (sound)",
      "story": "The high roof of a vast hall: magnificent.",
      "trad": "",
      "words": [
@@ -1722,7 +1722,7 @@
      "rank": 1979,
      "py": "xī",
      "kw": "sparse",
-     "parts": "禾 grain + 希 hope",
+     "parts": "禾 grain + 希 hope (sound)",
      "story": "Grain so thin you can only hope: sparse.",
      "trad": "",
      "words": [
@@ -1786,7 +1786,7 @@
      "rank": 1905,
      "py": "huī",
      "kw": "radiance",
-     "parts": "光 light + 军 army",
+     "parts": "光 light + 军 army (sound)",
      "story": "The light off an army's bright banners: radiance.",
      "trad": "輝",
      "words": [
@@ -1815,7 +1815,7 @@
      "rank": 1933,
      "py": "bào",
      "kw": "expose to sun",
-     "parts": "日 sun + 暴 fierce",
+     "parts": "日 sun + 暴 fierce (sound)",
      "story": "Laid open under a fierce sun: expose to sun.",
      "trad": "",
      "words": [
@@ -2038,7 +2038,7 @@
      "rank": 1976,
      "py": "lì",
      "kw": "grain",
-     "parts": "米 rice + 立 stand",
+     "parts": "米 rice + 立 stand (sound)",
      "story": "One grain of rice standing on its own: grain.",
      "trad": "",
      "words": [
@@ -2097,7 +2097,7 @@
      "rank": 1980,
      "py": "cóng",
      "kw": "cluster",
-     "parts": "从 follow + 一",
+     "parts": "从 follow (sound) + 一",
      "story": "People following close behind each other: a cluster.",
      "trad": "叢",
      "words": [
@@ -2155,7 +2155,7 @@
      "rank": 1922,
      "py": "gǎn",
      "kw": "pole",
-     "parts": "木 wood + 干 stem",
+     "parts": "木 wood + 干 stem (sound)",
      "story": "A long stick of wood: pole.",
      "trad": "桿",
      "words": [
@@ -2219,7 +2219,7 @@
      "rank": 1989,
      "py": "mào",
      "kw": "hat",
-     "parts": "巾 cloth + 冒 cover",
+     "parts": "巾 cloth + 冒 cover (sound)",
      "story": "A cloth covering the head: hat.",
      "trad": "",
      "words": [
@@ -2283,7 +2283,7 @@
      "rank": 1942,
      "py": "qín",
      "kw": "Qin",
-     "parts": "舂 pounding + 禾 grain",
+     "parts": "𡗗 two hands and a pestle + 禾 grain",
      "story": "Grain pounded by two hands: the farming state of Qin.",
      "trad": "",
      "words": [
@@ -2312,7 +2312,7 @@
      "rank": 1957,
      "py": "jiǎng",
      "kw": "Chiang",
-     "parts": "艹 grass + 将 general",
+     "parts": "艹 grass + 将 general (sound)",
      "story": "A surname, as in 蒋介石 Chiang Kai-shek.",
      "trad": "蔣",
      "words": [
@@ -2360,7 +2360,7 @@
      "rank": 1941,
      "py": "shěn",
      "kw": "Shen",
-     "parts": "氵 water + 冘",
+     "parts": "氵 water + 冘 (sound)",
      "story": "Water with a weight in it, sinking: the old form of 沉, now the surname Shen.",
      "trad": "瀋",
      "words": [
@@ -2408,7 +2408,7 @@
      "rank": 1984,
      "py": "sè",
      "kw": "harp",
-     "parts": "琴 zither top + 必 (sound)",
+     "parts": "王 + 王 strings + 必 (sound)",
      "story": "A stringed zither: harp.",
      "trad": "",
      "words": [
@@ -2443,7 +2443,7 @@
      "rank": 1935,
      "py": "shì",
      "kw": "pass away",
-     "parts": "辶 walk + 折 break",
+     "parts": "辶 walk + 折 break (sound)",
      "story": "Walks away and breaks off from us: pass away.",
      "trad": "",
      "words": [
@@ -2536,7 +2536,7 @@
      "rank": 1969,
      "py": "chǒng",
      "kw": "pamper",
-     "parts": "宀 roof + 龙 dragon",
+     "parts": "宀 roof + 龙 dragon (sound)",
      "story": "A dragon kept safe under a roof: pamper.",
      "trad": "寵",
      "words": [
@@ -2658,7 +2658,7 @@
      "rank": 1913,
      "py": "bēng",
      "kw": "collapse",
-     "parts": "山 mountain + 朋 friend",
+     "parts": "山 mountain + 朋 friend (sound)",
      "story": "A mountain breaking into pieces: collapse.",
      "trad": "",
      "words": [
@@ -2722,8 +2722,8 @@
      "rank": 1937,
      "py": "jiā",
      "kw": "sandwich",
-     "parts": "大 big + 人 + 人",
-     "story": "A big man pressed between two small ones: sandwich.",
+     "parts": "夫 man + 丷 two dots",
+     "story": "A man 夫 with a small thing wedged under each arm: sandwich.",
      "trad": "夾",
      "words": [
       {
@@ -2742,7 +2742,7 @@
        "g": "to mix in"
       }
      ],
-     "note": "Traditional 夾.",
+     "note": "Traditional 夾 had two small 人 under the arms.",
      "have": "new",
      "akw": ""
     },
@@ -2751,7 +2751,7 @@
      "rank": 1999,
      "py": "wú",
      "kw": "my",
-     "parts": "五 five + 口 mouth",
+     "parts": "五 five (sound) + 口 mouth",
      "story": "A mouth that speaks of itself: I, my.",
      "trad": "",
      "words": [
@@ -2780,7 +2780,7 @@
      "rank": 1997,
      "py": "pō",
      "kw": "considerably",
-     "parts": "皮 skin + 页 head",
+     "parts": "皮 skin (sound) + 页 head",
      "story": "A head tilted to one side, leaning a lot: considerably.",
      "trad": "頗",
      "words": [
@@ -2867,7 +2867,7 @@
      "rank": 1978,
      "py": "zhì",
      "kw": "rank",
-     "parts": "禾 grain + 失 lose",
+     "parts": "禾 grain + 失 lose (sound)",
      "story": "Grain stacked in rows so none is lost: rank, order.",
      "trad": "",
      "words": [
@@ -2931,7 +2931,7 @@
      "rank": 1966,
      "py": "xiá",
      "kw": "knight-errant",
-     "parts": "亻 person + 夹 pinch",
+     "parts": "亻 person + 夹 pinch (sound)",
      "story": "A person who steps in where others are squeezed: knight-errant.",
      "trad": "俠",
      "words": [
@@ -2960,7 +2960,7 @@
      "rank": 1958,
      "py": "lǚ",
      "kw": "companion",
-     "parts": "亻 person + 吕 two linked rings",
+     "parts": "亻 person + 吕 two linked rings (sound)",
      "story": "Two people linked side by side: companion.",
      "trad": "侶",
      "words": [

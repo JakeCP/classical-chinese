@@ -462,7 +462,7 @@
      "rank": 2837,
      "py": "gǒng",
      "kw": "arch",
-     "parts": "扌 hand + 共 together",
+     "parts": "扌 hand + 共 together (sound)",
      "story": "Hands joined together in a curve: an arch.",
      "trad": "",
      "words": [
@@ -491,7 +491,7 @@
      "rank": 2864,
      "py": "bàn",
      "kw": "mix in",
-     "parts": "扌 hand + 半 half",
+     "parts": "扌 hand + 半 half (sound)",
      "story": "A hand mixing half and half: mix in.",
      "trad": "",
      "words": [
@@ -578,7 +578,7 @@
      "rank": 2890,
      "py": "shū",
      "kw": "express",
-     "parts": "扌 hand + 予 give",
+     "parts": "扌 hand + 予 give (sound)",
      "story": "A hand giving out a feeling: express it.",
      "trad": "",
      "words": [
@@ -754,7 +754,7 @@
      "rank": 2874,
      "py": "xiáo",
      "kw": "mix up",
-     "parts": "氵 water + 肴 dish",
+     "parts": "氵 water + 肴 dish (sound)",
      "story": "Water stirred into a dish till it is cloudy: mix up.",
      "trad": "",
      "words": [
@@ -847,8 +847,8 @@
      "rank": 2828,
      "py": "shū",
      "kw": "comb",
-     "parts": "木 wood + 疏 spread out (sound)",
-     "story": "A wooden tool that spreads the hair out: a comb.",
+     "parts": "木 wood + 㐬 flowing (sound)",
+     "story": "A wooden tool that sets the hair flowing 㐬: a comb.",
      "trad": "",
      "words": [
       {
@@ -969,7 +969,7 @@
      "rank": 2839,
      "py": "wú",
      "kw": "overgrown",
-     "parts": "艹 grass + 无 none",
+     "parts": "艹 grass + 无 none (sound)",
      "story": "Grass growing where nothing else is: overgrown.",
      "trad": "蕪",
      "words": [
@@ -1174,7 +1174,7 @@
      "rank": 2821,
      "py": "mèi",
      "kw": "charming",
-     "parts": "女 woman + 眉 eyebrow",
+     "parts": "女 woman + 眉 eyebrow (sound)",
      "story": "A woman with lovely brows: charming.",
      "trad": "",
      "words": [
@@ -1296,7 +1296,7 @@
      "rank": 2860,
      "py": "xū",
      "kw": "ruins",
-     "parts": "土 earth + 虚 empty",
+     "parts": "土 earth + 虚 empty (sound)",
      "story": "Earth where a town once stood, now empty: ruins.",
      "trad": "",
      "words": [
@@ -1379,7 +1379,7 @@
      "rank": 2869,
      "py": "pò",
      "kw": "bodily soul",
-     "parts": "白 white + 鬼 ghost",
+     "parts": "白 white (sound) + 鬼 ghost",
      "story": "The pale spirit that stays with the body: the bodily soul.",
      "trad": "",
      "words": [
@@ -1432,7 +1432,7 @@
      "rank": 2854,
      "py": "zhuī",
      "kw": "vertebra",
-     "parts": "木 wood + 隹 bird",
+     "parts": "木 wood + 隹 bird (sound)",
      "story": "The wooden-looking stack of bones down the back.",
      "trad": "",
      "words": [
@@ -1525,7 +1525,7 @@
      "rank": 2877,
      "py": "jū",
      "kw": "ambush",
-     "parts": "犭 animal + 且 pile",
+     "parts": "犭 animal + 且 pile (sound)",
      "story": "An animal lying in wait: ambush.",
      "trad": "",
      "words": [
@@ -1964,7 +1964,7 @@
      "rank": 2892,
      "py": "miǎn",
      "kw": "royal crown",
-     "parts": "冖 cover + 免 (sound)",
+     "parts": "日 flat cap (shape) + 免 (sound)",
      "story": "The covering worn on a ruler's head: a royal crown.",
      "trad": "",
      "words": [
@@ -2023,7 +2023,7 @@
      "rank": 2815,
      "py": "shàn",
      "kw": "fish trap",
-     "parts": "氵 water + 山 mountain",
+     "parts": "氵 water + 山 mountain (sound)",
      "story": "A trap set in a stream below a hill.",
      "trad": "",
      "words": [
@@ -2081,7 +2081,7 @@
      "rank": 2888,
      "py": "bǎn",
      "kw": "slope",
-     "parts": "阝 mound + 反 turn back",
+     "parts": "阝 mound + 反 turn back (sound)",
      "story": "A mound where the ground turns back down: a slope.",
      "trad": "",
      "words": [
@@ -2134,8 +2134,8 @@
      "rank": 2873,
      "py": "zhuā",
      "kw": "laos",
-     "parts": "扌 hand + 呙 shape (sound)",
-     "story": "A hand striking with a clawed weapon; today it survives in one country's name.",
+     "parts": "扌 hand + 过 pass (sound)",
+     "story": "A hand striking as it passes 过: the character kept for Laos.",
      "trad": "撾",
      "words": [
       {
@@ -2242,7 +2242,7 @@
      "rank": 2818,
      "py": "qiào",
      "kw": "opening",
-     "parts": "穴 hole + 巧 clever",
+     "parts": "穴 hole + 巧 clever (sound)",
      "story": "A hole that only the clever know how to find.",
      "trad": "竅",
      "words": [
@@ -2370,7 +2370,7 @@
      "rank": 2859,
      "py": "ān",
      "kw": "saddle",
-     "parts": "革 leather + 安 safe",
+     "parts": "革 leather + 安 safe (sound)",
      "story": "Safe leather seat on a horse: a saddle.",
      "trad": "",
      "words": [
@@ -2463,7 +2463,7 @@
      "rank": 2842,
      "py": "rèn",
      "kw": "tough",
-     "parts": "韦 leather + 刃 blade",
+     "parts": "韦 leather + 刃 blade (sound)",
      "story": "Leather that a blade cannot cut: tough.",
      "trad": "韌",
      "words": [
@@ -2498,7 +2498,7 @@
      "rank": 2823,
      "py": "mèi",
      "kw": "dim",
-     "parts": "日 sun + 未 not yet",
+     "parts": "日 sun + 未 not yet (sound)",
      "story": "The sun not yet up: dim and hidden.",
      "trad": "",
      "words": [
@@ -2527,7 +2527,7 @@
      "rank": 2889,
      "py": "lài",
      "kw": "glance",
-     "parts": "目 eye + 来 come",
+     "parts": "目 eye + 来 come (sound)",
      "story": "An eye turning toward you: a glance.",
      "trad": "睞",
      "words": [
@@ -2675,8 +2675,8 @@
      "rank": 2843,
      "py": "fū",
      "kw": "spread on",
-     "parts": "甫 (sound) + 攵 tap",
-     "story": "Tapping something out flat to cover a surface: spread on.",
+     "parts": "甫 (sound) + 方 square + 攵 tap",
+     "story": "Tapping 攵 it out flat and square 方 over a surface: spread on.",
      "trad": "",
      "words": [
       {
@@ -2739,7 +2739,7 @@
      "rank": 2833,
      "py": "xīn",
      "kw": "cozy",
-     "parts": "殸 chime + 香 incense",
+     "parts": "殸 chime (sound) + 香 incense",
      "story": "A sweet scent filling the room: warm and cozy.",
      "trad": "",
      "words": [
@@ -2797,7 +2797,7 @@
      "rank": 2849,
      "py": "tū",
      "kw": "bald",
-     "parts": "禾 grain + 儿 legs",
+     "parts": "禾 grain + 几 legs",
      "story": "A stalk on legs with nothing on top: bald.",
      "trad": "禿",
      "words": [
@@ -2861,7 +2861,7 @@
      "rank": 2806,
      "py": "yún",
      "kw": "evenly",
-     "parts": "勹 wrap + 二 two",
+     "parts": "勹 wrap + 冫 two drops",
      "story": "Two things wrapped together in equal shares: evenly.",
      "trad": "勻",
      "words": [

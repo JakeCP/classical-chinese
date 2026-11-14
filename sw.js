@@ -1,7 +1,7 @@
 // Service worker: precache the shell and all data, serve cache-first.
 // The data build rewrites the VERSION line with a content hash; that byte
 // change is what makes phones install a new worker and pick up new content.
-const VERSION = "d683593be250";
+const VERSION = "108df6730ed5";
 const CACHE = "analects-reader-" + VERSION;
 const SHELL = [
   "./",

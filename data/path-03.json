@@ -156,7 +156,7 @@
      "rank": 287,
      "py": "chuán",
      "kw": "pass on",
-     "parts": "亻 person + 专 spindle",
+     "parts": "亻 person + 专 spindle (sound)",
      "story": "A person handing the spindle on to the next: pass on.",
      "trad": "傳",
      "words": [
@@ -244,7 +244,7 @@
      "rank": 267,
      "py": "chí",
      "kw": "maintain",
-     "parts": "扌 hand + 寺 temple",
+     "parts": "扌 hand + 寺 temple (sound)",
      "story": "A hand that keeps the temple going year after year: maintain.",
      "trad": "",
      "words": [
@@ -273,7 +273,7 @@
      "rank": 275,
      "py": "dǎ",
      "kw": "hit",
-     "parts": "扌 hand + 丁 nail",
+     "parts": "扌 hand + 丁 nail (sound)",
      "story": "A hand driving in a nail: hit.",
      "trad": "",
      "words": [
@@ -302,7 +302,7 @@
      "rank": 276,
      "py": "jù",
      "kw": "according to",
-     "parts": "扌 hand + 居 dwell",
+     "parts": "扌 hand + 居 dwell (sound)",
      "story": "A hand resting on the place you live, what you rely on: according to.",
      "trad": "據",
      "words": [
@@ -453,7 +453,7 @@
      "rank": 245,
      "py": "yì",
      "kw": "discuss",
-     "parts": "讠 words + 义 right",
+     "parts": "讠 words + 义 right (sound)",
      "story": "Words about what is right: discuss.",
      "trad": "議",
      "words": [
@@ -575,7 +575,7 @@
      "rank": 263,
      "py": "shì",
      "kw": "look upon",
-     "parts": "礻 altar + 见 see",
+     "parts": "礻 altar (sound) + 见 see",
      "story": "Seeing what is set on the altar, and judging it: look upon.",
      "trad": "視",
      "words": [
@@ -726,7 +726,7 @@
      "rank": 296,
      "py": "hào",
      "kw": "serial number",
-     "parts": "口 mouth + 丂 breath",
+     "parts": "口 mouth + 丂 breath (sound)",
      "story": "A mouth calling out the next in line: a serial number.",
      "trad": "號",
      "words": [
@@ -1145,7 +1145,7 @@
      "rank": 225,
      "py": "cháng",
      "kw": "often",
-     "parts": "尚 still + 巾 cloth",
+     "parts": "尚 still (sound) + 巾 cloth",
      "story": "A banner of cloth hung out day after day: often.",
      "trad": "",
      "words": [
@@ -1447,7 +1447,7 @@
      "rank": 238,
      "py": "jiè",
      "kw": "boundary",
-     "parts": "田 field + 介 between",
+     "parts": "田 field + 介 between (sound)",
      "story": "A line laid between two fields: the boundary.",
      "trad": "",
      "words": [
@@ -1511,7 +1511,7 @@
      "rank": 288,
      "py": "yuàn",
      "kw": "courtyard",
-     "parts": "阝 mound + 完 complete",
+     "parts": "阝 mound + 完 complete (sound)",
      "story": "A walled yard built complete on raised ground: a courtyard.",
      "trad": "",
      "words": [
@@ -1540,7 +1540,7 @@
      "rank": 244,
      "py": "fǔ",
      "kw": "government seat",
-     "parts": "广 lean-to + 付 hand over",
+     "parts": "广 lean-to + 付 hand over (sound)",
      "story": "A hall where people hand over their taxes: the government seat.",
      "trad": "",
      "words": [
@@ -1633,7 +1633,7 @@
      "rank": 209,
      "py": "zhàn",
      "kw": "war",
-     "parts": "占 take + 戈 halberd",
+     "parts": "占 take (sound) + 戈 halberd",
      "story": "A halberd taking ground: war.",
      "trad": "戰",
      "words": [
@@ -1906,7 +1906,7 @@
      "rank": 278,
      "py": "shǐ",
      "kw": "begin",
-     "parts": "女 woman + 台 platform",
+     "parts": "女 woman + 台 platform (sound)",
      "story": "A woman on the birthing platform: a life begins.",
      "trad": "",
      "words": [
@@ -1970,7 +1970,7 @@
      "rank": 259,
      "py": "lù",
      "kw": "road",
-     "parts": "足 foot + 各 each",
+     "parts": "足 foot + 各 each (sound)",
      "story": "Each foot treading the same way: a road.",
      "trad": "",
      "words": [
@@ -1999,7 +1999,7 @@
      "rank": 268,
      "py": "zhàn",
      "kw": "station",
-     "parts": "立 stand + 占 take",
+     "parts": "立 stand + 占 take (sound)",
      "story": "Standing on the spot you have taken: a stop, a station.",
      "trad": "",
      "words": [
@@ -2028,7 +2028,7 @@
      "rank": 249,
      "py": "yùn",
      "kw": "transport",
-     "parts": "辶 walk + 云 cloud",
+     "parts": "辶 walk + 云 cloud (sound)",
      "story": "Clouds carried along the road: transport.",
      "trad": "運",
      "words": [
@@ -2156,7 +2156,7 @@
      "rank": 277,
      "py": "jī",
      "kw": "base",
-     "parts": "其 basket + 土 earth",
+     "parts": "其 basket (sound) + 土 earth",
      "story": "Baskets of earth tamped down: the base.",
      "trad": "",
      "words": [
@@ -2390,7 +2390,7 @@
      "rank": 243,
      "py": "xuǎn",
      "kw": "choose",
-     "parts": "辶 walk + 先 first",
+     "parts": "辶 walk + 先 first (sound)",
      "story": "Walking ahead to be first to pick: choose.",
      "trad": "選",
      "words": [
@@ -2483,7 +2483,7 @@
      "rank": 205,
      "py": "tǒng",
      "kw": "unify",
-     "parts": "纟 silk + 充 fill",
+     "parts": "纟 silk + 充 fill (sound)",
      "story": "Silk threads gathered into one full skein: unify.",
      "trad": "統",
      "words": [
@@ -2512,7 +2512,7 @@
      "rank": 240,
      "py": "zǔ",
      "kw": "group",
-     "parts": "纟 silk + 且 stacked",
+     "parts": "纟 silk + 且 stacked (sound)",
      "story": "Silk cords tied together in a bundle: a group.",
      "trad": "組",
      "words": [
@@ -2576,7 +2576,7 @@
      "rank": 295,
      "py": "wán",
      "kw": "finish",
-     "parts": "宀 roof + 元 first",
+     "parts": "宀 roof + 元 first (sound)",
      "story": "The house built up to its last beam: finish.",
      "trad": "",
      "words": [
@@ -2640,7 +2640,7 @@
      "rank": 285,
      "py": "chéng",
      "kw": "procedure",
-     "parts": "禾 grain + 呈 present",
+     "parts": "禾 grain + 呈 present (sound)",
      "story": "Grain laid out step by step for inspection: a procedure.",
      "trad": "",
      "words": [
@@ -2704,7 +2704,7 @@
      "rank": 228,
      "py": "hǎi",
      "kw": "sea",
-     "parts": "氵 water + 每 every",
+     "parts": "氵 water + 每 every (sound)",
      "story": "Water every way you look: the sea.",
      "trad": "",
      "words": [
@@ -2739,7 +2739,7 @@
      "rank": 290,
      "py": "fàng",
      "kw": "let go",
-     "parts": "方 direction + 攵 tap",
+     "parts": "方 direction (sound) + 攵 tap",
      "story": "A tap sends it off in any direction: let go.",
      "trad": "",
      "words": [
@@ -2832,7 +2832,7 @@
      "rank": 300,
      "py": "guǎn",
      "kw": "manage",
-     "parts": "⺮ bamboo + 官 official",
+     "parts": "⺮ bamboo + 官 official (sound)",
      "story": "An official with his bamboo pipe, running everything: manage.",
      "trad": "",
      "words": [
@@ -2867,7 +2867,7 @@
      "rank": 215,
      "py": "yǐng",
      "kw": "shadow",
-     "parts": "景 scene + 彡 rays",
+     "parts": "景 scene (sound) + 彡 rays",
      "story": "Sunlight on a scene, streaks cast behind it: a shadow.",
      "trad": "",
      "words": [

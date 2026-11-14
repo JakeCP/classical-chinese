@@ -98,7 +98,7 @@
      "rank": 1066,
      "py": "zé",
      "kw": "marsh",
-     "parts": "氵 water + 又 and 土 stacked (sound)",
+     "parts": "氵 water + 𠬤 (sound)",
      "story": "A pool of still water in low ground: a marsh.",
      "trad": "澤",
      "words": [
@@ -220,7 +220,7 @@
      "rank": 1058,
      "py": "yì",
      "kw": "translate",
-     "parts": "讠 words + 又 and 土 stacked (sound)",
+     "parts": "讠 words + 𠬤 (sound)",
      "story": "Words carried over from one language to another: translate.",
      "trad": "譯",
      "words": [
@@ -249,7 +249,7 @@
      "rank": 1090,
      "py": "dìng",
      "kw": "order",
-     "parts": "讠 words + 丁 nail",
+     "parts": "讠 words + 丁 nail (sound)",
      "story": "Words nailed down: an order, a booking.",
      "trad": "訂",
      "words": [
@@ -278,7 +278,7 @@
      "rank": 1100,
      "py": "móu",
      "kw": "scheme",
-     "parts": "讠 words + 某 certain",
+     "parts": "讠 words + 某 certain (sound)",
      "story": "Whispered words about a certain matter: a scheme.",
      "trad": "謀",
      "words": [
@@ -371,7 +371,7 @@
      "rank": 1018,
      "py": "wàng",
      "kw": "forget",
-     "parts": "亡 lost + 心 heart",
+     "parts": "亡 lost (sound) + 心 heart",
      "story": "Something lost from the heart: forget.",
      "trad": "",
      "words": [
@@ -644,7 +644,7 @@
      "rank": 1093,
      "py": "lǜ",
      "kw": "green",
-     "parts": "纟 silk + 彖 (sound)",
+     "parts": "纟 silk + 录 record (sound)",
      "story": "Silk dyed the color of leaves: green.",
      "trad": "綠",
      "words": [
@@ -981,7 +981,7 @@
      "rank": 1094,
      "py": "mí",
      "kw": "bewilder",
-     "parts": "辶 walk + 米 rice",
+     "parts": "辶 walk + 米 rice (sound)",
      "story": "A road of scattered grains, and you lose your way: bewildered.",
      "trad": "",
      "words": [
@@ -1615,8 +1615,8 @@
      "rank": 1023,
      "py": "qì",
      "kw": "abandon",
-     "parts": "亠 lid + 廾 two hands",
-     "story": "Two hands lift a lid and throw the thing away: abandon.",
+     "parts": "𠫓 newborn + 廾 two hands",
+     "story": "Two hands carry a newborn 𠫓 out and leave it: abandon.",
      "trad": "棄",
      "words": [
       {
@@ -1635,7 +1635,7 @@
        "g": "discard"
       }
      ],
-     "note": "棄 had a child and a tree; 弃 keeps the lid and the hands.",
+     "note": "棄 had a winnowing basket in the middle; 弃 keeps the upside-down child and the hands.",
      "have": "new",
      "akw": ""
     },
@@ -1644,8 +1644,8 @@
      "rank": 1026,
      "py": "sàn",
      "kw": "scatter",
-     "parts": "艹 + 月 flesh + 攵 tap",
-     "story": "Blows tapping at flesh until the pieces fly apart: scatter.",
+     "parts": "龷 strips + 月 flesh + 攵 tap",
+     "story": "Blows tapping flesh into strips 龷 until the pieces fly apart: scatter.",
      "trad": "",
      "words": [
       {
@@ -1679,7 +1679,7 @@
      "rank": 1033,
      "py": "tīng",
      "kw": "reception hall",
-     "parts": "广 lean-to + 丁 nail",
+     "parts": "广 lean-to + 丁 nail (sound)",
      "story": "A big roof where guests are received.",
      "trad": "廳",
      "words": [
@@ -1801,8 +1801,8 @@
      "rank": 1071,
      "py": "xiàn",
      "kw": "constitution",
-     "parts": "宀 roof over a stack of strokes",
-     "story": "A rule set up under one roof, binding all: constitution.",
+     "parts": "宀 roof + 先 first (sound)",
+     "story": "The rule that comes first 先 under the nation's roof: the constitution.",
      "trad": "憲",
      "words": [
       {
@@ -1894,8 +1894,8 @@
      "rank": 1043,
      "py": "sà",
      "kw": "Bodhisattva",
-     "parts": "艹 grass + 产 (sound)",
-     "story": "Grass above a base: a character kept for Buddhist and foreign names.",
+     "parts": "艹 grass + 阝 mound + 产 produce",
+     "story": "Grass over a mound 阝 that produces 产 saints: Bodhisattva.",
      "trad": "薩",
      "words": [
       {
@@ -1981,7 +1981,7 @@
      "rank": 1073,
      "py": "lè",
      "kw": "rein in",
-     "parts": "革 leather + 力 strength",
+     "parts": "革 leather + 力 strength (sound)",
      "story": "Leather straps and strength: rein in.",
      "trad": "",
      "words": [
@@ -2103,7 +2103,7 @@
      "rank": 1069,
      "py": "méng",
      "kw": "ignorant",
-     "parts": "艹 grass + 冡 covered",
+     "parts": "艹 grass + 冡 covered (sound)",
      "story": "Grass heaped over a thing, hiding it: covered over, in the dark.",
      "trad": "矇/濛/懞",
      "words": [
@@ -2196,7 +2196,7 @@
      "rank": 1036,
      "py": "zhào",
      "kw": "summon",
-     "parts": "刀 knife + 口 mouth",
+     "parts": "刀 knife (sound) + 口 mouth",
      "story": "A mouth calling sharp as a blade: summon.",
      "trad": "",
      "words": [
@@ -2405,7 +2405,7 @@
      "rank": 1086,
      "py": "xǐng",
      "kw": "wake up",
-     "parts": "酉 wine jar + 星 star",
+     "parts": "酉 wine jar + 星 star (sound)",
      "story": "The wine wears off at starlight: you wake up.",
      "trad": "",
      "words": [
@@ -2562,7 +2562,7 @@
      "rank": 1024,
      "py": "cǎi",
      "kw": "bright color",
-     "parts": "采 pluck + 彡 strokes",
+     "parts": "采 pluck (sound) + 彡 strokes",
      "story": "Plucked flowers and shimmering strokes beside them: bright color.",
      "trad": "",
      "words": [
@@ -2591,7 +2591,7 @@
      "rank": 1095,
      "py": "àn",
      "kw": "dark",
-     "parts": "日 sun + 音 music",
+     "parts": "日 sun + 音 music (sound)",
      "story": "The sun gone, a hush: dark.",
      "trad": "闇",
      "words": [
@@ -2684,7 +2684,7 @@
      "rank": 1078,
      "py": "jìng",
      "kw": "quiet",
-     "parts": "青 green + 争 contend",
+     "parts": "青 green + 争 contend (sound)",
      "story": "Where nothing contends and all is green: quiet.",
      "trad": "靜",
      "words": [
@@ -2713,7 +2713,7 @@
      "rank": 1070,
      "py": "gù",
      "kw": "solid",
-     "parts": "囗 walls + 古 old",
+     "parts": "囗 walls + 古 old (sound)",
      "story": "Old walls that have stood for ages: solid.",
      "trad": "",
      "words": [
@@ -2742,7 +2742,7 @@
      "rank": 1049,
      "py": "tǎn",
      "kw": "open and level",
-     "parts": "土 earth + 旦 dawn",
+     "parts": "土 earth + 旦 dawn (sound)",
      "story": "Earth lying open and even at dawn: open and level.",
      "trad": "",
      "words": [
@@ -2835,7 +2835,7 @@
      "rank": 1074,
      "py": "dǐng",
      "kw": "top",
-     "parts": "丁 nail + 页 head",
+     "parts": "丁 nail (sound) + 页 head",
      "story": "A nail driven into the top of the head: the top.",
      "trad": "頂",
      "words": [
@@ -2992,7 +2992,7 @@
      "rank": 1001,
      "py": "yě",
      "kw": "wild",
-     "parts": "里 village + 予 give",
+     "parts": "里 village + 予 give (sound)",
      "story": "Beyond the village, land that gives only to the wild.",
      "trad": "",
      "words": [

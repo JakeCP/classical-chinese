@@ -98,7 +98,7 @@
      "rank": 1641,
      "py": "dàn",
      "kw": "diluted",
-     "parts": "氵 water + 炎 double fire",
+     "parts": "氵 water + 炎 double fire (sound)",
      "story": "Water poured in until the flame-colour fades: diluted.",
      "trad": "",
      "words": [
@@ -220,7 +220,7 @@
      "rank": 1614,
      "py": "pīn",
      "kw": "piece together",
-     "parts": "扌 hand + 并 side by side",
+     "parts": "扌 hand + 并 side by side (sound)",
      "story": "Hands set the pieces side by side: piece together.",
      "trad": "",
      "words": [
@@ -249,7 +249,7 @@
      "rank": 1618,
      "py": "kòu",
      "kw": "fasten",
-     "parts": "扌 hand + 口 opening",
+     "parts": "扌 hand + 口 opening (sound)",
      "story": "A hand closes the opening: fasten a button.",
      "trad": "釦",
      "words": [
@@ -336,7 +336,7 @@
      "rank": 1667,
      "py": "bàn",
      "kw": "dress up",
-     "parts": "扌 hand + 分 divide",
+     "parts": "扌 hand + 分 divide (sound)",
      "story": "Hands sorting clothes to play a part: dress up.",
      "trad": "",
      "words": [
@@ -365,8 +365,8 @@
      "rank": 1688,
      "py": "chēng",
      "kw": "prop up",
-     "parts": "扌 hand + 牚 (sound)",
-     "story": "A hand props the roof up with a pole.",
+     "parts": "扌 hand + 掌 palm (sound)",
+     "story": "A hand, palm 掌 flat against the roof, props it up.",
      "trad": "撐",
      "words": [
       {
@@ -385,7 +385,7 @@
        "g": "prop open"
       }
      ],
-     "note": "撐 became 撑 with a simpler right side.",
+     "note": "撐 had 牚 on the right; 撑 writes 掌.",
      "have": "new",
      "akw": ""
     }
@@ -429,7 +429,7 @@
      "rank": 1666,
      "py": "gē",
      "kw": "cut apart",
-     "parts": "害 harm + 刂 knife",
+     "parts": "害 harm (sound) + 刂 knife",
      "story": "A knife that does harm: it cuts apart.",
      "trad": "",
      "words": [
@@ -487,7 +487,7 @@
      "rank": 1671,
      "py": "bō",
      "kw": "peel",
-     "parts": "录 record + 刂 knife",
+     "parts": "录 record (sound) + 刂 knife",
      "story": "A knife working the skin off: peel.",
      "trad": "剝",
      "words": [
@@ -516,7 +516,7 @@
      "rank": 1619,
      "py": "chāi",
      "kw": "tear down",
-     "parts": "扌 hand + 斥 reject",
+     "parts": "扌 hand + 斥 reject (sound)",
      "story": "Hands pull a building apart: tear down.",
      "trad": "",
      "words": [
@@ -545,8 +545,8 @@
      "rank": 1627,
      "py": "hōng",
      "kw": "boom",
-     "parts": "车 cart + 车 cart + 车 cart",
-     "story": "Three carts crash together: a loud boom.",
+     "parts": "车 cart + 双 pair",
+     "story": "A cart and a pair more crash together: a loud boom.",
      "trad": "轟",
      "words": [
       {
@@ -565,7 +565,7 @@
        "g": "bombard"
       }
      ],
-     "note": "轟 had three 車; 轰 keeps three simplified 车.",
+     "note": "轟 had three 車; 轰 keeps one 车 and writes 双 for the other two.",
      "have": "new",
      "akw": ""
     }
@@ -580,8 +580,8 @@
      "rank": 1611,
      "py": "huī",
      "kw": "ash",
-     "parts": "厂 cover + 火 fire",
-     "story": "What is left under the cover after a fire: ash.",
+     "parts": "𠂇 hand + 火 fire",
+     "story": "What a hand can pick up once the fire is out: ash.",
      "trad": "",
      "words": [
       {
@@ -609,7 +609,7 @@
      "rank": 1624,
      "py": "liàn",
      "kw": "refine",
-     "parts": "火 fire + 东 (sound)",
+     "parts": "火 fire + 东-shape (sound)",
      "story": "Fire burns the impurities out of metal: refine.",
      "trad": "煉/鍊",
      "words": [
@@ -629,7 +629,7 @@
        "g": "extract"
       }
      ],
-     "note": "煉 had 柬; 炼 uses 东. 锻炼 is 'to exercise'.",
+     "note": "煉 had 柬; 炼 cuts it down to a 东-like shape. 锻炼 is 'to exercise'.",
      "have": "new",
      "akw": ""
     },
@@ -702,7 +702,7 @@
      "rank": 1605,
      "py": "jù",
      "kw": "fear",
-     "parts": "忄 heart + 具 tool",
+     "parts": "忄 heart + 具 tool (sound)",
      "story": "The heart gripped by what it holds: fear.",
      "trad": "懼",
      "words": [
@@ -789,7 +789,7 @@
      "rank": 1689,
      "py": "huì",
      "kw": "intelligent",
-     "parts": "彗 broom + 心 heart",
+     "parts": "彗 broom (sound) + 心 heart",
      "story": "A heart swept clean of clutter: intelligent.",
      "trad": "",
      "words": [
@@ -824,7 +824,7 @@
      "rank": 1628,
      "py": "fǎng",
      "kw": "imitate",
-     "parts": "亻 person + 方 square",
+     "parts": "亻 person + 方 square (sound)",
      "story": "A person copying a model exactly: imitate.",
      "trad": "",
      "words": [
@@ -853,7 +853,7 @@
      "rank": 1685,
      "py": "xiān",
      "kw": "immortal",
-     "parts": "亻 person + 山 mountain",
+     "parts": "亻 person + 山 mountain (sound)",
      "story": "A person living up on the mountain, beyond death: immortal.",
      "trad": "",
      "words": [
@@ -975,7 +975,7 @@
      "rank": 1692,
      "py": "táo",
      "kw": "peach",
-     "parts": "木 tree + 兆 omen",
+     "parts": "木 tree + 兆 omen (sound)",
      "story": "A tree whose fruit is round and pink: peach.",
      "trad": "",
      "words": [
@@ -1004,7 +1004,7 @@
      "rank": 1668,
      "py": "dù",
      "kw": "stamp out",
-     "parts": "木 tree + 土 earth",
+     "parts": "木 tree + 土 earth (sound)",
      "story": "A tree planted in the ground to bar the way: stamp out.",
      "trad": "",
      "words": [
@@ -1103,7 +1103,7 @@
      "rank": 1636,
      "py": "fēi",
      "kw": "coffee drink",
-     "parts": "口 mouth + 非 not",
+     "parts": "口 mouth + 非 not (sound)",
      "story": "A mouth tastes the dark drink: coffee.",
      "trad": "",
      "words": [
@@ -1161,7 +1161,7 @@
      "rank": 1650,
      "py": "lā",
      "kw": "trash",
-     "parts": "土 earth + 立 stand",
+     "parts": "土 earth + 立 stand (sound)",
      "story": "Earth with something piled upright: trash.",
      "trad": "",
      "words": [
@@ -1190,7 +1190,7 @@
      "rank": 1649,
      "py": "jī",
      "kw": "garbage",
-     "parts": "土 earth + 及 reach",
+     "parts": "土 earth + 及 reach (sound)",
      "story": "Earth where unwanted things end up: garbage.",
      "trad": "",
      "words": [
@@ -1225,7 +1225,7 @@
      "rank": 1622,
      "py": "qí",
      "kw": "divergent",
-     "parts": "止 foot + 支 branch",
+     "parts": "止 foot + 支 branch (sound)",
      "story": "A foot at the branch of a path: the ways divide.",
      "trad": "",
      "words": [
@@ -1318,7 +1318,7 @@
      "rank": 1646,
      "py": "tān",
      "kw": "greedy",
-     "parts": "今 now + 贝 shell",
+     "parts": "今 now (sound) + 贝 shell",
      "story": "Wanting the money right now: greedy.",
      "trad": "貪",
      "words": [
@@ -1624,7 +1624,7 @@
      "rank": 1660,
      "py": "liáo",
      "kw": "faraway",
-     "parts": "辶 walk + 了 finish",
+     "parts": "辶 walk + 了 finish (sound)",
      "story": "A road that goes on to the horizon: faraway.",
      "trad": "遼",
      "words": [
@@ -1776,8 +1776,8 @@
      "rank": 1652,
      "py": "jìn",
      "kw": "energy",
-     "parts": "又 hand + 力 strength",
-     "story": "A hand with strength behind it: energy.",
+     "parts": "𢀖 (sound) + 力 strength",
+     "story": "Strength 力 running straight through, nothing slack: energy.",
      "trad": "勁",
      "words": [
       {
@@ -1834,7 +1834,7 @@
      "rank": 1653,
      "py": "zhuàng",
      "kw": "robust",
-     "parts": "丬 plank + 士 man",
+     "parts": "丬 plank (sound) + 士 man",
      "story": "A man standing straight on a bed: robust.",
      "trad": "壯",
      "words": [
@@ -1927,7 +1927,7 @@
      "rank": 1606,
      "py": "pàn",
      "kw": "betray",
-     "parts": "半 half + 反 turn",
+     "parts": "半 half (sound) + 反 turn",
      "story": "Half of you turns against your side: betray.",
      "trad": "",
      "words": [
@@ -2078,7 +2078,7 @@
      "rank": 1684,
      "py": "miào",
      "kw": "wonderful",
-     "parts": "女 woman + 少 few",
+     "parts": "女 woman + 少 few (sound)",
      "story": "The finest, lightest touch of a woman's hand: wonderful.",
      "trad": "",
      "words": [
@@ -2113,8 +2113,8 @@
      "rank": 1629,
      "py": "jìn",
      "kw": "advance",
-     "parts": "厸 arrow shapes + 日 sun",
-     "story": "Climbing up into the sunlight: advance.",
+     "parts": "亚 two arrows (shape) + 日 sun",
+     "story": "Two arrows flying up toward the sun: advance.",
      "trad": "晉",
      "words": [
       {
@@ -2171,7 +2171,7 @@
      "rank": 1643,
      "py": "chóng",
      "kw": "esteem",
-     "parts": "山 mountain + 宗 ancestor",
+     "parts": "山 mountain + 宗 ancestor (sound)",
      "story": "Looking up at a mountain of ancestors: esteem.",
      "trad": "",
      "words": [
@@ -2264,7 +2264,7 @@
      "rank": 1665,
      "py": "jiàn",
      "kw": "arrow",
-     "parts": "⺮ bamboo + 前 forward",
+     "parts": "⺮ bamboo + 前 forward (sound)",
      "story": "A bamboo shaft that flies forward: an arrow.",
      "trad": "",
      "words": [
@@ -2328,7 +2328,7 @@
      "rank": 1604,
      "py": "mó",
      "kw": "grind",
-     "parts": "麻 hemp + 石 stone",
+     "parts": "麻 hemp (sound) + 石 stone",
      "story": "Hemp ground on a stone: grind.",
      "trad": "",
      "words": [
@@ -2357,7 +2357,7 @@
      "rank": 1682,
      "py": "hào",
      "kw": "consume",
-     "parts": "耒 plow + 毛 hair",
+     "parts": "耒 plow + 毛 hair (sound)",
      "story": "A plow worn thin as hair: consume.",
      "trad": "",
      "words": [
@@ -2421,7 +2421,7 @@
      "rank": 1607,
      "py": "gǎng",
      "kw": "sentry post",
-     "parts": "山 mountain + 冈 ridge",
+     "parts": "山 mountain + 冈 ridge (sound)",
      "story": "A guard stands on the ridge: a sentry post.",
      "trad": "崗",
      "words": [
@@ -2729,7 +2729,7 @@
      "rank": 1669,
      "py": "cū",
      "kw": "coarse",
-     "parts": "米 rice + 且 pile",
+     "parts": "米 rice + 且 pile (sound)",
      "story": "Rice with big grains piled together: coarse.",
      "trad": "麤",
      "words": [
@@ -2880,7 +2880,7 @@
      "rank": 1700,
      "py": "yì",
      "kw": "wing",
-     "parts": "羽 feather + 异 different",
+     "parts": "羽 feather + 異 different (sound)",
      "story": "Feathers spread out on both sides: wing.",
      "trad": "",
      "words": [
@@ -2979,7 +2979,7 @@
      "rank": 1647,
      "py": "zī",
      "kw": "consult",
-     "parts": "次 second + 口 mouth",
+     "parts": "次 second (sound) + 口 mouth",
      "story": "A mouth put forward next to ask advice: consult.",
      "trad": "諮",
      "words": [

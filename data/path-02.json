@@ -156,7 +156,7 @@
      "rank": 172,
      "py": "xìng",
      "kw": "nature",
-     "parts": "忄 heart + 生 born",
+     "parts": "忄 heart + 生 born (sound)",
      "story": "The heart you were born with: your nature.",
      "trad": "",
      "words": [
@@ -366,7 +366,7 @@
      "rank": 177,
      "py": "ràng",
      "kw": "let",
-     "parts": "讠 words + 上 above",
+     "parts": "讠 words + 上 above (sound)",
      "story": "Words from above: you let the other go first.",
      "trad": "讓",
      "words": [
@@ -395,7 +395,7 @@
      "rank": 195,
      "py": "rèn",
      "kw": "recognize",
-     "parts": "讠 words + 人 person",
+     "parts": "讠 words + 人 person (sound)",
      "story": "Words for a person you know: recognize.",
      "trad": "認",
      "words": [
@@ -976,7 +976,7 @@
      "rank": 111,
      "py": "hěn",
      "kw": "very",
-     "parts": "彳 step + 艮 stubborn",
+     "parts": "彳 step + 艮 stubborn (sound)",
      "story": "A step dug in hard and stubborn: very much so.",
      "trad": "",
      "words": [
@@ -1279,7 +1279,7 @@
      "rank": 176,
      "py": "gěi",
      "kw": "give",
-     "parts": "纟 silk + 合 join",
+     "parts": "纟 silk + 合 join (sound)",
      "story": "Silk joined into a gift and handed over: give.",
      "trad": "給",
      "words": [
@@ -1308,7 +1308,7 @@
      "rank": 198,
      "py": "jié",
      "kw": "tie",
-     "parts": "纟 silk + 吉 lucky",
+     "parts": "纟 silk + 吉 lucky (sound)",
      "story": "Silk tied in a lucky knot: tie.",
      "trad": "結",
      "words": [
@@ -1372,7 +1372,7 @@
      "rank": 103,
      "py": "yàng",
      "kw": "manner",
-     "parts": "木 tree + 羊 sheep",
+     "parts": "木 tree + 羊 sheep (sound)",
      "story": "A sheep carved from wood: a model, the manner of a thing.",
      "trad": "樣",
      "words": [
@@ -1558,7 +1558,7 @@
      "rank": 130,
      "py": "wèn",
      "kw": "ask",
-     "parts": "门 gate + 口 mouth",
+     "parts": "门 gate (sound) + 口 mouth",
      "story": "A mouth at the gate: ask.",
      "trad": "問",
      "words": [
@@ -1622,7 +1622,7 @@
      "rank": 119,
      "py": "qǐ",
      "kw": "rise",
-     "parts": "走 run + 己 self",
+     "parts": "走 run + 己 self (sound)",
      "story": "You yourself spring up and start to run: rise.",
      "trad": "",
      "words": [
@@ -2174,7 +2174,7 @@
      "rank": 185,
      "py": "huó",
      "kw": "alive",
-     "parts": "氵 water + 舌 tongue",
+     "parts": "氵 water + 舌 tongue (sound)",
      "story": "Water still on the tongue: alive.",
      "trad": "",
      "words": [
@@ -2238,7 +2238,7 @@
      "rank": 161,
      "py": "tí",
      "kw": "topic",
-     "parts": "是 be + 页 head",
+     "parts": "是 be (sound) + 页 head",
      "story": "What is at the head of the page: its topic.",
      "trad": "題",
      "words": [
@@ -2302,7 +2302,7 @@
      "rank": 171,
      "py": "tè",
      "kw": "special",
-     "parts": "牛 cow + 寺 temple",
+     "parts": "牛 cow + 寺 temple (sound)",
      "story": "The cow kept at the temple: a special one.",
      "trad": "",
      "words": [
@@ -2331,7 +2331,7 @@
      "rank": 192,
      "py": "wù",
      "kw": "thing",
-     "parts": "牛 cow + 勿 don't",
+     "parts": "牛 cow + 勿 don't (sound)",
      "story": "Cattle and all the countless other things in the world: things.",
      "trad": "",
      "words": [
@@ -2558,7 +2558,7 @@
      "rank": 107,
      "py": "dào",
      "kw": "way",
-     "parts": "辶 walk + 首 head",
+     "parts": "辶 walk + 首 head (sound)",
      "story": "A head going on ahead along the road: the way.",
      "trad": "",
      "words": [
@@ -2705,7 +2705,7 @@
      "rank": 188,
      "py": "tí",
      "kw": "raise",
-     "parts": "扌 hand + 是 be",
+     "parts": "扌 hand + 是 be (sound)",
      "story": "A hand that grips the handle and raises it: raise.",
      "trad": "",
      "words": [
@@ -2740,7 +2740,7 @@
      "rank": 135,
      "py": "diǎn",
      "kw": "dot",
-     "parts": "占 divine + 灬 fire",
+     "parts": "占 divine (sound) + 灬 fire",
      "story": "Sparks of fire under a scorch mark: a dot.",
      "trad": "點",
      "words": [
@@ -2868,7 +2868,7 @@
      "rank": 170,
      "py": "qī",
      "kw": "period",
-     "parts": "其 its + 月 moon",
+     "parts": "其 its (sound) + 月 moon",
      "story": "The moon coming round to its phase again: a period.",
      "trad": "朞",
      "words": [
@@ -2932,7 +2932,7 @@
      "rank": 164,
      "py": "zī",
      "kw": "resources",
-     "parts": "次 next + 贝 shell",
+     "parts": "次 next (sound) + 贝 shell",
      "story": "Shells laid by for the next time: savings, resources.",
      "trad": "資",
      "words": [

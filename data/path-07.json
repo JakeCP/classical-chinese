@@ -215,7 +215,7 @@
      "rank": 677,
      "py": "pái",
      "kw": "row",
-     "parts": "扌 hand + 非 two rows",
+     "parts": "扌 hand + 非 two rows (sound)",
      "story": "A hand setting things in two facing rows, like the strokes of 非: a row.",
      "trad": "",
      "words": [
@@ -366,7 +366,7 @@
      "rank": 652,
      "py": "yī",
      "kw": "depend on",
-     "parts": "亻 person + 衣 clothes",
+     "parts": "亻 person + 衣 clothes (sound)",
      "story": "A person and the clothes he cannot do without: depend on.",
      "trad": "",
      "words": [
@@ -488,7 +488,7 @@
      "rank": 653,
      "py": "wān",
      "kw": "bay",
-     "parts": "氵 water + 弯 bend",
+     "parts": "氵 water + 弯 bend (sound)",
      "story": "Water where the coastline bends 弯: a bay.",
      "trad": "灣",
      "words": [
@@ -517,7 +517,7 @@
      "rank": 700,
      "py": "cè",
      "kw": "measure",
-     "parts": "氵 water + 则 rule",
+     "parts": "氵 water + 则 rule (sound)",
      "story": "Water checked against a marked rule 则: measure its depth.",
      "trad": "測",
      "words": [
@@ -756,7 +756,7 @@
      "rank": 619,
      "py": "fǒu",
      "kw": "or not",
-     "parts": "不 not + 口 mouth",
+     "parts": "不 not (sound) + 口 mouth",
      "story": "A mouth 口 under 不: it says no, or asks 'or not?'",
      "trad": "",
      "words": [
@@ -878,7 +878,7 @@
      "rank": 687,
      "py": "pàn",
      "kw": "judge",
-     "parts": "半 half + 刂 knife",
+     "parts": "半 half (sound) + 刂 knife",
      "story": "A knife 刂 cutting the case into halves 半: judge which side is right.",
      "trad": "",
      "words": [
@@ -1000,7 +1000,7 @@
      "rank": 665,
      "py": "yuàn",
      "kw": "willing",
-     "parts": "原 source + 心 heart",
+     "parts": "原 source (sound) + 心 heart",
      "story": "A wish rising from the source 原 of the heart: willing.",
      "trad": "願",
      "words": [
@@ -1186,7 +1186,7 @@
      "rank": 631,
      "py": "jū",
      "kw": "reside",
-     "parts": "尸 body + 古 old",
+     "parts": "尸 body + 古 old (sound)",
      "story": "A body 尸 settled down on something old 古: someone who has long resided here.",
      "trad": "",
      "words": [
@@ -1244,7 +1244,7 @@
      "rank": 627,
      "py": "dǐ",
      "kw": "bottom",
-     "parts": "广 lean-to + 氐 base",
+     "parts": "广 lean-to + 氐 base (sound)",
      "story": "Under the lean-to 广, down at the base 氐: the bottom.",
      "trad": "",
      "words": [
@@ -1640,7 +1640,7 @@
      "rank": 671,
      "py": "shì",
      "kw": "room",
-     "parts": "宀 roof + 至 arrive",
+     "parts": "宀 roof + 至 arrive (sound)",
      "story": "Under the roof 宀, where you arrive 至 and stop: a room.",
      "trad": "",
      "words": [
@@ -1733,7 +1733,7 @@
      "rank": 625,
      "py": "zhì",
      "kw": "put in place",
-     "parts": "罒 net + 直 straight",
+     "parts": "罒 net + 直 straight (sound)",
      "story": "Under the net 罒, everything set straight 直: put in place.",
      "trad": "",
      "words": [
@@ -1826,7 +1826,7 @@
      "rank": 641,
      "py": "gǔ",
      "kw": "share",
-     "parts": "月 flesh + 殳 club",
+     "parts": "月 flesh + 殳 club (sound)",
      "story": "A cut of flesh 月 hacked off with a club 殳: one portion, a share.",
      "trad": "",
      "words": [
@@ -2066,7 +2066,7 @@
      "rank": 680,
      "py": "fú",
      "kw": "fortune",
-     "parts": "礻 altar + 畐 full jar",
+     "parts": "礻 altar + 畐 full jar (sound)",
      "story": "At the altar 礻, a jar filled to the brim 畐: good fortune.",
      "trad": "",
      "words": [
@@ -2153,7 +2153,7 @@
      "rank": 628,
      "py": "yù",
      "kw": "domain",
-     "parts": "土 earth + 或 a guarded border",
+     "parts": "土 earth + 或 a guarded border (sound)",
      "story": "Earth 土 marked off and guarded with a spear 或: a domain.",
      "trad": "",
      "words": [
@@ -2525,7 +2525,7 @@
      "rank": 635,
      "py": "cè",
      "kw": "policy",
-     "parts": "⺮ bamboo + 朿 thorn",
+     "parts": "⺮ bamboo + 朿 thorn (sound)",
      "story": "A bamboo whip with thorns 朿 to drive the horse on: a plan, a policy.",
      "trad": "",
      "words": [
@@ -2589,7 +2589,7 @@
      "rank": 656,
      "py": "pò",
      "kw": "broken",
-     "parts": "石 stone + 皮 skin",
+     "parts": "石 stone + 皮 skin (sound)",
      "story": "A stone 石 striking skin 皮: torn, broken.",
      "trad": "",
      "words": [
@@ -2653,7 +2653,7 @@
      "rank": 682,
      "py": "shì",
      "kw": "suit",
-     "parts": "辶 walk + 舌 tongue",
+     "parts": "辶 walk + 舌 tongue (sound)",
      "story": "Walking 辶 along, the taste on your tongue 舌 just right: it suits you.",
      "trad": "適",
      "words": [
@@ -2688,7 +2688,7 @@
      "rank": 676,
      "py": "zhuàng",
      "kw": "condition",
-     "parts": "丬 bed + 犬 dog",
+     "parts": "丬 bed (sound) + 犬 dog",
      "story": "A dog 犬 stretched out by its bed 丬: you can see its shape and condition.",
      "trad": "狀",
      "words": [
@@ -2816,7 +2816,7 @@
      "rank": 651,
      "py": "cūn",
      "kw": "village",
-     "parts": "木 tree + 寸 inch",
+     "parts": "木 tree + 寸 inch (sound)",
      "story": "A few trees 木 and an inch 寸 of land: a village.",
      "trad": "",
      "words": [

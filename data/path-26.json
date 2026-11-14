@@ -162,7 +162,7 @@
      "rank": 2513,
      "py": "sǎ",
      "kw": "sprinkle",
-     "parts": "氵 water + 西 west",
+     "parts": "氵 water + 西 west (sound)",
      "story": "Water flung out and scattered in every direction.",
      "trad": "灑",
      "words": [
@@ -191,7 +191,7 @@
      "rank": 2534,
      "py": "jìn",
      "kw": "soak",
-     "parts": "氵 water + 侵 (sound)",
+     "parts": "氵 water + 𠬶 (sound)",
      "story": "Water creeps in, a little at a time, until all is soaked.",
      "trad": "",
      "words": [
@@ -371,7 +371,7 @@
      "rank": 2529,
      "py": "diàn",
      "kw": "sediment",
-     "parts": "氵 water + 定 settle",
+     "parts": "氵 water + 定 settle (sound)",
      "story": "Water settles and the grit sinks to the bottom.",
      "trad": "澱",
      "words": [
@@ -633,7 +633,7 @@
      "rank": 2600,
      "py": "kē",
      "kw": "tree counter",
-     "parts": "木 tree + 果 fruit",
+     "parts": "木 tree + 果 fruit (sound)",
      "story": "Trees are counted one fruiting tree at a time.",
      "trad": "",
      "words": [
@@ -877,7 +877,7 @@
      "rank": 2553,
      "py": "máo",
      "kw": "reeds",
-     "parts": "艹 grass + 矛 spear",
+     "parts": "艹 grass + 矛 spear (sound)",
      "story": "Grass with blades as sharp as spears: thatching reeds.",
      "trad": "",
      "words": [
@@ -970,7 +970,7 @@
      "rank": 2573,
      "py": "jiā",
      "kw": "sanskrit ga",
-     "parts": "亻 person + 加 add",
+     "parts": "亻 person + 加 add (sound)",
      "story": "A person written beside \"add\" to spell out a foreign word: used in Sanskrit terms.",
      "trad": "",
      "words": [
@@ -1034,7 +1034,7 @@
      "rank": 2530,
      "py": "hāi",
      "kw": "hi",
-     "parts": "口 mouth + 海 sea",
+     "parts": "口 mouth + 海 sea (sound)",
      "story": "A mouth hailing someone across the water: hi!",
      "trad": "",
      "words": [
@@ -1162,7 +1162,7 @@
      "rank": 2519,
      "py": "jīng",
      "kw": "whale",
-     "parts": "鱼 fish + 京 capital",
+     "parts": "鱼 fish + 京 capital (sound)",
      "story": "A fish as big as a capital city: the whale.",
      "trad": "鯨",
      "words": [
@@ -1191,7 +1191,7 @@
      "rank": 2537,
      "py": "xīng",
      "kw": "ape",
-     "parts": "犭 animal + 星 star",
+     "parts": "犭 animal + 星 star (sound)",
      "story": "A beast with bright round eyes like stars: an ape.",
      "trad": "",
      "words": [
@@ -1465,7 +1465,7 @@
      "rank": 2520,
      "py": "liú",
      "kw": "sulfur",
-     "parts": "石 stone + 流 flow",
+     "parts": "石 stone + 㐬 flowing (sound)",
      "story": "A stone that melts and flows when it burns: sulfur.",
      "trad": "",
      "words": [
@@ -1552,7 +1552,7 @@
      "rank": 2595,
      "py": "bàng",
      "kw": "scale",
-     "parts": "石 stone + 旁 side",
+     "parts": "石 stone + 旁 side (sound)",
      "story": "A stone set on the side of the scale to weigh by.",
      "trad": "",
      "words": [
@@ -1773,7 +1773,7 @@
      "rank": 2583,
      "py": "zhì",
      "kw": "infantile",
-     "parts": "禾 grain + 隹 bird",
+     "parts": "禾 grain + 隹 bird (sound)",
      "story": "A young shoot and a chick: both still small and tender.",
      "trad": "",
      "words": [
@@ -1925,7 +1925,7 @@
      "rank": 2572,
      "py": "mǐn",
      "kw": "fujian",
-     "parts": "门 gate + 虫 insect",
+     "parts": "门 gate (sound) + 虫 insect",
      "story": "An insect behind a gate: the old name of Fujian.",
      "trad": "閩",
      "words": [
@@ -1954,7 +1954,7 @@
      "rank": 2525,
      "py": "píng",
      "kw": "surname feng",
-     "parts": "冫 ice + 马 horse",
+     "parts": "冫 ice (sound) + 马 horse",
      "story": "A horse galloping over ice: the surname Feng.",
      "trad": "馮",
      "words": [
@@ -2053,8 +2053,8 @@
      "rank": 2523,
      "py": "lòu",
      "kw": "humble",
-     "parts": "阝 mound + 𠚣 (sound)",
-     "story": "A rough hut in the hollow of a hill: crude and bare.",
+     "parts": "阝 mound + 𠃊 corner + 丙 third",
+     "story": "A hut wedged in a corner 𠃊 of the hillside: crude, humble.",
      "trad": "",
      "words": [
       {
@@ -2082,7 +2082,7 @@
      "rank": 2593,
      "py": "bǐ",
      "kw": "despise",
-     "parts": "啚 + 阝 town",
+     "parts": "啚 (sound) + 阝 town",
      "story": "A remote village out in the sticks: rustic, so looked down on.",
      "trad": "",
      "words": [
@@ -2140,7 +2140,7 @@
      "rank": 2584,
      "py": "méng",
      "kw": "common people",
-     "parts": "亡 gone + 民 people",
+     "parts": "亡 gone (sound) + 民 people",
      "story": "People who have lost their place: wanderers, now rogues.",
      "trad": "",
      "words": [
@@ -2268,7 +2268,7 @@
      "rank": 2561,
      "py": "xī",
      "kw": "former times",
-     "parts": "艹 stacked days + 日 sun",
+     "parts": "龷 stacked days + 日 sun",
      "story": "Days piled up on top of the sun: the past.",
      "trad": "",
      "words": [
@@ -2448,7 +2448,7 @@
      "rank": 2589,
      "py": "qīn",
      "kw": "venerate",
-     "parts": "钅 metal + 欠 yawn",
+     "parts": "钅 metal + 欠 yawn (sound)",
      "story": "A bow before one in authority: venerate.",
      "trad": "欽",
      "words": [
@@ -2594,8 +2594,8 @@
      "rank": 2577,
      "py": "pēng",
      "kw": "cooking",
-     "parts": "亯 offering + 灬 fire",
-     "story": "An offering set over a fire: cooking.",
+     "parts": "亨 smooth (sound) + 灬 fire",
+     "story": "A fire kept going smoothly 亨 under the pot: cooking.",
      "trad": "",
      "words": [
       {
@@ -2722,7 +2722,7 @@
      "rank": 2566,
      "py": "shù",
      "kw": "villa",
-     "parts": "野 open land + 土 earth",
+     "parts": "野 open land (sound) + 土 earth",
      "story": "A house standing on its own plot of open ground: a villa.",
      "trad": "",
      "words": [
@@ -2810,7 +2810,7 @@
      "rank": 2581,
      "py": "shè",
      "kw": "pardon",
-     "parts": "赤 red + 攵 tap",
+     "parts": "赤 red (sound) + 攵 tap",
      "story": "A tap that wipes away the red mark of guilt.",
      "trad": "",
      "words": [
@@ -2932,7 +2932,7 @@
      "rank": 2591,
      "py": "bàn",
      "kw": "petal",
-     "parts": "辡 + 瓜 melon",
+     "parts": "辡 (sound) + 瓜 melon",
      "story": "A melon splits into slices, each like a petal.",
      "trad": "",
      "words": [

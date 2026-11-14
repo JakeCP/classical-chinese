@@ -249,7 +249,7 @@
      "rank": 2724,
      "py": "lú",
      "kw": "reed",
-     "parts": "艹 grass + 户 door",
+     "parts": "艹 grass + 户 door (sound)",
      "story": "Tall grass by the water, as tall as a door: a reed.",
      "trad": "蘆",
      "words": [
@@ -307,8 +307,8 @@
      "rank": 2761,
      "py": "cōng",
      "kw": "scallion",
-     "parts": "艹 grass + 囱 chimney + 心 heart",
-     "story": "A hollow green stalk like a chimney in the grass: a scallion.",
+     "parts": "艹 grass + 匆 hurried + 心 heart",
+     "story": "Grass 艹 that grows in a hurry 匆, with a white heart: a scallion.",
      "trad": "蔥",
      "words": [
       {
@@ -327,7 +327,7 @@
        "g": "leek"
       }
      ],
-     "note": "The lower half is hard to analyse after simplification; treat it as one shape. 蔥 became 葱.",
+     "note": "蔥 became 葱: 囱 in the middle became 匆.",
      "have": "new",
      "akw": ""
     }
@@ -371,7 +371,7 @@
      "rank": 2744,
      "py": "yì",
      "kw": "overflow",
-     "parts": "氵 water + 益 more",
+     "parts": "氵 water + 益 more (sound)",
      "story": "More water than the vessel can hold: it overflows.",
      "trad": "",
      "words": [
@@ -668,7 +668,7 @@
      "rank": 2779,
      "py": "lán",
      "kw": "avaricious",
-     "parts": "林 woods + 女 woman",
+     "parts": "林 woods (sound) + 女 woman",
      "story": "A woman among trees, wanting every one: greedy.",
      "trad": "",
      "words": [
@@ -692,7 +692,7 @@
      "rank": 2732,
      "py": "biǎo",
      "kw": "prostitute",
-     "parts": "女 woman + 表 outside",
+     "parts": "女 woman + 表 outside (sound)",
      "story": "A woman put on show: a crude word for a prostitute.",
      "trad": "",
      "words": [
@@ -780,7 +780,7 @@
      "rank": 2728,
      "py": "xù",
      "kw": "sympathy",
-     "parts": "忄 heart + 血 blood",
+     "parts": "忄 heart + 血 blood (sound)",
      "story": "A heart moved by another's blood: sympathy.",
      "trad": "卹",
      "words": [
@@ -809,7 +809,7 @@
      "rank": 2778,
      "py": "xiè",
      "kw": "lax",
-     "parts": "忄 heart + 解 loosen",
+     "parts": "忄 heart + 解 loosen (sound)",
      "story": "A heart that has come loose: lax.",
      "trad": "",
      "words": [
@@ -937,7 +937,7 @@
      "rank": 2733,
      "py": "càn",
      "kw": "glorious",
-     "parts": "火 fire + 山 mountain",
+     "parts": "火 fire + 山 mountain (sound)",
      "story": "Fire blazing on a mountain: a glorious blaze.",
      "trad": "燦",
      "words": [
@@ -1083,7 +1083,7 @@
      "rank": 2736,
      "py": "fú",
      "kw": "fruit bat",
-     "parts": "虫 insect + 福 luck (sound)",
+     "parts": "虫 insect + 畐 full (sound)",
      "story": "The second half of the bat word: a big fruit bat.",
      "trad": "",
      "words": [
@@ -1454,7 +1454,7 @@
      "rank": 2735,
      "py": "shā",
      "kw": "brake",
-     "parts": "杀 kill + 刂 knife",
+     "parts": "杀 kill (sound) + 刂 knife",
      "story": "A knife stroke that cuts motion short: brake.",
      "trad": "剎",
      "words": [
@@ -1483,7 +1483,7 @@
      "rank": 2798,
      "py": "jiǎo",
      "kw": "extirpate",
-     "parts": "巢 nest + 刂 knife",
+     "parts": "巢 nest (sound) + 刂 knife",
      "story": "A blade aimed at the bandits' nest: wipe them out.",
      "trad": "",
      "words": [
@@ -1512,7 +1512,7 @@
      "rank": 2727,
      "py": "chuō",
      "kw": "poke",
-     "parts": "翟 pheasant + 戈 spear",
+     "parts": "翟 pheasant (sound) + 戈 spear",
      "story": "A spear jabbed at a bird: poke.",
      "trad": "",
      "words": [
@@ -1576,7 +1576,7 @@
      "rank": 2774,
      "py": "shòu",
      "kw": "go hunting",
-     "parts": "犭 animal + 守 guard",
+     "parts": "犭 animal + 守 guard (sound)",
      "story": "A dog on guard at the edge of the field: out hunting.",
      "trad": "",
      "words": [
@@ -1600,7 +1600,7 @@
      "rank": 2760,
      "py": "lí",
      "kw": "wild cat",
-     "parts": "犭 animal + 里 village",
+     "parts": "犭 animal + 里 village (sound)",
      "story": "A small beast prowling by the village: a wild cat.",
      "trad": "",
      "words": [
@@ -1653,7 +1653,7 @@
      "rank": 2755,
      "py": "mǔ",
      "kw": "male animal",
-     "parts": "牛 ox + 土 earth",
+     "parts": "牛 ox + 土 earth (sound)",
      "story": "An ox standing firm on the earth: a male animal.",
      "trad": "",
      "words": [
@@ -1799,7 +1799,7 @@
      "rank": 2789,
      "py": "fěi",
      "kw": "elegance",
-     "parts": "非 not + 文 writing",
+     "parts": "非 not (sound) + 文 writing",
      "story": "Writing that is far from plain: elegant.",
      "trad": "",
      "words": [
@@ -1892,7 +1892,7 @@
      "rank": 2793,
      "py": "suǐ",
      "kw": "marrow",
-     "parts": "骨 bone + 随 follow (sound)",
+     "parts": "骨 bone + 遀 (sound)",
      "story": "The soft stuff inside the bone: marrow.",
      "trad": "",
      "words": [
@@ -1912,7 +1912,7 @@
        "g": "spinal cord"
       }
      ],
-     "note": "髓 also means the 'essence' of a thing.",
+     "note": "髓 also means the 'essence' of a thing. 遀 is 随 'follow' without its 阝.",
      "have": "new",
      "akw": ""
     },
@@ -2254,7 +2254,7 @@
      "rank": 2730,
      "py": "chǎng",
      "kw": "spacious",
-     "parts": "尚 high + 攵 tap",
+     "parts": "尚 high (sound) + 攵 tap",
      "story": "Tapping open the door of a high hall: spacious.",
      "trad": "",
      "words": [
@@ -2405,8 +2405,8 @@
      "rank": 2784,
      "py": "xìn",
      "kw": "quarrel",
-     "parts": "血 blood + 分 divide",
-     "story": "Blood spilled and a rift opened: a quarrel.",
+     "parts": "血 blood + 半 half (sound)",
+     "story": "Blood spilled and the two sides split in half: a quarrel.",
      "trad": "釁",
      "words": [
       {
@@ -2435,8 +2435,8 @@
      "rank": 2759,
      "py": "zhāi",
      "kw": "study room",
-     "parts": "文 writing + 齐 neat",
-     "story": "A neat room for writing: a study.",
+     "parts": "文 writing + 而 beard",
+     "story": "Where a bearded 而 scholar sits writing 文: his study room.",
      "trad": "齋",
      "words": [
       {
@@ -2493,7 +2493,7 @@
      "rank": 2795,
      "py": "qí",
      "kw": "mountainous",
-     "parts": "山 mountain + 奇 odd",
+     "parts": "山 mountain + 奇 odd (sound)",
      "story": "A mountain of odd, uneven shapes: rugged.",
      "trad": "",
      "words": [
@@ -2907,7 +2907,7 @@
      "rank": 2723,
      "py": "bā",
      "kw": "pull open",
-     "parts": "扌 hand + 八 split",
+     "parts": "扌 hand + 八 split (sound)",
      "story": "A hand splitting things apart: peel and pull open.",
      "trad": "",
      "words": [

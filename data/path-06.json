@@ -40,7 +40,7 @@
      "rank": 523,
      "py": "wéi",
      "kw": "preserve",
-     "parts": "纟 silk + 隹 bird",
+     "parts": "纟 silk + 隹 bird (sound)",
      "story": "A silk cord tied round a bird's leg to keep hold of it: preserve.",
      "trad": "維",
      "words": [
@@ -69,7 +69,7 @@
      "rank": 545,
      "py": "zhōng",
      "kw": "end",
-     "parts": "纟 silk + 冬 winter",
+     "parts": "纟 silk + 冬 winter (sound)",
      "story": "The thread running out with the winter: the end.",
      "trad": "終",
      "words": [
@@ -580,7 +580,7 @@
      "rank": 592,
      "py": "chá",
      "kw": "inspect",
-     "parts": "宀 roof + 祭 sacrifice",
+     "parts": "宀 roof + 祭 sacrifice (sound)",
      "story": "Under the temple roof, the sacrifice checked over carefully: inspect.",
      "trad": "",
      "words": [
@@ -673,7 +673,7 @@
      "rank": 531,
      "py": "jí",
      "kw": "extremely",
-     "parts": "木 tree + 及 reach",
+     "parts": "木 tree + 及 reach (sound)",
      "story": "The roof-beam you reach up to: the very top, extremely.",
      "trad": "極",
      "words": [
@@ -766,7 +766,7 @@
      "rank": 571,
      "py": "xiào",
      "kw": "effect",
-     "parts": "交 cross + 攵 tap",
+     "parts": "交 cross (sound) + 攵 tap",
      "story": "Tapping until the pieces cross into place: it takes effect.",
      "trad": "傚",
      "words": [
@@ -795,7 +795,7 @@
      "rank": 567,
      "py": "gù",
      "kw": "therefore",
-     "parts": "古 old + 攵 tap",
+     "parts": "古 old (sound) + 攵 tap",
      "story": "Tapping at an old matter until its cause comes out: therefore.",
      "trad": "",
      "words": [
@@ -824,7 +824,7 @@
      "rank": 572,
      "py": "zhì",
      "kw": "lead to",
-     "parts": "至 arrive + 攵 tap",
+     "parts": "至 arrive (sound) + 攵 tap",
      "story": "A tap that makes something arrive: one thing leads to another.",
      "trad": "緻",
      "words": [
@@ -853,7 +853,7 @@
      "rank": 536,
      "py": "jǐng",
      "kw": "police",
-     "parts": "敬 respect + 言 words",
+     "parts": "敬 respect (sound) + 言 words",
      "story": "Words that command respect, called out in warning: the police.",
      "trad": "",
      "words": [
@@ -1039,7 +1039,7 @@
      "rank": 506,
      "py": "kǎo",
      "kw": "exam",
-     "parts": "耂 old man + 丂 bent stick",
+     "parts": "耂 old man + 丂 bent stick (sound)",
      "story": "An old man with a stick, quizzing the young: an exam.",
      "trad": "攷",
      "words": [
@@ -1499,7 +1499,7 @@
      "rank": 580,
      "py": "rè",
      "kw": "hot",
-     "parts": "执 hold + 灬 fire",
+     "parts": "执 hold (sound) + 灬 fire",
      "story": "Holding something over the fire: hot.",
      "trad": "熱",
      "words": [
@@ -1778,7 +1778,7 @@
      "rank": 585,
      "py": "yì",
      "kw": "art",
-     "parts": "艹 grass + 乙 bent stroke",
+     "parts": "艹 grass + 乙 bent stroke (sound)",
      "story": "A bent figure tending young plants: skill, art.",
      "trad": "藝",
      "words": [
@@ -2057,7 +2057,7 @@
      "rank": 549,
      "py": "dú",
      "kw": "alone",
-     "parts": "犭 animal + 虫 insect",
+     "parts": "犭 animal + 虫 insect (sound)",
      "story": "An animal with only an insect for company: alone.",
      "trad": "獨",
      "words": [
@@ -2179,7 +2179,7 @@
      "rank": 509,
      "py": "cún",
      "kw": "exist",
-     "parts": "才 sprout + 子 child",
+     "parts": "才 sprout (sound) + 子 child",
      "story": "A child like a new sprout, kept alive: it exists.",
      "trad": "",
      "words": [
@@ -2208,7 +2208,7 @@
      "rank": 570,
      "py": "wén",
      "kw": "hear",
-     "parts": "门 gate + 耳 ear",
+     "parts": "门 gate (sound) + 耳 ear",
      "story": "An ear pressed to the gate: hear.",
      "trad": "聞",
      "words": [
@@ -2365,7 +2365,7 @@
      "rank": 512,
      "py": "tài",
      "kw": "attitude",
-     "parts": "太 too + 心 heart",
+     "parts": "太 too (sound) + 心 heart",
      "story": "The heart leaning too far this way or that: an attitude.",
      "trad": "態",
      "words": [
@@ -2394,7 +2394,7 @@
      "rank": 589,
      "py": "shì",
      "kw": "momentum",
-     "parts": "执 hold + 力 strength",
+     "parts": "执 hold (sound) + 力 strength",
      "story": "Strength held in, ready to move: momentum.",
      "trad": "勢",
      "words": [
@@ -2487,7 +2487,7 @@
      "rank": 565,
      "py": "yù",
      "kw": "in advance",
-     "parts": "予 give + 页 head",
+     "parts": "予 give (sound) + 页 head",
      "story": "Giving your head to it before it comes: in advance.",
      "trad": "預",
      "words": [
@@ -2609,7 +2609,7 @@
      "rank": 542,
      "py": "qiē",
      "kw": "cut",
-     "parts": "七 seven + 刀 knife",
+     "parts": "七 seven (sound) + 刀 knife",
      "story": "Seven strokes of the knife: cut.",
      "trad": "",
      "words": [
@@ -2731,7 +2731,7 @@
      "rank": 548,
      "py": "gòu",
      "kw": "enough",
-     "parts": "句 sentence + 多 many",
+     "parts": "句 sentence (sound) + 多 many",
      "story": "Many sentences: that's enough.",
      "trad": "夠",
      "words": [
@@ -2894,7 +2894,7 @@
      "rank": 539,
      "py": "bǎi",
      "kw": "hundred",
-     "parts": "一 one + 白 white",
+     "parts": "一 one + 白 white (sound)",
      "story": "One stroke over white: a hundred.",
      "trad": "",
      "words": [

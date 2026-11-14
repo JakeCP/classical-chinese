@@ -127,7 +127,7 @@
      "rank": 2604,
      "py": "gāo",
      "kw": "ointment",
-     "parts": "高 high + 月 flesh",
+     "parts": "高 high (sound) + 月 flesh",
      "story": "Rich flesh piled high and rendered down: a thick paste.",
      "trad": "",
      "words": [
@@ -302,7 +302,7 @@
      "rank": 2694,
      "py": "kǔn",
      "kw": "tie together",
-     "parts": "扌 hand + 困 trapped",
+     "parts": "扌 hand + 困 trapped (sound)",
      "story": "A hand binds things up tight so they cannot move: tie together.",
      "trad": "",
      "words": [
@@ -600,7 +600,7 @@
      "rank": 2692,
      "py": "zhā",
      "kw": "dregs",
-     "parts": "氵 water + 查 check",
+     "parts": "氵 water + 查 check (sound)",
      "story": "What stays behind when the liquid has been strained.",
      "trad": "",
      "words": [
@@ -635,7 +635,7 @@
      "rank": 2618,
      "py": "méng",
      "kw": "sprout",
-     "parts": "艹 grass + 明 bright",
+     "parts": "艹 grass + 明 bright (sound)",
      "story": "The bright new shoot pushing out of the soil.",
      "trad": "",
      "words": [
@@ -664,7 +664,7 @@
      "rank": 2633,
      "py": "yá",
      "kw": "bud",
-     "parts": "艹 grass + 牙 tooth",
+     "parts": "艹 grass + 牙 tooth (sound)",
      "story": "A green tooth poking up out of the ground.",
      "trad": "",
      "words": [
@@ -693,7 +693,7 @@
      "rank": 2629,
      "py": "jīng",
      "kw": "stalk",
-     "parts": "艹 grass + 巠 (sound)",
+     "parts": "艹 grass + 𢀖 (sound)",
      "story": "The straight pillar a plant holds itself up on: a stalk.",
      "trad": "莖",
      "words": [
@@ -1060,7 +1060,7 @@
      "rank": 2645,
      "py": "hǒu",
      "kw": "roar",
-     "parts": "口 mouth + 孔 hole",
+     "parts": "口 mouth + 孔 hole (sound)",
      "story": "A mouth opened as wide as a hole: a roar.",
      "trad": "",
      "words": [
@@ -1182,7 +1182,7 @@
      "rank": 2662,
      "py": "qǐ",
      "kw": "how could",
-     "parts": "山 mountain + 己 self",
+     "parts": "山 mountain + 己 self (sound)",
      "story": "A mountain looming over you: how could that be?",
      "trad": "豈",
      "words": [
@@ -1211,7 +1211,7 @@
      "rank": 2650,
      "py": "lo",
      "kw": "final particle",
-     "parts": "口 mouth + 各 each",
+     "parts": "口 mouth + 各 each (sound)",
      "story": "A mouth adding a light closing touch: a sentence-ending particle.",
      "trad": "",
      "words": [
@@ -1246,7 +1246,7 @@
      "rank": 2623,
      "py": "chāo",
      "kw": "paper money",
-     "parts": "钅 metal + 少 little",
+     "parts": "钅 metal + 少 little (sound)",
      "story": "Metal made thin as paper: a banknote.",
      "trad": "鈔",
      "words": [
@@ -1304,7 +1304,7 @@
      "rank": 2657,
      "py": "chuí",
      "kw": "hammer",
-     "parts": "钅 metal + 垂 hang",
+     "parts": "钅 metal + 垂 hang (sound)",
      "story": "A hanging weight of metal on a handle: a hammer.",
      "trad": "錘",
      "words": [
@@ -1426,7 +1426,7 @@
      "rank": 2655,
      "py": "jiǎn",
      "kw": "alkali",
-     "parts": "石 stone + 咸 salty",
+     "parts": "石 stone + 咸 salty (sound)",
      "story": "A salty, stone-like substance: alkali.",
      "trad": "鹼",
      "words": [
@@ -1519,7 +1519,7 @@
      "rank": 2685,
      "py": "yì",
      "kw": "unravel",
-     "parts": "纟 silk + 又 hand over 土 earth",
+     "parts": "纟 silk + 𠬤 (sound)",
      "story": "Thread drawn out strand after strand from the cocoon.",
      "trad": "繹",
      "words": [
@@ -1666,7 +1666,7 @@
      "rank": 2625,
      "py": "tàng",
      "kw": "scald",
-     "parts": "汤 soup + 火 fire",
+     "parts": "汤 soup (sound) + 火 fire",
      "story": "Soup on the fire: scalding hot.",
      "trad": "燙",
      "words": [
@@ -1695,7 +1695,7 @@
      "rank": 2659,
      "py": "jiān",
      "kw": "pan-fry",
-     "parts": "前 front + 灬 fire",
+     "parts": "前 front (sound) + 灬 fire",
      "story": "Food laid on a pan in front of a flame: fried.",
      "trad": "",
      "words": [
@@ -1730,7 +1730,7 @@
      "rank": 2602,
      "py": "lǘ",
      "kw": "donkey",
-     "parts": "马 horse + 户 door",
+     "parts": "马 horse + 户 door (sound)",
      "story": "A horse, only humbler and more stubborn: the donkey.",
      "trad": "驢",
      "words": [
@@ -1881,7 +1881,7 @@
      "rank": 2620,
      "py": "xiè",
      "kw": "crab",
-     "parts": "解 loosen + 虫 insect",
+     "parts": "解 loosen (sound) + 虫 insect",
      "story": "A creature you have to take apart to eat: the crab.",
      "trad": "",
      "words": [
@@ -1939,7 +1939,7 @@
      "rank": 2639,
      "py": "zhī",
      "kw": "spider half",
-     "parts": "虫 insect + 知 know",
+     "parts": "虫 insect + 知 know (sound)",
      "story": "The first half of the word for the web-maker.",
      "trad": "",
      "words": [
@@ -1974,7 +1974,7 @@
      "rank": 2610,
      "py": "chóu",
      "kw": "gloomy",
-     "parts": "秋 autumn + 心 heart",
+     "parts": "秋 autumn (sound) + 心 heart",
      "story": "Autumn in the heart: gloomy and anxious.",
      "trad": "",
      "words": [
@@ -2032,7 +2032,7 @@
      "rank": 2651,
      "py": "shù",
      "kw": "forgive",
-     "parts": "如 like + 心 heart",
+     "parts": "如 like (sound) + 心 heart",
      "story": "A heart that puts itself in another's place: forgiving.",
      "trad": "",
      "words": [
@@ -2061,7 +2061,7 @@
      "rank": 2615,
      "py": "dù",
      "kw": "jealous",
-     "parts": "女 woman + 户 door",
+     "parts": "女 woman + 户 door (sound)",
      "story": "Watching another's door open while your own face sours.",
      "trad": "",
      "words": [
@@ -2154,7 +2154,7 @@
      "rank": 2691,
      "py": "zhí",
      "kw": "nephew",
-     "parts": "亻 person + 至 reach",
+     "parts": "亻 person + 至 reach (sound)",
      "story": "The person who comes after you in the family line.",
      "trad": "姪",
      "words": [
@@ -2247,7 +2247,7 @@
      "rank": 2611,
      "py": "bó",
      "kw": "ship",
-     "parts": "舟 boat + 白 white",
+     "parts": "舟 boat + 白 white (sound)",
      "story": "A big white boat from far away: an ocean vessel.",
      "trad": "",
      "words": [
@@ -2329,7 +2329,7 @@
      "rank": 2686,
      "py": "tǎn",
      "kw": "rug",
-     "parts": "毛 hair + 炎 flame",
+     "parts": "毛 hair + 炎 flame (sound)",
      "story": "A warm covering of fur or wool.",
      "trad": "",
      "words": [
@@ -2569,8 +2569,8 @@
      "rank": 2696,
      "py": "qiàn",
      "kw": "embed",
-     "parts": "山 mountain + 𡸣 (sound)",
-     "story": "Stone set tight into a rock wall.",
+     "parts": "山 mountain + 甘 sweet + 欠 lack (sound)",
+     "story": "A sweet 甘 gem set into the gap 欠 in a mountain wall: embed.",
      "trad": "",
      "words": [
       {
@@ -2604,7 +2604,7 @@
      "rank": 2688,
      "py": "jì",
      "kw": "hope for",
-     "parts": "北 north + 异 strange",
+     "parts": "北 north + 異 strange (sound)",
      "story": "Looking north for something wonderful: you hope for it.",
      "trad": "",
      "words": [
@@ -2633,7 +2633,7 @@
      "rank": 2687,
      "py": "quán",
      "kw": "annotate",
-     "parts": "讠 words + 全 whole",
+     "parts": "讠 words + 全 whole (sound)",
      "story": "Words that explain the whole meaning of a text.",
      "trad": "詮",
      "words": [
@@ -2842,7 +2842,7 @@
      "rank": 2627,
      "py": "guà",
      "kw": "divination diagram",
-     "parts": "圭 jade tablet + 卜 divining",
+     "parts": "圭 jade tablet (sound) + 卜 divining",
      "story": "A tablet cast and read: a divination sign.",
      "trad": "",
      "words": [
@@ -2929,7 +2929,7 @@
      "rank": 2630,
      "py": "lǔ",
      "kw": "prisoner of war",
-     "parts": "虍 tiger + 力 strength",
+     "parts": "虍 tiger (sound) + 力 strength",
      "story": "Seized by a strong tiger of a man: prisoner of war.",
      "trad": "虜",
      "words": [

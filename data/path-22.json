@@ -98,7 +98,7 @@
      "rank": 2156,
      "py": "mǒ",
      "kw": "smear",
-     "parts": "扌 hand + 末 end",
+     "parts": "扌 hand + 末 end (sound)",
      "story": "A hand sweeps across the table to its far end: smear.",
      "trad": "",
      "words": [
@@ -220,7 +220,7 @@
      "rank": 2167,
      "py": "huāng",
      "kw": "panicky",
-     "parts": "忄 heart + 荒 wild",
+     "parts": "忄 heart + 荒 wild (sound)",
      "story": "A heart gone wild: panicky.",
      "trad": "",
      "words": [
@@ -342,7 +342,7 @@
      "rank": 2107,
      "py": "yá",
      "kw": "horizon",
-     "parts": "氵 water + 厓 cliff edge",
+     "parts": "氵 water + 厓 cliff edge (sound)",
      "story": "Where the water meets the cliff edge, the world ends: horizon.",
      "trad": "",
      "words": [
@@ -435,7 +435,7 @@
      "rank": 2132,
      "py": "zuǒ",
      "kw": "aide",
-     "parts": "亻 person + 左 left",
+     "parts": "亻 person + 左 left (sound)",
      "story": "A person at your left hand, helping: an aide.",
      "trad": "",
      "words": [
@@ -674,7 +674,7 @@
      "rank": 2128,
      "py": "fèi",
      "kw": "lung",
-     "parts": "月 flesh + 市 (sound)",
+     "parts": "月 flesh + 巿 (sound)",
      "story": "Flesh in the chest that fills and empties: the lungs.",
      "trad": "",
      "words": [
@@ -694,7 +694,7 @@
        "g": "lung disease"
       }
      ],
-     "note": "",
+     "note": "The right side is 巿, four strokes with the upright running through; not 市 'market'.",
      "have": "new",
      "akw": ""
     },
@@ -767,7 +767,7 @@
      "rank": 2199,
      "py": "xī",
      "kw": "distinct",
-     "parts": "日 sun + 析 split",
+     "parts": "日 sun + 析 split (sound)",
      "story": "Sunlight picks out every detail: distinct.",
      "trad": "",
      "words": [
@@ -796,7 +796,7 @@
      "rank": 2181,
      "py": "yūn",
      "kw": "dizzy",
-     "parts": "日 sun + 军 army",
+     "parts": "日 sun + 军 army (sound)",
      "story": "Head spinning under a hot sun: dizzy.",
      "trad": "暈",
      "words": [
@@ -855,7 +855,7 @@
      "rank": 2139,
      "py": "mī",
      "kw": "calling a cat",
-     "parts": "口 mouth + 米 rice",
+     "parts": "口 mouth + 米 rice (sound)",
      "story": "A mouth calls the cat to its rice: here, kitty.",
      "trad": "",
      "words": [
@@ -885,7 +885,7 @@
      "rank": 2105,
      "py": "chī",
      "kw": "silly",
-     "parts": "疒 sickness + 知 know",
+     "parts": "疒 sickness + 知 know (sound)",
      "story": "A mind sick with its one idea: silly.",
      "trad": "",
      "words": [
@@ -914,7 +914,7 @@
      "rank": 2172,
      "py": "pí",
      "kw": "fatigued",
-     "parts": "疒 sickness + 皮 skin",
+     "parts": "疒 sickness + 皮 skin (sound)",
      "story": "A sickness in the skin and bones: fatigued.",
      "trad": "",
      "words": [
@@ -949,7 +949,7 @@
      "rank": 2113,
      "py": "yīng",
      "kw": "eagle",
-     "parts": "广 lean-to + 亻 person + 鸟 bird",
+     "parts": "广 lean-to + 亻 person + 隹 bird + 鸟 bird",
      "story": "A bird of prey above the lean-to, watching the person below: an eagle.",
      "trad": "鷹",
      "words": [
@@ -978,7 +978,7 @@
      "rank": 2182,
      "py": "yā",
      "kw": "duck",
-     "parts": "甲 shell + 鸟 bird",
+     "parts": "甲 shell (sound) + 鸟 bird",
      "story": "A bird with a plated back, waddling to the pond: a duck.",
      "trad": "鴨",
      "words": [
@@ -1222,7 +1222,7 @@
      "rank": 2161,
      "py": "yù",
      "kw": "well off",
-     "parts": "衤 clothes + 谷 valley",
+     "parts": "衤 clothes + 谷 valley (sound)",
      "story": "Clothes enough to fill a valley: well off.",
      "trad": "",
      "words": [
@@ -1350,7 +1350,7 @@
      "rank": 2111,
      "py": "xiān",
      "kw": "fine thread",
-     "parts": "纟 silk + 千 thousand",
+     "parts": "纟 silk + 千 thousand (sound)",
      "story": "A thousand strands of silk, each thin: fine thread.",
      "trad": "纖/縴",
      "words": [
@@ -1379,7 +1379,7 @@
      "rank": 2121,
      "py": "fèng",
      "kw": "seam",
-     "parts": "纟 silk + 逢 meet",
+     "parts": "纟 silk + 逢 meet (sound)",
      "story": "Silk thread where two edges meet: a seam.",
      "trad": "縫",
      "words": [
@@ -1677,7 +1677,7 @@
      "rank": 2196,
      "py": "luó",
      "kw": "radish",
-     "parts": "艹 grass + 罗 net",
+     "parts": "艹 grass + 罗 net (sound)",
      "story": "A plant whose root is dug out like a catch from a net: radish.",
      "trad": "蘿",
      "words": [
@@ -1701,7 +1701,7 @@
      "rank": 2165,
      "py": "xù",
      "kw": "store up",
-     "parts": "艹 grass + 畜 livestock",
+     "parts": "艹 grass + 畜 livestock (sound)",
      "story": "Grass stacked as winter feed for livestock: stored up.",
      "trad": "",
      "words": [
@@ -1794,7 +1794,7 @@
      "rank": 2118,
      "py": "lǒng",
      "kw": "field ridge",
-     "parts": "龙 dragon + 土 earth",
+     "parts": "龙 dragon (sound) + 土 earth",
      "story": "Earth heaped in a long dragon's back across the field: a ridge.",
      "trad": "壟",
      "words": [
@@ -1887,7 +1887,7 @@
      "rank": 2122,
      "py": "fāng",
      "kw": "lane",
-     "parts": "土 earth + 方 square",
+     "parts": "土 earth + 方 square (sound)",
      "story": "A square of ground in town with its own gate: a lane.",
      "trad": "",
      "words": [
@@ -1980,7 +1980,7 @@
      "rank": 2185,
      "py": "mèn",
      "kw": "depressed",
-     "parts": "门 gate + 心 heart",
+     "parts": "门 gate (sound) + 心 heart",
      "story": "A heart shut in behind a gate: depressed.",
      "trad": "悶",
      "words": [
@@ -2137,7 +2137,7 @@
      "rank": 2149,
      "py": "jī",
      "kw": "hungry",
-     "parts": "饣 food + 几 small table",
+     "parts": "饣 food + 几 small table (sound)",
      "story": "A small table with no food on it: hungry.",
      "trad": "飢",
      "words": [
@@ -2230,7 +2230,7 @@
      "rank": 2163,
      "py": "guì",
      "kw": "kneel",
-     "parts": "足 foot + 危 danger",
+     "parts": "足 foot + 危 danger (sound)",
      "story": "Feet folded under you in danger: kneel.",
      "trad": "",
      "words": [
@@ -2346,7 +2346,7 @@
      "rank": 2150,
      "py": "qíng",
      "kw": "hold aloft",
-     "parts": "敬 respect + 手 hand",
+     "parts": "敬 respect (sound) + 手 hand",
      "story": "A hand raised in respect to hold a thing high: hold aloft.",
      "trad": "",
      "words": [
@@ -2381,7 +2381,7 @@
      "rank": 2131,
      "py": "gū",
      "kw": "sin",
-     "parts": "古 old + 辛 bitter",
+     "parts": "古 old (sound) + 辛 bitter",
      "story": "An old bitter wrong: a sin.",
      "trad": "",
      "words": [
@@ -2498,7 +2498,7 @@
      "rank": 2191,
      "py": "bèn",
      "kw": "clumsy",
-     "parts": "⺮ bamboo + 本 root",
+     "parts": "⺮ bamboo + 本 root (sound)",
      "story": "Bamboo with a thick root: heavy, slow and clumsy.",
      "trad": "",
      "words": [
@@ -2702,7 +2702,7 @@
      "rank": 2142,
      "py": "jǔ",
      "kw": "carpenter's square",
-     "parts": "矢 arrow + 巨 big",
+     "parts": "矢 arrow + 巨 big (sound)",
      "story": "A tool as straight as an arrow, big enough to measure with: a carpenter's square.",
      "trad": "",
      "words": [
@@ -2731,7 +2731,7 @@
      "rank": 2193,
      "py": "lí",
      "kw": "hundredth",
-     "parts": "厂 cliff + 里 village",
+     "parts": "厂 cliff + 里 village (sound)",
      "story": "A village squeezed under a cliff: a tiny hundredth part.",
      "trad": "釐",
      "words": [
@@ -2824,8 +2824,8 @@
      "rank": 2125,
      "py": "lǚ",
      "kw": "tread on",
-     "parts": "尸 body + 彳 step + 夂 foot + 舟 boat",
-     "story": "A body steps on, feet in boat-shaped shoes: tread on.",
+     "parts": "尸 body + 彳 step + 复 again",
+     "story": "A body taking step after step, again and again: tread on.",
      "trad": "",
      "words": [
       {
@@ -2888,7 +2888,7 @@
      "rank": 2180,
      "py": "lín",
      "kw": "gem",
-     "parts": "王 jade + 林 forest",
+     "parts": "王 jade + 林 forest (sound)",
      "story": "Jade as plentiful as a forest: gems.",
      "trad": "",
      "words": [
@@ -2995,7 +2995,7 @@
      "rank": 2158,
      "py": "diē",
      "kw": "dad",
-     "parts": "父 father + 多 many",
+     "parts": "父 father + 多 many (sound)",
      "story": "A father with many mouths: dad.",
      "trad": "",
      "words": [

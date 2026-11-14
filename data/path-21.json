@@ -11,7 +11,7 @@
      "rank": 2003,
      "py": "dù",
      "kw": "belly",
-     "parts": "月 flesh + 土 earth",
+     "parts": "月 flesh + 土 earth (sound)",
      "story": "The flesh that sags toward the ground: belly.",
      "trad": "",
      "words": [
@@ -133,7 +133,7 @@
      "rank": 2058,
      "py": "zhàng",
      "kw": "bloated",
-     "parts": "月 flesh + 长 grow",
+     "parts": "月 flesh + 长 grow (sound)",
      "story": "Flesh that keeps growing bigger: bloated.",
      "trad": "脹",
      "words": [
@@ -162,7 +162,7 @@
      "rank": 2084,
      "py": "zhǒng",
      "kw": "swollen",
-     "parts": "月 flesh + 中 middle",
+     "parts": "月 flesh + 中 middle (sound)",
      "story": "A bulge in the middle of the flesh: swollen.",
      "trad": "腫",
      "words": [
@@ -284,7 +284,7 @@
      "rank": 2068,
      "py": "wù",
      "kw": "comprehend",
-     "parts": "忄 heart + 吾 I",
+     "parts": "忄 heart + 吾 I (sound)",
      "story": "The heart finally says 'I see': comprehend.",
      "trad": "",
      "words": [
@@ -348,7 +348,7 @@
      "rank": 2014,
      "py": "mù",
      "kw": "admire",
-     "parts": "莫 not (sound) + 小 heart",
+     "parts": "莫 not (sound) + ⺗ heart",
      "story": "A heart going out to someone it wants to be like: admire.",
      "trad": "",
      "words": [
@@ -377,7 +377,7 @@
      "rank": 2051,
      "py": "gōng",
      "kw": "respectful",
-     "parts": "共 together + 小 heart",
+     "parts": "共 together (sound) + ⺗ heart",
      "story": "A heart bowing along with the others: respectful.",
      "trad": "",
      "words": [
@@ -406,7 +406,7 @@
      "rank": 2090,
      "py": "jì",
      "kw": "dread",
-     "parts": "己 self + 心 heart",
+     "parts": "己 self (sound) + 心 heart",
      "story": "A heart that pulls itself away: dread.",
      "trad": "",
      "words": [
@@ -441,7 +441,7 @@
      "rank": 2007,
      "py": "chě",
      "kw": "tug",
-     "parts": "扌 hand + 止 stop",
+     "parts": "扌 hand + 止 stop (sound)",
      "story": "A hand pulling until it stops: tug.",
      "trad": "撦",
      "words": [
@@ -528,7 +528,7 @@
      "rank": 2061,
      "py": "zhuō",
      "kw": "clutch",
-     "parts": "扌 hand + 足 foot",
+     "parts": "扌 hand + 足 foot (sound)",
      "story": "A hand grabbing at a running foot: clutch.",
      "trad": "",
      "words": [
@@ -557,7 +557,7 @@
      "rank": 2085,
      "py": "tái",
      "kw": "lift up",
-     "parts": "扌 hand + 台 platform",
+     "parts": "扌 hand + 台 platform (sound)",
      "story": "Hands raising something up onto a platform: lift up.",
      "trad": "",
      "words": [
@@ -586,7 +586,7 @@
      "rank": 2072,
      "py": "qiāo",
      "kw": "knock",
-     "parts": "高 high + 攵 tap",
+     "parts": "高 high (sound) + 攵 tap",
      "story": "A tap at something high up: knock.",
      "trad": "",
      "words": [
@@ -621,7 +621,7 @@
      "rank": 2012,
      "py": "tūn",
      "kw": "swallow",
-     "parts": "天 sky + 口 mouth",
+     "parts": "天 sky (sound) + 口 mouth",
      "story": "A mouth taking in the whole sky: swallow.",
      "trad": "",
      "words": [
@@ -650,7 +650,7 @@
      "rank": 2024,
      "py": "yǎo",
      "kw": "bite",
-     "parts": "口 mouth + 交 cross",
+     "parts": "口 mouth + 交 cross (sound)",
      "story": "A mouth crossing its teeth over something: bite.",
      "trad": "",
      "words": [
@@ -743,7 +743,7 @@
      "rank": 2021,
      "py": "pā",
      "kw": "bang",
-     "parts": "口 mouth + 拍 clap",
+     "parts": "口 mouth + 拍 clap (sound)",
      "story": "A mouth imitating a clap: bang.",
      "trad": "",
      "words": [
@@ -767,7 +767,7 @@
      "rank": 2069,
      "py": "āi",
      "kw": "grief",
-     "parts": "衣 clothes with 口 mouth set inside",
+     "parts": "衣 clothes (sound) + 口 mouth set inside",
      "story": "A mouth wailing inside mourning clothes: grief.",
      "trad": "",
      "words": [
@@ -831,7 +831,7 @@
      "rank": 2082,
      "py": "bó",
      "kw": "refute",
-     "parts": "马 horse + 爻 crossed strokes",
+     "parts": "马 horse + 爻 crossed strokes (sound)",
      "story": "A horse kicking back: refute.",
      "trad": "駁",
      "words": [
@@ -924,7 +924,7 @@
      "rank": 2047,
      "py": "qiǎn",
      "kw": "censure",
-     "parts": "讠 words + 遣 send",
+     "parts": "讠 words + 遣 send (sound)",
      "story": "Words sent out against someone: censure.",
      "trad": "譴",
      "words": [
@@ -948,7 +948,7 @@
      "rank": 2049,
      "py": "fěng",
      "kw": "satirise",
-     "parts": "讠 words + 风 wind",
+     "parts": "讠 words + 风 wind (sound)",
      "story": "Words that blow barbs through the air: satirise.",
      "trad": "諷",
      "words": [
@@ -1012,7 +1012,7 @@
      "rank": 2019,
      "py": "kǎo",
      "kw": "roast",
-     "parts": "火 fire + 考 test",
+     "parts": "火 fire + 考 test (sound)",
      "story": "Held over fire until it tests done: roast.",
      "trad": "",
      "words": [
@@ -1041,7 +1041,7 @@
      "rank": 2099,
      "py": "chǎo",
      "kw": "stir-fry",
-     "parts": "火 fire + 少 little",
+     "parts": "火 fire + 少 little (sound)",
      "story": "A little oil over fierce fire: stir-fry.",
      "trad": "",
      "words": [
@@ -1070,7 +1070,7 @@
      "rank": 2020,
      "py": "bǎo",
      "kw": "full up",
-     "parts": "饣 food + 包 wrap",
+     "parts": "饣 food + 包 wrap (sound)",
      "story": "Food wrapped up inside you: full up.",
      "trad": "飽",
      "words": [
@@ -1129,7 +1129,7 @@
      "rank": 2096,
      "py": "kǎn",
      "kw": "chop",
-     "parts": "石 stone + 欠 owe",
+     "parts": "石 stone + 欠 owe (sound)",
      "story": "A stone blade swung down: chop.",
      "trad": "",
      "words": [
@@ -1158,7 +1158,7 @@
      "rank": 2030,
      "py": "tàn",
      "kw": "carbon",
-     "parts": "石 stone + 炭 charcoal",
+     "parts": "石 stone + 炭 charcoal (sound)",
      "story": "Stone-hard charcoal: carbon.",
      "trad": "",
      "words": [
@@ -1193,7 +1193,7 @@
      "rank": 2063,
      "py": "guì",
      "kw": "cabinet",
-     "parts": "木 wood + 巨 huge",
+     "parts": "木 wood + 巨 huge (sound)",
      "story": "A big wooden box: cabinet.",
      "trad": "櫃",
      "words": [
@@ -1315,7 +1315,7 @@
      "rank": 2005,
      "py": "hé",
      "kw": "small box",
-     "parts": "合 join + 皿 dish",
+     "parts": "合 join (sound) + 皿 dish",
      "story": "A dish with its lid joined on: a small box.",
      "trad": "",
      "words": [
@@ -1373,7 +1373,7 @@
      "rank": 2087,
      "py": "lóng",
      "kw": "cage",
-     "parts": "⺮ bamboo + 龙 dragon",
+     "parts": "⺮ bamboo + 龙 dragon (sound)",
      "story": "Woven bamboo to hold a fierce creature: cage.",
      "trad": "籠",
      "words": [
@@ -1408,7 +1408,7 @@
      "rank": 2083,
      "py": "zhuì",
      "kw": "plunge",
-     "parts": "队 team + 土 earth",
+     "parts": "队 team (sound) + 土 earth",
      "story": "A whole team dropping to the ground: plunge.",
      "trad": "墜",
      "words": [
@@ -1501,7 +1501,7 @@
      "rank": 2092,
      "py": "gēng",
      "kw": "plow",
-     "parts": "耒 plough + 井 well",
+     "parts": "耒 plough + 井 well (sound)",
      "story": "A plough turning the earth at the village well: plow.",
      "trad": "",
      "words": [
@@ -1682,7 +1682,7 @@
      "rank": 2029,
      "py": "jiāo",
      "kw": "outskirts",
-     "parts": "交 cross + 阝 town",
+     "parts": "交 cross (sound) + 阝 town",
      "story": "Where the roads cross out of town: outskirts.",
      "trad": "",
      "words": [
@@ -1711,7 +1711,7 @@
      "rank": 2016,
      "py": "yù",
      "kw": "lush",
-     "parts": "有 have + 阝 town",
+     "parts": "有 have (sound) + 阝 town",
      "story": "A town with plenty, thick with growth: lush.",
      "trad": "鬱",
      "words": [
@@ -1828,7 +1828,7 @@
      "rank": 2075,
      "py": "gǔ",
      "kw": "merchant",
-     "parts": "西 west + 贝 shell",
+     "parts": "西 west (sound) + 贝 shell",
      "story": "Shells bought and sold in the west: merchant.",
      "trad": "賈",
      "words": [
@@ -1863,7 +1863,7 @@
      "rank": 2002,
      "py": "hú",
      "kw": "fox",
-     "parts": "犭 animal + 瓜 melon",
+     "parts": "犭 animal + 瓜 melon (sound)",
      "story": "The animal with a tail like a melon vine: fox.",
      "trad": "",
      "words": [
@@ -1921,7 +1921,7 @@
      "rank": 2048,
      "py": "lián",
      "kw": "lotus",
-     "parts": "艹 grass + 连 join",
+     "parts": "艹 grass + 连 join (sound)",
      "story": "A plant whose seeds join in one pod: lotus.",
      "trad": "蓮",
      "words": [
@@ -1950,7 +1950,7 @@
      "rank": 2056,
      "py": "zhī",
      "kw": "sesame",
-     "parts": "艹 grass + 之 go",
+     "parts": "艹 grass + 之 go (sound)",
      "story": "A plant that goes to seed in tiny grains: sesame.",
      "trad": "",
      "words": [
@@ -2014,7 +2014,7 @@
      "rank": 2025,
      "py": "qiè",
      "kw": "steal secretly",
-     "parts": "穴 cave + 切 cut",
+     "parts": "穴 cave + 切 cut (sound)",
      "story": "Cutting a way into a cave: steal secretly.",
      "trad": "竊",
      "words": [
@@ -2049,7 +2049,7 @@
      "rank": 2089,
      "py": "qiáo",
      "kw": "emigrant",
-     "parts": "亻 person + 乔 tall",
+     "parts": "亻 person + 乔 tall (sound)",
      "story": "A person who has gone far away: emigrant.",
      "trad": "僑",
      "words": [
@@ -2113,7 +2113,7 @@
      "rank": 2065,
      "py": "zhóu",
      "kw": "axle",
-     "parts": "车 cart + 由 from",
+     "parts": "车 cart + 由 from (sound)",
      "story": "The bar the cart-wheels turn from: axle.",
      "trad": "軸",
      "words": [
@@ -2270,7 +2270,7 @@
      "rank": 2064,
      "py": "xiáng",
      "kw": "auspicious",
-     "parts": "礻 altar + 羊 sheep",
+     "parts": "礻 altar + 羊 sheep (sound)",
      "story": "A sheep at the altar: a good omen.",
      "trad": "",
      "words": [
@@ -2328,7 +2328,7 @@
      "rank": 2074,
      "py": "wàng",
      "kw": "blooming",
-     "parts": "日 sun + 王 king",
+     "parts": "日 sun + 王 king (sound)",
      "story": "The king-sun at its height: blooming.",
      "trad": "",
      "words": [
@@ -2421,7 +2421,7 @@
      "rank": 2027,
      "py": "qū",
      "kw": "bent",
-     "parts": "尸 body + 出 out",
+     "parts": "尸 body + 出 out (sound)",
      "story": "A body curled out of shape: bent.",
      "trad": "",
      "words": [
@@ -2543,7 +2543,7 @@
      "rank": 2080,
      "py": "shài",
      "kw": "dry in sun",
-     "parts": "日 sun + 西 west",
+     "parts": "日 sun + 西 west (sound)",
      "story": "The low sun beating down on the washing: dry in the sun.",
      "trad": "曬",
      "words": [
@@ -2665,7 +2665,7 @@
      "rank": 2011,
      "py": "tǎng",
      "kw": "lie down",
-     "parts": "身 body + 尚 still",
+     "parts": "身 body + 尚 still (sound)",
      "story": "A body lying still: lie down.",
      "trad": "",
      "words": [
@@ -2723,7 +2723,7 @@
      "rank": 2059,
      "py": "hén",
      "kw": "scar",
-     "parts": "疒 sickness + 艮",
+     "parts": "疒 sickness + 艮 (sound)",
      "story": "The mark an illness or wound leaves: scar.",
      "trad": "",
      "words": [
@@ -2915,7 +2915,7 @@
      "rank": 2067,
      "py": "sū",
      "kw": "jesus",
-     "parts": "鱼 fish + 禾 grain",
+     "parts": "鱼 fish (sound) + 禾 grain",
      "story": "Fish and grain, the food that brings life back: the name Jesus.",
      "trad": "穌",
      "words": [
@@ -2973,7 +2973,7 @@
      "rank": 2052,
      "py": "chǎn",
      "kw": "disclose",
-     "parts": "门 gate + 单 single",
+     "parts": "门 gate + 单 single (sound)",
      "story": "A gate opened onto an explanation: disclose.",
      "trad": "闡",
      "words": [

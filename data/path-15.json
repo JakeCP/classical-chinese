@@ -400,7 +400,7 @@
      "rank": 1481,
      "py": "huì",
      "kw": "draw",
-     "parts": "纟 silk + 会 meet",
+     "parts": "纟 silk + 会 meet (sound)",
      "story": "Colored threads meeting on cloth: a picture is drawn.",
      "trad": "繪",
      "words": [
@@ -429,7 +429,7 @@
      "rank": 1482,
      "py": "zòng",
      "kw": "vertical",
-     "parts": "纟 silk + 从 follow",
+     "parts": "纟 silk + 从 follow (sound)",
      "story": "Threads running one after another lengthwise: vertical.",
      "trad": "縱",
      "words": [
@@ -551,7 +551,7 @@
      "rank": 1412,
      "py": "hǔ",
      "kw": "tiger",
-     "parts": "虍 tiger head + 儿 legs",
+     "parts": "虍 tiger head + 几 legs",
      "story": "A tiger's striped head set on legs.",
      "trad": "",
      "words": [
@@ -615,7 +615,7 @@
      "rank": 1418,
      "py": "xià",
      "kw": "frighten",
-     "parts": "口 mouth + 下 down",
+     "parts": "口 mouth + 下 down (sound)",
      "story": "A shout that makes you drop down: frighten.",
      "trad": "嚇",
      "words": [
@@ -644,7 +644,7 @@
      "rank": 1498,
      "py": "mà",
      "kw": "scold",
-     "parts": "口 mouth + 口 mouth + 马 horse",
+     "parts": "口 mouth + 口 mouth + 马 horse (sound)",
      "story": "Two mouths shouting at a horse: scold.",
      "trad": "罵",
      "words": [
@@ -708,7 +708,7 @@
      "rank": 1435,
      "py": "huá",
      "kw": "slip",
-     "parts": "氵 water + 骨 bone",
+     "parts": "氵 water + 骨 bone (sound)",
      "story": "Water over bone: it slips.",
      "trad": "",
      "words": [
@@ -987,7 +987,7 @@
      "rank": 1416,
      "py": "miǎo",
      "kw": "second",
-     "parts": "禾 grain + 少 little",
+     "parts": "禾 grain + 少 little (sound)",
      "story": "A grain's worth of time, a little bit: a second.",
      "trad": "",
      "words": [
@@ -1022,7 +1022,7 @@
      "rank": 1472,
      "py": "chén",
      "kw": "morning",
-     "parts": "日 sun + 辰 hour",
+     "parts": "日 sun + 辰 hour (sound)",
      "story": "The sun at its hour of rising: morning.",
      "trad": "",
      "words": [
@@ -1208,7 +1208,7 @@
      "rank": 1440,
      "py": "cháng",
      "kw": "repay",
-     "parts": "亻 person + 尝 taste",
+     "parts": "亻 person + 尝 taste (sound)",
      "story": "A person made to taste what they owe, and pay it back: repay.",
      "trad": "償",
      "words": [
@@ -1243,7 +1243,7 @@
      "rank": 1408,
      "py": "nuó",
      "kw": "graceful",
-     "parts": "女 woman + 那 that",
+     "parts": "女 woman + 那 that (sound)",
      "story": "A woman with a lithe figure: graceful.",
      "trad": "",
      "words": [
@@ -1301,7 +1301,7 @@
      "rank": 1449,
      "py": "dūn",
      "kw": "kindhearted",
-     "parts": "享 enjoy + 攵 tap",
+     "parts": "享 enjoy (sound) + 攵 tap",
      "story": "A steady tap, firm and kindly: kindhearted.",
      "trad": "",
      "words": [
@@ -1330,8 +1330,8 @@
      "rank": 1470,
      "py": "mù",
      "kw": "reverent",
-     "parts": "禾 grain + 白 white + 彡 hairs",
-     "story": "Ripe grain bowing still in the air: reverent.",
+     "parts": "禾 grain + 白 white + 小 small + 彡 hairs",
+     "story": "Ripe grain, white and fine-haired, bowing still in the air: reverent.",
      "trad": "",
      "words": [
       {
@@ -1447,7 +1447,7 @@
      "rank": 1410,
      "py": "hū",
      "kw": "suddenly",
-     "parts": "勿 not + 心 heart",
+     "parts": "勿 not (sound) + 心 heart",
      "story": "Not holding it in mind: it slips, then happens all of a sudden.",
      "trad": "",
      "words": [
@@ -1662,7 +1662,7 @@
      "rank": 1424,
      "py": "bǐ",
      "kw": "that",
-     "parts": "彳 step + 皮 skin",
+     "parts": "彳 step + 皮 skin (sound)",
      "story": "Steps over to the far side: that one there.",
      "trad": "",
      "words": [
@@ -1749,7 +1749,7 @@
      "rank": 1484,
      "py": "bèi",
      "kw": "generation",
-     "parts": "非 not (shape) + 车 cart",
+     "parts": "非 not (sound) + 车 cart",
      "story": "Carts lined up in rows, one generation after another.",
      "trad": "輩",
      "words": [
@@ -1784,7 +1784,7 @@
      "rank": 1453,
      "py": "jì",
      "kw": "dose",
-     "parts": "齐 even + 刂 knife",
+     "parts": "齐 even (sound) + 刂 knife",
      "story": "Cut into even portions: a dose.",
      "trad": "劑",
      "words": [
@@ -1842,7 +1842,7 @@
      "rank": 1441,
      "py": "jiàn",
      "kw": "sword",
-     "parts": "佥 all + 刂 knife",
+     "parts": "佥 all (sound) + 刂 knife",
      "story": "A knife with an edge on both sides: a sword.",
      "trad": "劍",
      "words": [
@@ -1871,7 +1871,7 @@
      "rank": 1406,
      "py": "liè",
      "kw": "split",
-     "parts": "列 row + 衣 clothes",
+     "parts": "列 row (sound) + 衣 clothes",
      "story": "Clothes ripped into strips: split.",
      "trad": "",
      "words": [
@@ -2214,7 +2214,7 @@
      "rank": 1464,
      "py": "zhé",
      "kw": "sage",
-     "parts": "折 snap + 口 mouth",
+     "parts": "折 snap (sound) + 口 mouth",
      "story": "A mouth that cuts straight through a problem: a sage.",
      "trad": "",
      "words": [
@@ -2272,7 +2272,7 @@
      "rank": 1471,
      "py": "gū",
      "kw": "lonely",
-     "parts": "子 child + 瓜 melon",
+     "parts": "子 child + 瓜 melon (sound)",
      "story": "A child left alone like a melon on a vine: lonely.",
      "trad": "",
      "words": [
@@ -2586,7 +2586,7 @@
      "rank": 1466,
      "py": "pì",
      "kw": "fart",
-     "parts": "尸 body + 比 compare",
+     "parts": "尸 body + 比 compare (sound)",
      "story": "What escapes from the rear of the body: a fart.",
      "trad": "",
      "words": [
@@ -2679,7 +2679,7 @@
      "rank": 1444,
      "py": "xù",
      "kw": "narrative",
-     "parts": "余 remaining + 又 hand",
+     "parts": "余 remaining (sound) + 又 hand",
      "story": "A hand laying out the rest of the story: narrative.",
      "trad": "敘",
      "words": [
@@ -2708,8 +2708,8 @@
      "rank": 1445,
      "py": "píng",
      "kw": "rely on",
-     "parts": "壬 (shape) + 几 stool",
-     "story": "Leaning on a stool for support: rely on.",
+     "parts": "任 trust + 几 stool",
+     "story": "A stool 几 you can trust 任 with your weight: rely on.",
      "trad": "憑",
      "words": [
       {
@@ -2801,7 +2801,7 @@
      "rank": 1479,
      "py": "fù",
      "kw": "overturn",
-     "parts": "覀 cover + 复 again",
+     "parts": "覀 cover + 復 again (sound)",
      "story": "Covered over again and again until it flips: overturn.",
      "trad": "",
      "words": [
@@ -2953,8 +2953,8 @@
      "rank": 1430,
      "py": "pèng",
      "kw": "bump",
-     "parts": "石 stone + 并 together",
-     "story": "Two stones come together: bump.",
+     "parts": "石 stone + 並 side by side (sound)",
+     "story": "Two stones side by side 並 knock together: bump.",
      "trad": "",
      "words": [
       {

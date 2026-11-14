@@ -69,7 +69,7 @@
      "rank": 1265,
      "py": "bēi",
      "kw": "sorrow",
-     "parts": "非 not + 心 heart",
+     "parts": "非 not (sound) + 心 heart",
      "story": "Things go 'not' the way the heart wished: sorrow.",
      "trad": "",
      "words": [
@@ -307,8 +307,8 @@
      "rank": 1270,
      "py": "chè",
      "kw": "remove",
-     "parts": "扌 hand + 彻 thorough (sound)",
-     "story": "A hand clears everything away thoroughly: removed, pulled back.",
+     "parts": "扌 hand + 育 raise + 攵 tap",
+     "story": "A hand taps 攵 the things you raised 育 and clears them away: remove.",
      "trad": "",
      "words": [
       {
@@ -365,7 +365,7 @@
      "rank": 1223,
      "py": "mó",
      "kw": "rub",
-     "parts": "麻 hemp + 手 hand",
+     "parts": "麻 hemp (sound) + 手 hand",
      "story": "Hands working over hemp back and forth: rub.",
      "trad": "",
      "words": [
@@ -580,7 +580,7 @@
      "rank": 1233,
      "py": "yí",
      "kw": "ceremony",
-     "parts": "亻 person + 义 duty",
+     "parts": "亻 person + 义 duty (sound)",
      "story": "A person acting with the right form and duty: a ceremony.",
      "trad": "儀",
      "words": [
@@ -1004,8 +1004,8 @@
      "rank": 1277,
      "py": "jié",
      "kw": "cut off",
-     "parts": "戈 halberd + 隹 bird",
-     "story": "A halberd swings and cuts the bird off in mid-air: cut off.",
+     "parts": "𢦏 spear + 隹 bird",
+     "story": "A spear 𢦏 swings and cuts the bird off in mid-air: cut off.",
      "trad": "",
      "words": [
       {
@@ -1097,7 +1097,7 @@
      "rank": 1269,
      "py": "yǎ",
      "kw": "elegant",
-     "parts": "牙 tooth + 隹 bird",
+     "parts": "牙 tooth (sound) + 隹 bird",
      "story": "A neat, fine-lined bird: elegant.",
      "trad": "",
      "words": [
@@ -1126,7 +1126,7 @@
      "rank": 1206,
      "py": "lǎng",
      "kw": "bright and clear",
-     "parts": "良 good + 月 moon",
+     "parts": "良 good (sound) + 月 moon",
      "story": "A good clear moon: bright and clear.",
      "trad": "",
      "words": [
@@ -1155,7 +1155,7 @@
      "rank": 1272,
      "py": "yù",
      "kw": "desire",
-     "parts": "谷 valley + 欠 lack",
+     "parts": "谷 valley (sound) + 欠 lack",
      "story": "A mouth gaping wide like a valley, still lacking something: desire.",
      "trad": "慾",
      "words": [
@@ -1248,7 +1248,7 @@
      "rank": 1242,
      "py": "xìng",
      "kw": "surname",
-     "parts": "女 woman + 生 born",
+     "parts": "女 woman + 生 born (sound)",
      "story": "Born from a woman: the line you carry, your surname.",
      "trad": "",
      "words": [
@@ -1370,7 +1370,7 @@
      "rank": 1227,
      "py": "fēi",
      "kw": "philippines",
-     "parts": "艹 grass + 非 not",
+     "parts": "艹 grass + 非 not (sound)",
      "story": "Lush grass spreading over an island nation: the Philippines.",
      "trad": "",
      "words": [
@@ -1452,7 +1452,7 @@
      "rank": 1247,
      "py": "ài",
      "kw": "mugwort",
-     "parts": "艹 grass + 乂 cut",
+     "parts": "艹 grass + 乂 cut (sound)",
      "story": "A herb cut in bundles and burned for healing: mugwort.",
      "trad": "",
      "words": [
@@ -1603,7 +1603,7 @@
      "rank": 1205,
      "py": "fēn",
      "kw": "numerous",
-     "parts": "纟 silk + 分 divide",
+     "parts": "纟 silk + 分 divide (sound)",
      "story": "Thread split into many strands: numerous and tangled.",
      "trad": "紛",
      "words": [
@@ -1789,7 +1789,7 @@
      "rank": 1208,
      "py": "cài",
      "kw": "vegetable",
-     "parts": "艹 grass + 采 pick",
+     "parts": "艹 grass + 采 pick (sound)",
      "story": "Green plants picked by hand: vegetables.",
      "trad": "",
      "words": [
@@ -1847,7 +1847,7 @@
      "rank": 1204,
      "py": "fěn",
      "kw": "powder",
-     "parts": "米 rice + 分 divide",
+     "parts": "米 rice + 分 divide (sound)",
      "story": "Rice divided up fine: powder.",
      "trad": "",
      "words": [
@@ -1876,7 +1876,7 @@
      "rank": 1286,
      "py": "liáng",
      "kw": "provisions",
-     "parts": "米 rice + 良 good",
+     "parts": "米 rice + 良 good (sound)",
      "story": "Good rice laid in store: grain, food supply.",
      "trad": "糧",
      "words": [
@@ -1911,7 +1911,7 @@
      "rank": 1240,
      "py": "pō",
      "kw": "slope",
-     "parts": "土 earth + 皮 skin",
+     "parts": "土 earth + 皮 skin (sound)",
      "story": "The skin of the earth, tilted: a slope.",
      "trad": "",
      "words": [
@@ -2091,7 +2091,7 @@
      "rank": 1251,
      "py": "yìng",
      "kw": "visible",
-     "parts": "日 sun + 央 center",
+     "parts": "日 sun + 央 center (sound)",
      "story": "Sunlight falls right in the middle of a wall and shows an image: reflected.",
      "trad": "",
      "words": [
@@ -2277,7 +2277,7 @@
      "rank": 1261,
      "py": "bàng",
      "kw": "stick",
-     "parts": "木 tree + 奉 offer",
+     "parts": "木 tree + 奉 offer (sound)",
      "story": "A branch offered into the hand: a stick.",
      "trad": "",
      "words": [
@@ -2341,7 +2341,7 @@
      "rank": 1285,
      "py": "chéng",
      "kw": "sincere",
-     "parts": "讠 words + 成 become",
+     "parts": "讠 words + 成 become (sound)",
      "story": "Words that really come to pass: sincere.",
      "trad": "誠",
      "words": [
@@ -2527,7 +2527,7 @@
      "rank": 1243,
      "py": "fēng",
      "kw": "insane",
-     "parts": "疒 sickness + 风 wind",
+     "parts": "疒 sickness + 风 wind (sound)",
      "story": "Sickness blowing through like a wind: insane.",
      "trad": "瘋",
      "words": [
@@ -2626,7 +2626,7 @@
      "rank": 1224,
      "py": "jìng",
      "kw": "path",
-     "parts": "彳 step + 圣 (sound)",
+     "parts": "彳 step + 𢀖 (sound)",
      "story": "Steps beaten into the earth: a footpath.",
      "trad": "徑/逕",
      "words": [
@@ -2963,7 +2963,7 @@
      "rank": 1275,
      "py": "páng",
      "kw": "beside",
-     "parts": "亠 lid + 冖 cover + 方 direction",
+     "parts": "亠 lid + 冖 cover + 方 direction (sound)",
      "story": "Something covered over, with another at its flank: beside.",
      "trad": "",
      "words": [
@@ -3021,7 +3021,7 @@
      "rank": 1295,
      "py": "ya",
      "kw": "ah",
-     "parts": "口 mouth + 牙 tooth",
+     "parts": "口 mouth + 牙 tooth (sound)",
      "story": "A mouth open wide showing teeth: an 'ah!'",
      "trad": "",
      "words": [

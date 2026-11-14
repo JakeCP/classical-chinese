@@ -98,7 +98,7 @@
      "rank": 1374,
      "py": "chōu",
      "kw": "pull out",
-     "parts": "扌 hand + 由 from",
+     "parts": "扌 hand + 由 from (sound)",
      "story": "A hand pulls one thing out from among the others: pull out.",
      "trad": "",
      "words": [
@@ -127,7 +127,7 @@
      "rank": 1398,
      "py": "chā",
      "kw": "insert",
-     "parts": "扌 hand + 臿 pestle in a mortar",
+     "parts": "扌 hand + 臿 pestle in a mortar (sound)",
      "story": "A hand drives a pestle into the mortar: insert.",
      "trad": "",
      "words": [
@@ -307,8 +307,8 @@
      "rank": 1382,
      "py": "chǔ",
      "kw": "store",
-     "parts": "亻 person + 者 (sound)",
-     "story": "A person sets goods aside for later: store.",
+     "parts": "亻 person + 诸 all (sound)",
+     "story": "A person puts all 诸 his goods aside for later: store.",
      "trad": "儲",
      "words": [
       {
@@ -336,7 +336,7 @@
      "rank": 1359,
      "py": "sú",
      "kw": "custom",
-     "parts": "亻 person + 谷 valley",
+     "parts": "亻 person + 谷 valley (sound)",
      "story": "The common ways of the people of the valley: custom.",
      "trad": "",
      "words": [
@@ -522,7 +522,7 @@
      "rank": 1361,
      "py": "māo",
      "kw": "cat",
-     "parts": "犭 animal + 苗 sprout",
+     "parts": "犭 animal + 苗 sprout (sound)",
      "story": "The animal that creeps through the sprouts after mice: a cat.",
      "trad": "貓",
      "words": [
@@ -615,7 +615,7 @@
      "rank": 1395,
      "py": "cāi",
      "kw": "guess",
-     "parts": "犭 animal + 青 green",
+     "parts": "犭 animal + 青 green (sound)",
      "story": "A wary animal sniffing round the edges to work it out: guess.",
      "trad": "",
      "words": [
@@ -801,7 +801,7 @@
      "rank": 1391,
      "py": "nù",
      "kw": "anger",
-     "parts": "奴 slave + 心 heart",
+     "parts": "奴 slave (sound) + 心 heart",
      "story": "The heart of a slave, seething: anger.",
      "trad": "",
      "words": [
@@ -859,7 +859,7 @@
      "rank": 1317,
      "py": "huī",
      "kw": "restore",
-     "parts": "忄 heart + 灰 ash",
+     "parts": "忄 heart + 灰 ash (sound)",
      "story": "Heart rising out of the ashes: restore.",
      "trad": "",
      "words": [
@@ -894,7 +894,7 @@
      "rank": 1321,
      "py": "huàn",
      "kw": "trouble",
-     "parts": "串 string + 心 heart",
+     "parts": "串 string (sound) + 心 heart",
      "story": "Worries strung together in the heart: trouble.",
      "trad": "",
      "words": [
@@ -923,7 +923,7 @@
      "rank": 1366,
      "py": "jí",
      "kw": "ailment",
-     "parts": "疒 sickness + 矢 arrow",
+     "parts": "疒 sickness + 矢 arrow (sound)",
      "story": "A sickness that strikes like an arrow: an ailment.",
      "trad": "",
      "words": [
@@ -1045,7 +1045,7 @@
      "rank": 1316,
      "py": "gòng",
      "kw": "tribute",
-     "parts": "工 work + 贝 shell",
+     "parts": "工 work (sound) + 贝 shell",
      "story": "Shells delivered as the fruit of work: tribute.",
      "trad": "貢",
      "words": [
@@ -1103,7 +1103,7 @@
      "rank": 1399,
      "py": "zhàng",
      "kw": "account",
-     "parts": "贝 shell + 长 long",
+     "parts": "贝 shell + 长 long (sound)",
      "story": "Shell-money listed in long columns: accounts.",
      "trad": "賬",
      "words": [
@@ -1504,7 +1504,7 @@
      "rank": 1305,
      "py": "yóu",
      "kw": "mail",
-     "parts": "由 from + 阝 town",
+     "parts": "由 from (sound) + 阝 town",
      "story": "From town to town: the post.",
      "trad": "郵",
      "words": [
@@ -1655,7 +1655,7 @@
      "rank": 1330,
      "py": "fán",
      "kw": "complicated",
-     "parts": "敏 quick + 糸 thread",
+     "parts": "敏 quick (sound) + 糸 thread",
      "story": "Many threads quickly tangled: complicated.",
      "trad": "",
      "words": [
@@ -1841,7 +1841,7 @@
      "rank": 1370,
      "py": "píng",
      "kw": "apple",
-     "parts": "艹 grass + 平 flat",
+     "parts": "艹 grass + 平 flat (sound)",
      "story": "A smooth round fruit of a green plant: an apple.",
      "trad": "蘋",
      "words": [
@@ -1870,7 +1870,7 @@
      "rank": 1380,
      "py": "hé",
      "kw": "lotus leaf",
-     "parts": "艹 grass + 何 what",
+     "parts": "艹 grass + 何 what (sound)",
      "story": "A great leaf standing on the pond: a lotus leaf.",
      "trad": "",
      "words": [
@@ -1934,7 +1934,7 @@
      "rank": 1376,
      "py": "chí",
      "kw": "late",
-     "parts": "辶 walk + 尺 ruler",
+     "parts": "辶 walk + 尺 ruler (sound)",
      "story": "Measuring every step as you go: late.",
      "trad": "遲",
      "words": [
@@ -1992,7 +1992,7 @@
      "rank": 1352,
      "py": "qū",
      "kw": "tend",
-     "parts": "走 run + 刍 hay",
+     "parts": "走 run + 刍 hay (sound)",
      "story": "Running toward the hay: heading that way.",
      "trad": "趨",
      "words": [
@@ -2091,7 +2091,7 @@
      "rank": 1385,
      "py": "bāo",
      "kw": "womb",
-     "parts": "月 flesh + 包 wrap",
+     "parts": "月 flesh + 包 wrap (sound)",
      "story": "Flesh wrapped around the baby: the womb.",
      "trad": "",
      "words": [
@@ -2213,7 +2213,7 @@
      "rank": 1318,
      "py": "xiè",
      "kw": "appliance",
-     "parts": "木 tree + 戒 warn",
+     "parts": "木 tree + 戒 warn (sound)",
      "story": "A wooden tool with an edge to be wary of: an appliance, apparatus.",
      "trad": "",
      "words": [
@@ -2242,7 +2242,7 @@
      "rank": 1375,
      "py": "pào",
      "kw": "cannon",
-     "parts": "火 fire + 包 wrap",
+     "parts": "火 fire + 包 wrap (sound)",
      "story": "Fire wrapped up inside a barrel: a cannon.",
      "trad": "",
      "words": [
@@ -2271,7 +2271,7 @@
      "rank": 1307,
      "py": "gāng",
      "kw": "steel",
-     "parts": "钅 metal + 冈 ridge",
+     "parts": "钅 metal + 冈 ridge (sound)",
      "story": "Metal as tough as a rock ridge: steel.",
      "trad": "鋼",
      "words": [
@@ -2486,7 +2486,7 @@
      "rank": 1363,
      "py": "mǎ",
      "kw": "agate",
-     "parts": "王 jade + 马 horse",
+     "parts": "王 jade + 马 horse (sound)",
      "story": "Jade with a streak like a horse's mane: agate.",
      "trad": "瑪",
      "words": [
@@ -2638,7 +2638,7 @@
      "rank": 1335,
      "py": "shū",
      "kw": "differ",
-     "parts": "歹 bones + 朱 vermilion",
+     "parts": "歹 bones + 朱 vermilion (sound)",
      "story": "Red against bare bone stands out: it differs.",
      "trad": "",
      "words": [
@@ -2673,7 +2673,7 @@
      "rank": 1331,
      "py": "xiáng",
      "kw": "detailed",
-     "parts": "讠 words + 羊 sheep",
+     "parts": "讠 words + 羊 sheep (sound)",
      "story": "Words that tell it fully, one sheep counted at a time: detailed.",
      "trad": "詳",
      "words": [
@@ -2766,7 +2766,7 @@
      "rank": 1369,
      "py": "shì",
      "kw": "decorate",
-     "parts": "饣 food + 巾 cloth",
+     "parts": "饣 food (sound) + 巾 cloth",
      "story": "A cloth draped over the table for a feast: decorate.",
      "trad": "飾",
      "words": [
@@ -2981,7 +2981,7 @@
      "rank": 1343,
      "py": "mào",
      "kw": "emit",
-     "parts": "冃 hat + 目 eye",
+     "parts": "冃 hat (sound) + 目 eye",
      "story": "A head pushed out from under a hat: it bursts out, emerges.",
      "trad": "",
      "words": [

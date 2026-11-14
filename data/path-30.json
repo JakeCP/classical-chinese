@@ -390,7 +390,7 @@
      "rank": 2975,
      "py": "dāo",
      "kw": "garrulous",
-     "parts": "口 mouth + 刀 knife",
+     "parts": "口 mouth + 刀 knife (sound)",
      "story": "A mouth cutting on and on: garrulous.",
      "trad": "",
      "words": [
@@ -478,7 +478,7 @@
      "rank": 2978,
      "py": "zāi",
      "kw": "exclamatory particle",
-     "parts": "口 mouth + 戋",
+     "parts": "𢦏 (sound) + 口 mouth",
      "story": "A mouth crying out in feeling: how!",
      "trad": "",
      "words": [
@@ -882,7 +882,7 @@
      "rank": 2922,
      "py": "huì",
      "kw": "taboo",
-     "parts": "讠 words + 韦",
+     "parts": "讠 words + 韦 (sound)",
      "story": "Words you must not say: taboo.",
      "trad": "諱",
      "words": [
@@ -911,7 +911,7 @@
      "rank": 2938,
      "py": "fěi",
      "kw": "slander",
-     "parts": "讠 words + 非 not",
+     "parts": "讠 words + 非 not (sound)",
      "story": "Words saying someone is not what he is: slander.",
      "trad": "誹",
      "words": [
@@ -964,7 +964,7 @@
      "rank": 2950,
      "py": "zhū",
      "kw": "put to death",
-     "parts": "讠 words + 朱 red",
+     "parts": "讠 words + 朱 red (sound)",
      "story": "A sentence pronounced in words and in red: put to death.",
      "trad": "誅",
      "words": [
@@ -999,7 +999,7 @@
      "rank": 2941,
      "py": "jiǎo",
      "kw": "wring",
-     "parts": "纟 silk + 交 cross",
+     "parts": "纟 silk + 交 cross (sound)",
      "story": "Strands crossed over and over, squeezed tight: wring.",
      "trad": "絞",
      "words": [
@@ -1028,7 +1028,7 @@
      "rank": 2947,
      "py": "suí",
      "kw": "pacify",
-     "parts": "纟 silk + 妥 settled",
+     "parts": "纟 silk + 妥 settled (sound)",
      "story": "Thread tying things down calmly: pacify.",
      "trad": "綏",
      "words": [
@@ -1116,8 +1116,8 @@
      "rank": 2908,
      "py": "zuǎn",
      "kw": "compile a book",
-     "parts": "⺮ bamboo + 目 eye + 糸 thread",
-     "story": "Bamboo slips threaded together: compile a book.",
+     "parts": "⺮ bamboo + 目 eye + 大 big + 糸 thread",
+     "story": "Bamboo slips read by eye and threaded into one big book: compile.",
      "trad": "篹",
      "words": [
       {
@@ -1140,7 +1140,7 @@
      "rank": 2989,
      "py": "zhuàn",
      "kw": "seal script",
-     "parts": "⺮ bamboo + 彖",
+     "parts": "⺮ bamboo + 彖 (sound)",
      "story": "The old curving script cut onto seals.",
      "trad": "",
      "words": [
@@ -1169,7 +1169,7 @@
      "rank": 2995,
      "py": "yàn",
      "kw": "ink stone",
-     "parts": "石 stone + 见 see",
+     "parts": "石 stone + 见 see (sound)",
      "story": "The stone you look into for black ink.",
      "trad": "硯",
      "words": [
@@ -1291,7 +1291,7 @@
      "rank": 2935,
      "py": "zhàng",
      "kw": "staff",
-     "parts": "木 wood + 丈",
+     "parts": "木 wood + 丈 (sound)",
      "story": "A wooden stick as tall as a man: a staff.",
      "trad": "",
      "words": [
@@ -1355,7 +1355,7 @@
      "rank": 2980,
      "py": "sǔn",
      "kw": "bamboo shoot",
-     "parts": "⺮ bamboo + 尹",
+     "parts": "⺮ bamboo + 尹 (sound)",
      "story": "A young bamboo pushing out of the ground.",
      "trad": "筍",
      "words": [
@@ -1471,7 +1471,7 @@
      "rank": 2958,
      "py": "pú",
      "kw": "cattail",
-     "parts": "艹 grass + 浦 shore",
+     "parts": "艹 grass + 浦 shore (sound)",
      "story": "Grass growing at the water's edge: cattail.",
      "trad": "",
      "words": [
@@ -1529,7 +1529,7 @@
      "rank": 2993,
      "py": "hūn",
      "kw": "non-vegetarian",
-     "parts": "艹 grass + 军 army",
+     "parts": "艹 grass + 军 army (sound)",
      "story": "Not grass alone: food with meat.",
      "trad": "葷",
      "words": [
@@ -1745,8 +1745,8 @@
      "rank": 2929,
      "py": "xī",
      "kw": "rhinoceros",
-     "parts": "尸 body + 辛 bitter + 牛 ox",
-     "story": "A heavy bitter-tempered ox-like beast.",
+     "parts": "尸 body + 氺 water + 牛 ox",
+     "story": "A heavy-bodied ox that wallows in water: a rhinoceros.",
      "trad": "",
      "words": [
       {
@@ -1891,7 +1891,7 @@
      "rank": 2974,
      "py": "bā",
      "kw": "scab",
-     "parts": "疒 sickness + 巴 stick",
+     "parts": "疒 sickness + 巴 stick (sound)",
      "story": "The mark left where a wound stuck: a scab.",
      "trad": "",
      "words": [
@@ -1920,7 +1920,7 @@
      "rank": 2991,
      "py": "ǎo",
      "kw": "padded jacket",
-     "parts": "衤 clothes + 夭",
+     "parts": "衤 clothes + 夭 (sound)",
      "story": "Clothes lined thick against winter.",
      "trad": "襖",
      "words": [
@@ -1973,8 +1973,8 @@
      "rank": 2906,
      "py": "zào",
      "kw": "soap",
-     "parts": "白 white + 十 cross",
-     "story": "A white cake that cleans: soap.",
+     "parts": "白 white + 七 seven",
+     "story": "Seven washes 七 and the cloth comes out white: soap.",
      "trad": "",
      "words": [
       {
@@ -2066,8 +2066,8 @@
      "rank": 2957,
      "py": "qǐn",
      "kw": "bedroom",
-     "parts": "宀 roof + 爿 bed + 又 hand",
-     "story": "A bed under a roof: a bedroom.",
+     "parts": "宀 roof + 丬 bed + 𠬶 hand with a broom",
+     "story": "A bed under a roof, swept clean by hand: a bedroom.",
      "trad": "寢",
      "words": [
       {
@@ -2359,7 +2359,7 @@
      "rank": 2965,
      "py": "dié",
      "kw": "alternately",
-     "parts": "辶 walk + 失 lose",
+     "parts": "辶 walk + 失 lose (sound)",
      "story": "Steps that lose and take turns: alternately.",
      "trad": "",
      "words": [
@@ -2482,8 +2482,8 @@
      "rank": 2994,
      "py": "liáo",
      "kw": "sloppy",
-     "parts": "氵 water + 寮 hut (sound)",
-     "story": "Rain floods the hut and the ink runs: the writing is a sloppy mess.",
+     "parts": "氵 water + 尞 (sound)",
+     "story": "Rain floods in and the ink runs: the writing is a sloppy mess.",
      "trad": "",
      "words": [
       {

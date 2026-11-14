@@ -69,7 +69,7 @@
      "rank": 2270,
      "py": "lín",
      "kw": "drench",
-     "parts": "氵 water + 林 forest",
+     "parts": "氵 water + 林 forest (sound)",
      "story": "Water pours down through a forest of branches: you are drenched.",
      "trad": "",
      "words": [
@@ -215,7 +215,7 @@
      "rank": 2236,
      "py": "chāo",
      "kw": "copy",
-     "parts": "扌 hand + 少 little",
+     "parts": "扌 hand + 少 little (sound)",
      "story": "A hand takes a little at a time from another's page: copy.",
      "trad": "",
      "words": [
@@ -244,7 +244,7 @@
      "rank": 2240,
      "py": "lüè",
      "kw": "plunder",
-     "parts": "扌 hand + 京 capital",
+     "parts": "扌 hand + 京 capital (sound)",
      "story": "Hands grabbing the riches of the capital: plunder.",
      "trad": "",
      "words": [
@@ -279,7 +279,7 @@
      "rank": 2201,
      "py": "pú",
      "kw": "servant",
-     "parts": "亻 person + 卜 mark",
+     "parts": "亻 person + 卜 mark (sound)",
      "story": "A person who waits on the master's word: a servant.",
      "trad": "僕",
      "words": [
@@ -361,7 +361,7 @@
      "rank": 2300,
      "py": "shì",
      "kw": "attend",
-     "parts": "亻 person + 寺 temple",
+     "parts": "亻 person + 寺 temple (sound)",
      "story": "A person who waits at the temple gate to serve: attend.",
      "trad": "",
      "words": [
@@ -454,7 +454,7 @@
      "rank": 2254,
      "py": "bàng",
      "kw": "pound sterling",
-     "parts": "钅 metal + 旁 beside",
+     "parts": "钅 metal + 旁 beside (sound)",
      "story": "Metal weights set beside the scales: the pound sterling.",
      "trad": "鎊",
      "words": [
@@ -571,7 +571,7 @@
      "rank": 2202,
      "py": "chán",
      "kw": "wind around",
-     "parts": "纟 silk + 廛 (sound)",
+     "parts": "纟 silk + 㢆 (sound)",
      "story": "Thread wound round and round something: wind around.",
      "trad": "纏",
      "words": [
@@ -600,7 +600,7 @@
      "rank": 2272,
      "py": "dì",
      "kw": "bind",
-     "parts": "纟 silk + 帝 emperor",
+     "parts": "纟 silk + 帝 emperor (sound)",
      "story": "A treaty tied up with the emperor's silk cord: bound.",
      "trad": "締",
      "words": [
@@ -635,7 +635,7 @@
      "rank": 2219,
      "py": "yà",
      "kw": "astounded",
-     "parts": "讠 words + 牙 tooth",
+     "parts": "讠 words + 牙 tooth (sound)",
      "story": "Words stop and the teeth show in a gaping mouth: astounded.",
      "trad": "訝",
      "words": [
@@ -723,7 +723,7 @@
      "rank": 2203,
      "py": "xiá",
      "kw": "narrow",
-     "parts": "犭 animal + 夹 squeeze",
+     "parts": "犭 animal + 夹 squeeze (sound)",
      "story": "An animal squeezed between two walls: narrow.",
      "trad": "狹",
      "words": [
@@ -787,7 +787,7 @@
      "rank": 2275,
      "py": "xiā",
      "kw": "shrimp",
-     "parts": "虫 insect + 下 below",
+     "parts": "虫 insect + 下 below (sound)",
      "story": "A small creature that lives below the water: shrimp.",
      "trad": "蝦",
      "words": [
@@ -816,7 +816,7 @@
      "rank": 2292,
      "py": "hóng",
      "kw": "rainbow",
-     "parts": "虫 insect + 工 work",
+     "parts": "虫 insect + 工 work (sound)",
      "story": "A great coloured worm arching across the sky: a rainbow.",
      "trad": "",
      "words": [
@@ -845,7 +845,7 @@
      "rank": 2279,
      "py": "luó",
      "kw": "spiral shell",
-     "parts": "虫 insect + 累 pile",
+     "parts": "虫 insect + 累 pile (sound)",
      "story": "A creature that piles turn on turn: a spiral shell.",
      "trad": "",
      "words": [
@@ -880,7 +880,7 @@
      "rank": 2277,
      "py": "yā",
      "kw": "crow",
-     "parts": "牙 tooth + 鸟 bird",
+     "parts": "牙 tooth (sound) + 鸟 bird",
      "story": "A black bird with a sharp, ugly beak: a crow.",
      "trad": "鴉",
      "words": [
@@ -909,7 +909,7 @@
      "rank": 2249,
      "py": "huáng",
      "kw": "female phoenix",
-     "parts": "几 stool + 皇 emperor",
+     "parts": "几 stool + 皇 emperor (sound)",
      "story": "The emperor's own bird: the phoenix.",
      "trad": "",
      "words": [
@@ -968,7 +968,7 @@
      "rank": 2210,
      "py": "cāng",
      "kw": "deep green",
-     "parts": "艹 grass + 仓 granary",
+     "parts": "艹 grass + 仓 granary (sound)",
      "story": "Grass left in a dim granary goes deep, dark green.",
      "trad": "蒼",
      "words": [
@@ -1026,7 +1026,7 @@
      "rank": 2242,
      "py": "wēi",
      "kw": "fern",
-     "parts": "艹 grass + 微 tiny",
+     "parts": "艹 grass + 微 tiny (sound)",
      "story": "A plant with tiny, delicate fronds: a fern.",
      "trad": "",
      "words": [
@@ -1079,7 +1079,7 @@
      "rank": 2267,
      "py": "lěi",
      "kw": "flower bud",
-     "parts": "艹 grass + 雷 thunder",
+     "parts": "艹 grass + 雷 thunder (sound)",
      "story": "A plant's bud, ready to burst open like thunder: a flower bud.",
      "trad": "",
      "words": [
@@ -1172,7 +1172,7 @@
      "rank": 2226,
      "py": "guì",
      "kw": "cassia",
-     "parts": "木 tree + 圭 jade tablet",
+     "parts": "木 tree + 圭 jade tablet (sound)",
      "story": "A tree with sweet flowers, precious as jade: cassia.",
      "trad": "",
      "words": [
@@ -1201,7 +1201,7 @@
      "rank": 2235,
      "py": "dòng",
      "kw": "ridgepole",
-     "parts": "木 tree + 东 east",
+     "parts": "木 tree + 东 east (sound)",
      "story": "The great timber along the top of a house.",
      "trad": "棟",
      "words": [
@@ -1230,7 +1230,7 @@
      "rank": 2251,
      "py": "pǔ",
      "kw": "plain",
-     "parts": "木 tree + 卜 mark",
+     "parts": "木 tree + 卜 mark (sound)",
      "story": "Wood left as it grew, uncarved: plain.",
      "trad": "樸",
      "words": [
@@ -1265,7 +1265,7 @@
      "rank": 2221,
      "py": "gān",
      "kw": "liver",
-     "parts": "月 flesh + 干 do",
+     "parts": "月 flesh + 干 do (sound)",
      "story": "The organ in the flesh that does the daily work: the liver.",
      "trad": "",
      "words": [
@@ -1323,7 +1323,7 @@
      "rank": 2233,
      "py": "qiāng",
      "kw": "cavity",
-     "parts": "月 flesh + 空 empty",
+     "parts": "月 flesh + 空 empty (sound)",
      "story": "The empty space inside the flesh: a cavity.",
      "trad": "",
      "words": [
@@ -1381,7 +1381,7 @@
      "rank": 2229,
      "py": "jǐng",
      "kw": "neck",
-     "parts": "页 head + 巠 (sound)",
+     "parts": "页 head + 𢀖 (sound)",
      "story": "The stalk that holds the head up: the neck.",
      "trad": "頸",
      "words": [
@@ -1416,7 +1416,7 @@
      "rank": 2222,
      "py": "shòu",
      "kw": "lose weight",
-     "parts": "疒 sickness + 叟 old man",
+     "parts": "疒 sickness + 叟 old man (sound)",
      "story": "An old man worn down by sickness: he loses weight.",
      "trad": "",
      "words": [
@@ -1445,7 +1445,7 @@
      "rank": 2288,
      "py": "liú",
      "kw": "tumor",
-     "parts": "疒 sickness + 留 stay",
+     "parts": "疒 sickness + 留 stay (sound)",
      "story": "A sickness that stays and swells: a tumor.",
      "trad": "",
      "words": [
@@ -1528,7 +1528,7 @@
      "rank": 2265,
      "py": "hēi",
      "kw": "hey",
-     "parts": "口 mouth + 黑 black",
+     "parts": "口 mouth + 黑 black (sound)",
      "story": "A mouth calls out of the dark: hey!",
      "trad": "",
      "words": [
@@ -1552,7 +1552,7 @@
      "rank": 2293,
      "py": "kā",
      "kw": "coughing",
-     "parts": "口 mouth + 客 guest",
+     "parts": "口 mouth + 客 guest (sound)",
      "story": "A guest clears his throat: coughing.",
      "trad": "",
      "words": [
@@ -1581,8 +1581,8 @@
      "rank": 2263,
      "py": "zhòu",
      "kw": "curse",
-     "parts": "口 mouth + 兄 elder brother",
-     "story": "Mouths chanting over the elder brother: a curse.",
+     "parts": "口 mouth + 口 mouth + 几 table",
+     "story": "Two mouths chanting over a low table: a curse.",
      "trad": "",
      "words": [
       {
@@ -1616,7 +1616,7 @@
      "rank": 2296,
      "py": "diàn",
      "kw": "pad",
-     "parts": "执 hold + 土 earth",
+     "parts": "执 hold (sound) + 土 earth",
      "story": "Earth packed down firm to sit on: a pad.",
      "trad": "墊",
      "words": [
@@ -1645,8 +1645,8 @@
      "rank": 2284,
      "py": "tā",
      "kw": "cave in",
-     "parts": "土 earth + 荅 (sound)",
-     "story": "The earth gives way beneath it: cave in.",
+     "parts": "土 earth + 日 sun + 羽 feathers",
+     "story": "Earth baked by the sun, light as feathers, gives way: cave in.",
      "trad": "",
      "words": [
       {
@@ -1674,7 +1674,7 @@
      "rank": 2299,
      "py": "duò",
      "kw": "degenerate",
-     "parts": "阝 mound + 𠂇 + 土 earth",
+     "parts": "阝 mound + 有 have + 土 earth",
      "story": "A fall from the mound to the ground: degenerate.",
      "trad": "墮",
      "words": [
@@ -1709,8 +1709,8 @@
      "rank": 2244,
      "py": "méi",
      "kw": "rose",
-     "parts": "王 jade + 文 pattern",
-     "story": "A polished jade with its pattern showing, pink as a rose.",
+     "parts": "王 jade + 攵 tap (sound)",
+     "story": "Jade tapped 攵 and polished until it glows pink as a rose.",
      "trad": "",
      "words": [
       {
@@ -1733,7 +1733,7 @@
      "rank": 2220,
      "py": "guī",
      "kw": "semiprecious",
-     "parts": "王 jade + 鬼 ghost",
+     "parts": "王 jade + 鬼 ghost (sound)",
      "story": "A strange, uncanny jade: semiprecious.",
      "trad": "",
      "words": [
@@ -1797,7 +1797,7 @@
      "rank": 2238,
      "py": "wà",
      "kw": "socks",
-     "parts": "衤 clothes + 末 end",
+     "parts": "衤 clothes + 末 end (sound)",
      "story": "Clothes for the very end of the leg: socks.",
      "trad": "襪",
      "words": [
@@ -1855,7 +1855,7 @@
      "rank": 2248,
      "py": "zhē",
      "kw": "cover up",
-     "parts": "辶 walk + 庶 crowd",
+     "parts": "辶 walk + 庶 crowd (sound)",
      "story": "A crowd walks between you and the view: it covers it up.",
      "trad": "",
      "words": [
@@ -1919,7 +1919,7 @@
      "rank": 2205,
      "py": "yù",
      "kw": "carefree",
-     "parts": "予 give + 象 elephant",
+     "parts": "予 give (sound) + 象 elephant",
      "story": "An elephant at ease in the plain: carefree.",
      "trad": "",
      "words": [
@@ -1948,7 +1948,7 @@
      "rank": 2247,
      "py": "wèi",
      "kw": "wei state",
-     "parts": "委 entrust + 鬼 ghost",
+     "parts": "委 entrust (sound) + 鬼 ghost",
      "story": "A tall gate-tower of the great state of Wei.",
      "trad": "",
      "words": [
@@ -1983,7 +1983,7 @@
      "rank": 2295,
      "py": "zǐ",
      "kw": "older sister",
-     "parts": "女 woman + 市 (sound)",
+     "parts": "女 woman + 𠂔 (sound)",
      "story": "The woman above you in the family: older sister.",
      "trad": "",
      "words": [
@@ -2076,8 +2076,8 @@
      "rank": 2245,
      "py": "xūn",
      "kw": "meritorious",
-     "parts": "云 cloud + 力 strength",
-     "story": "Strength spent in service that rises like a cloud: meritorious.",
+     "parts": "员 member (sound) + 力 strength",
+     "story": "A member 员 who spends his strength in service: meritorious.",
      "trad": "勳",
      "words": [
       {
@@ -2105,7 +2105,7 @@
      "rank": 2289,
      "py": "zhāng",
      "kw": "conspicuous",
-     "parts": "章 chapter + 彡 strokes",
+     "parts": "章 chapter (sound) + 彡 strokes",
      "story": "A clear mark that stands out: conspicuous.",
      "trad": "",
      "words": [
@@ -2198,7 +2198,7 @@
      "rank": 2273,
      "py": "fěi",
      "kw": "bandit",
-     "parts": "匚 box + 非 not",
+     "parts": "匚 box + 非 not (sound)",
      "story": "Those who are not honest, hiding in a box: bandits.",
      "trad": "",
      "words": [
@@ -2349,8 +2349,8 @@
      "rank": 2291,
      "py": "guàn",
      "kw": "jar",
-     "parts": "缶 jar + 灌 pour",
-     "story": "A pot you fill by pouring: a jar.",
+     "parts": "缶 jar + 雚 heron (sound)",
+     "story": "A clay pot 缶, tall and long-necked like a heron: a jar.",
      "trad": "",
      "words": [
       {
@@ -2407,8 +2407,8 @@
      "rank": 2241,
      "py": "tàn",
      "kw": "charcoal",
-     "parts": "山 hill + 厂 cliff + 火 fire",
-     "story": "Fire in a pit at the foot of a cliff: charcoal.",
+     "parts": "山 hill + 灰 ash",
+     "story": "Wood burnt down to ash 灰 in a pit under the hill: charcoal.",
      "trad": "",
      "words": [
       {
@@ -2442,7 +2442,7 @@
      "rank": 2209,
      "py": "diān",
      "kw": "topple",
-     "parts": "真 true + 页 head",
+     "parts": "真 true (sound) + 页 head",
      "story": "A head tipped over: toppled.",
      "trad": "顛",
      "words": [
@@ -2471,8 +2471,8 @@
      "rank": 2262,
      "py": "dié",
      "kw": "pile up",
-     "parts": "又 right hand, repeated",
-     "story": "Hand over hand, layer on layer: pile up.",
+     "parts": "又 hand + 又 hand + 又 hand + 冖 cover + 且 stack",
+     "story": "Three hands adding to a covered stack 且: pile up.",
      "trad": "疊",
      "words": [
       {
@@ -2500,7 +2500,7 @@
      "rank": 2285,
      "py": "xiè",
      "kw": "unload",
-     "parts": "午 noon + 止 stop + 卩 kneeling man",
+     "parts": "午 noon (sound) + 止 stop + 卩 kneeling man",
      "story": "The porter kneels and stops: he takes off his load.",
      "trad": "",
      "words": [
@@ -2529,7 +2529,7 @@
      "rank": 2232,
      "py": "zhòu",
      "kw": "abrupt",
-     "parts": "马 horse + 聚 gather",
+     "parts": "马 horse + 聚 gather (sound)",
      "story": "A horse bolts all at once: abrupt.",
      "trad": "驟",
      "words": [
@@ -2593,7 +2593,7 @@
      "rank": 2230,
      "py": "jiàng",
      "kw": "soybean paste",
-     "parts": "将 (sound) + 酉 wine jar",
+     "parts": "将 (shortened) (sound) + 酉 wine jar",
      "story": "A jar left to ferment into a thick paste.",
      "trad": "醬",
      "words": [
@@ -2716,7 +2716,7 @@
      "rank": 2260,
      "py": "jì",
      "kw": "as well as",
-     "parts": "既 already + 旦 dawn",
+     "parts": "既 already (sound) + 旦 dawn",
      "story": "Reaching from dawn up to now: and, as well as.",
      "trad": "",
      "words": [
@@ -2833,7 +2833,7 @@
      "rank": 2231,
      "py": "gǒng",
      "kw": "make firm",
-     "parts": "工 work + 凡 (sound)",
+     "parts": "工 work (sound) + 凡 two hands (shape)",
      "story": "Work that makes a thing firm: make firm.",
      "trad": "鞏",
      "words": [
@@ -2886,7 +2886,7 @@
      "rank": 2257,
      "py": "xiào",
      "kw": "resemble",
-     "parts": "小 small + 月 flesh",
+     "parts": "小 small (sound) + 月 flesh",
      "story": "A small copy of the flesh: it resembles you.",
      "trad": "",
      "words": [
@@ -2973,7 +2973,7 @@
      "rank": 2297,
      "py": "gà",
      "kw": "awkward",
-     "parts": "尢 lame leg + 介 between",
+     "parts": "尢 lame leg + 介 between (sound)",
      "story": "Hobbling in between two sides: awkward.",
      "trad": "",
      "words": [

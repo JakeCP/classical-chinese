@@ -66,10 +66,13 @@
   //          // x: times marked ✗ in a drill (all time); xt: time of the last drill ✗
   //   drill: { n: 7, only: false, q: ["河", …], size: 100, ok: 0, no: 0, x: ["活"] } | null
   //          // the drill in progress: q is what is left (front = now); x: marked ✗ this round
+  //   ty: { "book-04:4.1": [{ d: "2026-11-14", t: ms, n: 13, h: 2, m: 1, a: "處擇" }] }
+  //          // Type drill runs typed in full, last 20 per chapter: n characters, h hints asked,
+  //          // m characters typed wrong, a: the characters that needed a hint or came out wrong
   // }
 
   function blankState() {
-    return { v: 1, ch: {}, settings: { size: "M", hideKw: false }, book: null, cut: 0, shelf: "classical", mbook: null, path: {}, drill: null };
+    return { v: 1, ch: {}, settings: { size: "M", hideKw: false }, book: null, cut: 0, shelf: "classical", mbook: null, path: {}, drill: null, ty: {} };
   }
 
   function loadState() {
@@ -112,6 +115,14 @@
       const q = d.q.filter(oneHan);
       out.drill = { n: d.n, only: d.only === true, q, size: Math.max(int(d.size), q.length), ok: int(d.ok), no: int(d.no),
         x: Array.isArray(d.x) ? d.x.filter(oneHan) : [] };
+    }
+    if (isObj(s.ty)) {
+      for (const [k, runs] of Object.entries(s.ty)) {
+        if (!Array.isArray(runs)) continue;
+        const ok = runs.filter((r) => isObj(r) && DAY.test(str(r.d)) && int(r.n))
+          .map((r) => ({ d: r.d, t: int(r.t), n: int(r.n), h: int(r.h), m: int(r.m), a: [...str(r.a)].filter((c) => HAN.test(c)).join("") }));
+        if (ok.length) out.ty[k] = ok.slice(-20);
+      }
     }
     return out;
   }
@@ -536,12 +547,14 @@
     let tab = "read", focus = false;
     try {
       const isChapter = parts[0] === "c" && data.byId[parts[1]];
+      const isType = parts[0] === "t" && data.byId[parts[1]];
       const key = isChapter ? parts[1] + ":" + parts[2] : "";
       if (visit.key !== key) visit = { key, keyOpen: false, mark: "", readT: 0, att: null };
       // Find and the report keep the shelf's script (Find ranks that shelf first).
-      lang = ["path", "words", "grammar"].includes(parts[0]) ? "zh-Hans" : langOf(isChapter ? data.byId[parts[1]] : currentBook());
+      lang = ["path", "words", "grammar"].includes(parts[0]) ? "zh-Hans" : langOf(isChapter || isType ? data.byId[parts[1]] : currentBook());
       if (parts[0] !== "path" || parts[2] !== "drill") drillReveal = false;
       if (isChapter) { focus = true; renderChapter(data.byId[parts[1]], parts[2]); }
+      else if (isType) { focus = true; renderType(data.byId[parts[1]], parts[2]); }
       else if (parts[0] === "path") {
         tab = "path";
         const n = Number(parts[1]);
@@ -690,6 +703,7 @@
         return h("a", { class: "pill" + (last && last.r === "x" ? " x" : ""), href: chHref(book, c.n) },
           c.n, last && last.r === "x" ? "✗" : null);
       })));
+      kids.push(h("p", { class: "pair type-them" }, h("a", { id: "type-reread", href: tyHref(book, re.chapters[0].n) }, "Or type them with a pinyin keyboard ›")));
     }
     kids.push(label(unit === "passages" ? "Passages" : "Chapters"));
     kids.push(h("div", { class: "grid" }, book.chapters.map((c) => chip(book, c, next))));
@@ -884,6 +898,7 @@
       kids.push(h("p", { class: "pair" }, h("a", { id: "pair", href: chHref(twin.book, twin.n) },
         shelfOf(twin.book) === "modern" ? `${twin.n} in modern Chinese ›` : `${twin.n} in the classical text ›`)));
     }
+    kids.push(h("p", { class: "pair" }, h("a", { id: "type-link", href: tyHref(book, ch.n) }, "Type it with a pinyin keyboard ›")));
     return h("section", { class: "key", id: "key", "aria-label": "Key" }, ...kids);
   }
 
@@ -962,6 +977,220 @@
   }
 
   const reducedMotion = () => window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---------- Type: copy a chapter with a pinyin keyboard ----------
+  //
+  // Practice for typing Chinese, not for pronouncing it: tones are never typed. Only Han
+  // characters count; punctuation, spaces and leftover letters are skipped. A wrong character
+  // shows the right one and its spelling; Hint shows the next one's. Readings come from the
+  // chapter's `ty` (tools/pinyin_typing.py); on the Analects, a simplified form counts too
+  // (the book's `simp`), with a note to switch keyboards.
+
+  const tyHref = (book, n) => "#/t/" + encodeURIComponent(book.id) + "/" + encodeURIComponent(n);
+  const freshTyping = (key) => ({ key, val: "", hint: new Set(), miss: new Set(), shown: -1, simp: false, saved: false });
+  let typing = freshTyping("");
+
+  // How much of the target the typed text matches, from the start.
+  function typeMatch(target, typed, simpOf) {
+    const got = [...typed].filter((c) => HAN.test(c));
+    let at = 0, simp = false;
+    while (at < got.length && at < target.length) {
+      const want = target[at], c = got[at];
+      if (c !== want) {
+        if (!(simpOf && str(simpOf[want]).includes(c))) break;
+        simp = true;
+      }
+      at++;
+    }
+    return { at, wrong: at < got.length ? got[at] : "", simp };
+  }
+
+  // A tap-to-hear for one character, from the phone's own voice. Optional; nothing plays unasked.
+  const canSpeak = () => typeof window.speechSynthesis !== "undefined" && typeof window.SpeechSynthesisUtterance === "function";
+  function speak(c, lg) {
+    try {
+      const u = new SpeechSynthesisUtterance(c);
+      u.lang = lg === "zh-Hant" ? "zh-TW" : "zh-CN";
+      const voices = speechSynthesis.getVoices();
+      const v = voices.find((x) => x.lang.replace("_", "-") === u.lang) || voices.find((x) => /^zh|^cmn/i.test(x.lang));
+      if (v) u.voice = v;
+      u.rate = 0.8;
+      speechSynthesis.cancel();
+      speechSynthesis.speak(u);
+    } catch (e) { /* no voice: nothing to do */ }
+  }
+
+  function typeHelp(book, open) {
+    const trad = langOf(book) === "zh-Hant";
+    const kb = trad ? "Pinyin – Traditional" : "Pinyin – Simplified";
+    return h("details", { class: "type-help", open: open ? true : null },
+      h("summary", null, "How to type Chinese"),
+      h("p", null, "Switch the keyboard to ", h("strong", null, kb), trad ? " (the Analects forms)." : " (modern forms)."),
+      h("p", null, h("span", { class: "k" }, "Mac: "), "System Settings → Keyboard → Text Input → Edit → + → Chinese, ",
+        trad ? "Traditional" : "Simplified", " → ", kb, ". Switch with the globe key or Ctrl-Space."),
+      h("p", null, h("span", { class: "k" }, "iPhone: "), "Settings → General → Keyboard → Keyboards → Add New Keyboard → Chinese (",
+        trad ? "Traditional" : "Simplified", ") → Pinyin – QWERTY. Switch with the globe key."),
+      h("p", null, "Type the spelling with no tones, then pick the character from the list: space takes the first, a number or a tap takes another. ",
+        "A whole word at once often finds it faster."),
+      h("p", null, h("span", { lang: "zh-Hant" }, "ü"), " is typed ", h("strong", null, "v"), ": ",
+        h("span", { lang }, "女"), " nv, ", h("span", { lang }, trad ? "綠" : "绿"), " lv. Punctuation is skipped."));
+  }
+
+  function renderType(book, n) {
+    const idx = book.chapters.findIndex((c) => c.n === n);
+    if (idx < 0) { location.replace("#/"); return; }
+    const ch = book.chapters[idx];
+    const key = chKey(book, ch.n);
+    if (typing.key !== key) typing = freshTyping(key);
+    const lg = langOf(book);
+    const target = [...ch.text].filter((c) => HAN.test(c));
+    const ty = Array.isArray(ch.ty) && ch.ty.length === target.length ? ch.ty : null;
+    const spell = (i) => (ty && ty[i]) || "";
+    const prev = neighbour(book, idx, -1);
+    const next = neighbour(book, idx, 1);
+    const step = (to, dir, what) => to
+      ? h("a", { class: "icon-btn", href: tyHref(to.book, to.ch.n), "aria-label": what + " " + to.ch.n }, icon(dir))
+      : h("button", { class: "icon-btn", type: "button", disabled: true, "aria-label": "No " + what.toLowerCase() }, icon(dir));
+
+    const spans = [];
+    const textEl = h("p", { class: "text type-text" + (ch.toks ? " modern" : ""), lang, "aria-label": "Text to type" },
+      [...ch.text].map((c) => {
+        if (!HAN.test(c)) return h("span", { class: "p" }, c);
+        const s = h("span", { class: "tc" }, c);
+        spans.push(s);
+        return s;
+      }));
+    const hintEl = h("div", { class: "type-hint", id: "type-hint", "aria-live": "polite" });
+    const countEl = h("p", { class: "type-count", id: "type-count" });
+    const noteEl = h("p", { class: "status", id: "type-note", "aria-live": "polite" });
+    let composing = false;
+    const ta = h("textarea", {
+      id: "type-in", rows: "3", lang,
+      placeholder: "Type here with a pinyin keyboard",
+      "aria-label": "Type the text",
+      autocomplete: "off", autocorrect: "off", autocapitalize: "off", spellcheck: "false",
+      oncompositionstart: () => { composing = true; },
+      oncompositionend: () => { composing = false; paint(); },
+      oninput: (e) => { if (!e.isComposing) composing = false; paint(); },
+    });
+    ta.value = typing.val;
+    const barEl = h("nav", { class: "bar" });
+
+    const hintBtn = h("button", { type: "button", class: "btn", id: "type-hint-btn",
+      onclick: () => {
+        const m = typeMatch(target, ta.value, book.simp);
+        if (m.at >= target.length) return;
+        typing.hint.add(m.at);
+        typing.shown = m.at;
+        paint();
+      } }, "Hint");
+    const back = h("a", { class: "btn icon", href: chHref(book, ch.n), "aria-label": "Back to the chapter" }, icon("back"));
+
+    function hintFor(i, wrong) {
+      const c = target[i], s = spell(i);
+      return [
+        wrong ? h("p", { class: "type-wrong" }, "Not ", h("span", { lang }, wrong), ". Delete it and try again:") : null,
+        h("p", { class: "type-spell" },
+          h("span", { class: "tz", lang }, c),
+          h("span", { class: "tp" }, s || "no spelling in this build"),
+          canSpeak() ? h("button", { type: "button", class: "text-btn hear", id: "type-hear", onclick: () => speak(c, lg) }, "Hear it") : null),
+        s.includes("v") ? h("p", { class: "hint" }, "ü is typed v.") : null,
+      ];
+    }
+
+    function summary() {
+      const asked = target.map((c, i) => i).filter((i) => typing.hint.has(i) || typing.miss.has(i));
+      const kids = [h("p", { class: "type-done" }, `All ${target.length} typed`,
+        typing.hint.size ? ` · ${typing.hint.size} hint${typing.hint.size > 1 ? "s" : ""}` : "",
+        typing.miss.size ? ` · ${typing.miss.size} wrong` : "",
+        !typing.hint.size && !typing.miss.size ? " with no help" : "")];
+      if (asked.length) {
+        kids.push(h("p", { class: "type-asked" }, "Spell these again: ",
+          asked.flatMap((i, k) => [k ? " · " : "", h("span", { lang }, target[i]), " ", spell(i)])));
+      }
+      return kids;
+    }
+
+    function save1() {
+      if (typing.saved) return;
+      typing.saved = true;
+      const asked = [...new Set(target.filter((c, i) => typing.hint.has(i) || typing.miss.has(i)))].join("");
+      const runs = state.ty[key] || (state.ty[key] = []);
+      runs.push({ d: today(), t: Date.now(), n: target.length, h: typing.hint.size, m: typing.miss.size, a: asked });
+      if (runs.length > 20) runs.splice(0, runs.length - 20);
+      save();
+    }
+
+    function again() {
+      typing = freshTyping(key);
+      ta.value = "";
+      paint();
+      ta.focus();
+    }
+
+    function paint() {
+      typing.val = ta.value;
+      const m = typeMatch(target, ta.value, book.simp);
+      if (m.wrong) typing.miss.add(m.at);
+      if (m.simp) typing.simp = true;
+      const done = m.at >= target.length && !m.wrong;
+      spans.forEach((s, i) => {
+        s.classList.toggle("done", i < m.at);
+        s.classList.toggle("cur", !done && i === m.at);
+        s.classList.toggle("bad", !done && i === m.at && !!m.wrong);
+        s.classList.toggle("asked", typing.hint.has(i) || typing.miss.has(i));
+      });
+      countEl.textContent = `${Math.min(m.at, target.length)} of ${target.length}` +
+        (typing.hint.size ? ` · ${typing.hint.size} hint${typing.hint.size > 1 ? "s" : ""}` : "") +
+        (typing.miss.size ? ` · ${typing.miss.size} wrong` : "");
+      if (done) {
+        save1();
+        hintEl.replaceChildren(...summary());
+      } else if (m.wrong || typing.shown === m.at) {
+        hintEl.replaceChildren(...hintFor(m.at, m.wrong).filter(Boolean));
+      } else {
+        hintEl.replaceChildren();
+      }
+      const notes = [];
+      if (!composing && /[A-Za-z]/.test(ta.value)) notes.push("Those are letters: switch the keyboard to Pinyin, type, then pick the character.");
+      if (typing.simp) notes.push("Simplified forms count, but Pinyin – Traditional gives the Analects' own.");
+      noteEl.textContent = notes.join(" ");
+      hintBtn.disabled = done;
+      barEl.replaceChildren(h("div", { class: "bar-inner" }, ...(done
+        ? [back,
+          h("button", { type: "button", class: "btn", id: "type-again", onclick: again }, "Again"),
+          next
+            ? h("a", { class: "btn primary", id: "type-next", href: tyHref(next.book, next.ch.n) }, "Type " + next.ch.n)
+            : h("a", { class: "btn primary", id: "type-next", href: "#/" }, "Home")]
+        : [back, hintBtn])));
+    }
+
+    render(
+      topBar({ href: chHref(book, ch.n), label: ch.n, aria: "Back to the chapter" },
+        h("h1", null, h("span", { class: "ch-num" }, "Type " + ch.n)),
+        step(prev, "prev", "Previous chapter"),
+        step(next, "next", "Next chapter")),
+      typeHelp(book, !Object.keys(state.ty).length),
+      textEl,
+      ty ? null : h("p", { class: "status" }, "This build has no spellings: rebuild the site for hints."),
+      hintEl,
+      ta,
+      h("div", { class: "type-meta" }, countEl, noteEl),
+      barEl);
+    paint();
+  }
+
+  // Type drill runs since the last report.
+  function periodTyping() {
+    const rows = [];
+    for (const book of data.books) {
+      for (const ch of book.chapters) {
+        const runs = (state.ty[chKey(book, ch.n)] || []).filter((r) => r.t > (state.cut || 0));
+        if (runs.length) rows.push({ book, ch, runs });
+      }
+    }
+    return rows;
+  }
 
   // ---------- Path ----------
 
@@ -1362,6 +1591,12 @@
     let looks = 0;
     for (const rec of Object.values(state.ch)) for (const n of Object.values(rec.look || {})) looks += n;
     rows.push(["Looked up", `${looks} before the key, since the last report`]);
+    const typed = periodTyping();
+    if (typed.length) {
+      const chars = typed.reduce((a, r) => a + r.runs.reduce((b, x) => b + x.n, 0), 0);
+      const hints = typed.reduce((a, r) => a + r.runs.reduce((b, x) => b + x.h, 0), 0);
+      rows.push(["Typed", `${typed.length} ${typed.length > 1 ? "chapters" : "chapter"}, ${num(chars)} characters, ${hints} hints, since the last report`]);
+    }
     kids.push(label("Reading"));
     kids.push(h("dl", { class: "facts" }, rows.flatMap(([k, v]) => [h("dt", null, k), h("dd", null, v)])));
 
@@ -1950,6 +2185,19 @@
     return lines;
   }
 
+  // "Typed (pinyin keyboard): 4.1 4.2 ×2 · 64 characters · 3 hints · 1 wrong" and the spellings asked for.
+  function typingReport() {
+    const rows = periodTyping();
+    if (!rows.length) return [];
+    const runs = rows.flatMap((r) => r.runs);
+    const sum = (f) => runs.reduce((a, x) => a + f(x), 0);
+    const which = rows.map((r) => r.ch.n + (r.runs.length > 1 ? ` ×${r.runs.length}` : "")).join(" ");
+    const lines = ["", `Typed (pinyin keyboard): ${which} · ${num(sum((x) => x.n))} characters · ${sum((x) => x.h)} hints · ${sum((x) => x.m)} wrong`];
+    const asked = [...new Set(runs.map((x) => x.a).join(""))];
+    if (asked.length) lines.push("Needed help spelling: " + asked.join(" "));
+    return lines;
+  }
+
   function reportText() {
     const rows = periodReads();
     const lines = [rows.some((r) => shelfOf(r.book) === "modern") ? "Reading report: Analects and modern Chinese" : "Analects reading report"];
@@ -1968,6 +2216,7 @@
       if (st.read || book === currentBook()) lines.push(`${book.label}: ${st.read}/${st.total} read · ${x} ✗`);
     }
     lines.push(...pathReport());
+    lines.push(...typingReport());
     const sorted = rows.slice().sort((a, b) =>
       (a.x ? 0 : 1) - (b.x ? 0 : 1) || a.book.order - b.book.order || a.i - b.i);
     if (sorted.length) lines.push("");

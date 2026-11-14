@@ -2,7 +2,8 @@
 
 A small offline web app for reading the Analects and modern Chinese
 meaning-first, and for walking the road to the first 3,000 characters. Reading
-only: pinyin is shown small inside cards and never tested; there is no sound.
+only: pinyin is shown small inside cards and never tested. The one exception is
+the Type drill, which teaches the toneless spelling a pinyin keyboard needs.
 
 Plain HTML, CSS and JavaScript (`index.html`, `app.js`, `style.css`, `sw.js`).
 No build step, no frameworks, no external requests of any kind.
@@ -38,6 +39,21 @@ A tab bar at the bottom (each tab a small seal: 读 路 词 法 我):
   lookups, the **Report** (to paste into the weekly chat), **Find**, the
   reading text size, "Mark the characters I have Analects cards for as known",
   Erase, and the build.
+
+**Type** (`#/t/<book>/<chapter>`, full screen): copy the chapter with a pinyin
+keyboard (Pinyin – Traditional for the Analects, Pinyin – Simplified for
+modern). Only Han characters count: punctuation, digits and letters still
+waiting for a character are skipped. A wrong character turns red and shows
+the right one with its spelling (lower case, no tones, ü typed v). **Hint**
+shows the next spelling. **Hear it** reads one character in the phone's
+own voice, only when tapped. For a character with two readings that voice
+may say the other one. On the Analects a simplified form counts, with a note
+to switch keyboards. A chapter typed in full is saved and listed in the
+report with its hints, wrong characters and the characters that needed help.
+It opens from "Type it with a pinyin keyboard" under any chapter's key, and
+from the Re-read row. The spellings are the chapters' `ty` lists, and the
+Analects' simplified forms are each book's `simp`. Both are written by
+`tools/build_site.py` through `tools/pinyin_typing.py`.
 
 The card sheet rises from the bottom for any tapped character or word. In
 modern content a single character opens its Path card (keyword, parts, story,
@@ -82,8 +98,8 @@ Open it once online; after that it works offline.
 
 ## Where your marks live
 
-Reading marks, looked-up characters, typed attempts and the characters marked
-known are stored only in this phone's browser storage (localStorage, key
+Reading marks, looked-up characters, typed attempts, Type drill runs and the
+characters marked known are stored only in this phone's browser storage (localStorage, key
 `analects-reader.v1`; its shape is documented at the top of `app.js`). They are
 not synced or backed up. Deleting the home-screen app, clearing Safari/Chrome
 website data, or a long spell without opening the app (iOS may clear storage

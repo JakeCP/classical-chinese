@@ -507,7 +507,7 @@ body.focus .tabs { display: none; }
 
 /* ---------- Path ---------- */
 .tally { margin: 1.6rem 0 .25rem; }
-.big { margin: 0; display: flex; align-items: baseline; gap: .35rem; flex-wrap: wrap; }
+.big:not(.seal) { margin: 0; display: flex; align-items: baseline; gap: .35rem; flex-wrap: wrap; }
 .big-n { font: 400 4.75rem/.95 var(--latin); letter-spacing: -.03em; font-variant-numeric: lining-nums; }
 .big-of { font-size: 1.375rem; color: var(--grey); font-variant-numeric: lining-nums; }
 .big-cap { margin: .4rem 0 .9rem; color: var(--ink-2); font-style: italic; }

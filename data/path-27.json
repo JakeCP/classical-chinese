@@ -164,11 +164,6 @@
        "w": "肮脏",
        "py": "āngzāng",
        "g": "filthy"
-      },
-      {
-       "w": "肮",
-       "py": "āng",
-       "g": "filthy"
       }
      ],
      "note": "Only in 肮脏 'dirty'. 骯 became 肮: 骨 became 月.",
@@ -243,7 +238,7 @@
      "c": "掷",
      "rank": 2663,
      "py": "zhì",
-     "kw": "toss",
+     "kw": "hurl",
      "parts": "扌 hand + 郑 (sound)",
      "story": "A hand sends a thing flying through the air.",
      "trad": "擲",
@@ -264,7 +259,7 @@
        "g": "stake everything"
       }
      ],
-     "note": "擲 became 掷: 鄭 became 郑. The written 'throw': 投掷; 抛 is the everyday toss.",
+     "note": "擲 became 掷: 鄭 became 郑. A written word for 'throw', as in 投掷; in speech people say 扔.",
      "have": "new",
      "akw": ""
     },
@@ -496,11 +491,6 @@
        "w": "沮丧",
        "py": "jǔsàng",
        "g": "dejected"
-      },
-      {
-       "w": "沮",
-       "py": "jǔ",
-       "g": "stop"
       }
      ],
      "note": "Only in 沮丧 'dejected'.",
@@ -570,7 +560,7 @@
      "c": "砂",
      "rank": 2649,
      "py": "shā",
-     "kw": "gravel",
+     "kw": "coarse sand",
      "parts": "石 stone + 少 little",
      "story": "Little stones: grit and sand.",
      "trad": "",
@@ -713,7 +703,7 @@
        "g": "corm"
       }
      ],
-     "note": "莖 became 茎: the right side was simplified.",
+     "note": "莖 became 茎: the lower part 巠 became 𢀖.",
      "have": "new",
      "akw": ""
     },
@@ -978,7 +968,7 @@
       {
        "w": "橄榄球",
        "py": "gǎnlǎnqiú",
-       "g": "rugby ball"
+       "g": "rugby"
       },
       {
        "w": "橄榄油",
@@ -1053,7 +1043,7 @@
   },
   {
    "title": "voices",
-   "note": "A mouth on the left: calling out.",
+   "note": "A mouth on the left, and jade that rings: calling out and tinkling.",
    "chars": [
     {
      "c": "吼",
@@ -1109,7 +1099,7 @@
        "g": "burst out laughing"
       }
      ],
-     "note": "哄 also means a roar of laughter or uproar (hong1), as in 哄堂大笑.",
+     "note": "哄 also means a roar of laughter or uproar, as in 哄堂大笑.",
      "have": "new",
      "akw": ""
     },
@@ -1148,7 +1138,7 @@
      "py": "líng",
      "kw": "tinkling",
      "parts": "王 jade + 令 (sound)",
-     "story": "Pieces of jade, small and finely made: dainty.",
+     "story": "Small pieces of jade knocking together: a tinkling sound.",
      "trad": "",
      "words": [
       {
@@ -1210,7 +1200,7 @@
      "c": "咯",
      "rank": 2650,
      "py": "lo",
-     "kw": "final particle",
+     "kw": "closing particle",
      "parts": "口 mouth + 各 each (sound)",
      "story": "A mouth adding a light closing touch: a sentence-ending particle.",
      "trad": "",
@@ -1631,8 +1621,8 @@
      "rank": 2668,
      "py": "gàn",
      "kw": "jiangxi",
-     "parts": "- a crowded top over 贝 shell",
-     "story": "A shell-topped tangle of strokes: the short name for Jiangxi.",
+     "parts": "章 badge + 夂 walk + 贡 tribute (sound)",
+     "story": "Tribute carried on foot beside a badge: the short name for Jiangxi.",
      "trad": "贛",
      "words": [
       {
@@ -1750,7 +1740,7 @@
        "g": "travel buddy"
       }
      ],
-     "note": "驢 became 驴: 馬 became 马.",
+     "note": "驢 became 驴: 馬 became 马, and 盧 became 户.",
      "have": "new",
      "akw": ""
     },
@@ -1866,7 +1856,7 @@
        "g": "evil clutches"
       }
      ],
-     "note": "Also 'zhuǎ' in speech: 爪子.",
+     "note": "Also a bird's or animal's foot: 鸡爪 'chicken feet'.",
      "have": "new",
      "akw": ""
     }
@@ -2073,7 +2063,7 @@
       {
        "w": "妒忌",
        "py": "dùjì",
-       "g": "resent"
+       "g": "be jealous of"
       },
       {
        "w": "忌妒",
@@ -2182,7 +2172,7 @@
      "c": "佬",
      "rank": 2690,
      "py": "lǎo",
-     "kw": "cantonese man",
+     "kw": "man",
      "parts": "亻 person + 老 old",
      "story": "An old fellow: a man, a guy.",
      "trad": "",
@@ -2211,7 +2201,7 @@
      "c": "妞",
      "rank": 2677,
      "py": "niū",
-     "kw": "little girl",
+     "kw": "girl",
      "parts": "女 woman + 丑 (sound)",
      "story": "A young woman or girl.",
      "trad": "",
@@ -2422,7 +2412,7 @@
      "rank": 2674,
      "py": "qiú",
      "kw": "tribal chief",
-     "parts": "丷 + 酉 wine jar",
+     "parts": "丷 two drops + 酉 wine jar",
      "story": "The one who pours the wine at the head of the tribe: tribal chief.",
      "trad": "",
      "words": [
@@ -2442,7 +2432,7 @@
        "g": "the UAE"
       }
      ],
-     "note": "In 阿联酋 (UAE) it is a transliteration.",
+     "note": "In 阿联酋 (the UAE) it is short for 酋长国 'emirate'.",
      "have": "new",
      "akw": ""
     }
@@ -2464,11 +2454,6 @@
       {
        "w": "飓风",
        "py": "jùfēng",
-       "g": "hurricane"
-      },
-      {
-       "w": "飓",
-       "py": "jù",
        "g": "hurricane"
       }
      ],
@@ -2603,7 +2588,7 @@
      "c": "冀",
      "rank": 2688,
      "py": "jì",
-     "kw": "hope for",
+     "kw": "earnestly hope",
      "parts": "北 north + 異 strange (sound)",
      "story": "Looking north for something wonderful: you hope for it.",
      "trad": "",
@@ -2833,7 +2818,7 @@
        "g": "Sanlitun"
       }
      ],
-     "note": "A village or army camp; 三里屯 is a Beijing district.",
+     "note": "A village or army camp; 三里屯 is a Beijing street and nightlife area.",
      "have": "new",
      "akw": ""
     },
@@ -2871,7 +2856,7 @@
      "rank": 2698,
      "py": "shù",
      "kw": "erect",
-     "parts": "- 立 stand over a short stroke",
+     "parts": "刂-like two strokes + 又 hand + 立 stand",
      "story": "Something stood up straight on end: erect.",
      "trad": "豎",
      "words": [
@@ -2891,7 +2876,7 @@
        "g": "harp"
       }
      ],
-     "note": "豎 became 竖.",
+     "note": "豎 became 竖: 臣 became two strokes and 豆 became 立.",
      "have": "new",
      "akw": ""
     },
@@ -2942,11 +2927,6 @@
        "w": "虏获",
        "py": "lǔhuò",
        "g": "capture"
-      },
-      {
-       "w": "虏",
-       "py": "lǔ",
-       "g": "prisoner"
       }
      ],
      "note": "虜 became 虏.",

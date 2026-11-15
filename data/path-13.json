@@ -98,7 +98,7 @@
      "rank": 1284,
      "py": "yì",
      "kw": "recollect",
-     "parts": "忄 heart + 乙 hook (shape)",
+     "parts": "忄 heart + 乙 hook (sound)",
      "story": "A hooked thought tugs at the heart and pulls an old scene back.",
      "trad": "憶",
      "words": [
@@ -155,7 +155,7 @@
   },
   {
    "title": "hand 扌",
-   "note": "Hand on the left: grasping, holding, handling.",
+   "note": "Hand on the left, or 手 below: grasping, holding, handling.",
    "chars": [
     {
      "c": "抱",
@@ -248,9 +248,9 @@
      "c": "折",
      "rank": 1237,
      "py": "zhé",
-     "kw": "fold",
+     "kw": "snap",
      "parts": "扌 hand + 斤 axe",
-     "story": "A hand with an axe: snapped, it folds back on itself.",
+     "story": "A hand brings an axe down on a stick: it snaps.",
      "trad": "摺",
      "words": [
       {
@@ -269,7 +269,7 @@
        "g": "setback"
       }
      ],
-     "note": "Also 'discount': 打折 means 'on sale'.",
+     "note": "Also 'bend, fold' (折叠) and 'discount': 打折 means 'on sale'.",
      "have": "new",
      "akw": ""
     },
@@ -1114,7 +1114,7 @@
       {
        "w": "文雅",
        "py": "wényǎ",
-       "g": "polite"
+       "g": "cultured"
       }
      ],
      "note": "",
@@ -1393,9 +1393,9 @@
      "c": "曼",
      "rank": 1228,
      "py": "màn",
-     "kw": "handsome",
+     "kw": "long and graceful",
      "parts": "曰 (shape) + 罒 eye + 又 hand",
-     "story": "A hand stretches a long soft cloth across the eyes: long, soft, fine.",
+     "story": "A hand draws the line of an eye out long and fine: long and graceful.",
      "trad": "",
      "words": [
       {
@@ -1510,7 +1510,7 @@
      "rank": 1255,
      "py": "ruì",
      "kw": "lucky sign",
-     "parts": "王 jade + 山 mountain + 而 and (sound)",
+     "parts": "王 jade + 山 mountain + 而 and",
      "story": "A jade token kept on the mountain: a lucky sign.",
      "trad": "",
      "words": [
@@ -2090,7 +2090,7 @@
      "c": "映",
      "rank": 1251,
      "py": "yìng",
-     "kw": "visible",
+     "kw": "reflect",
      "parts": "日 sun + 央 center (sound)",
      "story": "Sunlight falls right in the middle of a wall and shows an image: reflected.",
      "trad": "",
@@ -2417,7 +2417,7 @@
       {
        "w": "开锁",
        "py": "kāisuǒ",
-       "g": "pick a lock"
+       "g": "unlock"
       },
       {
        "w": "锁链",
@@ -2562,7 +2562,7 @@
      "rank": 1256,
      "py": "kān",
      "kw": "publish",
-     "parts": "干 dry (shape) + 刂 knife",
+     "parts": "干 (sound) + 刂 knife",
      "story": "A knife cutting letters into a block for printing: publish.",
      "trad": "栞",
      "words": [
@@ -2748,7 +2748,7 @@
      "rank": 1253,
      "py": "gǔ",
      "kw": "valley",
-     "parts": "八 split + 人 + 口 mouth",
+     "parts": "八 split + 人 person + 口 mouth",
      "story": "Slopes parting like a mouth: a valley.",
      "trad": "穀",
      "words": [
@@ -2870,8 +2870,8 @@
      "rank": 1298,
      "py": "lǎn",
      "kw": "view",
-     "parts": "见 see + 𠂉 (shape)",
-     "story": "Eyes sweeping over the whole scene: view.",
+     "parts": "监 supervise (top) + 见 see",
+     "story": "Eyes that supervise from above see the whole scene: a view.",
      "trad": "覽",
      "words": [
       {

@@ -44,14 +44,27 @@
    "n": 2
   },
   "心": {
-   "k": "component",
+   "k": "character",
    "kw": "heart",
    "py": "xīn",
-   "note": "忄 is the upright form on the left; 心 sits at the bottom",
-   "src": "First deck · 1 · Analects 1.1",
+   "parts": "(the component 'heart')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "從心所欲 'follow what the heart wants'. 'Heart' and 'mind' are one word.",
+   "src": "Book 2 · 2.4",
    "n": 6,
-   "also": [
-    "忄"
+   "more": [
+    {
+     "k": "component",
+     "kw": "heart",
+     "py": "xīn",
+     "note": "忄 is the upright form on the left; 心 sits at the bottom",
+     "src": "First deck · 1 · Analects 1.1",
+     "n": 6,
+     "also": [
+      "忄"
+     ]
+    }
    ]
   },
   "忄": {
@@ -511,12 +524,25 @@
    "n": 2
   },
   "犬": {
-   "k": "component",
+   "k": "character",
    "kw": "dog",
    "py": "quǎn",
-   "note": "",
-   "src": "First deck · 2 · What things are",
-   "n": 2
+   "parts": "(the component 'dog')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "犬馬 'dogs and horses'.",
+   "src": "Book 2 · 2.7",
+   "n": 2,
+   "more": [
+    {
+     "k": "component",
+     "kw": "dog",
+     "py": "quǎn",
+     "note": "",
+     "src": "First deck · 2 · What things are",
+     "n": 2
+    }
+   ]
   },
   "魚": {
    "k": "component",
@@ -1079,28 +1105,67 @@
    ]
   },
   "耳": {
-   "k": "component",
+   "k": "character",
    "kw": "ear",
    "py": "ěr",
-   "note": "",
-   "src": "First deck · 4 · Words change jobs",
-   "n": 4
+   "parts": "(the component 'ear')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "耳順 'the ear goes along'. At a sentence's end, 'and that is all' (later books).",
+   "src": "Book 2 · 2.4",
+   "n": 4,
+   "more": [
+    {
+     "k": "component",
+     "kw": "ear",
+     "py": "ěr",
+     "note": "",
+     "src": "First deck · 4 · Words change jobs",
+     "n": 4
+    }
+   ]
   },
   "生": {
-   "k": "component",
+   "k": "character",
    "kw": "life",
    "py": "shēng",
-   "note": "a sprout coming out of the ground",
-   "src": "First deck · 4 · Words change jobs",
-   "n": 22
+   "parts": "(the component 'life')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "A verb here: 'be born, grow' (道生 'the Way grows').",
+   "src": "Book 1 · 1.2",
+   "n": 22,
+   "more": [
+    {
+     "k": "component",
+     "kw": "life",
+     "py": "shēng",
+     "note": "a sprout coming out of the ground",
+     "src": "First deck · 4 · Words change jobs",
+     "n": 22
+    }
+   ]
   },
   "女": {
-   "k": "component",
+   "k": "character",
    "kw": "woman",
-   "py": "nǚ",
-   "note": "",
-   "src": "First deck · 4 · Words change jobs",
-   "n": 19
+   "py": "rǔ (here; usually nǚ)",
+   "parts": "(the component 'woman')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "In 2.17 it stands for 汝 'you' (rǔ). Elsewhere 'woman, daughter' (nǚ).",
+   "src": "Book 2 · 2.17",
+   "n": 19,
+   "more": [
+    {
+     "k": "component",
+     "kw": "woman",
+     "py": "nǚ",
+     "note": "",
+     "src": "First deck · 4 · Words change jobs",
+     "n": 19
+    }
+   ]
   },
   "臣": {
    "k": "character",
@@ -1329,12 +1394,22 @@
    "n": 0
   },
   "非": {
-   "k": "component",
-   "kw": "wrong",
+   "k": "grammar",
+   "kw": "wrong / is not",
    "py": "fēi",
-   "note": "also 'not'; two wings facing apart",
-   "src": "First deck · 5 · Confucius on himself",
-   "n": 33
+   "jobs": "Negates a noun or a whole statement: 'is not, it is not that' (非其鬼 'not his own spirits'). 不 negates a verb. As a word, 'wrong' (是非 'right and wrong').",
+   "src": "Book 2 · 2.24",
+   "n": 33,
+   "more": [
+    {
+     "k": "component",
+     "kw": "wrong",
+     "py": "fēi",
+     "note": "also 'not'; two wings facing apart",
+     "src": "First deck · 5 · Confucius on himself",
+     "n": 33
+    }
+   ]
   },
   "厂": {
    "k": "component",
@@ -1623,12 +1698,25 @@
    "n": 19
   },
   "大": {
-   "k": "component",
+   "k": "character",
    "kw": "big",
    "py": "dà",
-   "note": "a person with arms spread wide",
-   "src": "Book 4 · 4.1",
-   "n": 48
+   "parts": "(the component 'big')",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "小大 'small and great' matters alike.",
+   "src": "Book 1 · 1.12",
+   "n": 48,
+   "more": [
+    {
+     "k": "component",
+     "kw": "big",
+     "py": "dà",
+     "note": "a person with arms spread wide",
+     "src": "Book 4 · 4.1",
+     "n": 48
+    }
+   ]
   },
   "扌": {
    "k": "component",
@@ -2769,6 +2857,1682 @@
    "note": "'Kept at a distance, estranged'. Also 'coarse'.",
    "src": "Book 4 · 4.26",
    "n": 3
+  },
+  "爫": {
+   "k": "component",
+   "kw": "claw",
+   "py": "zhǎo",
+   "note": "a hand reaching down from above, at the top of a character",
+   "src": "Book 1 · 1.2",
+   "n": 0
+  },
+  "弟": {
+   "k": "character",
+   "kw": "younger brother",
+   "py": "tì (here; usually dì)",
+   "parts": "(single shape: a cord wound round a stake)",
+   "story": "Cord wound turn after turn: the ones who come after.",
+   "forms": "same everywhere",
+   "note": "In 孝弟 it stands for 悌 'respect for elders' (tì). 弟子 'disciple', or 'young man' (1.6).",
+   "src": "Book 1 · 1.2",
+   "n": 18
+  },
+  "犯": {
+   "k": "character",
+   "kw": "offend against",
+   "py": "fàn",
+   "parts": "dog + a kneeling person (㔾)",
+   "story": "A dog lunging at a kneeling man.",
+   "forms": "same everywhere",
+   "note": "犯上 'go against one's superiors'.",
+   "src": "Book 1 · 1.2",
+   "n": 4
+  },
+  "上": {
+   "k": "character",
+   "kw": "above",
+   "py": "shàng",
+   "parts": "(a mark over a line)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "'Those above, superiors' (犯上). Compare 下 'below'.",
+   "src": "Book 1 · 1.2",
+   "n": 26
+  },
+  "亂": {
+   "k": "character",
+   "kw": "disorder",
+   "py": "luàn",
+   "parts": "claw + tangled thread + a hook (乚)",
+   "story": "A claw tearing at a tangle: chaos.",
+   "forms": "乱 (China, Japan)",
+   "note": "作亂 'stir up disorder, rebel'.",
+   "src": "Book 1 · 1.2",
+   "n": 15
+  },
+  "務": {
+   "k": "character",
+   "kw": "work at",
+   "py": "wù",
+   "parts": "spear (矛) + hand with a stick + strength",
+   "story": "Spear, stick and strength all put to work.",
+   "forms": "务 (China); 務 (Japan)",
+   "note": "務本 'put one's effort into the root'.",
+   "src": "Book 1 · 1.2",
+   "n": 2
+  },
+  "本": {
+   "k": "character",
+   "kw": "root",
+   "py": "běn",
+   "parts": "tree + a mark at its foot",
+   "story": "A tree with its root marked.",
+   "forms": "same everywhere",
+   "note": "'Root, basis'. 本立 'once the root is set up'.",
+   "src": "Book 1 · 1.2",
+   "n": 5
+  },
+  "謀": {
+   "k": "character",
+   "kw": "plan",
+   "py": "móu",
+   "parts": "words + 某 (a certain one)",
+   "story": "Words about a certain someone: a plan.",
+   "forms": "谋 (China); 謀 (Japan)",
+   "note": "為人謀 'make plans for others'.",
+   "src": "Book 1 · 1.4",
+   "n": 9
+  },
+  "交": {
+   "k": "character",
+   "kw": "cross paths",
+   "py": "jiāo",
+   "parts": "(single shape: a person with crossed legs)",
+   "story": "Legs crossed: paths cross, people meet.",
+   "forms": "same everywhere",
+   "note": "與朋友交 'deal with friends'. Also 'hand over'.",
+   "src": "Book 1 · 1.4",
+   "n": 4
+  },
+  "傳": {
+   "k": "character",
+   "kw": "transmit",
+   "py": "chuán",
+   "parts": "person + 專 (a spindle in a hand)",
+   "story": "One person hands the spindle to the next.",
+   "forms": "传 (China); 伝 (Japan)",
+   "note": "'Hand down, pass along' (chuán). Read zhuàn it is 'a commentary'.",
+   "src": "Book 1 · 1.4",
+   "n": 2
+  },
+  "竹": {
+   "k": "component",
+   "kw": "bamboo",
+   "py": "zhú",
+   "note": "⺮ is the form on top of a character: slips, tubes, tallies",
+   "src": "Book 1 · 1.5",
+   "n": 0,
+   "also": [
+    "⺮"
+   ]
+  },
+  "⺮": {
+   "k": "component",
+   "kw": "bamboo",
+   "py": "zhú",
+   "note": "⺮ is the form on top of a character: slips, tubes, tallies",
+   "src": "Book 1 · 1.5",
+   "n": 0,
+   "also": [
+    "竹"
+   ]
+  },
+  "夂": {
+   "k": "component",
+   "kw": "dragging feet",
+   "py": "zhǐ",
+   "note": "feet trailing at the bottom of a character",
+   "src": "Book 1 · 1.5",
+   "n": 0
+  },
+  "千": {
+   "k": "character",
+   "kw": "thousand",
+   "py": "qiān",
+   "parts": "a stroke (丿) + ten",
+   "story": "One stroke over ten: ten hundreds.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 1 · 1.5",
+   "n": 5
+  },
+  "乘": {
+   "k": "character",
+   "kw": "ride / chariot",
+   "py": "shèng (here; usually chéng)",
+   "parts": "(single shape: two feet up a tree)",
+   "story": "Feet climbing a tree: mount, ride.",
+   "forms": "乘 (China); 乗 (Japan)",
+   "note": "Read shèng here: 'a war chariot' (千乘之國). Read chéng it is 'ride, mount'.",
+   "src": "Book 1 · 1.5",
+   "n": 9
+  },
+  "節": {
+   "k": "character",
+   "kw": "moderate",
+   "py": "jié",
+   "parts": "bamboo + 即 (kneeling at a meal)",
+   "story": "Bamboo, cut joint by joint: kept in measure.",
+   "forms": "节 (China); 節 (Japan)",
+   "note": "First meaning 'a bamboo joint'. 節用 'be sparing in spending'.",
+   "src": "Book 1 · 1.5",
+   "n": 6
+  },
+  "愛": {
+   "k": "character",
+   "kw": "affection",
+   "py": "ài",
+   "parts": "claw + a cover (冖) + heart + dragging feet",
+   "story": "A hand on the heart, feet slow to leave.",
+   "forms": "爱 (China); 愛 (Japan)",
+   "note": "愛人 'love people, care for them'. Also 'begrudge'.",
+   "src": "Book 1 · 1.5",
+   "n": 9
+  },
+  "民": {
+   "k": "character",
+   "kw": "the people",
+   "py": "mín",
+   "parts": "(single shape: an eye pierced by a blade)",
+   "story": "An eye put out: the ruled, the people.",
+   "forms": "same everywhere",
+   "note": "The common people, as against 人 'others' and the rulers.",
+   "src": "Book 1 · 1.5",
+   "n": 49
+  },
+  "入": {
+   "k": "character",
+   "kw": "enter",
+   "py": "rù",
+   "parts": "(single shape)",
+   "story": "An arrowhead going in.",
+   "forms": "same everywhere",
+   "note": "入 'at home', 出 'out in the world' (1.6).",
+   "src": "Book 1 · 1.6",
+   "n": 17
+  },
+  "謹": {
+   "k": "character",
+   "kw": "careful",
+   "py": "jǐn",
+   "parts": "words + 堇 (clay)",
+   "story": "Words worked like wet clay: careful.",
+   "forms": "谨 (China); 謹 (Japan)",
+   "note": "",
+   "src": "Book 1 · 1.6",
+   "n": 3
+  },
+  "眾": {
+   "k": "character",
+   "kw": "the many",
+   "py": "zhòng",
+   "parts": "net + three people",
+   "story": "Three people under one net: the crowd.",
+   "forms": "众 (China); 衆 (Japan)",
+   "note": "汎愛眾 'love everyone widely'.",
+   "src": "Book 1 · 1.6",
+   "n": 13
+  },
+  "親": {
+   "k": "character",
+   "kw": "kin / close",
+   "py": "qīn",
+   "parts": "亲 (hazel) + see",
+   "story": "Those you see up close: your kin.",
+   "forms": "亲 (China); 親 (Japan)",
+   "note": "Verb 'draw close to'; noun 'parents, kin'.",
+   "src": "Book 1 · 1.6",
+   "n": 9
+  },
+  "餘": {
+   "k": "character",
+   "kw": "surplus",
+   "py": "yú",
+   "parts": "food (食) + 余",
+   "story": "Food left over: surplus.",
+   "forms": "余 (China, Japan)",
+   "note": "餘力 'strength to spare'.",
+   "src": "Book 1 · 1.6",
+   "n": 5
+  },
+  "文": {
+   "k": "character",
+   "kw": "culture",
+   "py": "wén",
+   "parts": "(single shape: a tattooed chest)",
+   "story": "Marks on a chest: pattern, writing, culture.",
+   "forms": "same everywhere",
+   "note": "學文 'study the written culture'. Also 'refinement'.",
+   "src": "Book 1 · 1.6",
+   "n": 42
+  },
+  "夏": {
+   "k": "character",
+   "kw": "summer",
+   "py": "xià",
+   "parts": "a head (頁) + dragging feet",
+   "story": "Head hanging, feet dragging: summer heat.",
+   "forms": "same everywhere",
+   "note": "Here part of a name: 子夏 Zixia, a disciple. Also the Xia dynasty.",
+   "src": "Book 1 · 1.7",
+   "n": 29
+  },
+  "易": {
+   "k": "character",
+   "kw": "change / easy",
+   "py": "yì",
+   "parts": "(single shape: a lizard)",
+   "story": "A lizard changing colour.",
+   "forms": "same everywhere",
+   "note": "易色 'in place of looks' (1.7). Also 'easy'.",
+   "src": "Book 1 · 1.7",
+   "n": 11
+  },
+  "竭": {
+   "k": "character",
+   "kw": "exhaust",
+   "py": "jié",
+   "parts": "stand + 曷 (why?)",
+   "story": "Stand and give till nothing is left.",
+   "forms": "same everywhere",
+   "note": "竭其力 'use up all his strength'.",
+   "src": "Book 1 · 1.7",
+   "n": 3
+  },
+  "致": {
+   "k": "character",
+   "kw": "deliver",
+   "py": "zhì",
+   "parts": "arrive + hand with a stick",
+   "story": "Driven on till it arrives: delivered.",
+   "forms": "same everywhere",
+   "note": "致其身 'give his very self'.",
+   "src": "Book 1 · 1.7",
+   "n": 9
+  },
+  "雖": {
+   "k": "grammar",
+   "kw": "although",
+   "py": "suī",
+   "jobs": "'Although, even if' at the head of a clause (雖曰未學). The main clause follows, often with 必 or 亦. Written 虽 in mainland China.",
+   "src": "Book 1 · 1.7",
+   "n": 31
+  },
+  "戈": {
+   "k": "component",
+   "kw": "halberd",
+   "py": "gē",
+   "note": "a dagger-axe on a long shaft: weapons, force",
+   "src": "Book 1 · 1.8",
+   "n": 1
+  },
+  "囗": {
+   "k": "component",
+   "kw": "border",
+   "py": "wéi",
+   "note": "a wall all round a character",
+   "src": "Book 1 · 1.8",
+   "n": 0
+  },
+  "重": {
+   "k": "character",
+   "kw": "heavy",
+   "py": "zhòng",
+   "parts": "thousand (千) + village (里)",
+   "story": "A load carried a thousand villages: heavy.",
+   "forms": "same everywhere",
+   "note": "Of a person: 'grave, weighty'. Read chóng it is 'again, double'.",
+   "src": "Book 1 · 1.8",
+   "n": 4
+  },
+  "威": {
+   "k": "character",
+   "kw": "awe",
+   "py": "wēi",
+   "parts": "halberd + woman",
+   "story": "A halberd over a woman: power that awes.",
+   "forms": "same everywhere",
+   "note": "'Awe-inspiring dignity'.",
+   "src": "Book 1 · 1.8",
+   "n": 4
+  },
+  "固": {
+   "k": "character",
+   "kw": "solid",
+   "py": "gù",
+   "parts": "border + old",
+   "story": "Old walls all round: solid.",
+   "forms": "same everywhere",
+   "note": "'Firm, solid'; also 'stubborn' and 'certainly'.",
+   "src": "Book 1 · 1.8",
+   "n": 10
+  },
+  "主": {
+   "k": "character",
+   "kw": "host / main",
+   "py": "zhǔ",
+   "parts": "(single shape: a lamp and its flame)",
+   "story": "The main lamp of the house, lit by the host.",
+   "forms": "same everywhere",
+   "note": "主忠信 'make loyalty and trust the main thing'.",
+   "src": "Book 1 · 1.8",
+   "n": 5
+  },
+  "憚": {
+   "k": "character",
+   "kw": "dread",
+   "py": "dàn",
+   "parts": "heart + 單 (single)",
+   "story": "",
+   "forms": "惮 (China); 憚 (Japan)",
+   "note": "勿憚改 'do not shrink from correcting'.",
+   "src": "Book 1 · 1.8",
+   "n": 2
+  },
+  "慎": {
+   "k": "character",
+   "kw": "cautious",
+   "py": "shèn",
+   "parts": "heart + true (真)",
+   "story": "A true heart takes care.",
+   "forms": "same everywhere",
+   "note": "慎終 'take care over the end': the funeral rites.",
+   "src": "Book 1 · 1.9",
+   "n": 7
+  },
+  "追": {
+   "k": "character",
+   "kw": "pursue",
+   "py": "zhuī",
+   "parts": "walking road + 𠂤 (a troop)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "追遠 'follow up the distant': sacrifice to the ancestors.",
+   "src": "Book 1 · 1.9",
+   "n": 2
+  },
+  "歸": {
+   "k": "character",
+   "kw": "return",
+   "py": "guī",
+   "parts": "𠂤 (a troop) + foot + broom (帚)",
+   "story": "The troop marches home; the broom sweeps the house.",
+   "forms": "归 (China); 帰 (Japan)",
+   "note": "歸厚 'turn back to fullness'. Also 'give to, side with'.",
+   "src": "Book 1 · 1.9",
+   "n": 11
+  },
+  "厚": {
+   "k": "character",
+   "kw": "thick",
+   "py": "hòu",
+   "parts": "cliff + sun + child",
+   "story": "A child sheltered under a sunny cliff: thick, generous.",
+   "forms": "same everywhere",
+   "note": "Of virtue: 'deep, generous'.",
+   "src": "Book 1 · 1.9",
+   "n": 5
+  },
+  "貢": {
+   "k": "character",
+   "kw": "Gong (in Zigong)",
+   "py": "gòng",
+   "parts": "tool + shell",
+   "story": "Shells brought with tools: tribute.",
+   "forms": "贡 (China); 貢 (Japan)",
+   "note": "子貢 Zigong, a disciple; the Master calls him 賜. First meaning 'tribute'.",
+   "src": "Book 1 · 1.10",
+   "n": 44
+  },
+  "邦": {
+   "k": "character",
+   "kw": "realm",
+   "py": "bāng",
+   "parts": "丰 (lush growth) + town",
+   "story": "A town in lush country: a realm.",
+   "forms": "same everywhere",
+   "note": "Another word for a state, like 國.",
+   "src": "Book 1 · 1.10",
+   "n": 48
+  },
+  "恭": {
+   "k": "character",
+   "kw": "courteous",
+   "py": "gōng",
+   "parts": "共 (hands held up together) + heart (⺗)",
+   "story": "Both hands raised, from the heart.",
+   "forms": "same everywhere",
+   "note": "Respect in one's manner. Compare 敬 'respect'.",
+   "src": "Book 1 · 1.10",
+   "n": 13
+  },
+  "儉": {
+   "k": "character",
+   "kw": "frugal",
+   "py": "jiǎn",
+   "parts": "person + 僉 (all together)",
+   "story": "A person who keeps it all together.",
+   "forms": "俭 (China); 倹 (Japan)",
+   "note": "'Frugal, restrained, plain'.",
+   "src": "Book 1 · 1.10",
+   "n": 6
+  },
+  "異": {
+   "k": "character",
+   "kw": "different",
+   "py": "yì",
+   "parts": "field + 共 (two hands)",
+   "story": "A masked face held up in two hands: strange.",
+   "forms": "异 (China); 異 (Japan)",
+   "note": "異乎 'different from'.",
+   "src": "Book 1 · 1.10",
+   "n": 11
+  },
+  "抑": {
+   "k": "grammar",
+   "kw": "or rather",
+   "py": "yì",
+   "jobs": "At the head of the second half of a question: 'or rather, or else' (求之與？抑與之與？). At the head of a sentence: 'but, still'. As a verb, 'hold down'.",
+   "src": "Book 1 · 1.10",
+   "n": 5
+  },
+  "諸": {
+   "k": "grammar",
+   "kw": "all / it to",
+   "py": "zhū",
+   "jobs": "(1) 'All, the various' (諸侯 'the lords'). (2) Two words in one: 之於 'it to, him about' (告諸往, 1.15); at a sentence end, 之乎 'it?'. (3) 其諸 'perhaps' (1.10). Written 诸 in mainland China.",
+   "src": "Book 1 · 1.10",
+   "n": 43
+  },
+  "沒": {
+   "k": "character",
+   "kw": "go under",
+   "py": "mò",
+   "parts": "water + a hand in a whirlpool",
+   "story": "Under the water and gone.",
+   "forms": "没 (China, Japan)",
+   "note": "Read mò: 'die, be gone' (父沒). Modern méi 'not have'.",
+   "src": "Book 1 · 1.11",
+   "n": 6
+  },
+  "和": {
+   "k": "character",
+   "kw": "harmony",
+   "py": "hé",
+   "parts": "grain + mouth",
+   "story": "Grain for every mouth: harmony.",
+   "forms": "same everywhere",
+   "note": "和為貴 'harmony counts most'. As a verb, 'harmonize'.",
+   "src": "Book 1 · 1.12",
+   "n": 8
+  },
+  "先": {
+   "k": "character",
+   "kw": "before",
+   "py": "xiān",
+   "parts": "foot + legs",
+   "story": "A foot out in front of the legs: go first.",
+   "forms": "same everywhere",
+   "note": "先王 'the former kings'.",
+   "src": "Book 1 · 1.12",
+   "n": 19
+  },
+  "王": {
+   "k": "character",
+   "kw": "king",
+   "py": "wáng",
+   "parts": "(single shape)",
+   "story": "One line joins heaven, man and earth: king.",
+   "forms": "same everywhere",
+   "note": "先王 'the former kings', the founding sages.",
+   "src": "Book 1 · 1.12",
+   "n": 7
+  },
+  "由": {
+   "k": "character",
+   "kw": "by way of",
+   "py": "yóu",
+   "parts": "field + a path out the top",
+   "story": "A path out of the field: by way of it.",
+   "forms": "same everywhere",
+   "note": "小大由之 'small and great follow it'. Also 子路's personal name.",
+   "src": "Book 1 · 1.12",
+   "n": 35
+  },
+  "復": {
+   "k": "character",
+   "kw": "back again",
+   "py": "fù",
+   "parts": "step + 复 (feet going and coming)",
+   "story": "Step back over the same ground: again.",
+   "forms": "复 (China); 復 (Japan)",
+   "note": "言可復 'your word can be made good'. Also 'return', 'reply'.",
+   "src": "Book 1 · 1.13",
+   "n": 9
+  },
+  "因": {
+   "k": "character",
+   "kw": "rely on",
+   "py": "yīn",
+   "parts": "border + big",
+   "story": "A big man resting on a mat: rely on it.",
+   "forms": "same everywhere",
+   "note": "'Rely on, go along with'. Later 'because'.",
+   "src": "Book 1 · 1.13",
+   "n": 5
+  },
+  "宗": {
+   "k": "character",
+   "kw": "ancestral temple",
+   "py": "zōng",
+   "parts": "roof + altar",
+   "story": "The altar under the roof: the ancestral temple.",
+   "forms": "same everywhere",
+   "note": "As a verb in 1.13: 'look up to, honour as head'.",
+   "src": "Book 1 · 1.13",
+   "n": 9
+  },
+  "飽": {
+   "k": "character",
+   "kw": "full",
+   "py": "bǎo",
+   "parts": "food (食) + 包 (wrapped)",
+   "story": "Food wrapped up inside you: full.",
+   "forms": "饱 (China); 飽 (Japan)",
+   "note": "求飽 'seek to eat one's fill'.",
+   "src": "Book 1 · 1.14",
+   "n": 3
+  },
+  "居": {
+   "k": "character",
+   "kw": "live in",
+   "py": "jū",
+   "parts": "a seated body (尸) + old",
+   "story": "An old one sits down to stay.",
+   "forms": "same everywhere",
+   "note": "居無求安 'at home he does not seek comfort'.",
+   "src": "Book 1 · 1.14",
+   "n": 30
+  },
+  "就": {
+   "k": "character",
+   "kw": "approach",
+   "py": "jiù",
+   "parts": "capital (京) + 尤",
+   "story": "Heading for the capital.",
+   "forms": "same everywhere",
+   "note": "就有道 'go to those who have the Way'.",
+   "src": "Book 1 · 1.14",
+   "n": 3
+  },
+  "正": {
+   "k": "character",
+   "kw": "upright",
+   "py": "zhèng",
+   "parts": "one + foot",
+   "story": "A foot stopping at the line: upright.",
+   "forms": "same everywhere",
+   "note": "A verb in 1.14: 'correct, set right'.",
+   "src": "Book 1 · 1.14",
+   "n": 24
+  },
+  "諂": {
+   "k": "character",
+   "kw": "flatter",
+   "py": "chǎn",
+   "parts": "words + 臽 (a pit)",
+   "story": "Words that dig a pit for you.",
+   "forms": "谄 (China)",
+   "note": "貧而無諂 'poor without fawning'.",
+   "src": "Book 1 · 1.15",
+   "n": 3
+  },
+  "驕": {
+   "k": "character",
+   "kw": "arrogant",
+   "py": "jiāo",
+   "parts": "horse (馬) + 喬 (tall)",
+   "story": "A tall horse with its head held high.",
+   "forms": "骄 (China)",
+   "note": "",
+   "src": "Book 1 · 1.15",
+   "n": 8
+  },
+  "詩": {
+   "k": "character",
+   "kw": "poem",
+   "py": "shī",
+   "parts": "words + temple",
+   "story": "Words chanted at the temple.",
+   "forms": "诗 (China); 詩 (Japan)",
+   "note": "詩 the Odes, the book of songs the Master taught.",
+   "src": "Book 1 · 1.15",
+   "n": 14
+  },
+  "切": {
+   "k": "character",
+   "kw": "cut",
+   "py": "qiē",
+   "parts": "seven (七) + knife",
+   "story": "Seven strokes of the knife.",
+   "forms": "same everywhere",
+   "note": "如切如磋 'as if cut, as if filed': working bone.",
+   "src": "Book 1 · 1.15",
+   "n": 6
+  },
+  "磨": {
+   "k": "character",
+   "kw": "polish",
+   "py": "mó",
+   "parts": "hemp (麻) + stone (石)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "如琢如磨 'as if carved, as if polished': working jade.",
+   "src": "Book 1 · 1.15",
+   "n": 2
+  },
+  "賜": {
+   "k": "character",
+   "kw": "bestow",
+   "py": "cì",
+   "parts": "shell + change / easy (易)",
+   "story": "Shells change hands: a gift.",
+   "forms": "赐 (China); 賜 (Japan)",
+   "note": "Here Zigong's personal name, used by the Master.",
+   "src": "Book 1 · 1.15",
+   "n": 17
+  },
+  "始": {
+   "k": "character",
+   "kw": "begin",
+   "py": "shǐ",
+   "parts": "woman + 台",
+   "story": "A woman: where a life begins.",
+   "forms": "same everywhere",
+   "note": "始可 'now at last can'.",
+   "src": "Book 1 · 1.15",
+   "n": 7
+  },
+  "告": {
+   "k": "character",
+   "kw": "tell",
+   "py": "gào",
+   "parts": "ox (牛) + mouth",
+   "story": "A mouth with an ox's strength: announce.",
+   "forms": "same everywhere",
+   "note": "告諸往 'tell him about what has gone'.",
+   "src": "Book 1 · 1.15",
+   "n": 20
+  },
+  "往": {
+   "k": "character",
+   "kw": "go there",
+   "py": "wǎng",
+   "parts": "step + host / main (主)",
+   "story": "Step out after the host: go there.",
+   "forms": "same everywhere",
+   "note": "往 'what has gone', against 來 'what is to come'.",
+   "src": "Book 1 · 1.15",
+   "n": 11
+  },
+  "若": {
+   "k": "grammar",
+   "kw": "like / if",
+   "py": "ruò",
+   "jobs": "(1) 'Like, as', much as 如: 未若 'not as good as' (未若貧而樂道). (2) 'If' at the head of a clause. 若是 'like this'.",
+   "src": "Book 1 · 1.15",
+   "n": 16
+  },
+  "譬": {
+   "k": "character",
+   "kw": "liken",
+   "py": "pì",
+   "parts": "辟 (a ruler) + words",
+   "story": "A ruler's words come as likenesses.",
+   "forms": "same everywhere",
+   "note": "譬如 'it is like, to take a comparison'.",
+   "src": "Book 2 · 2.1",
+   "n": 7
+  },
+  "共": {
+   "k": "character",
+   "kw": "share",
+   "py": "gǒng (here; usually gòng)",
+   "parts": "(single shape: two hands lifting one thing)",
+   "story": "Two hands lift it up together.",
+   "forms": "same everywhere",
+   "note": "In 2.1 it stands for 拱 'bow towards, pay homage' (gǒng). Elsewhere 'share, together' (gòng).",
+   "src": "Book 2 · 2.1",
+   "n": 4
+  },
+  "百": {
+   "k": "character",
+   "kw": "hundred",
+   "py": "bǎi",
+   "parts": "one + white",
+   "story": "One white mark for each hundred.",
+   "forms": "same everywhere",
+   "note": "百世 'a hundred generations' (2.23).",
+   "src": "Book 2 · 2.2",
+   "n": 17
+  },
+  "蔽": {
+   "k": "character",
+   "kw": "cover",
+   "py": "bì",
+   "parts": "grass + 敝 (worn cloth)",
+   "story": "Grass and old rags thrown over it: covered.",
+   "forms": "same everywhere",
+   "note": "一言以蔽之 'one phrase covers them': to sum up.",
+   "src": "Book 2 · 2.2",
+   "n": 9
+  },
+  "免": {
+   "k": "character",
+   "kw": "escape",
+   "py": "miǎn",
+   "parts": "(single shape: like 兔 'hare', without the tail)",
+   "story": "The hare left its tail behind and got away.",
+   "forms": "same everywhere",
+   "note": "民免 'the people stay out of trouble': they avoid the punishments.",
+   "src": "Book 2 · 2.3",
+   "n": 6
+  },
+  "且": {
+   "k": "grammar",
+   "kw": "and moreover",
+   "py": "qiě",
+   "jobs": "(1) Between two verbs or descriptions: 'and also' (有恥且格; 富且貴 'rich and honoured', 8.13). (2) At the head of a clause: 'moreover, besides'.",
+   "src": "Book 2 · 2.3",
+   "n": 12
+  },
+  "頁": {
+   "k": "component",
+   "kw": "head",
+   "py": "yè",
+   "note": "a head with hair, over a body: heads and faces; written 页 in mainland China",
+   "src": "Book 2 · 2.4",
+   "n": 0
+  },
+  "四": {
+   "k": "character",
+   "kw": "four",
+   "py": "sì",
+   "parts": "border + legs (儿)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.4",
+   "n": 18
+  },
+  "惑": {
+   "k": "character",
+   "kw": "perplexed",
+   "py": "huò",
+   "parts": "或 (someone, perhaps) + heart",
+   "story": "A heart full of perhaps: perplexed.",
+   "forms": "same everywhere",
+   "note": "不惑 'free of doubts': at forty, no longer perplexed.",
+   "src": "Book 2 · 2.4",
+   "n": 10
+  },
+  "命": {
+   "k": "character",
+   "kw": "decree",
+   "py": "mìng",
+   "parts": "command (令) + mouth",
+   "story": "A command given by mouth: a decree.",
+   "forms": "same everywhere",
+   "note": "天命 'the decree of Heaven'. Also 'fate' and 'life span'.",
+   "src": "Book 2 · 2.4",
+   "n": 24
+  },
+  "六": {
+   "k": "character",
+   "kw": "six",
+   "py": "liù",
+   "parts": "a lid (亠) + eight (八)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.4",
+   "n": 10
+  },
+  "順": {
+   "k": "character",
+   "kw": "go along",
+   "py": "shùn",
+   "parts": "river (川) + head",
+   "story": "A head going with the river: going along.",
+   "forms": "顺 (China); 順 (Japan)",
+   "note": "'Follow, comply, go smoothly'.",
+   "src": "Book 2 · 2.4",
+   "n": 3
+  },
+  "七": {
+   "k": "character",
+   "kw": "seven",
+   "py": "qī",
+   "parts": "(single shape: a line cut across)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.4",
+   "n": 6
+  },
+  "踰": {
+   "k": "character",
+   "kw": "overstep",
+   "py": "yú",
+   "parts": "enough (足, first 'foot') + 俞 (a boat)",
+   "story": "A foot steps over the boat's side: overstep.",
+   "forms": "逾 (China)",
+   "note": "Also written 逾. 不踰矩 'not overstep the square'.",
+   "src": "Book 2 · 2.4",
+   "n": 4
+  },
+  "皿": {
+   "k": "component",
+   "kw": "dish",
+   "py": "mǐn",
+   "note": "a bowl on a stand, at the bottom of a character: vessels",
+   "src": "Book 2 · 2.5",
+   "n": 0
+  },
+  "孟": {
+   "k": "character",
+   "kw": "Meng (a surname)",
+   "py": "mèng",
+   "parts": "child + dish",
+   "story": "The first child, set high on a dish: Meng, the eldest line.",
+   "forms": "same everywhere",
+   "note": "One of the three great clans of Lu (孟懿子, 孟武伯). First meaning 'eldest'.",
+   "src": "Book 2 · 2.5",
+   "n": 11
+  },
+  "樊": {
+   "k": "character",
+   "kw": "Fan (a surname)",
+   "py": "fán",
+   "parts": "two trees and crossed sticks (棥) + big",
+   "story": "Trees and crossed sticks round something big: a fence.",
+   "forms": "same everywhere",
+   "note": "樊遲 Fan Chi, a disciple. Its first meaning is 'fence'.",
+   "src": "Book 2 · 2.5",
+   "n": 11
+  },
+  "遲": {
+   "k": "character",
+   "kw": "slow",
+   "py": "chí",
+   "parts": "walking road + 犀 (a rhinoceros)",
+   "story": "A rhinoceros on the road: slow going.",
+   "forms": "迟 (China); 遅 (Japan)",
+   "note": "Here part of a name: 樊遲 Fan Chi. As a word, 'slow, late'.",
+   "src": "Book 2 · 2.5",
+   "n": 10
+  },
+  "御": {
+   "k": "character",
+   "kw": "drive",
+   "py": "yù",
+   "parts": "step + 卸 (unharness)",
+   "story": "Step down and unharness the horses: the driver's job.",
+   "forms": "same everywhere (in China 御 also writes 禦 'resist')",
+   "note": "樊遲御 'Fan Chi was driving' the Master's carriage. Also 'manage', and 'imperial'.",
+   "src": "Book 2 · 2.5",
+   "n": 3
+  },
+  "孫": {
+   "k": "character",
+   "kw": "grandson",
+   "py": "sūn",
+   "parts": "child + a hanging thread (系)",
+   "story": "A child on the thread of descent: grandson.",
+   "forms": "孙 (China); 孫 (Japan)",
+   "note": "孟孫 the Meng family name, here for Meng Yizi. Later 孫 also stands for 遜 'modest'.",
+   "src": "Book 2 · 2.5",
+   "n": 17
+  },
+  "對": {
+   "k": "character",
+   "kw": "reply",
+   "py": "duì",
+   "parts": "a candle stand (丵) + a hand (寸)",
+   "story": "A hand holds up the light to face the questioner: reply.",
+   "forms": "对 (China); 対 (Japan)",
+   "note": "對曰 'replied': answering a superior.",
+   "src": "Book 2 · 2.5",
+   "n": 39
+  },
+  "葬": {
+   "k": "character",
+   "kw": "bury",
+   "py": "zàng",
+   "parts": "grass + die (死) + two hands (廾)",
+   "story": "Hands lay the dead under the grass.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.5",
+   "n": 4
+  },
+  "祭": {
+   "k": "character",
+   "kw": "sacrifice",
+   "py": "jì",
+   "parts": "meat (月) + a hand + altar",
+   "story": "A hand sets meat on the altar: sacrifice.",
+   "forms": "same everywhere",
+   "note": "祭之以禮 'sacrifice to them by ritual'.",
+   "src": "Book 2 · 2.5",
+   "n": 14
+  },
+  "疒": {
+   "k": "component",
+   "kw": "sickness",
+   "py": "nè",
+   "note": "a sickbed, open on one side: illness",
+   "src": "Book 2 · 2.6",
+   "n": 0
+  },
+  "武": {
+   "k": "character",
+   "kw": "martial",
+   "py": "wǔ",
+   "parts": "halberd + foot",
+   "story": "A foot on the march behind a halberd: martial.",
+   "forms": "same everywhere",
+   "note": "Part of a name here: 孟武伯 Meng Wubo. 'Martial, military'; also King Wu (武王) of Zhou.",
+   "src": "Book 2 · 2.6",
+   "n": 14
+  },
+  "伯": {
+   "k": "character",
+   "kw": "eldest",
+   "py": "bó",
+   "parts": "person + white",
+   "story": "The white-haired person: the eldest.",
+   "forms": "same everywhere",
+   "note": "伯 marks the eldest son (孟武伯), and later a rank, 'earl'.",
+   "src": "Book 2 · 2.6",
+   "n": 23
+  },
+  "疾": {
+   "k": "character",
+   "kw": "illness",
+   "py": "jí",
+   "parts": "sickness + arrow",
+   "story": "An arrow wound on the sickbed: illness.",
+   "forms": "same everywhere",
+   "note": "Also 'swift' and 'to hate'.",
+   "src": "Book 2 · 2.6",
+   "n": 18
+  },
+  "今": {
+   "k": "character",
+   "kw": "now",
+   "py": "jīn",
+   "parts": "(single shape: a lid coming down)",
+   "story": "A lid snaps shut on this moment: now.",
+   "forms": "same everywhere",
+   "note": "今之孝者 'filial piety today'.",
+   "src": "Book 2 · 2.7",
+   "n": 26
+  },
+  "養": {
+   "k": "character",
+   "kw": "feed",
+   "py": "yǎng",
+   "parts": "sheep + food (食)",
+   "story": "Sheep and food: feeding, raising.",
+   "forms": "养 (China); 養 (Japan)",
+   "note": "能養 'being able to feed (one's parents)'. Also 'raise, look after'.",
+   "src": "Book 2 · 2.7",
+   "n": 4
+  },
+  "馬": {
+   "k": "character",
+   "kw": "horse",
+   "py": "mǎ",
+   "parts": "(single shape: a horse: mane, legs and tail)",
+   "story": "",
+   "forms": "马 (China); 馬 (Japan)",
+   "note": "",
+   "src": "Book 2 · 2.7",
+   "n": 15
+  },
+  "皆": {
+   "k": "character",
+   "kw": "all",
+   "py": "jiē",
+   "parts": "side by side (比) + white",
+   "story": "Side by side under the white sun: all of them.",
+   "forms": "same everywhere",
+   "note": "Before a verb: 'all, in every case' (皆能有養).",
+   "src": "Book 2 · 2.7",
+   "n": 15
+  },
+  "別": {
+   "k": "character",
+   "kw": "tell apart",
+   "py": "bié",
+   "parts": "a bone (冎, written 另) + knife",
+   "story": "The knife parts meat from bone: tell apart.",
+   "forms": "别 (China); 別 (Japan)",
+   "note": "何以別乎 'how would you tell them apart?'. Also 'part, leave'.",
+   "src": "Book 2 · 2.7",
+   "n": 2
+  },
+  "難": {
+   "k": "character",
+   "kw": "difficult",
+   "py": "nán",
+   "parts": "dry clay (堇) + small bird",
+   "story": "A small bird stuck in dry clay: hard going.",
+   "forms": "难 (China); 難 (Japan)",
+   "note": "色難 'the face is the hard part'. Read nàn it means 'disaster'.",
+   "src": "Book 2 · 2.8",
+   "n": 22
+  },
+  "服": {
+   "k": "character",
+   "kw": "submit",
+   "py": "fú",
+   "parts": "moon + a hand over a kneeling person",
+   "story": "A hand presses the kneeling man down: he submits.",
+   "forms": "same everywhere",
+   "note": "服其勞 'take on the toil'. 民服 'the people submit' (2.19). Also 'clothes'.",
+   "src": "Book 2 · 2.8",
+   "n": 18
+  },
+  "酒": {
+   "k": "character",
+   "kw": "wine",
+   "py": "jiǔ",
+   "parts": "water + a wine jar (酉)",
+   "story": "Liquid in the wine jar: wine.",
+   "forms": "same everywhere",
+   "note": "酒食 'wine and food'.",
+   "src": "Book 2 · 2.8",
+   "n": 5
+  },
+  "饌": {
+   "k": "character",
+   "kw": "serve food",
+   "py": "zhuàn",
+   "parts": "food (食) + 巽 (laid out in order)",
+   "story": "Dishes laid out in order: a meal served.",
+   "forms": "馔 (China)",
+   "note": "先生饌 'the elders are served'.",
+   "src": "Book 2 · 2.8",
+   "n": 2
+  },
+  "厶": {
+   "k": "component",
+   "kw": "private",
+   "py": "sī",
+   "note": "a closed arm, keeping something to oneself",
+   "src": "Book 2 · 2.9",
+   "n": 0
+  },
+  "回": {
+   "k": "character",
+   "kw": "turn back",
+   "py": "huí",
+   "parts": "border + mouth",
+   "story": "A small box inside a big one: round and back.",
+   "forms": "same everywhere",
+   "note": "Here Yan Hui, the Master's favourite disciple. As a word, 'turn back, return'.",
+   "src": "Book 2 · 2.9",
+   "n": 17
+  },
+  "愚": {
+   "k": "character",
+   "kw": "foolish",
+   "py": "yú",
+   "parts": "禺 (a monkey) + heart",
+   "story": "A monkey's heart: foolish.",
+   "forms": "same everywhere",
+   "note": "如愚 'as if slow-witted'.",
+   "src": "Book 2 · 2.9",
+   "n": 9
+  },
+  "退": {
+   "k": "character",
+   "kw": "withdraw",
+   "py": "tuì",
+   "parts": "walking road + 艮 (turning back)",
+   "story": "On the road, turning back: withdraw.",
+   "forms": "same everywhere",
+   "note": "退 'withdrew': went off after the lesson.",
+   "src": "Book 2 · 2.9",
+   "n": 13
+  },
+  "私": {
+   "k": "character",
+   "kw": "private",
+   "py": "sī",
+   "parts": "grain + private",
+   "story": "Grain kept to oneself: private.",
+   "forms": "same everywhere",
+   "note": "其私 'his private life', what he does on his own.",
+   "src": "Book 2 · 2.9",
+   "n": 2
+  },
+  "广": {
+   "k": "component",
+   "kw": "shelter",
+   "py": "yǎn",
+   "note": "a roof with one wall: a lean-to, a building; in mainland China 广 also writes 廣 'wide'",
+   "src": "Book 2 · 2.10",
+   "n": 0
+  },
+  "視": {
+   "k": "character",
+   "kw": "look at",
+   "py": "shì",
+   "parts": "altar + see",
+   "story": "Looking closely at the altar.",
+   "forms": "视 (China); 視 (Japan)",
+   "note": "視 'look at', 觀 'observe', 察 'inspect': three looks, each closer.",
+   "src": "Book 2 · 2.10",
+   "n": 8
+  },
+  "察": {
+   "k": "character",
+   "kw": "inspect",
+   "py": "chá",
+   "parts": "roof + sacrifice (祭)",
+   "story": "Under the roof, the sacrifice is inspected closely.",
+   "forms": "same everywhere",
+   "note": "察其所安 'inspect what he is at ease in'.",
+   "src": "Book 2 · 2.10",
+   "n": 4
+  },
+  "廋": {
+   "k": "character",
+   "kw": "hide",
+   "py": "sōu",
+   "parts": "shelter + 叟 (an old man)",
+   "story": "An old man tucked under the shelter: hidden.",
+   "forms": "same everywhere",
+   "note": "人焉廋哉 'how can a person hide?'",
+   "src": "Book 2 · 2.10",
+   "n": 2
+  },
+  "哉": {
+   "k": "grammar",
+   "kw": "how …! / how?",
+   "py": "zāi",
+   "jobs": "(1) At the end, an exclamation: 'how …!, indeed!' (大哉 'how great!'). Often the description comes first: 君子哉若人 'a gentleman indeed, that man!'. (2) After a question word, a rhetorical question: 'how could …?' (人焉廋哉; 其何以行之哉 2.22).",
+   "src": "Book 2 · 2.10",
+   "n": 61
+  },
+  "後": {
+   "k": "character",
+   "kw": "after",
+   "py": "hòu",
+   "parts": "step + a thread (幺) + dragging feet",
+   "story": "A step held back by a thread: coming after.",
+   "forms": "后 (China); 後 (Japan)",
+   "note": "先…而後… 'first … and only then …'. Also 'behind, later'.",
+   "src": "Book 2 · 2.13",
+   "n": 39
+  },
+  "周": {
+   "k": "character",
+   "kw": "all-round",
+   "py": "zhōu",
+   "parts": "a border (冂) + earth + mouth",
+   "story": "Land and a well inside one border: all round.",
+   "forms": "same everywhere (in China 周 also writes 週 'week')",
+   "note": "周 'embracing all', against 比 'siding with a few'. Also the Zhou dynasty (2.23).",
+   "src": "Book 2 · 2.14",
+   "n": 21
+  },
+  "攻": {
+   "k": "character",
+   "kw": "attack",
+   "py": "gōng",
+   "parts": "tool + hand with a stick",
+   "story": "A tool and a stick in hand: attack, or work at.",
+   "forms": "same everywhere",
+   "note": "'Attack', or 'work at, specialise in': 2.16 is read both ways.",
+   "src": "Book 2 · 2.16",
+   "n": 4
+  },
+  "端": {
+   "k": "character",
+   "kw": "tip",
+   "py": "duān",
+   "parts": "stand + 耑 (a plant's tip)",
+   "story": "Standing at the plant's tip: the end point.",
+   "forms": "same everywhere",
+   "note": "異端 'other ends': off-centre doctrines, or the other extreme.",
+   "src": "Book 2 · 2.16",
+   "n": 3
+  },
+  "害": {
+   "k": "character",
+   "kw": "harm",
+   "py": "hài",
+   "parts": "roof + a tangle (丰) + mouth",
+   "story": "Under the roof, a mouth in a tangle: harm.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.16",
+   "n": 2
+  },
+  "張": {
+   "k": "character",
+   "kw": "stretch",
+   "py": "zhāng",
+   "parts": "bow (弓) + long (長)",
+   "story": "A bow drawn long: stretch.",
+   "forms": "张 (China); 張 (Japan)",
+   "note": "Here a name: 子張 Zizhang, a disciple. As a word, 'stretch, spread out'.",
+   "src": "Book 2 · 2.18",
+   "n": 26
+  },
+  "干": {
+   "k": "character",
+   "kw": "go after",
+   "py": "gān",
+   "parts": "(single shape: a forked shield)",
+   "story": "",
+   "forms": "same everywhere (in China 干 also writes 乾 'dry' and 幹 'do')",
+   "note": "干祿 'go after a salary'. Its first meaning is 'shield' (干戈 'shields and spears', 16.1).",
+   "src": "Book 2 · 2.18",
+   "n": 4
+  },
+  "祿": {
+   "k": "character",
+   "kw": "salary",
+   "py": "lù",
+   "parts": "altar + 彔 (water dripping from a bucket)",
+   "story": "Blessings dripping from the altar: fortune, then pay.",
+   "forms": "禄 (China, Japan)",
+   "note": "An official's pay, first counted in grain.",
+   "src": "Book 2 · 2.18",
+   "n": 5
+  },
+  "闕": {
+   "k": "character",
+   "kw": "leave a gap",
+   "py": "quē",
+   "parts": "gate + 欮 (a gap)",
+   "story": "A gap left in the gate.",
+   "forms": "阙 (China)",
+   "note": "闕疑 'leave aside what is doubtful'. As a noun, 'palace gate tower' (què).",
+   "src": "Book 2 · 2.18",
+   "n": 5
+  },
+  "疑": {
+   "k": "character",
+   "kw": "doubt",
+   "py": "yí",
+   "parts": "(single shape: an old man with a stick)",
+   "story": "An old man with a stick stops, unsure of the way.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.18",
+   "n": 3
+  },
+  "寡": {
+   "k": "character",
+   "kw": "few",
+   "py": "guǎ",
+   "parts": "roof + head + a knife (刀)",
+   "story": "One head alone under the roof: few.",
+   "forms": "same everywhere",
+   "note": "寡尤 'little blame'. 寡人 'the lonely one': how a ruler names himself.",
+   "src": "Book 2 · 2.18",
+   "n": 11
+  },
+  "尤": {
+   "k": "character",
+   "kw": "blame",
+   "py": "yóu",
+   "parts": "(single shape: a marked hand)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "寡尤 'little blame from others'. Later 'especially'.",
+   "src": "Book 2 · 2.18",
+   "n": 3
+  },
+  "悔": {
+   "k": "character",
+   "kw": "regret",
+   "py": "huǐ",
+   "parts": "heart + every (每)",
+   "story": "Every time, the heart wishes otherwise: regret.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.18",
+   "n": 3
+  },
+  "中": {
+   "k": "character",
+   "kw": "middle",
+   "py": "zhōng",
+   "parts": "(single shape: a pole through a box)",
+   "story": "A pole straight through the middle.",
+   "forms": "same everywhere",
+   "note": "在其中 'is in it, comes with it'. Read zhòng it means 'hit the mark'.",
+   "src": "Book 2 · 2.18",
+   "n": 26
+  },
+  "金": {
+   "k": "component",
+   "kw": "metal",
+   "py": "jīn",
+   "note": "gold, bronze, metal; 釒 is the squeezed form on the left, written 钅 in mainland China",
+   "src": "Book 2 · 2.19",
+   "n": 0,
+   "also": [
+    "釒"
+   ]
+  },
+  "釒": {
+   "k": "component",
+   "kw": "metal",
+   "py": "jīn",
+   "note": "gold, bronze, metal; 釒 is the squeezed form on the left, written 钅 in mainland China",
+   "src": "Book 2 · 2.19",
+   "n": 0,
+   "also": [
+    "金"
+   ]
+  },
+  "哀": {
+   "k": "character",
+   "kw": "grief",
+   "py": "āi",
+   "parts": "clothes (衣) + mouth",
+   "story": "A mouth wailing inside mourning clothes: grief.",
+   "forms": "same everywhere",
+   "note": "哀公 Duke Ai of Lu: 哀 'the Lamented' is the name given after his death.",
+   "src": "Book 2 · 2.19",
+   "n": 12
+  },
+  "公": {
+   "k": "character",
+   "kw": "duke",
+   "py": "gōng",
+   "parts": "dividing (八) + private",
+   "story": "Splitting up the private: public, the duke's.",
+   "forms": "same everywhere",
+   "note": "哀公 'Duke Ai'. Also 'public, shared', against 私 'private'.",
+   "src": "Book 2 · 2.19",
+   "n": 57
+  },
+  "孔": {
+   "k": "character",
+   "kw": "Kong (a surname)",
+   "py": "kǒng",
+   "parts": "child + a curve (乚)",
+   "story": "A child and an open curve: a hole.",
+   "forms": "same everywhere",
+   "note": "孔子 Master Kong: Confucius. As a word, 'hole'.",
+   "src": "Book 2 · 2.19",
+   "n": 76
+  },
+  "舉": {
+   "k": "character",
+   "kw": "raise",
+   "py": "jǔ",
+   "parts": "and / with (與) + hand",
+   "story": "Many hands together, one more below: lift it.",
+   "forms": "举 (China); 挙 (Japan)",
+   "note": "舉直 'raise up the straight': promote them to office.",
+   "src": "Book 2 · 2.19",
+   "n": 14
+  },
+  "直": {
+   "k": "character",
+   "kw": "straight",
+   "py": "zhí",
+   "parts": "ten + eye + a line",
+   "story": "Ten eyes along one line: straight.",
+   "forms": "same everywhere",
+   "note": "Straight people: honest, upright. 枉 is its opposite.",
+   "src": "Book 2 · 2.19",
+   "n": 22
+  },
+  "錯": {
+   "k": "character",
+   "kw": "put",
+   "py": "cuò",
+   "parts": "metal + 昔 (long ago)",
+   "story": "Metal laid down long ago: put in place.",
+   "forms": "错 (China); 錯 (Japan)",
+   "note": "In the Analects it stands for 措 'put, set'. Modern 'mistake, wrong'.",
+   "src": "Book 2 · 2.19",
+   "n": 5
+  },
+  "枉": {
+   "k": "character",
+   "kw": "crooked",
+   "py": "wǎng",
+   "parts": "tree + king (王)",
+   "story": "A tree bowing to the king: crooked.",
+   "forms": "same everywhere",
+   "note": "",
+   "src": "Book 2 · 2.19",
+   "n": 7
+  },
+  "季": {
+   "k": "character",
+   "kw": "Ji (a surname)",
+   "py": "jì",
+   "parts": "grain + child",
+   "story": "The child of the late harvest: the youngest.",
+   "forms": "same everywhere",
+   "note": "The Ji clan ran Lu in Confucius's day (季康子, 季氏). Its first meaning is 'youngest brother'.",
+   "src": "Book 2 · 2.20",
+   "n": 26
+  },
+  "康": {
+   "k": "character",
+   "kw": "healthy",
+   "py": "kāng",
+   "parts": "shelter + 隶 (a hand catching a tail)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "季康子 Ji Kangzi: 康 is a name given after death. As a word, 'healthy, at ease'.",
+   "src": "Book 2 · 2.20",
+   "n": 8
+  },
+  "勸": {
+   "k": "character",
+   "kw": "encourage",
+   "py": "quàn",
+   "parts": "heron (雚) + strength",
+   "story": "A heron's strength put into you: encouraged.",
+   "forms": "劝 (China); 勧 (Japan)",
+   "note": "以勸 'and be encouraged': eager. Modern 'advise, urge'.",
+   "src": "Book 2 · 2.20",
+   "n": 2
+  },
+  "臨": {
+   "k": "character",
+   "kw": "preside over",
+   "py": "lín",
+   "parts": "minister (臣) + person + things (品)",
+   "story": "A minister leans over the things below: presides.",
+   "forms": "临 (China); 臨 (Japan)",
+   "note": "Looking down from above: 'face, preside over' (臨之以莊). Also 'be on the brink of'.",
+   "src": "Book 2 · 2.20",
+   "n": 6
+  },
+  "莊": {
+   "k": "character",
+   "kw": "dignified",
+   "py": "zhuāng",
+   "parts": "grass + 壯 (sturdy)",
+   "story": "Sturdy and upright as tall grass: dignified.",
+   "forms": "庄 (China); 荘 (Japan)",
+   "note": "臨之以莊 'face them with dignity'.",
+   "src": "Book 2 · 2.20",
+   "n": 6
+  },
+  "善": {
+   "k": "character",
+   "kw": "good",
+   "py": "shàn",
+   "parts": "sheep + mouth",
+   "story": "A mouth as mild as a sheep's: good.",
+   "forms": "same everywhere",
+   "note": "舉善 'raise the good'. Before a verb: 'be good at'.",
+   "src": "Book 2 · 2.20",
+   "n": 42
+  },
+  "教": {
+   "k": "character",
+   "kw": "instruct",
+   "py": "jiāo",
+   "parts": "filial (孝) + hand with a stick",
+   "story": "A stick over the filial child: instruct.",
+   "forms": "same everywhere",
+   "note": "教不能 'instruct those who are not able'.",
+   "src": "Book 2 · 2.20",
+   "n": 7
+  },
+  "書": {
+   "k": "character",
+   "kw": "writing",
+   "py": "shū",
+   "parts": "a brush (聿) + say (曰)",
+   "story": "A hand with a brush over what is said: writing.",
+   "forms": "书 (China); 書 (Japan)",
+   "note": "《書》 the Documents: speeches of the early kings. Also 'to write', 'a letter'.",
+   "src": "Book 2 · 2.21",
+   "n": 5
+  },
+  "兄": {
+   "k": "character",
+   "kw": "elder brother",
+   "py": "xiōng",
+   "parts": "mouth + legs (儿)",
+   "story": "A mouth on legs, giving orders: elder brother.",
+   "forms": "same everywhere",
+   "note": "兄弟 'elder and younger brothers': brothers.",
+   "src": "Book 2 · 2.21",
+   "n": 11
+  },
+  "或": {
+   "k": "grammar",
+   "kw": "someone / perhaps",
+   "py": "huò",
+   "jobs": "(1) As the subject: 'someone, some people' (或謂孔子曰). (2) Before a verb: 'perhaps, maybe' (其或繼周者 'if perhaps someone continues Zhou', 2.23). Modern 'or' grew out of 'perhaps'.",
+   "src": "Book 2 · 2.21",
+   "n": 16
+  },
+  "奚": {
+   "k": "grammar",
+   "kw": "why / what",
+   "py": "xī",
+   "jobs": "A question word: 'why? what? how?' (子奚不為政 'why do you not…?'). Like 何, as an object it goes before the verb. 奚其 'how is it that…?'.",
+   "src": "Book 2 · 2.21",
+   "n": 11
+  },
+  "車": {
+   "k": "character",
+   "kw": "cart",
+   "py": "chē",
+   "parts": "(single shape: a cart seen from above)",
+   "story": "",
+   "forms": "车 (China); 車 (Japan)",
+   "note": "大車 'a big cart' (ox-drawn), 小車 'a small carriage' (horse-drawn).",
+   "src": "Book 2 · 2.22",
+   "n": 8
+  },
+  "世": {
+   "k": "character",
+   "kw": "generation",
+   "py": "shì",
+   "parts": "(single shape: three tens joined together)",
+   "story": "Three tens joined: thirty years, one generation.",
+   "forms": "same everywhere",
+   "note": "十世 'ten generations'. Also 'the world, an age'.",
+   "src": "Book 2 · 2.23",
+   "n": 15
+  },
+  "殷": {
+   "k": "character",
+   "kw": "Yin (a dynasty)",
+   "py": "yīn",
+   "parts": "㐆 (a pregnant body) + 殳 (a hand with a club)",
+   "story": "",
+   "forms": "same everywhere",
+   "note": "The Yin, or Shang, dynasty, before Zhou. As a word, 'abundant'.",
+   "src": "Book 2 · 2.23",
+   "n": 7
+  },
+  "損": {
+   "k": "character",
+   "kw": "reduce",
+   "py": "sǔn",
+   "parts": "hand + 員 (a round pot)",
+   "story": "A hand takes from the pot: less.",
+   "forms": "损 (China); 損 (Japan)",
+   "note": "損益 'taking away and adding'.",
+   "src": "Book 2 · 2.23",
+   "n": 6
+  },
+  "益": {
+   "k": "character",
+   "kw": "increase",
+   "py": "yì",
+   "parts": "water + dish",
+   "story": "Water brimming over the dish: increase.",
+   "forms": "same everywhere",
+   "note": "Also 'benefit'.",
+   "src": "Book 2 · 2.23",
+   "n": 12
+  },
+  "繼": {
+   "k": "character",
+   "kw": "continue",
+   "py": "jì",
+   "parts": "thread + 㡭 (cut threads)",
+   "story": "Thread tied onto cut threads: continue.",
+   "forms": "继 (China); 継 (Japan)",
+   "note": "繼周者 'whoever continues Zhou'.",
+   "src": "Book 2 · 2.23",
+   "n": 3
+  },
+  "鬼": {
+   "k": "character",
+   "kw": "spirit",
+   "py": "guǐ",
+   "parts": "(single shape: a figure with a huge head)",
+   "story": "A huge masked head on a body: a spirit.",
+   "forms": "same everywhere",
+   "note": "其鬼 'his own (ancestral) spirits'. Modern 'ghost'.",
+   "src": "Book 2 · 2.24",
+   "n": 5
+  },
+  "勇": {
+   "k": "character",
+   "kw": "courage",
+   "py": "yǒng",
+   "parts": "甬 (a bell) + strength",
+   "story": "Strength welling up: courage.",
+   "forms": "same everywhere",
+   "note": "無勇 'lacking courage'.",
+   "src": "Book 2 · 2.24",
+   "n": 16
   }
  },
  "words": {

@@ -513,7 +513,7 @@
        "g": "clause"
       }
      ],
-     "note": "A counter for long thin things: 一条路 'a road'. Traditional 條: 亻 and 攵 dropped away.",
+     "note": "A counter for long thin things: 一条路 'a road'. Traditional 條: 亻 and the stroke beside it dropped away, and 攵 became 夂.",
      "have": "new",
      "akw": ""
     },
@@ -1030,7 +1030,7 @@
        "g": "audience"
       }
      ],
-     "note": "Traditional 聽 had 耳 ear and 心 heart; the new shape keeps a mouth.",
+     "note": "Traditional 聽 had 耳 ear and 心 heart; the new shape has 口 mouth and 斤 instead.",
      "have": "new",
      "akw": ""
     },
@@ -1638,7 +1638,7 @@
      "rank": 335,
      "py": "shī",
      "kw": "teacher",
-     "parts": "丨 two strokes + 帀 banner",
+     "parts": "刂 two strokes + 帀 banner",
      "story": "A banner on a pole where the master stands: teacher.",
      "trad": "師",
      "words": [
@@ -2103,7 +2103,7 @@
      "rank": 366,
      "py": "chēng",
      "kw": "call by name",
-     "parts": "禾 grain + 尔 (sound)",
+     "parts": "禾 grain + 尔 thou",
      "story": "Grain weighed on the scales and given its name: call it by name.",
      "trad": "稱",
      "words": [
@@ -2123,7 +2123,7 @@
        "g": "claim"
       }
      ],
-     "note": "Also 'weigh' and 'praise'. Traditional 稱.",
+     "note": "Also 'weigh' and 'praise'. Traditional 稱: 爯 on the right became 尔.",
      "have": "new",
      "akw": ""
     }
@@ -2216,7 +2216,7 @@
        "g": "secretary"
       }
      ],
-     "note": "Traditional 書 had a hand with a brush over 日. 书记 is 'Party secretary'.",
+     "note": "Traditional 書 had a hand with a brush over 曰. 书记 is 'Party secretary'.",
      "have": "new",
      "akw": ""
     }
@@ -2260,7 +2260,7 @@
      "rank": 306,
      "py": "tóu",
      "kw": "head",
-     "parts": "丶 two dots + 大 big",
+     "parts": "⺀ two dots + 大 big",
      "story": "A big man with two tufts of hair on top: the head.",
      "trad": "頭",
      "words": [
@@ -2280,7 +2280,7 @@
        "g": "turn round"
       }
      ],
-     "note": "Often a tail meaning 'thing': 石头 'stone', 里头 'inside'. Traditional 頭 had 页 head.",
+     "note": "Often a tail that adds nothing: 石头 'stone', 里头 'inside'. Traditional 頭 had 頁 head.",
      "have": "new",
      "akw": ""
     },
@@ -2309,7 +2309,7 @@
        "g": "kind"
       }
      ],
-     "note": "Traditional 類 had 犬 and 頁 too.",
+     "note": "Traditional 類: 米 over 犬, with 頁 on the right; 犬 lost its dot and 頁 dropped away.",
      "have": "new",
      "akw": ""
     }

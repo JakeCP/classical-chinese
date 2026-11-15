@@ -654,7 +654,7 @@
        "g": "skill"
       }
      ],
-     "note": "His Analects card: 'ah!', 夫 opening a sentence. Modern 夫 is 'husband, man'.",
+     "note": "His Analects card: 'ah!', 夫 closing a sentence (如斯夫). Modern 夫 is 'husband, man'.",
      "have": "analects",
      "akw": "ah!"
     },
@@ -962,7 +962,7 @@
        "g": "magazine"
       }
      ],
-     "note": "His Analects card: 'aim', the same idea. In 杂志 and 标志 it is 'record, mark'.",
+     "note": "His Analects card: 'aim', the same idea. In 杂志 and 标志 it is 'record, mark' (traditional 誌).",
      "have": "analects",
      "akw": "aim"
     },
@@ -1762,7 +1762,7 @@
      "rank": 632,
      "py": "jiān",
      "kw": "supervise",
-     "parts": "〢 + 𠂉 a figure bending + 皿 basin",
+     "parts": "〢 two strokes + 𠂉 a figure bending + 皿 basin",
      "story": "A figure bending over a basin 皿 of water, watching closely: supervise.",
      "trad": "監",
      "words": [
@@ -1782,7 +1782,7 @@
        "g": "monitor"
       }
      ],
-     "note": "監 showed a man looking into a basin; the top is now strokes.",
+     "note": "監 had 臣, an eye, at top left, looking into the basin; in 监 the eye is cut to two strokes 〢.",
      "have": "new",
      "akw": ""
     }
@@ -1817,7 +1817,7 @@
        "g": "child"
       }
      ],
-     "note": "Modern Chinese uses it only in 朋友. Classical 'friend', as in 有朋自远方来.",
+     "note": "Modern Chinese uses it almost only in 朋友 (also 亲朋好友 'friends and family'). Classical 'friend', as in 有朋自远方来.",
      "have": "analects",
      "akw": "friend"
     },
@@ -2144,7 +2144,7 @@
        "g": "lighten"
       }
      ],
-     "note": "年轻 'young': light in years. 輕: 車 became 车.",
+     "note": "年轻 'young': light in years. 輕: 車 became 车 and 巠 became 𢀖.",
      "have": "new",
      "akw": ""
     },
@@ -3036,9 +3036,9 @@
      "c": "席",
      "rank": 697,
      "py": "xí",
-     "kw": "mat",
-     "parts": "广 shelter + 廿 + 巾 cloth",
-     "story": "A cloth 巾 mat spread under the shelter 广: your place to sit.",
+     "kw": "formal seat",
+     "parts": "广 shelter + 廿 twenty + 巾 cloth",
+     "story": "A cloth 巾 mat spread under the shelter 广: your seat at the gathering.",
      "trad": "蓆",
      "words": [
       {
@@ -3057,7 +3057,7 @@
        "g": "be absent"
       }
      ],
-     "note": "Mostly 'seat, place' at a meeting: 主席 'chairman', 出席 'attend'.",
+     "note": "First a woven mat (席子); now mostly a seat at a meeting or table: 主席 'chairman', 出席 'attend'.",
      "have": "new",
      "akw": ""
     }

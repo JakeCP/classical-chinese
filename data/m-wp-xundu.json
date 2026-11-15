@@ -246,7 +246,7 @@
      ],
      [
       "来",
-      "come"
+      "to"
      ],
      [
       "读出",
@@ -271,7 +271,7 @@
     ]
    ],
    "translation": "Kun'yomi (Japanese 訓読み, romanised kun'yomi) is one of the ways Japanese pronounces kanji: a character is read by its meaning, using the native Japanese word that corresponds to it. It is also called wakun or jikun.",
-   "note": "训读 is what made kanbun possible: a Chinese text read straight off the page as Japanese.",
+   "note": "The same word, kundoku (訓読), also names the Japanese way of reading a classical Chinese text (kanbun) as Japanese: the words are put into Japanese order with small marks, and many characters get their kun'yomi.",
    "ty": [
     "xun",
     "du",
@@ -740,7 +740,7 @@
      ],
      [
       "则",
-      "then (formal)"
+      "for its part"
      ],
      [
       "取",
@@ -1079,7 +1079,7 @@
     ],
     [
      "对",
-     "对"
+     "对@to"
     ],
     [
      "汉语",
@@ -1259,7 +1259,7 @@
      ],
      [
       "则",
-      "then (formal)"
+      "for its part"
      ],
      [
       "读",
@@ -1295,7 +1295,7 @@
      ],
      [
       "则",
-      "then (formal)"
+      "for its part"
      ],
      [
       "直接",
@@ -1359,7 +1359,7 @@
      ],
      [
       "对",
-      "right, correct"
+      "to, toward, regarding"
      ],
      [
       "汉语",
@@ -1379,7 +1379,7 @@
      ],
      [
       "而",
-      "and so"
+      "whereas"
      ],
      [
       "训读",
@@ -1387,7 +1387,7 @@
      ],
      [
       "则",
-      "then (formal)"
+      "for their part"
      ],
      [
       "相对",
@@ -1427,7 +1427,7 @@
      ],
      [
       "则",
-      "then (formal)"
+      "for its part"
      ],
      [
       "有",
@@ -1447,7 +1447,7 @@
      ]
     ]
    ],
-   "translation": "The two kinds of reading can live side by side in one character. Take the character 山 'mountain': its on'yomi is サン (san), and its kun'yomi is やま (yama). The first comes from the Chinese sound of the character; the second answers directly to a native Japanese word (its sound owes nothing to Chinese). Some on'yomi sound close to Chinese, so they feel fairly familiar to Chinese speakers, while kun'yomi feel strange. For example, 金 'gold' has the kun'yomi かね (kane), and the on'yomi キン (kin) and コン (kon).",
+   "translation": "The two kinds of reading can live side by side in one character. Take the character 山 'mountain': its on'yomi is サン (san), and its kun'yomi is やま (yama). The first comes from the Chinese sound of the character; the second answers directly to a native Japanese word (its sound owes nothing to Chinese). Some on'yomi sound close to Chinese, so they feel fairly familiar to Chinese speakers, while kun'yomi feel comparatively strange. For example, 金 'gold' has the kun'yomi かね (kane), and the on'yomi キン (kin) and コン (kon).",
    "note": "",
    "ty": [
     "liang",
@@ -1586,7 +1586,7 @@
     ],
     [
      "对",
-     "对"
+     "对@to"
     ],
     [
      "字义",
@@ -1696,7 +1696,7 @@
      ],
      [
       "对",
-      "right, correct"
+      "of"
      ],
      [
       "字义",
@@ -1736,7 +1736,7 @@
      ],
      [
       "所",
-      "(passive)"
+      "that which"
      ],
      [
       "对应",

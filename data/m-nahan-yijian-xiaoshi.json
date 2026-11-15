@@ -1,0 +1,6902 @@
+{
+ "id": "m-nahan-yijian-xiaoshi",
+ "book": 0,
+ "order": 107,
+ "title": "一件小事",
+ "label": "一件小事 (呐喊)",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: 一件小事 by Lu Xun (鲁迅), the fifth story in 呐喊 (1923), from Chinese Wikisource (zh.wikisource.org/wiki/一件小事, revision 10675925), public domain. Glosses, notes and translation added by Claude.",
+ "chapters": [
+  {
+   "n": "1.1",
+   "text": "我从乡下跑到京城里，一转眼已经六年了。",
+   "han": 17,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "从",
+     "从"
+    ],
+    [
+     "乡下",
+     "乡下"
+    ],
+    [
+     "跑",
+     "跑"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "京城",
+     "京城"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    "，",
+    [
+     "一转眼",
+     "一转眼"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "六",
+     "六"
+    ],
+    [
+     "年",
+     "年"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "乡下",
+    "跑",
+    "京城",
+    "一转眼",
+    "六"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "乡下",
+      "the country, the countryside"
+     ],
+     [
+      "跑",
+      "went"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "京城",
+      "the capital"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "一转眼",
+      "in the blink of an eye"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "六",
+      "six"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "It is six years now, gone in the blink of an eye, since I came up from the country to the capital.",
+   "note": "京城 is Beijing. Lu Xun moved there in 1912. The whole story is one man remembering: 我 is the narrator.",
+   "ty": [
+    "wo",
+    "cong",
+    "xiang",
+    "xia",
+    "pao",
+    "dao",
+    "jing",
+    "cheng",
+    "li",
+    "yi",
+    "zhuan",
+    "yan",
+    "yi",
+    "jing",
+    "liu",
+    "nian",
+    "le"
+   ]
+  },
+  {
+   "n": "1.2",
+   "text": "其间耳闻目睹的所谓国家大事，算起来也很不少；但在我心里，都不留什么痕迹，倘要我寻出这些事的影响来说，便只是增长了我的坏脾气，——老实说，便是教我一天比一天的看不起人。",
+   "han": 73,
+   "toks": [
+    [
+     "其间",
+     "其间"
+    ],
+    [
+     "耳闻目睹",
+     "耳闻目睹"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "所谓",
+     "所谓"
+    ],
+    [
+     "国家",
+     "国家"
+    ],
+    [
+     "大事",
+     "大事"
+    ],
+    "，",
+    [
+     "算起来",
+     "算起来"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "不少",
+     "不少"
+    ],
+    "；",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "心里",
+     "心里"
+    ],
+    "，",
+    [
+     "都",
+     "都"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "留",
+     "留"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    [
+     "痕迹",
+     "痕迹"
+    ],
+    "，",
+    [
+     "倘",
+     "倘"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "寻出",
+     "寻出"
+    ],
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "影响",
+     "影响"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "只是",
+     "只是"
+    ],
+    [
+     "增长",
+     "增长"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "坏脾气",
+     "坏脾气"
+    ],
+    "，——",
+    [
+     "老实说",
+     "老实说"
+    ],
+    "，",
+    [
+     "便是",
+     "便是"
+    ],
+    [
+     "教",
+     "教"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "一天",
+     "一天"
+    ],
+    [
+     "比",
+     "比"
+    ],
+    [
+     "一天",
+     "一天"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "看不起",
+     "看不起"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "。"
+   ],
+   "new": [
+    "其间",
+    "耳闻目睹",
+    "所谓",
+    "大事",
+    "算起来",
+    "不少",
+    "留",
+    "痕迹",
+    "倘",
+    "寻出",
+    "便",
+    "增长",
+    "坏脾气",
+    "老实说",
+    "便是",
+    "教",
+    "的@ly",
+    "看不起"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "其间",
+      "in that time, meanwhile"
+     ],
+     [
+      "耳闻目睹",
+      "hear and see for oneself"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "所谓",
+      "so-called"
+     ],
+     [
+      "国家",
+      "country, state"
+     ],
+     [
+      "大事",
+      "great affair, major event"
+     ],
+     [
+      "算起来",
+      "counted up, all told"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "不少",
+      "quite a few, a good many"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "心里",
+      "in one's heart, inwardly"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "留",
+      "leave (behind)"
+     ],
+     [
+      "什么",
+      "any"
+     ],
+     [
+      "痕迹",
+      "trace, mark"
+     ],
+     [
+      "倘",
+      "if (bookish)"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "寻出",
+      "search out, find"
+     ],
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "影响",
+      "influence, affect"
+     ],
+     [
+      "来",
+      "(out)"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "只是",
+      "only, merely"
+     ],
+     [
+      "增长",
+      "increase, add to"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "坏脾气",
+      "bad temper"
+     ],
+     [
+      "老实说",
+      "to be honest"
+     ],
+     [
+      "便是",
+      "is precisely, is just"
+     ],
+     [
+      "教",
+      "make (someone do), have (someone do)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "一天",
+      "one day, a day"
+     ],
+     [
+      "比",
+      "than, compared with"
+     ],
+     [
+      "一天",
+      "one day, a day"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "看不起",
+      "look down on"
+     ],
+     [
+      "人",
+      "person, people"
+     ]
+    ]
+   ],
+   "translation": "In that time the so-called great affairs of state that I heard of and saw for myself were, counted up, not few; but none of them left any trace in my heart. If I had to search out what they did to me and say it, it would only be that they made my bad temper worse: to be honest, they made me look down on people a little more each day.",
+   "note": "Four marks of 1920s writing in one sentence. 倘 is the bookish \"if\" (today 如果). 便 is the bookish \"then\" (today 就). 教 is \"make (someone do)\" (today 叫). And 一天比一天的看不起: 的 where today's books print 地 before a verb.",
+   "ty": [
+    "qi",
+    "jian",
+    "er",
+    "wen",
+    "mu",
+    "du",
+    "de",
+    "suo",
+    "wei",
+    "guo",
+    "jia",
+    "da",
+    "shi",
+    "suan",
+    "qi",
+    "lai",
+    "ye",
+    "hen",
+    "bu",
+    "shao",
+    "dan",
+    "zai",
+    "wo",
+    "xin",
+    "li",
+    "dou",
+    "bu",
+    "liu",
+    "shen",
+    "me",
+    "hen",
+    "ji",
+    "tang",
+    "yao",
+    "wo",
+    "xun",
+    "chu",
+    "zhe",
+    "xie",
+    "shi",
+    "de",
+    "ying",
+    "xiang",
+    "lai",
+    "shuo",
+    "bian",
+    "zhi",
+    "shi",
+    "zeng",
+    "zhang",
+    "le",
+    "wo",
+    "de",
+    "huai",
+    "pi",
+    "qi",
+    "lao",
+    "shi",
+    "shuo",
+    "bian",
+    "shi",
+    "jiao",
+    "wo",
+    "yi",
+    "tian",
+    "bi",
+    "yi",
+    "tian",
+    "de",
+    "kan",
+    "bu",
+    "qi",
+    "ren"
+   ]
+  },
+  {
+   "n": "2.1",
+   "text": "但有一件小事，却于我有意义，将我从坏脾气里拖开，使我至今忘记不得。",
+   "han": 29,
+   "toks": [
+    [
+     "但",
+     "但"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "件",
+     "件"
+    ],
+    [
+     "小事",
+     "小事"
+    ],
+    "，",
+    [
+     "却",
+     "却"
+    ],
+    [
+     "于",
+     "于"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "有意义",
+     "有意义"
+    ],
+    "，",
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "从",
+     "从"
+    ],
+    [
+     "坏脾气",
+     "坏脾气"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "拖",
+     "拖"
+    ],
+    [
+     "开",
+     "开"
+    ],
+    "，",
+    [
+     "使",
+     "使"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "至今",
+     "至今"
+    ],
+    [
+     "忘记",
+     "忘记"
+    ],
+    [
+     "不得",
+     "不得@v"
+    ],
+    "。"
+   ],
+   "new": [
+    "件",
+    "小事",
+    "却",
+    "有意义",
+    "拖",
+    "至今",
+    "忘记",
+    "不得@v"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "但",
+      "but"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "件",
+      "(counter for matters, clothes)"
+     ],
+     [
+      "小事",
+      "small matter, trifle"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "于",
+      "to"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "有意义",
+      "have meaning, matter"
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "坏脾气",
+      "bad temper"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "拖",
+      "drag"
+     ],
+     [
+      "开",
+      "away"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "至今",
+      "to this day"
+     ],
+     [
+      "忘记",
+      "forget"
+     ],
+     [
+      "不得",
+      "(after a verb) cannot"
+     ]
+    ]
+   ],
+   "translation": "But there is one small matter that does mean something to me. It dragged me out of my bad temper, and to this day I cannot forget it.",
+   "note": "将我…拖开 is the 把 pattern in its formal dress: \"take me and drag me away from…\". 忘记不得: 不得 after a verb is \"cannot\". The title comes from this sentence.",
+   "ty": [
+    "dan",
+    "you",
+    "yi",
+    "jian",
+    "xiao",
+    "shi",
+    "que",
+    "yu",
+    "wo",
+    "you",
+    "yi",
+    "yi",
+    "jiang",
+    "wo",
+    "cong",
+    "huai",
+    "pi",
+    "qi",
+    "li",
+    "tuo",
+    "kai",
+    "shi",
+    "wo",
+    "zhi",
+    "jin",
+    "wang",
+    "ji",
+    "bu",
+    "de"
+   ]
+  },
+  {
+   "n": "3.1",
+   "text": "这是民国六年的冬天，大北风刮得正猛，我因为生计关系，不得不一早在路上走。",
+   "han": 32,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "民国",
+     "民国"
+    ],
+    [
+     "六",
+     "六"
+    ],
+    [
+     "年",
+     "年"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "冬天",
+     "冬天"
+    ],
+    "，",
+    [
+     "大",
+     "大"
+    ],
+    [
+     "北风",
+     "北风"
+    ],
+    [
+     "刮",
+     "刮"
+    ],
+    [
+     "得",
+     "得@c"
+    ],
+    [
+     "正",
+     "正"
+    ],
+    [
+     "猛",
+     "猛"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "生计",
+     "生计"
+    ],
+    [
+     "关系",
+     "关系"
+    ],
+    "，",
+    [
+     "不得不",
+     "不得不"
+    ],
+    [
+     "一早",
+     "一早"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "路上",
+     "路上"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    "。"
+   ],
+   "new": [
+    "冬天",
+    "北风",
+    "刮",
+    "正",
+    "猛",
+    "生计",
+    "关系",
+    "不得不",
+    "一早",
+    "路上",
+    "走"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "民国",
+      "the Republic (of China, 1912 to 1949)"
+     ],
+     [
+      "六",
+      "six"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "冬天",
+      "winter"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "北风",
+      "north wind"
+     ],
+     [
+      "刮",
+      "blow (of wind)"
+     ],
+     [
+      "得",
+      "(how well:)"
+     ],
+     [
+      "正",
+      "just, right (at that moment)"
+     ],
+     [
+      "猛",
+      "fierce"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "生计",
+      "livelihood, a living"
+     ],
+     [
+      "关系",
+      "on account of"
+     ],
+     [
+      "不得不",
+      "have to"
+     ],
+     [
+      "一早",
+      "early in the morning"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "路上",
+      "on the road"
+     ],
+     [
+      "走",
+      "walk"
+     ]
+    ]
+   ],
+   "translation": "It was the winter of the sixth year of the Republic. A strong north wind was blowing at its fiercest, and I had to be out on the road early, for the sake of my living.",
+   "note": "民国六年 is 1917: the Republic began in 1912. 因为生计关系 \"because of the matter of a living\": 关系 after a cause is \"on account of\".",
+   "ty": [
+    "zhe",
+    "shi",
+    "min",
+    "guo",
+    "liu",
+    "nian",
+    "de",
+    "dong",
+    "tian",
+    "da",
+    "bei",
+    "feng",
+    "gua",
+    "de",
+    "zheng",
+    "meng",
+    "wo",
+    "yin",
+    "wei",
+    "sheng",
+    "ji",
+    "guan",
+    "xi",
+    "bu",
+    "de",
+    "bu",
+    "yi",
+    "zao",
+    "zai",
+    "lu",
+    "shang",
+    "zou"
+   ]
+  },
+  {
+   "n": "3.2",
+   "text": "一路几乎遇不见人，好容易才雇定了一辆人力车，教他拉到S门去。",
+   "han": 26,
+   "toks": [
+    [
+     "一路",
+     "一路"
+    ],
+    [
+     "几乎",
+     "几乎"
+    ],
+    [
+     "遇",
+     "遇"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "见",
+     "见"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "，",
+    [
+     "好容易",
+     "好容易"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "雇",
+     "雇"
+    ],
+    [
+     "定",
+     "定"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "辆",
+     "辆"
+    ],
+    [
+     "人力车",
+     "人力车"
+    ],
+    "，",
+    [
+     "教",
+     "教"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "拉",
+     "拉"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    "S",
+    [
+     "门",
+     "门"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "。"
+   ],
+   "new": [
+    "一路",
+    "几乎",
+    "遇",
+    "好容易",
+    "雇",
+    "辆",
+    "人力车",
+    "拉"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "一路",
+      "all the way"
+     ],
+     [
+      "几乎",
+      "almost"
+     ],
+     [
+      "遇",
+      "come across"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "见",
+      "see"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "好容易",
+      "with great difficulty"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "雇",
+      "hire"
+     ],
+     [
+      "定",
+      "settled"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "辆",
+      "(counter for vehicles)"
+     ],
+     [
+      "人力车",
+      "rickshaw"
+     ],
+     [
+      "教",
+      "make (someone do), have (someone do)"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "拉",
+      "pull"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "S",
+      ""
+     ],
+     [
+      "门",
+      "gate, door"
+     ],
+     [
+      "去",
+      "go"
+     ]
+    ]
+   ],
+   "translation": "All the way I came across almost no one. At last, with great trouble, I hired a rickshaw and had him take me to the S Gate.",
+   "note": "好容易 looks like \"very easy\" and means \"with great difficulty\": 好容易才 \"only after much trouble\". 遇不见: a verb, then 不, then 见, \"could not come upon\". Lu Xun leaves the gate as a letter, S.",
+   "ty": [
+    "yi",
+    "lu",
+    "ji",
+    "hu",
+    "yu",
+    "bu",
+    "jian",
+    "ren",
+    "hao",
+    "rong",
+    "yi",
+    "cai",
+    "gu",
+    "ding",
+    "le",
+    "yi",
+    "liang",
+    "ren",
+    "li",
+    "che",
+    "jiao",
+    "ta",
+    "la",
+    "dao",
+    "men",
+    "qu"
+   ]
+  },
+  {
+   "n": "3.3",
+   "text": "不一会，北风小了，路上浮尘早已刮净，剩下一条洁白的大道来，车夫也跑得更快。",
+   "han": 32,
+   "toks": [
+    [
+     "不一会",
+     "不一会"
+    ],
+    "，",
+    [
+     "北风",
+     "北风"
+    ],
+    [
+     "小",
+     "小"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "路上",
+     "路上"
+    ],
+    [
+     "浮尘",
+     "浮尘"
+    ],
+    [
+     "早已",
+     "早已"
+    ],
+    [
+     "刮",
+     "刮"
+    ],
+    [
+     "净",
+     "净"
+    ],
+    "，",
+    [
+     "剩下",
+     "剩下"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "条",
+     "条"
+    ],
+    [
+     "洁白",
+     "洁白"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "大道",
+     "大道"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "跑",
+     "跑"
+    ],
+    [
+     "得",
+     "得@c"
+    ],
+    [
+     "更",
+     "更"
+    ],
+    [
+     "快",
+     "快"
+    ],
+    "。"
+   ],
+   "new": [
+    "不一会",
+    "浮尘",
+    "早已",
+    "净",
+    "剩下",
+    "洁白",
+    "大道",
+    "车夫"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "不一会",
+      "before long"
+     ],
+     [
+      "北风",
+      "north wind"
+     ],
+     [
+      "小",
+      "dropped"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "路上",
+      "on the road"
+     ],
+     [
+      "浮尘",
+      "loose dust"
+     ],
+     [
+      "早已",
+      "long since"
+     ],
+     [
+      "刮",
+      "blow (of wind)"
+     ],
+     [
+      "净",
+      "clean (away)"
+     ],
+     [
+      "剩下",
+      "be left (over)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "条",
+      "(measure word for lines, roads, rivers)"
+     ],
+     [
+      "洁白",
+      "spotless white"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "大道",
+      "highway, main road"
+     ],
+     [
+      "来",
+      "(closes the verb)"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "跑",
+      "run"
+     ],
+     [
+      "得",
+      "(how well:)"
+     ],
+     [
+      "更",
+      "even more"
+     ],
+     [
+      "快",
+      "fast, quick"
+     ]
+    ]
+   ],
+   "translation": "Before long the north wind dropped. The loose dust had long since been blown off the road, leaving a clean white highway, and the rickshaw man ran faster too.",
+   "note": "",
+   "ty": [
+    "bu",
+    "yi",
+    "hui",
+    "bei",
+    "feng",
+    "xiao",
+    "le",
+    "lu",
+    "shang",
+    "fu",
+    "chen",
+    "zao",
+    "yi",
+    "gua",
+    "jing",
+    "sheng",
+    "xia",
+    "yi",
+    "tiao",
+    "jie",
+    "bai",
+    "de",
+    "da",
+    "dao",
+    "lai",
+    "che",
+    "fu",
+    "ye",
+    "pao",
+    "de",
+    "geng",
+    "kuai"
+   ]
+  },
+  {
+   "n": "3.4",
+   "text": "刚近S门，忽而车把上带著一个人，慢慢地倒了。",
+   "han": 18,
+   "toks": [
+    [
+     "刚",
+     "刚"
+    ],
+    [
+     "近",
+     "近"
+    ],
+    "S",
+    [
+     "门",
+     "门"
+    ],
+    "，",
+    [
+     "忽而",
+     "忽而"
+    ],
+    [
+     "车把",
+     "车把"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "带",
+     "带"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "，",
+    [
+     "慢慢",
+     "慢慢"
+    ],
+    [
+     "地",
+     "地@ly"
+    ],
+    [
+     "倒",
+     "倒"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "刚",
+    "忽而",
+    "车把",
+    "带",
+    "著",
+    "慢慢",
+    "倒"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "刚",
+      "just (then)"
+     ],
+     [
+      "近",
+      "near"
+     ],
+     [
+      "S",
+      ""
+     ],
+     [
+      "门",
+      "gate, door"
+     ],
+     [
+      "忽而",
+      "suddenly"
+     ],
+     [
+      "车把",
+      "shafts (of a rickshaw)"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "带",
+      "caught"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "慢慢",
+      "slowly"
+     ],
+     [
+      "地",
+      "-ly"
+     ],
+     [
+      "倒",
+      "fall over"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "We were just nearing the S Gate when a person caught on the shafts of the rickshaw and slowly fell.",
+   "note": "带著: the 1923 edition prints 著 where today's books print 着. It is the same word as 着, \"-ing\". This text has 著 six times and 着 three times; both are kept as printed.",
+   "ty": [
+    "gang",
+    "jin",
+    "men",
+    "hu",
+    "er",
+    "che",
+    "ba",
+    "shang",
+    "dai",
+    "zhe",
+    "yi",
+    "ge",
+    "ren",
+    "man",
+    "man",
+    "de",
+    "dao",
+    "le"
+   ]
+  },
+  {
+   "n": "4.1",
+   "text": "跌倒的是一个女人，花白头发，衣服都很破烂。",
+   "han": 18,
+   "toks": [
+    [
+     "跌倒",
+     "跌倒"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    "，",
+    [
+     "花白",
+     "花白"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    "，",
+    [
+     "衣服",
+     "衣服"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "破烂",
+     "破烂"
+    ],
+    "。"
+   ],
+   "new": [
+    "跌倒",
+    "女人",
+    "花白",
+    "头发",
+    "衣服",
+    "破烂"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "跌倒",
+      "fall down"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "花白",
+      "grizzled, grey-streaked (hair)"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "衣服",
+      "clothes"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "破烂",
+      "ragged, tattered"
+     ]
+    ]
+   ],
+   "translation": "The one who fell was a woman with grizzled hair, her clothes all in rags.",
+   "note": "跌倒的 \"the one who fell\": 的 with no noun after it.",
+   "ty": [
+    "die",
+    "dao",
+    "de",
+    "shi",
+    "yi",
+    "ge",
+    "nv",
+    "ren",
+    "hua",
+    "bai",
+    "tou",
+    "fa",
+    "yi",
+    "fu",
+    "dou",
+    "hen",
+    "po",
+    "lan"
+   ]
+  },
+  {
+   "n": "4.2",
+   "text": "伊从马路边上突然向车前横截过来；车夫已经让开道，但伊的破棉背心没有上扣，微风吹著，向外展开，所以终于兜著车把。",
+   "han": 49,
+   "toks": [
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "从",
+     "从"
+    ],
+    [
+     "马路",
+     "马路"
+    ],
+    [
+     "边",
+     "边"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "突然",
+     "突然"
+    ],
+    [
+     "向",
+     "向"
+    ],
+    [
+     "车",
+     "车"
+    ],
+    [
+     "前",
+     "前"
+    ],
+    [
+     "横截",
+     "横截"
+    ],
+    [
+     "过来",
+     "过来"
+    ],
+    "；",
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "让开",
+     "让开"
+    ],
+    [
+     "道",
+     "道"
+    ],
+    "，",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "破",
+     "破"
+    ],
+    [
+     "棉",
+     "棉"
+    ],
+    [
+     "背心",
+     "背心"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "扣",
+     "扣"
+    ],
+    "，",
+    [
+     "微风",
+     "微风"
+    ],
+    [
+     "吹",
+     "吹"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    "，",
+    [
+     "向外",
+     "向外"
+    ],
+    [
+     "展开",
+     "展开"
+    ],
+    "，",
+    [
+     "所以",
+     "所以"
+    ],
+    [
+     "终于",
+     "终于"
+    ],
+    [
+     "兜",
+     "兜"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    [
+     "车把",
+     "车把"
+    ],
+    "。"
+   ],
+   "new": [
+    "伊",
+    "马路",
+    "边",
+    "突然",
+    "车",
+    "横截",
+    "过来",
+    "让开",
+    "道",
+    "破",
+    "棉",
+    "背心",
+    "扣",
+    "微风",
+    "吹",
+    "向外",
+    "兜"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "马路",
+      "road, street"
+     ],
+     [
+      "边",
+      "side, edge"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "突然",
+      "suddenly"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "车",
+      "vehicle"
+     ],
+     [
+      "前",
+      "before"
+     ],
+     [
+      "横截",
+      "cut across"
+     ],
+     [
+      "过来",
+      "over (toward the speaker)"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "让开",
+      "step aside"
+     ],
+     [
+      "道",
+      "road, way"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "破",
+      "torn, broken"
+     ],
+     [
+      "棉",
+      "cotton"
+     ],
+     [
+      "背心",
+      "sleeveless jacket, waistcoat"
+     ],
+     [
+      "没有",
+      "had not"
+     ],
+     [
+      "上",
+      "do up"
+     ],
+     [
+      "扣",
+      "button"
+     ],
+     [
+      "微风",
+      "light wind, breeze"
+     ],
+     [
+      "吹",
+      "blow"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "向外",
+      "outward"
+     ],
+     [
+      "展开",
+      "spread open"
+     ],
+     [
+      "所以",
+      "so, therefore"
+     ],
+     [
+      "终于",
+      "at last, finally"
+     ],
+     [
+      "兜",
+      "catch, wrap round"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "车把",
+      "shafts (of a rickshaw)"
+     ]
+    ]
+   ],
+   "translation": "She had come off the side of the road and suddenly cut across in front of the rickshaw. The rickshaw man had already swerved out of her way, but her torn cotton waistcoat was not buttoned, and as the light wind blew it spread open, so in the end it caught on the shafts.",
+   "note": "伊 is \"she\". Lu Xun wrote 伊 for a woman, before 她 had caught on. 吹著, 兜著: 著 for 着 again.",
+   "ty": [
+    "yi",
+    "cong",
+    "ma",
+    "lu",
+    "bian",
+    "shang",
+    "tu",
+    "ran",
+    "xiang",
+    "che",
+    "qian",
+    "heng",
+    "jie",
+    "guo",
+    "lai",
+    "che",
+    "fu",
+    "yi",
+    "jing",
+    "rang",
+    "kai",
+    "dao",
+    "dan",
+    "yi",
+    "de",
+    "po",
+    "mian",
+    "bei",
+    "xin",
+    "mei",
+    "you",
+    "shang",
+    "kou",
+    "wei",
+    "feng",
+    "chui",
+    "zhe",
+    "xiang",
+    "wai",
+    "zhan",
+    "kai",
+    "suo",
+    "yi",
+    "zhong",
+    "yu",
+    "dou",
+    "zhe",
+    "che",
+    "ba"
+   ]
+  },
+  {
+   "n": "4.3",
+   "text": "幸而车夫早有点停步，否则伊定要栽一个大斤斗，跌到头破血出了。",
+   "han": 27,
+   "toks": [
+    [
+     "幸而",
+     "幸而"
+    ],
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "早",
+     "早"
+    ],
+    [
+     "有点",
+     "有点"
+    ],
+    [
+     "停步",
+     "停步"
+    ],
+    "，",
+    [
+     "否则",
+     "否则"
+    ],
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "定",
+     "定@sure"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "栽",
+     "栽"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "斤斗",
+     "斤斗"
+    ],
+    "，",
+    [
+     "跌",
+     "跌"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "头",
+     "头"
+    ],
+    [
+     "破",
+     "破"
+    ],
+    [
+     "血",
+     "血"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "幸而",
+    "早",
+    "有点",
+    "停步",
+    "否则",
+    "定@sure",
+    "栽",
+    "斤斗",
+    "跌",
+    "血"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "幸而",
+      "luckily"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "早",
+      "already"
+     ],
+     [
+      "有点",
+      "a little"
+     ],
+     [
+      "停步",
+      "stop (walking)"
+     ],
+     [
+      "否则",
+      "otherwise"
+     ],
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "定",
+      "surely, certainly"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "栽",
+      "fall (headlong)"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "斤斗",
+      "tumble, somersault"
+     ],
+     [
+      "跌",
+      "fall"
+     ],
+     [
+      "到",
+      "till"
+     ],
+     [
+      "头",
+      "head"
+     ],
+     [
+      "破",
+      "broken"
+     ],
+     [
+      "血",
+      "blood"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "Luckily the rickshaw man had already slowed a little; otherwise she would surely have taken a bad tumble and fallen till her head broke and bled.",
+   "note": "栽斤斗 is \"take a tumble\" (斤斗 is today usually written 筋斗). 头破血出 is today's set phrase 头破血流 \"head broken and blood flowing\".",
+   "ty": [
+    "xing",
+    "er",
+    "che",
+    "fu",
+    "zao",
+    "you",
+    "dian",
+    "ting",
+    "bu",
+    "fou",
+    "ze",
+    "yi",
+    "ding",
+    "yao",
+    "zai",
+    "yi",
+    "ge",
+    "da",
+    "jin",
+    "dou",
+    "die",
+    "dao",
+    "tou",
+    "po",
+    "xue",
+    "chu",
+    "le"
+   ]
+  },
+  {
+   "n": "5.1",
+   "text": "伊伏在地上；车夫便也立住脚。",
+   "han": 12,
+   "toks": [
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "伏",
+     "伏"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "地",
+     "地"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    "；",
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "立",
+     "立"
+    ],
+    [
+     "住",
+     "住@stop"
+    ],
+    [
+     "脚",
+     "脚"
+    ],
+    "。"
+   ],
+   "new": [
+    "伏",
+    "住@stop",
+    "脚"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "伏",
+      "lie face down"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "地",
+      "ground"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "立",
+      "stand"
+     ],
+     [
+      "住",
+      "stop"
+     ],
+     [
+      "脚",
+      "foot"
+     ]
+    ]
+   ],
+   "translation": "She lay face down on the ground, and the rickshaw man stopped where he stood.",
+   "note": "立住脚 \"stood his feet still\": 住 after a verb brings it to a stop.",
+   "ty": [
+    "yi",
+    "fu",
+    "zai",
+    "di",
+    "shang",
+    "che",
+    "fu",
+    "bian",
+    "ye",
+    "li",
+    "zhu",
+    "jiao"
+   ]
+  },
+  {
+   "n": "5.2",
+   "text": "我料定这老女人并没有伤，又没有别人看见，便很怪他多事，要自己惹出是非，也误了我的路。",
+   "han": 37,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "料定",
+     "料定"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "老",
+     "老"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    [
+     "并",
+     "并@not"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "伤",
+     "伤"
+    ],
+    "，",
+    [
+     "又",
+     "又"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "别人",
+     "别人"
+    ],
+    [
+     "看见",
+     "看见"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "怪",
+     "怪"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "多事",
+     "多事"
+    ],
+    "，",
+    [
+     "要",
+     "要"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "惹",
+     "惹"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "是非",
+     "是非"
+    ],
+    "，",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "误",
+     "误"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "路",
+     "路"
+    ],
+    "。"
+   ],
+   "new": [
+    "料定",
+    "怪",
+    "多事",
+    "惹",
+    "是非",
+    "误",
+    "路"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "料定",
+      "be sure, reckon"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "老",
+      "old"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "并",
+      "in fact (not)"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "伤",
+      "wound, injury"
+     ],
+     [
+      "又",
+      "and"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "别人",
+      "other people"
+     ],
+     [
+      "看见",
+      "see, catch sight of"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "怪",
+      "blame"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "多事",
+      "meddle"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "惹",
+      "stir up, bring on (trouble)"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "是非",
+      "trouble, quarrel"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "误",
+      "hold up, delay"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "路",
+      "journey"
+     ]
+    ]
+   ],
+   "translation": "I was sure the old woman was not hurt at all, and no one else had seen it, so I was annoyed with him for meddling: he would bring trouble on himself and hold up my journey too.",
+   "note": "",
+   "ty": [
+    "wo",
+    "liao",
+    "ding",
+    "zhe",
+    "lao",
+    "nv",
+    "ren",
+    "bing",
+    "mei",
+    "you",
+    "shang",
+    "you",
+    "mei",
+    "you",
+    "bie",
+    "ren",
+    "kan",
+    "jian",
+    "bian",
+    "hen",
+    "guai",
+    "ta",
+    "duo",
+    "shi",
+    "yao",
+    "zi",
+    "ji",
+    "re",
+    "chu",
+    "shi",
+    "fei",
+    "ye",
+    "wu",
+    "le",
+    "wo",
+    "de",
+    "lu"
+   ]
+  },
+  {
+   "n": "6.1",
+   "text": "我便对他说，『没有什么的。走你的罢！』",
+   "han": 14,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，『",
+    [
+     "没有什么",
+     "没有什么"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "。",
+    [
+     "走",
+     "走"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "罢",
+     "罢"
+    ],
+    "！』"
+   ],
+   "new": [
+    "没有什么",
+    "罢"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "没有什么",
+      "it's nothing"
+     ],
+     [
+      "的",
+      "(that's certain)"
+     ],
+     [
+      "走",
+      "go"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "的",
+      "(own way)"
+     ],
+     [
+      "罢",
+      "(suggestion or command): the old spelling of 吧"
+     ]
+    ]
+   ],
+   "translation": "So I said to him, 'It's nothing. Go on your way!'",
+   "note": "走你的 is \"go your (own way)\": the word 路 is left unsaid. 罢 is the old spelling of 吧, the particle of a suggestion or a command. The 1923 edition marks speech with 『』.",
+   "ty": [
+    "wo",
+    "bian",
+    "dui",
+    "ta",
+    "shuo",
+    "mei",
+    "you",
+    "shen",
+    "me",
+    "de",
+    "zou",
+    "ni",
+    "de",
+    "ba"
+   ]
+  },
+  {
+   "n": "7.1",
+   "text": "车夫毫不理会，——或者并没有听到，——却放下车子，扶那老女人慢慢起来，搀着臂膊立定，向伊说：",
+   "han": 36,
+   "toks": [
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "毫不",
+     "毫不"
+    ],
+    [
+     "理会",
+     "理会"
+    ],
+    "，——",
+    [
+     "或者",
+     "或者"
+    ],
+    [
+     "并",
+     "并@not"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "听到",
+     "听到"
+    ],
+    "，——",
+    [
+     "却",
+     "却"
+    ],
+    [
+     "放下",
+     "放下"
+    ],
+    [
+     "车子",
+     "车子"
+    ],
+    "，",
+    [
+     "扶",
+     "扶"
+    ],
+    [
+     "那",
+     "那"
+    ],
+    [
+     "老",
+     "老"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    [
+     "慢慢",
+     "慢慢"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    "，",
+    [
+     "搀",
+     "搀"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "臂膊",
+     "臂膊"
+    ],
+    [
+     "立定",
+     "立定"
+    ],
+    "，",
+    [
+     "向",
+     "向"
+    ],
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "毫不",
+    "理会",
+    "或者",
+    "放下",
+    "车子",
+    "扶",
+    "搀",
+    "臂膊",
+    "立定"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "毫不",
+      "not in the least"
+     ],
+     [
+      "理会",
+      "pay attention to, heed"
+     ],
+     [
+      "或者",
+      "or perhaps"
+     ],
+     [
+      "并",
+      "in fact (not)"
+     ],
+     [
+      "没有",
+      "did not"
+     ],
+     [
+      "听到",
+      "hear"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "放下",
+      "put down, set down"
+     ],
+     [
+      "车子",
+      "the vehicle (here the rickshaw)"
+     ],
+     [
+      "扶",
+      "help up, support with the hand"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "老",
+      "old"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "慢慢",
+      "slowly"
+     ],
+     [
+      "起来",
+      "up"
+     ],
+     [
+      "搀",
+      "take by the arm"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "臂膊",
+      "arm"
+     ],
+     [
+      "立定",
+      "stand steady"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "The rickshaw man paid no attention at all (or perhaps he did not hear), but set down the rickshaw, helped the old woman slowly to her feet, held her by the arm until she stood steady, and said to her:",
+   "note": "",
+   "ty": [
+    "che",
+    "fu",
+    "hao",
+    "bu",
+    "li",
+    "hui",
+    "huo",
+    "zhe",
+    "bing",
+    "mei",
+    "you",
+    "ting",
+    "dao",
+    "que",
+    "fang",
+    "xia",
+    "che",
+    "zi",
+    "fu",
+    "na",
+    "lao",
+    "nv",
+    "ren",
+    "man",
+    "man",
+    "qi",
+    "lai",
+    "chan",
+    "zhe",
+    "bi",
+    "bo",
+    "li",
+    "ding",
+    "xiang",
+    "yi",
+    "shuo"
+   ]
+  },
+  {
+   "n": "8.1",
+   "text": "『你怎么啦？』",
+   "han": 4,
+   "toks": [
+    "『",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "怎么",
+     "怎么"
+    ],
+    [
+     "啦",
+     "啦"
+    ],
+    "？』"
+   ],
+   "new": [
+    "啦"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "怎么",
+      "what's wrong"
+     ],
+     [
+      "啦",
+      "(exclamation): 了 and 啊 run together"
+     ]
+    ]
+   ],
+   "translation": "'What's the matter?'",
+   "note": "你怎么啦 \"what has happened to you?\": 怎么 alone, with no verb after it, asks what is wrong.",
+   "ty": [
+    "ni",
+    "zen",
+    "me",
+    "la"
+   ]
+  },
+  {
+   "n": "9.1",
+   "text": "『我摔坏了。』",
+   "han": 4,
+   "toks": [
+    "『",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "摔坏",
+     "摔坏"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。』"
+   ],
+   "new": [
+    "摔坏"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "摔坏",
+      "be hurt in a fall"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'I've been hurt in the fall.'",
+   "note": "",
+   "ty": [
+    "wo",
+    "shuai",
+    "huai",
+    "le"
+   ]
+  },
+  {
+   "n": "10.1",
+   "text": "我想，我眼见你慢慢倒地，怎么会摔坏呢，装腔作势罢了，这真可憎恶。",
+   "han": 27,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "眼见",
+     "眼见"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "慢慢",
+     "慢慢"
+    ],
+    [
+     "倒地",
+     "倒地"
+    ],
+    "，",
+    [
+     "怎么",
+     "怎么"
+    ],
+    [
+     "会",
+     "会"
+    ],
+    [
+     "摔坏",
+     "摔坏"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "，",
+    [
+     "装腔作势",
+     "装腔作势"
+    ],
+    [
+     "罢了",
+     "罢了"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "真",
+     "真"
+    ],
+    [
+     "可",
+     "可"
+    ],
+    [
+     "憎恶",
+     "憎恶"
+    ],
+    "。"
+   ],
+   "new": [
+    "眼见",
+    "倒地",
+    "装腔作势",
+    "憎恶"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "眼见",
+      "see with one's own eyes"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "慢慢",
+      "slowly"
+     ],
+     [
+      "倒地",
+      "fall to the ground"
+     ],
+     [
+      "怎么",
+      "how"
+     ],
+     [
+      "会",
+      "will"
+     ],
+     [
+      "摔坏",
+      "be hurt in a fall"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "装腔作势",
+      "put on an act"
+     ],
+     [
+      "罢了",
+      "that's all, nothing more"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "真",
+      "really, truly"
+     ],
+     [
+      "可",
+      "(worth)"
+     ],
+     [
+      "憎恶",
+      "loathe, detest"
+     ]
+    ]
+   ],
+   "translation": "I thought: I saw with my own eyes how slowly you went down, so how could you be hurt? You are only putting it on, and that is truly hateful.",
+   "note": "怎么会…呢 \"how could it be that…?\". 可憎恶 \"worth hating\": 可 before a verb makes \"-able\".",
+   "ty": [
+    "wo",
+    "xiang",
+    "wo",
+    "yan",
+    "jian",
+    "ni",
+    "man",
+    "man",
+    "dao",
+    "di",
+    "zen",
+    "me",
+    "hui",
+    "shuai",
+    "huai",
+    "ne",
+    "zhuang",
+    "qiang",
+    "zuo",
+    "shi",
+    "ba",
+    "le",
+    "zhe",
+    "zhen",
+    "ke",
+    "zeng",
+    "wu"
+   ]
+  },
+  {
+   "n": "10.2",
+   "text": "车夫多事，也正是自讨苦吃，现在你自己想法去。",
+   "han": 19,
+   "toks": [
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "多事",
+     "多事"
+    ],
+    "，",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "正是",
+     "正是"
+    ],
+    [
+     "自讨苦吃",
+     "自讨苦吃"
+    ],
+    "，",
+    [
+     "现在",
+     "现在"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "想法",
+     "想法@v"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "。"
+   ],
+   "new": [
+    "正是",
+    "自讨苦吃",
+    "想法@v"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "多事",
+      "meddle"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "正是",
+      "is just, is precisely"
+     ],
+     [
+      "自讨苦吃",
+      "ask for trouble"
+     ],
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "想法",
+      "find a way, think of a way"
+     ],
+     [
+      "去",
+      "go"
+     ]
+    ]
+   ],
+   "translation": "The rickshaw man meddled, and he is asking for trouble: now find your own way out of it.",
+   "note": "The 你 here is the rickshaw man, spoken to only in the narrator's head.",
+   "ty": [
+    "che",
+    "fu",
+    "duo",
+    "shi",
+    "ye",
+    "zheng",
+    "shi",
+    "zi",
+    "tao",
+    "ku",
+    "chi",
+    "xian",
+    "zai",
+    "ni",
+    "zi",
+    "ji",
+    "xiang",
+    "fa",
+    "qu"
+   ]
+  },
+  {
+   "n": "11.1",
+   "text": "车夫听了这老女人的话，却毫不踌躇，仍然搀著伊的臂膊，便一步一步的向前走。",
+   "han": 32,
+   "toks": [
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "听",
+     "听"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "老",
+     "老"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "，",
+    [
+     "却",
+     "却"
+    ],
+    [
+     "毫不",
+     "毫不"
+    ],
+    [
+     "踌躇",
+     "踌躇"
+    ],
+    "，",
+    [
+     "仍然",
+     "仍然"
+    ],
+    [
+     "搀",
+     "搀"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "臂膊",
+     "臂膊"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "步",
+     "步"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "步",
+     "步"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "向前",
+     "向前"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    "。"
+   ],
+   "new": [
+    "踌躇",
+    "仍然",
+    "步",
+    "向前"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "听",
+      "listen"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "老",
+      "old"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "毫不",
+      "not in the least"
+     ],
+     [
+      "踌躇",
+      "hesitate"
+     ],
+     [
+      "仍然",
+      "still, as before"
+     ],
+     [
+      "搀",
+      "take by the arm"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "臂膊",
+      "arm"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "步",
+      "step"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "步",
+      "step"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "向前",
+      "forward"
+     ],
+     [
+      "走",
+      "walk"
+     ]
+    ]
+   ],
+   "translation": "When the rickshaw man heard what the old woman said, he did not hesitate for a moment. Still holding her by the arm, he walked on with her, step by step.",
+   "note": "搀著: 著 for 着. 一步一步的: 的 for today's 地.",
+   "ty": [
+    "che",
+    "fu",
+    "ting",
+    "le",
+    "zhe",
+    "lao",
+    "nv",
+    "ren",
+    "de",
+    "hua",
+    "que",
+    "hao",
+    "bu",
+    "chou",
+    "chu",
+    "reng",
+    "ran",
+    "chan",
+    "zhe",
+    "yi",
+    "de",
+    "bi",
+    "bo",
+    "bian",
+    "yi",
+    "bu",
+    "yi",
+    "bu",
+    "de",
+    "xiang",
+    "qian",
+    "zou"
+   ]
+  },
+  {
+   "n": "11.2",
+   "text": "我有些诧异，忙看前面，是一所巡警分驻所，大风之后，外面也不见人。",
+   "han": 27,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "有些",
+     "有些"
+    ],
+    [
+     "诧异",
+     "诧异"
+    ],
+    "，",
+    [
+     "忙",
+     "忙"
+    ],
+    [
+     "看",
+     "看"
+    ],
+    [
+     "前面",
+     "前面"
+    ],
+    "，",
+    [
+     "是",
+     "是"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "所",
+     "所@m"
+    ],
+    [
+     "巡警",
+     "巡警"
+    ],
+    [
+     "分驻所",
+     "分驻所"
+    ],
+    "，",
+    [
+     "大风",
+     "大风"
+    ],
+    [
+     "之后",
+     "之后"
+    ],
+    "，",
+    [
+     "外面",
+     "外面"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不见",
+     "不见"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "。"
+   ],
+   "new": [
+    "诧异",
+    "忙",
+    "前面",
+    "所@m",
+    "巡警",
+    "分驻所",
+    "大风",
+    "外面",
+    "不见"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "有些",
+      "rather"
+     ],
+     [
+      "诧异",
+      "be surprised"
+     ],
+     [
+      "忙",
+      "hurriedly"
+     ],
+     [
+      "看",
+      "look at"
+     ],
+     [
+      "前面",
+      "ahead, in front"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "所",
+      "(counter for buildings)"
+     ],
+     [
+      "巡警",
+      "policeman"
+     ],
+     [
+      "分驻所",
+      "police substation"
+     ],
+     [
+      "大风",
+      "gale, strong wind"
+     ],
+     [
+      "之后",
+      "afterwards, after"
+     ],
+     [
+      "外面",
+      "outside"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不见",
+      "not see, see no one"
+     ],
+     [
+      "人",
+      "person, people"
+     ]
+    ]
+   ],
+   "translation": "I was rather surprised, and looked quickly ahead: there was a police substation, and after the gale there was no one outside it either.",
+   "note": "",
+   "ty": [
+    "wo",
+    "you",
+    "xie",
+    "cha",
+    "yi",
+    "mang",
+    "kan",
+    "qian",
+    "mian",
+    "shi",
+    "yi",
+    "suo",
+    "xun",
+    "jing",
+    "fen",
+    "zhu",
+    "suo",
+    "da",
+    "feng",
+    "zhi",
+    "hou",
+    "wai",
+    "mian",
+    "ye",
+    "bu",
+    "jian",
+    "ren"
+   ]
+  },
+  {
+   "n": "11.3",
+   "text": "这车夫扶著那老女人，便正是向那大门走去。",
+   "han": 18,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "扶",
+     "扶"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    [
+     "那",
+     "那"
+    ],
+    [
+     "老",
+     "老"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "正是",
+     "正是"
+    ],
+    [
+     "向",
+     "向"
+    ],
+    [
+     "那",
+     "那"
+    ],
+    [
+     "大门",
+     "大门"
+    ],
+    [
+     "走去",
+     "走去"
+    ],
+    "。"
+   ],
+   "new": [
+    "大门",
+    "走去"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "扶",
+      "help up, support with the hand"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "老",
+      "old"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "正是",
+      "is just, is precisely"
+     ],
+     [
+      "向",
+      "toward, at"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "大门",
+      "gate, main door"
+     ],
+     [
+      "走去",
+      "walk over (to)"
+     ]
+    ]
+   ],
+   "translation": "This rickshaw man, holding up the old woman, was heading straight for its gate.",
+   "note": "",
+   "ty": [
+    "zhe",
+    "che",
+    "fu",
+    "fu",
+    "zhe",
+    "na",
+    "lao",
+    "nv",
+    "ren",
+    "bian",
+    "zheng",
+    "shi",
+    "xiang",
+    "na",
+    "da",
+    "men",
+    "zou",
+    "qu"
+   ]
+  },
+  {
+   "n": "12.1",
+   "text": "我这时突然感到一种异样的感觉，觉得他满身灰尘的后影，刹时高大了，而且愈走愈大，须仰视才见。",
+   "han": 40,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "这时",
+     "这时"
+    ],
+    [
+     "突然",
+     "突然"
+    ],
+    [
+     "感到",
+     "感到"
+    ],
+    [
+     "一种",
+     "一种"
+    ],
+    [
+     "异样",
+     "异样"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "感觉",
+     "感觉"
+    ],
+    "，",
+    [
+     "觉得",
+     "觉得"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "满身",
+     "满身"
+    ],
+    [
+     "灰尘",
+     "灰尘"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "后影",
+     "后影"
+    ],
+    "，",
+    [
+     "刹时",
+     "刹时"
+    ],
+    [
+     "高大",
+     "高大"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "而且",
+     "而且"
+    ],
+    [
+     "愈",
+     "愈"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "愈",
+     "愈"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    "，",
+    [
+     "须",
+     "须"
+    ],
+    [
+     "仰视",
+     "仰视"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "见",
+     "见"
+    ],
+    "。"
+   ],
+   "new": [
+    "这时",
+    "异样",
+    "感觉",
+    "满身",
+    "灰尘",
+    "后影",
+    "刹时",
+    "高大",
+    "愈",
+    "仰视"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "这时",
+      "at this moment"
+     ],
+     [
+      "突然",
+      "suddenly"
+     ],
+     [
+      "感到",
+      "feel"
+     ],
+     [
+      "一种",
+      "a kind of, one kind"
+     ],
+     [
+      "异样",
+      "strange, unusual"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "感觉",
+      "feeling"
+     ],
+     [
+      "觉得",
+      "feel, think"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "满身",
+      "all over (the body)"
+     ],
+     [
+      "灰尘",
+      "dust"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "后影",
+      "figure seen from behind"
+     ],
+     [
+      "刹时",
+      "in an instant"
+     ],
+     [
+      "高大",
+      "tall, towering"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "而且",
+      "moreover, and besides"
+     ],
+     [
+      "愈",
+      "the more (愈…愈… \"the more…, the more…\")"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "愈",
+      "the more (愈…愈… \"the more…, the more…\")"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "须",
+      "must (formal)"
+     ],
+     [
+      "仰视",
+      "look up at"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "见",
+      "see"
+     ]
+    ]
+   ],
+   "translation": "At that moment I suddenly had a strange feeling. His dusty back seemed all at once to grow tall, and the further he walked the bigger he grew, until I had to look up to see him.",
+   "note": "刹时 is the 1923 spelling; today's books mostly print 霎时 \"in an instant\". 愈…愈… \"the more…, the more…\".",
+   "ty": [
+    "wo",
+    "zhe",
+    "shi",
+    "tu",
+    "ran",
+    "gan",
+    "dao",
+    "yi",
+    "zhong",
+    "yi",
+    "yang",
+    "de",
+    "gan",
+    "jue",
+    "jue",
+    "de",
+    "ta",
+    "man",
+    "shen",
+    "hui",
+    "chen",
+    "de",
+    "hou",
+    "ying",
+    "cha",
+    "shi",
+    "gao",
+    "da",
+    "le",
+    "er",
+    "qie",
+    "yu",
+    "zou",
+    "yu",
+    "da",
+    "xu",
+    "yang",
+    "shi",
+    "cai",
+    "jian"
+   ]
+  },
+  {
+   "n": "12.2",
+   "text": "而且他对于我，渐渐的又几乎变成一种威压，甚而至于要榨出皮袍下面藏著的『小』来。",
+   "han": 34,
+   "toks": [
+    [
+     "而且",
+     "而且"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    "，",
+    [
+     "渐渐",
+     "渐渐"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "几乎",
+     "几乎"
+    ],
+    [
+     "变成",
+     "变成"
+    ],
+    [
+     "一种",
+     "一种"
+    ],
+    [
+     "威压",
+     "威压"
+    ],
+    "，",
+    [
+     "甚而至于",
+     "甚而至于"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "榨",
+     "榨"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "皮袍",
+     "皮袍"
+    ],
+    [
+     "下面",
+     "下面"
+    ],
+    [
+     "藏",
+     "藏"
+    ],
+    [
+     "著",
+     "著"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "『",
+    [
+     "小",
+     "小"
+    ],
+    "』",
+    [
+     "来",
+     "来"
+    ],
+    "。"
+   ],
+   "new": [
+    "渐渐",
+    "变成",
+    "威压",
+    "甚而至于",
+    "榨",
+    "皮袍",
+    "下面",
+    "藏"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "而且",
+      "moreover, and besides"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "渐渐",
+      "gradually"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "又",
+      "also"
+     ],
+     [
+      "几乎",
+      "almost"
+     ],
+     [
+      "变成",
+      "become, turn into"
+     ],
+     [
+      "一种",
+      "a kind of, one kind"
+     ],
+     [
+      "威压",
+      "pressing weight, overbearing force"
+     ],
+     [
+      "甚而至于",
+      "even to the point of"
+     ],
+     [
+      "要",
+      "about to"
+     ],
+     [
+      "榨",
+      "squeeze, press out"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "皮袍",
+      "fur-lined gown"
+     ],
+     [
+      "下面",
+      "under, beneath"
+     ],
+     [
+      "藏",
+      "hide"
+     ],
+     [
+      "著",
+      "(ongoing): the 1923 spelling of 着"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "小",
+      "smallness"
+     ],
+     [
+      "来",
+      "(out)"
+     ]
+    ]
+   ],
+   "translation": "And little by little he became almost a weight pressing down on me, until he seemed about to squeeze out the 'smallness' hidden under my fur-lined gown.",
+   "note": "The quotation marks around 小 are Lu Xun's: the 'smallness' is the narrator's own pettiness, hidden under his gown. A fur-lined gown is a gentleman's dress; the rickshaw man is in the dust.",
+   "ty": [
+    "er",
+    "qie",
+    "ta",
+    "dui",
+    "yu",
+    "wo",
+    "jian",
+    "jian",
+    "de",
+    "you",
+    "ji",
+    "hu",
+    "bian",
+    "cheng",
+    "yi",
+    "zhong",
+    "wei",
+    "ya",
+    "shen",
+    "er",
+    "zhi",
+    "yu",
+    "yao",
+    "zha",
+    "chu",
+    "pi",
+    "pao",
+    "xia",
+    "mian",
+    "cang",
+    "zhe",
+    "de",
+    "xiao",
+    "lai"
+   ]
+  },
+  {
+   "n": "13.1",
+   "text": "我的活力这时大约有些凝滞了，坐着没有动，也没有想，直到看见分驻所里走出一个巡警，才下了车。",
+   "han": 40,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "活力",
+     "活力"
+    ],
+    [
+     "这时",
+     "这时"
+    ],
+    [
+     "大约",
+     "大约"
+    ],
+    [
+     "有些",
+     "有些"
+    ],
+    [
+     "凝滞",
+     "凝滞"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "坐",
+     "坐"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "动",
+     "动"
+    ],
+    "，",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    "，",
+    [
+     "直到",
+     "直到"
+    ],
+    [
+     "看见",
+     "看见"
+    ],
+    [
+     "分驻所",
+     "分驻所"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "走出",
+     "走出"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "巡警",
+     "巡警"
+    ],
+    "，",
+    [
+     "才",
+     "才"
+    ],
+    [
+     "下",
+     "下@v"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "车",
+     "车"
+    ],
+    "。"
+   ],
+   "new": [
+    "活力",
+    "大约",
+    "凝滞",
+    "坐",
+    "动",
+    "直到",
+    "走出",
+    "下@v"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "活力",
+      "energy, vitality"
+     ],
+     [
+      "这时",
+      "at this moment"
+     ],
+     [
+      "大约",
+      "probably"
+     ],
+     [
+      "有些",
+      "somewhat"
+     ],
+     [
+      "凝滞",
+      "freeze, come to a standstill"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "坐",
+      "sit"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "没有",
+      "did not"
+     ],
+     [
+      "动",
+      "move"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "没有",
+      "did not"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "直到",
+      "until"
+     ],
+     [
+      "看见",
+      "see, catch sight of"
+     ],
+     [
+      "分驻所",
+      "police substation"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "走出",
+      "walk out"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "巡警",
+      "policeman"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "下",
+      "get down (from), get off"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "车",
+      "vehicle"
+     ]
+    ]
+   ],
+   "translation": "My energy seemed to have frozen for the moment. I sat there without moving and without thinking, and only when I saw a policeman come out of the substation did I get down from the rickshaw.",
+   "note": "直到…才…: \"only when … did …\".",
+   "ty": [
+    "wo",
+    "de",
+    "huo",
+    "li",
+    "zhe",
+    "shi",
+    "da",
+    "yue",
+    "you",
+    "xie",
+    "ning",
+    "zhi",
+    "le",
+    "zuo",
+    "zhe",
+    "mei",
+    "you",
+    "dong",
+    "ye",
+    "mei",
+    "you",
+    "xiang",
+    "zhi",
+    "dao",
+    "kan",
+    "jian",
+    "fen",
+    "zhu",
+    "suo",
+    "li",
+    "zou",
+    "chu",
+    "yi",
+    "ge",
+    "xun",
+    "jing",
+    "cai",
+    "xia",
+    "le",
+    "che"
+   ]
+  },
+  {
+   "n": "14.1",
+   "text": "巡警走近我说，『你自己雇车罢，他不能拉你了。』",
+   "han": 18,
+   "toks": [
+    [
+     "巡警",
+     "巡警"
+    ],
+    [
+     "走近",
+     "走近"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，『",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "雇",
+     "雇"
+    ],
+    [
+     "车",
+     "车"
+    ],
+    [
+     "罢",
+     "罢"
+    ],
+    "，",
+    [
+     "他",
+     "他"
+    ],
+    [
+     "不能",
+     "不能"
+    ],
+    [
+     "拉",
+     "拉"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。』"
+   ],
+   "new": [
+    "走近",
+    "不能"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "巡警",
+      "policeman"
+     ],
+     [
+      "走近",
+      "come up to"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "雇",
+      "hire"
+     ],
+     [
+      "车",
+      "vehicle"
+     ],
+     [
+      "罢",
+      "(suggestion or command): the old spelling of 吧"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "不能",
+      "cannot"
+     ],
+     [
+      "拉",
+      "pull"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "The policeman came up to me and said, 'Hire yourself another rickshaw. He can't pull you any more.'",
+   "note": "",
+   "ty": [
+    "xun",
+    "jing",
+    "zou",
+    "jin",
+    "wo",
+    "shuo",
+    "ni",
+    "zi",
+    "ji",
+    "gu",
+    "che",
+    "ba",
+    "ta",
+    "bu",
+    "neng",
+    "la",
+    "ni",
+    "le"
+   ]
+  },
+  {
+   "n": "15.1",
+   "text": "我没有思索的从外套袋里抓出一大把铜元，交给巡警，说，『请你给他……』",
+   "han": 27,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "思索",
+     "思索"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "从",
+     "从"
+    ],
+    [
+     "外套",
+     "外套"
+    ],
+    [
+     "袋",
+     "袋"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "抓",
+     "抓"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "把",
+     "把@m"
+    ],
+    [
+     "铜元",
+     "铜元"
+    ],
+    "，",
+    [
+     "交给",
+     "交给"
+    ],
+    [
+     "巡警",
+     "巡警"
+    ],
+    "，",
+    [
+     "说",
+     "说"
+    ],
+    "，『",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    "……』"
+   ],
+   "new": [
+    "思索",
+    "外套",
+    "袋",
+    "抓",
+    "把@m",
+    "铜元",
+    "交给"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "没有",
+      "without"
+     ],
+     [
+      "思索",
+      "think, reflect"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "从",
+      "from"
+     ],
+     [
+      "外套",
+      "overcoat, coat"
+     ],
+     [
+      "袋",
+      "pocket, bag"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "抓",
+      "grab"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "把",
+      "handful (counter)"
+     ],
+     [
+      "铜元",
+      "copper coin"
+     ],
+     [
+      "交给",
+      "hand to"
+     ],
+     [
+      "巡警",
+      "policeman"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "给",
+      "give"
+     ],
+     [
+      "他",
+      "he, him"
+     ]
+    ]
+   ],
+   "translation": "Without thinking, I pulled a big handful of copper coins out of my coat pocket, handed them to the policeman and said, 'Please give him…'",
+   "note": "没有思索的: 的 for today's 地, \"without-thinking-ly\". 铜元 were the copper coins of the late Qing and early Republic.",
+   "ty": [
+    "wo",
+    "mei",
+    "you",
+    "si",
+    "suo",
+    "de",
+    "cong",
+    "wai",
+    "tao",
+    "dai",
+    "li",
+    "zhua",
+    "chu",
+    "yi",
+    "da",
+    "ba",
+    "tong",
+    "yuan",
+    "jiao",
+    "gei",
+    "xun",
+    "jing",
+    "shuo",
+    "qing",
+    "ni",
+    "gei",
+    "ta"
+   ]
+  },
+  {
+   "n": "16.1",
+   "text": "风全住了，路上还很静。",
+   "han": 9,
+   "toks": [
+    [
+     "风",
+     "风"
+    ],
+    [
+     "全",
+     "全"
+    ],
+    [
+     "住",
+     "住@stop"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "路上",
+     "路上"
+    ],
+    [
+     "还",
+     "还"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "静",
+     "静"
+    ],
+    "。"
+   ],
+   "new": [
+    "风",
+    "静"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "风",
+      "wind"
+     ],
+     [
+      "全",
+      "completely"
+     ],
+     [
+      "住",
+      "stop"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "路上",
+      "on the road"
+     ],
+     [
+      "还",
+      "still"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "静",
+      "quiet, still"
+     ]
+    ]
+   ],
+   "translation": "The wind had dropped completely, and the road was still very quiet.",
+   "note": "",
+   "ty": [
+    "feng",
+    "quan",
+    "zhu",
+    "le",
+    "lu",
+    "shang",
+    "hai",
+    "hen",
+    "jing"
+   ]
+  },
+  {
+   "n": "16.2",
+   "text": "我走着，一面想，几乎怕敢想到我自己。",
+   "han": 15,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    "，",
+    [
+     "一面",
+     "一面"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    "，",
+    [
+     "几乎",
+     "几乎"
+    ],
+    [
+     "怕",
+     "怕"
+    ],
+    [
+     "敢",
+     "敢"
+    ],
+    [
+     "想到",
+     "想到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    "。"
+   ],
+   "new": [
+    "一面",
+    "怕",
+    "敢",
+    "想到"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "一面",
+      "at the same time, while"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "几乎",
+      "almost"
+     ],
+     [
+      "怕",
+      "be afraid"
+     ],
+     [
+      "敢",
+      "dare"
+     ],
+     [
+      "想到",
+      "think of"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "自己",
+      "oneself"
+     ]
+    ]
+   ],
+   "translation": "As I walked I thought, and I was almost afraid to think about myself.",
+   "note": "",
+   "ty": [
+    "wo",
+    "zou",
+    "zhe",
+    "yi",
+    "mian",
+    "xiang",
+    "ji",
+    "hu",
+    "pa",
+    "gan",
+    "xiang",
+    "dao",
+    "wo",
+    "zi",
+    "ji"
+   ]
+  },
+  {
+   "n": "16.3",
+   "text": "以前的事姑且搁起，这一大把铜元又是什么意思？",
+   "han": 20,
+   "toks": [
+    [
+     "以前",
+     "以前"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "姑且",
+     "姑且"
+    ],
+    [
+     "搁",
+     "搁"
+    ],
+    [
+     "起",
+     "起"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "把",
+     "把@m"
+    ],
+    [
+     "铜元",
+     "铜元"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    [
+     "意思",
+     "意思"
+    ],
+    "？"
+   ],
+   "new": [
+    "以前",
+    "姑且",
+    "搁"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "以前",
+      "before"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "姑且",
+      "for the moment"
+     ],
+     [
+      "搁",
+      "put aside"
+     ],
+     [
+      "起",
+      "aside"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "把",
+      "handful (counter)"
+     ],
+     [
+      "铜元",
+      "copper coin"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "意思",
+      "meaning"
+     ]
+    ]
+   ],
+   "translation": "Leaving aside what came before, what did this big handful of coppers mean?",
+   "note": "又是什么意思: 又 in a question, \"what, then, did it mean?\"",
+   "ty": [
+    "yi",
+    "qian",
+    "de",
+    "shi",
+    "gu",
+    "qie",
+    "ge",
+    "qi",
+    "zhe",
+    "yi",
+    "da",
+    "ba",
+    "tong",
+    "yuan",
+    "you",
+    "shi",
+    "shen",
+    "me",
+    "yi",
+    "si"
+   ]
+  },
+  {
+   "n": "16.4",
+   "text": "奖他么？",
+   "han": 3,
+   "toks": [
+    [
+     "奖",
+     "奖"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "？"
+   ],
+   "new": [
+    "奖",
+    "么"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "奖",
+      "reward"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ]
+    ]
+   ],
+   "translation": "To reward him?",
+   "note": "么 is the old spelling of the question particle 吗.",
+   "ty": [
+    "jiang",
+    "ta",
+    "ma"
+   ]
+  },
+  {
+   "n": "16.5",
+   "text": "我还能裁判车夫么？",
+   "han": 8,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "还",
+     "还"
+    ],
+    [
+     "能",
+     "能"
+    ],
+    [
+     "裁判",
+     "裁判"
+    ],
+    [
+     "车夫",
+     "车夫"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "？"
+   ],
+   "new": [
+    "裁判"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "还",
+      "still"
+     ],
+     [
+      "能",
+      "can, be able to"
+     ],
+     [
+      "裁判",
+      "judge"
+     ],
+     [
+      "车夫",
+      "rickshaw man, carter"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ]
+    ]
+   ],
+   "translation": "Was I still fit to judge a rickshaw man?",
+   "note": "",
+   "ty": [
+    "wo",
+    "hai",
+    "neng",
+    "cai",
+    "pan",
+    "che",
+    "fu",
+    "ma"
+   ]
+  },
+  {
+   "n": "16.6",
+   "text": "我不能回答自己。",
+   "han": 7,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不能",
+     "不能"
+    ],
+    [
+     "回答",
+     "回答"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    "。"
+   ],
+   "new": [
+    "回答"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不能",
+      "cannot"
+     ],
+     [
+      "回答",
+      "answer"
+     ],
+     [
+      "自己",
+      "oneself"
+     ]
+    ]
+   ],
+   "translation": "I could not answer myself.",
+   "note": "",
+   "ty": [
+    "wo",
+    "bu",
+    "neng",
+    "hui",
+    "da",
+    "zi",
+    "ji"
+   ]
+  },
+  {
+   "n": "17.1",
+   "text": "这事到了现在，还是时时记起。",
+   "han": 12,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "现在",
+     "现在"
+    ],
+    "，",
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "时时",
+     "时时"
+    ],
+    [
+     "记起",
+     "记起"
+    ],
+    "。"
+   ],
+   "new": [
+    "时时",
+    "记起"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "还是",
+      "still, all the same"
+     ],
+     [
+      "时时",
+      "often, constantly"
+     ],
+     [
+      "记起",
+      "recall"
+     ]
+    ]
+   ],
+   "translation": "Even now this matter often comes back to me.",
+   "note": "",
+   "ty": [
+    "zhe",
+    "shi",
+    "dao",
+    "le",
+    "xian",
+    "zai",
+    "hai",
+    "shi",
+    "shi",
+    "shi",
+    "ji",
+    "qi"
+   ]
+  },
+  {
+   "n": "17.2",
+   "text": "我因此也时时熬了苦痛，努力的要想到我自己。",
+   "han": 19,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "因此",
+     "因此"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "时时",
+     "时时"
+    ],
+    [
+     "熬",
+     "熬"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "苦痛",
+     "苦痛"
+    ],
+    "，",
+    [
+     "努力",
+     "努力"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "想到",
+     "想到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    "。"
+   ],
+   "new": [
+    "因此",
+    "熬",
+    "苦痛"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "因此",
+      "because of this"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "时时",
+      "often, constantly"
+     ],
+     [
+      "熬",
+      "endure"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "苦痛",
+      "pain, suffering"
+     ],
+     [
+      "努力",
+      "make an effort, work hard"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "想到",
+      "think of"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "自己",
+      "oneself"
+     ]
+    ]
+   ],
+   "translation": "Because of it I have often borne pain and tried hard to think about myself.",
+   "note": "",
+   "ty": [
+    "wo",
+    "yin",
+    "ci",
+    "ye",
+    "shi",
+    "shi",
+    "ao",
+    "le",
+    "ku",
+    "tong",
+    "nu",
+    "li",
+    "de",
+    "yao",
+    "xiang",
+    "dao",
+    "wo",
+    "zi",
+    "ji"
+   ]
+  },
+  {
+   "n": "17.3",
+   "text": "几年来的文治武力，在我早如幼小时候所读过的『子曰诗云』一般，背不上半句了。",
+   "han": 32,
+   "toks": [
+    [
+     "几年来",
+     "几年来"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "文治",
+     "文治"
+    ],
+    [
+     "武力",
+     "武力"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "早",
+     "早"
+    ],
+    [
+     "如",
+     "如"
+    ],
+    [
+     "幼小",
+     "幼小"
+    ],
+    [
+     "时候",
+     "时候"
+    ],
+    [
+     "所",
+     "所@that"
+    ],
+    [
+     "读",
+     "读"
+    ],
+    [
+     "过",
+     "过@x"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "『",
+    [
+     "子曰",
+     "子曰"
+    ],
+    [
+     "诗",
+     "诗"
+    ],
+    [
+     "云",
+     "云"
+    ],
+    "』",
+    [
+     "一般",
+     "一般@like"
+    ],
+    "，",
+    [
+     "背",
+     "背"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "半",
+     "半"
+    ],
+    [
+     "句",
+     "句"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "几年来",
+    "文治",
+    "武力",
+    "幼小",
+    "子曰",
+    "诗",
+    "云",
+    "一般@like",
+    "背",
+    "半",
+    "句"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "几年来",
+      "these past few years"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "文治",
+      "civil rule"
+     ],
+     [
+      "武力",
+      "armed force"
+     ],
+     [
+      "在",
+      "to"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "早",
+      "long since"
+     ],
+     [
+      "如",
+      "like, as"
+     ],
+     [
+      "幼小",
+      "young, small"
+     ],
+     [
+      "时候",
+      "time, moment"
+     ],
+     [
+      "所",
+      "(before a verb) what is …-ed"
+     ],
+     [
+      "读",
+      "read"
+     ],
+     [
+      "过",
+      "(have … before)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "子曰",
+      "the Master said"
+     ],
+     [
+      "诗",
+      "the Odes"
+     ],
+     [
+      "云",
+      "say (classical)"
+     ],
+     [
+      "一般",
+      "(closes 如… or 像…) just like"
+     ],
+     [
+      "背",
+      "recite from memory"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "上",
+      "(manage)"
+     ],
+     [
+      "半",
+      "half"
+     ],
+     [
+      "句",
+      "line, sentence"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "The civil rule and the armed might of these past years have long since become for me like the 'The Master said' and 'The Odes say' I read as a small child: I cannot recite half a line of them.",
+   "note": "子曰 is how most chapters of the Analects open, and 诗云 \"the Odes say\" is how the classics quote the Book of Odes: together they stand for the old schooling. 所读过的 \"what (I) had read\". 如…一般 \"just like…\". 背不上: 背 is \"recite from memory\"; 不上 \"cannot manage it\".",
+   "ty": [
+    "ji",
+    "nian",
+    "lai",
+    "de",
+    "wen",
+    "zhi",
+    "wu",
+    "li",
+    "zai",
+    "wo",
+    "zao",
+    "ru",
+    "you",
+    "xiao",
+    "shi",
+    "hou",
+    "suo",
+    "du",
+    "guo",
+    "de",
+    "zi",
+    "yue",
+    "shi",
+    "yun",
+    "yi",
+    "ban",
+    "bei",
+    "bu",
+    "shang",
+    "ban",
+    "ju",
+    "le"
+   ]
+  },
+  {
+   "n": "17.4",
+   "text": "独有这一件小事，却总是浮在我眼前，有时反更分明，教我惭愧，催我自新，并且增长我的勇气和希望。",
+   "han": 40,
+   "toks": [
+    [
+     "独有",
+     "独有"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "件",
+     "件"
+    ],
+    [
+     "小事",
+     "小事"
+    ],
+    "，",
+    [
+     "却",
+     "却"
+    ],
+    [
+     "总是",
+     "总是"
+    ],
+    [
+     "浮",
+     "浮"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "眼前",
+     "眼前"
+    ],
+    "，",
+    [
+     "有时",
+     "有时"
+    ],
+    [
+     "反",
+     "反"
+    ],
+    [
+     "更",
+     "更"
+    ],
+    [
+     "分明",
+     "分明"
+    ],
+    "，",
+    [
+     "教",
+     "教"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "惭愧",
+     "惭愧"
+    ],
+    "，",
+    [
+     "催",
+     "催"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "自新",
+     "自新"
+    ],
+    "，",
+    [
+     "并且",
+     "并且"
+    ],
+    [
+     "增长",
+     "增长"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "勇气",
+     "勇气"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "希望",
+     "希望"
+    ],
+    "。"
+   ],
+   "new": [
+    "独有",
+    "总是",
+    "浮",
+    "眼前",
+    "有时",
+    "反",
+    "分明",
+    "惭愧",
+    "催",
+    "自新",
+    "勇气",
+    "希望"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "独有",
+      "only (there is)"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "件",
+      "(counter for matters, clothes)"
+     ],
+     [
+      "小事",
+      "small matter, trifle"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "总是",
+      "always"
+     ],
+     [
+      "浮",
+      "float"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "眼前",
+      "before one's eyes"
+     ],
+     [
+      "有时",
+      "sometimes"
+     ],
+     [
+      "反",
+      "on the contrary, instead"
+     ],
+     [
+      "更",
+      "even more"
+     ],
+     [
+      "分明",
+      "clear, distinct"
+     ],
+     [
+      "教",
+      "make (someone do), have (someone do)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "惭愧",
+      "ashamed"
+     ],
+     [
+      "催",
+      "urge, press"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "自新",
+      "reform oneself, start anew"
+     ],
+     [
+      "并且",
+      "and, moreover"
+     ],
+     [
+      "增长",
+      "increase, add to"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "勇气",
+      "courage"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "希望",
+      "hope"
+     ]
+    ]
+   ],
+   "translation": "Only this one small matter is always floating before my eyes, at times even clearer than before. It makes me ashamed, it urges me to reform myself, and it adds to my courage and my hope.",
+   "note": "",
+   "ty": [
+    "du",
+    "you",
+    "zhe",
+    "yi",
+    "jian",
+    "xiao",
+    "shi",
+    "que",
+    "zong",
+    "shi",
+    "fu",
+    "zai",
+    "wo",
+    "yan",
+    "qian",
+    "you",
+    "shi",
+    "fan",
+    "geng",
+    "fen",
+    "ming",
+    "jiao",
+    "wo",
+    "can",
+    "kui",
+    "cui",
+    "wo",
+    "zi",
+    "xin",
+    "bing",
+    "qie",
+    "zeng",
+    "zhang",
+    "wo",
+    "de",
+    "yong",
+    "qi",
+    "he",
+    "xi",
+    "wang"
+   ]
+  },
+  {
+   "n": "18.1",
+   "text": "（一九二〇年七月。）",
+   "han": 6,
+   "toks": [
+    "（",
+    [
+     "一",
+     "一"
+    ],
+    [
+     "九",
+     "九"
+    ],
+    [
+     "二",
+     "二"
+    ],
+    "〇",
+    [
+     "年",
+     "年"
+    ],
+    [
+     "七",
+     "七"
+    ],
+    [
+     "月",
+     "月"
+    ],
+    "。）"
+   ],
+   "new": [
+    "九",
+    "二",
+    "七"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "一",
+      "one"
+     ],
+     [
+      "九",
+      "nine"
+     ],
+     [
+      "二",
+      "two"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "七",
+      "seven"
+     ],
+     [
+      "月",
+      "month"
+     ]
+    ]
+   ],
+   "translation": "(July 1920.)",
+   "note": "Lu Xun dates each story in 呐喊. The Wikisource page notes that this date line was not in the first printing; it was added when the stories were put together as a book. 〇 is the zero of a year written figure by figure.",
+   "ty": [
+    "yi",
+    "jiu",
+    "er",
+    "nian",
+    "qi",
+    "yue"
+   ]
+  }
+ ]
+}

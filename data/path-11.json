@@ -240,7 +240,7 @@
        "g": "transliterate"
       }
      ],
-     "note": "譯: 訁 became 讠.",
+     "note": "譯: 訁 became 讠 and 睪 shrank to 𠬤, as in 泽.",
      "have": "new",
      "akw": ""
     },
@@ -362,7 +362,7 @@
        "g": "pleasant surprise"
       }
      ],
-     "note": "驚 had 馬 below; 惊 uses 忄.",
+     "note": "驚 was 敬 over 馬; 惊 is built anew from 忄 and 京.",
      "have": "new",
      "akw": ""
     },
@@ -464,7 +464,7 @@
      "rank": 1060,
      "py": "shù",
      "kw": "tree",
-     "parts": "木 wood + 对 (sound)",
+     "parts": "木 wood + 对 (cut down)",
      "story": "A trunk set upright: a tree.",
      "trad": "樹",
      "words": [
@@ -571,7 +571,7 @@
        "g": "roomy"
       }
      ],
-     "note": "Also 'pine tree'. 鬆 had hair 髟 on top; 松 has 木.",
+     "note": "Also 'pine tree', always 松. 'Loose' was 鬆, 髟 hair over 松; the short form dropped the 髟.",
      "have": "new",
      "akw": ""
     },
@@ -580,7 +580,7 @@
      "rank": 1045,
      "py": "chǔ",
      "kw": "clearly",
-     "parts": "林 woods + 疋 foot",
+     "parts": "林 woods + 疋 foot (sound)",
      "story": "Feet working through the woods until the way is clear: clearly.",
      "trad": "",
      "words": [
@@ -673,7 +673,7 @@
      "rank": 1076,
      "py": "sī",
      "kw": "silk",
-     "parts": "幺 thread + 幺 thread + 一 bar",
+     "parts": "幺-like thread + 幺-like thread + 一 bar",
      "story": "Two threads of silk on a loom.",
      "trad": "絲",
      "words": [
@@ -786,7 +786,7 @@
        "g": "as if"
       }
      ],
-     "note": "In 仿佛 'as if' it means 'like'.",
+     "note": "In 仿佛 'as if' it means 'like'. 'Buddha' is 佛 in traditional too; 彿 is only the 仿佛 one.",
      "have": "new",
      "akw": ""
     },
@@ -859,8 +859,8 @@
      "rank": 1050,
      "py": "qī",
      "kw": "wife",
-     "parts": "- a hand-shaped top over 女 woman",
-     "story": "A hand brings a woman home: wife.",
+     "parts": "十 hairpin + 彐 hand + 女 woman",
+     "story": "A hand putting a pin in a woman's hair: a wife.",
      "trad": "",
      "words": [
       {
@@ -1225,7 +1225,7 @@
      "c": "贝",
      "rank": 1055,
      "py": "bèi",
-     "kw": "cowrie",
+     "kw": "shell",
      "parts": "- a shell with two legs below a box",
      "story": "A shell with legs: the old money.",
      "trad": "貝",
@@ -1246,7 +1246,7 @@
        "g": "copy"
       }
      ],
-     "note": "His Analects card: 'shell'. 貝 became 贝. As a part, it marks money.",
+     "note": "Same as his Analects card. 貝 became 贝. As a part, it marks money.",
      "have": "shape",
      "akw": "shell"
     },
@@ -1464,7 +1464,7 @@
      "rank": 1061,
      "py": "yíng",
      "kw": "win",
-     "parts": "亡 + 口 + 月 + 贝 shell + 凡",
+     "parts": "亡 lost + 口 mouth + 月 flesh + 贝 shell + 凡 ordinary",
      "story": "A pile of shell-money in your hands while the rivals are lost: win.",
      "trad": "贏",
      "words": [
@@ -1679,8 +1679,8 @@
      "rank": 1033,
      "py": "tīng",
      "kw": "reception hall",
-     "parts": "广 lean-to + 丁 nail (sound)",
-     "story": "A big roof where guests are received.",
+     "parts": "厂 cliff + 丁 nail (sound)",
+     "story": "A wide overhang where guests are received: a hall.",
      "trad": "廳",
      "words": [
       {
@@ -1699,7 +1699,7 @@
        "g": "living room"
       }
      ],
-     "note": "廳 had a big 聽 inside; 厅 kept only 广 and 丁.",
+     "note": "廳 was 广 over a big 聽; 厅 has 厂, with 丁 in place of 聽.",
      "have": "new",
      "akw": ""
     },
@@ -1786,7 +1786,7 @@
        "g": "open"
       }
      ],
-     "note": "",
+     "note": "Traditional is also 幕; 幙 is a rare variant.",
      "have": "new",
      "akw": ""
     }
@@ -1821,7 +1821,7 @@
        "g": "constitutional rule"
       }
      ],
-     "note": "憲 had 心 and 害 under a roof; 宪 shrank it.",
+     "note": "憲 had 龶, 罒 and 心 under the roof; 宪 puts 先 there instead.",
      "have": "new",
      "akw": ""
     },
@@ -1972,7 +1972,7 @@
        "g": "reckless"
       }
      ],
-     "note": "Also short for Shandong and a surname. 魯 had 白 and 魚.",
+     "note": "Also the old state of Lu, hence short for Shandong; a surname. 魯: 魚 became 鱼.",
      "have": "new",
      "akw": ""
     },
@@ -2036,7 +2036,7 @@
        "g": "stamp"
       }
      ],
-     "note": "蓋 had 艹 grass on top; 盖 has a lid. Also 'build': 盖房子.",
+     "note": "His Analects card: 'perhaps'. 蓋 had 艹 grass on top; 盖 has a lid. Also 'build': 盖房子.",
      "have": "shape",
      "akw": "perhaps"
     },
@@ -2074,7 +2074,7 @@
      "rank": 1082,
      "py": "bì",
      "kw": "shut",
-     "parts": "门 gate + 才",
+     "parts": "门 gate + 才 bar",
      "story": "A gate with a bar across: shut.",
      "trad": "閉",
      "words": [
@@ -2102,7 +2102,7 @@
      "c": "蒙",
      "rank": 1069,
      "py": "méng",
-     "kw": "ignorant",
+     "kw": "covered",
      "parts": "艹 grass + 冡 covered (sound)",
      "story": "Grass heaped over a thing, hiding it: covered over, in the dark.",
      "trad": "矇/濛/懞",
@@ -2123,7 +2123,7 @@
        "g": "Mongolia"
       }
      ],
-     "note": "Mostly 'cover', 'suffer' and 'Mongolia'.",
+     "note": "Also 'suffer' (蒙受) and 'ignorant': 启蒙 lifts that cover. 蒙古 is Mongolia.",
      "have": "new",
      "akw": ""
     }
@@ -2167,7 +2167,7 @@
      "rank": 1053,
      "py": "cù",
      "kw": "urge",
-     "parts": "亻 person + 足 foot",
+     "parts": "亻 person + 足 foot (sound)",
      "story": "A person at your heels: urge on.",
      "trad": "",
      "words": [
@@ -2347,7 +2347,7 @@
      "rank": 1005,
      "py": "zhì",
      "kw": "wisdom",
-     "parts": "知 know + 日 sun",
+     "parts": "知 know (sound) + 日 sun",
      "story": "Knowing brought into daylight: wisdom.",
      "trad": "",
      "words": [
@@ -2454,7 +2454,7 @@
        "g": "script"
       }
      ],
-     "note": "Also 'base': 山脚 'foot of a hill'. 腳 had 却 too.",
+     "note": "Also 'base': 山脚 'foot of a hill'. 腳 had 卻; 却 is its short form.",
      "have": "new",
      "akw": ""
     }
@@ -2469,7 +2469,7 @@
      "rank": 1077,
      "py": "cān",
      "kw": "meal",
-     "parts": "歹 + 又 over 食 food",
+     "parts": "歺 bones + 又 hand + 食 food",
      "story": "Food laid out and hands reaching for it: a meal.",
      "trad": "",
      "words": [
@@ -2611,7 +2611,7 @@
        "g": "in secret"
       }
      ],
-     "note": "",
+     "note": "Traditional is also 暗; 闇 is an old variant.",
      "have": "new",
      "akw": ""
     },
@@ -2620,7 +2620,7 @@
      "rank": 1087,
      "py": "xià",
      "kw": "summer",
-     "parts": "页 head (changed) + 夂 slow foot",
+     "parts": "頁 head (cut down) + 夂 slow foot",
      "story": "A slow foot dragging under a wide hat in the heat: summer.",
      "trad": "",
      "words": [
@@ -2957,7 +2957,7 @@
      "rank": 1021,
      "py": "wéi",
      "kw": "sole",
-     "parts": "口 mouth + 隹 bird",
+     "parts": "口 mouth + 隹 bird (sound)",
      "story": "A single bird calling alone: the sole one.",
      "trad": "",
      "words": [

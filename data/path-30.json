@@ -63,9 +63,9 @@
      "c": "呦",
      "rank": 2960,
      "py": "yōu",
-     "kw": "dismay",
+     "kw": "oh my",
      "parts": "口 mouth + 幼 young (sound)",
-     "story": "A mouth crying out in surprise: oh!",
+     "story": "A mouth crying out in surprise: oh my!",
      "trad": "",
      "words": [
       {
@@ -140,7 +140,7 @@
       {
        "w": "呼啸",
        "py": "hūxiào",
-       "g": "whistle past"
+       "g": "whistle, howl"
       },
       {
        "w": "呼啸而过",
@@ -365,7 +365,7 @@
      "c": "嗽",
      "rank": 2971,
      "py": "sòu",
-     "kw": "bad cough",
+     "kw": "cough",
      "parts": "口 mouth + 欶 (sound)",
      "story": "A mouth barking out a rough breath: a cough.",
      "trad": "",
@@ -381,7 +381,7 @@
        "g": "cough"
       }
      ],
-     "note": "Only in 咳嗽, with 咳.",
+     "note": "Only in 咳嗽, with 咳; both halves mean 'cough'.",
      "have": "new",
      "akw": ""
     },
@@ -447,14 +447,14 @@
   },
   {
    "title": "old particles",
-   "note": "Words from older writing that still end sentences.",
+   "note": "Words from older writing: two that end sentences, and a literary 'if'.",
    "chars": [
     {
      "c": "矣",
      "rank": 2925,
      "py": "yǐ",
      "kw": "final particle",
-     "parts": "厶 + 矢 arrow",
+     "parts": "厶 a twist + 矢 arrow",
      "story": "Like an arrow that has landed: the thing is done.",
      "trad": "",
      "words": [
@@ -535,7 +535,7 @@
   },
   {
    "title": "hand 扌",
-   "note": "A hand on the left: wipe, cover, pick.",
+   "note": "A hand on the left (on top, as 爫, in 舀): wipe, cover, pick, ladle.",
    "chars": [
     {
      "c": "抉",
@@ -756,12 +756,12 @@
        "g": "long for"
       },
       {
-       "w": "憬",
-       "py": "jǐng",
-       "g": "awaken"
+       "w": "憬然",
+       "py": "jǐngrán",
+       "g": "aware"
       }
      ],
-     "note": "Only in 憧憬.",
+     "note": "Almost only in 憧憬.",
      "have": "new",
      "akw": ""
     },
@@ -817,9 +817,9 @@
      "c": "怡",
      "rank": 2915,
      "py": "yí",
-     "kw": "harmony",
+     "kw": "quietly pleased",
      "parts": "忄 heart + 台 (sound)",
-     "story": "A heart at ease: harmony.",
+     "story": "A heart at ease: quietly pleased.",
      "trad": "",
      "words": [
       {
@@ -1224,7 +1224,7 @@
        "g": "citric acid"
       }
      ],
-     "note": "Only in 柠檬. 檸 became 柠.",
+     "note": "Almost only in 柠檬; also 青柠 'lime'. 檸 became 柠.",
      "have": "new",
      "akw": ""
     },
@@ -1232,7 +1232,7 @@
      "c": "檬",
      "rank": 2927,
      "py": "méng",
-     "kw": "citrus",
+     "kw": "lemon half",
      "parts": "木 tree + 蒙 (sound)",
      "story": "The second half of the lemon tree.",
      "trad": "",
@@ -1262,8 +1262,8 @@
      "rank": 2936,
      "py": "zǎo",
      "kw": "jujube",
-     "parts": "- a thorny tree with two tiers of spines",
-     "story": "A thorny tree whose red fruit we call dates.",
+     "parts": "朿 thorn tree + ⺀ two dots",
+     "story": "A thorn tree with two red fruits dropping from it: the jujube.",
      "trad": "棗",
      "words": [
       {
@@ -1282,7 +1282,7 @@
        "g": "jujube tree"
       }
      ],
-     "note": "棗 became 枣.",
+     "note": "棗 became 枣: the lower 朿 became two dots.",
      "have": "new",
      "akw": ""
     },
@@ -1347,8 +1347,8 @@
    ]
   },
   {
-   "title": "plants 艹",
-   "note": "Grass on top: herbs, flowers, fungus.",
+   "title": "plants",
+   "note": "Grass 艹 on top, or bamboo ⺮ for the shoot: herbs, flowers, fungus.",
    "chars": [
     {
      "c": "笋",
@@ -1383,9 +1383,9 @@
      "c": "蓉",
      "rank": 2924,
      "py": "róng",
-     "kw": "bean paste",
+     "kw": "mashed paste",
      "parts": "艹 grass + 容 (sound)",
-     "story": "Plant matter mashed smooth: a bean paste.",
+     "story": "Plant matter mashed smooth: a paste.",
      "trad": "",
      "words": [
       {
@@ -1404,7 +1404,7 @@
        "g": "lotus rising from water"
       }
      ],
-     "note": "Also in 芙蓉 'hibiscus'.",
+     "note": "Also in 芙蓉 'hibiscus', and short for Chengdu.",
      "have": "new",
      "akw": ""
     },
@@ -1454,7 +1454,7 @@
       {
        "w": "小茴香",
        "py": "xiǎohuíxiāng",
-       "g": "cumin"
+       "g": "fennel seed"
       },
       {
        "w": "八角茴香",
@@ -1499,9 +1499,9 @@
      "c": "蘑",
      "rank": 2967,
      "py": "mó",
-     "kw": "wild mushroom",
+     "kw": "mushroom",
      "parts": "艹 grass + 磨 grind (sound)",
-     "story": "A plant that pops up wild on the damp ground.",
+     "story": "A plant that pops up on the damp ground: a mushroom.",
      "trad": "",
      "words": [
       {
@@ -1520,7 +1520,7 @@
        "g": "Saint George's mushroom"
       }
      ],
-     "note": "",
+     "note": "Mostly in 蘑菇, with 菇.",
      "have": "new",
      "akw": ""
     },
@@ -1616,7 +1616,7 @@
   },
   {
    "title": "chemistry",
-   "note": "Names of elements.",
+   "note": "Two elements, and the stem 丙 used in chemical names.",
    "chars": [
     {
      "c": "氮",
@@ -1681,7 +1681,7 @@
      "rank": 2904,
      "py": "bǐng",
      "kw": "third stem",
-     "parts": "- one stroke inside a frame",
+     "parts": "- a stroke over a frame with 人 inside",
      "story": "The third of the ten heavenly stems, also the 'prop' in propane.",
      "trad": "",
      "words": [
@@ -1890,9 +1890,9 @@
      "c": "疤",
      "rank": 2974,
      "py": "bā",
-     "kw": "scab",
+     "kw": "wound scar",
      "parts": "疒 sickness + 巴 stick (sound)",
-     "story": "The mark left where a wound stuck: a scab.",
+     "story": "The mark left where a wound has healed: a scar.",
      "trad": "",
      "words": [
       {
@@ -1911,7 +1911,7 @@
        "g": "knife scar"
       }
      ],
-     "note": "",
+     "note": "Also 'scab'.",
      "have": "new",
      "akw": ""
     },
@@ -2141,7 +2141,7 @@
       {
        "w": "眼帘",
        "py": "yǎnlián",
-       "g": "eyelid"
+       "g": "the eyes"
       }
      ],
      "note": "簾 became 帘.",
@@ -2251,7 +2251,7 @@
      "c": "佤",
      "rank": 2998,
      "py": "wǎ",
-     "kw": "Wa people",
+     "kw": "wa people",
      "parts": "亻 person + 瓦 tile (sound)",
      "story": "A person from the tiled hill villages of the far southwest: the Wa.",
      "trad": "",
@@ -2260,6 +2260,11 @@
        "w": "佤族",
        "py": "Wǎzú",
        "g": "the Wa people"
+      },
+      {
+       "w": "阿佤",
+       "py": "Āwǎ",
+       "g": "the Wa"
       }
      ],
      "note": "Only in the name of this people of Yunnan and Burma.",
@@ -2301,7 +2306,7 @@
      "py": "xuē",
      "kw": "surname xue",
      "parts": "艹 grass + 辛 bitter + 𠂤 mound",
-     "story": "A family name.",
+     "story": "Bitter grass on a mound, an old wormwood: now the family name Xue.",
      "trad": "",
      "words": [
       {
@@ -2591,70 +2596,6 @@
    ]
   },
   {
-   "title": "happy",
-   "note": "Joy and ease.",
-   "chars": [
-    {
-     "c": "禧",
-     "rank": 2943,
-     "py": "xǐ",
-     "kw": "joy",
-     "parts": "礻 altar + 喜 happy",
-     "story": "A blessing at the altar: joy.",
-     "trad": "",
-     "words": [
-      {
-       "w": "新禧",
-       "py": "xīnxǐ",
-       "g": "Happy New Year"
-      },
-      {
-       "w": "千禧年",
-       "py": "qiānxǐnián",
-       "g": "millennium"
-      },
-      {
-       "w": "慈禧",
-       "py": "Cíxǐ",
-       "g": "Empress Dowager Cixi"
-      }
-     ],
-     "note": "A name element, as in the Empress Dowager 慈禧.",
-     "have": "new",
-     "akw": ""
-    },
-    {
-     "c": "弧",
-     "rank": 2945,
-     "py": "hú",
-     "kw": "arc",
-     "parts": "弓 bow + 瓜 melon (sound)",
-     "story": "The curve of a drawn bow: an arc.",
-     "trad": "",
-     "words": [
-      {
-       "w": "弧形",
-       "py": "húxíng",
-       "g": "arc"
-      },
-      {
-       "w": "弧度",
-       "py": "húdù",
-       "g": "radian"
-      },
-      {
-       "w": "弧线",
-       "py": "húxiàn",
-       "g": "curve"
-      }
-     ],
-     "note": "",
-     "have": "new",
-     "akw": ""
-    }
-   ]
-  },
-  {
    "title": "single shapes",
    "note": "Stand-alone characters.",
    "chars": [
@@ -2731,7 +2672,7 @@
        "g": "deputy"
       }
      ],
-     "note": "Old official title. An old title for a deputy, as in 丞相 'chancellor'.",
+     "note": "An old title for a deputy, as in 丞相 'prime minister'.",
      "have": "new",
      "akw": ""
     },
@@ -2921,6 +2862,64 @@
       }
      ],
      "note": "A crude word that appears in internet slang.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "禧",
+     "rank": 2943,
+     "py": "xǐ",
+     "kw": "joy",
+     "parts": "礻 altar + 喜 happy",
+     "story": "A blessing at the altar: joy.",
+     "trad": "",
+     "words": [
+      {
+       "w": "新禧",
+       "py": "xīnxǐ",
+       "g": "Happy New Year"
+      },
+      {
+       "w": "千禧年",
+       "py": "qiānxǐnián",
+       "g": "millennium"
+      },
+      {
+       "w": "慈禧",
+       "py": "Cíxǐ",
+       "g": "Empress Dowager Cixi"
+      }
+     ],
+     "note": "A name element, as in the Empress Dowager 慈禧.",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "弧",
+     "rank": 2945,
+     "py": "hú",
+     "kw": "arc",
+     "parts": "弓 bow + 瓜 melon (sound)",
+     "story": "The curve of a drawn bow: an arc.",
+     "trad": "",
+     "words": [
+      {
+       "w": "弧形",
+       "py": "húxíng",
+       "g": "arc"
+      },
+      {
+       "w": "弧度",
+       "py": "húdù",
+       "g": "radian"
+      },
+      {
+       "w": "弧线",
+       "py": "húxiàn",
+       "g": "curve"
+      }
+     ],
+     "note": "",
      "have": "new",
      "akw": ""
     }

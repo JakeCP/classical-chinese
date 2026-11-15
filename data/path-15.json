@@ -31,7 +31,7 @@
        "g": "both legs"
       }
      ],
-     "note": "腿 stands for 骽.",
+     "note": "",
      "have": "new",
      "akw": ""
     },
@@ -269,7 +269,7 @@
        "g": "be stationed"
       }
      ],
-     "note": "扎 stands for 紮.",
+     "note": "In 'tie' and 驻扎 扎 stands for 紮; in 挣扎 and 扎实 it is 扎 itself.",
      "have": "new",
      "akw": ""
     },
@@ -449,7 +449,7 @@
        "g": "far and wide"
       }
      ],
-     "note": "纵 stands for 縱.",
+     "note": "纵 stands for 縱. Also 'let loose': 放纵 'indulge', 纵火 'set on fire'.",
      "have": "new",
      "akw": ""
     }
@@ -492,9 +492,9 @@
      "c": "驶",
      "rank": 1458,
      "py": "shǐ",
-     "kw": "speed",
+     "kw": "go along",
      "parts": "马 horse + 史 history (sound)",
-     "story": "A horse running fast, a vehicle on its way: speed along.",
+     "story": "A horse on the road, now any vehicle on its way: go along.",
      "trad": "駛",
      "words": [
       {
@@ -513,7 +513,7 @@
        "g": "driver"
       }
      ],
-     "note": "驶 stands for 駛.",
+     "note": "驶 stands for 駛. Said of cars, trains and boats moving, fast or slow: 驶入 'drive in'.",
      "have": "new",
      "akw": ""
     },
@@ -949,7 +949,7 @@
        "g": "foot (length)"
       }
      ],
-     "note": "",
+     "note": "As a unit, a Chinese foot, a third of a meter.",
      "have": "new",
      "akw": ""
     },
@@ -1144,7 +1144,7 @@
      "rank": 1485,
      "py": "bān",
      "kw": "issue",
-     "parts": "分 divide + 页 head",
+     "parts": "分 divide (sound) + 页 head",
      "story": "Handing out to each head in turn: issue.",
      "trad": "頒",
      "words": [
@@ -1510,9 +1510,9 @@
      "c": "辛",
      "rank": 1480,
      "py": "xīn",
-     "kw": "pungent",
+     "kw": "laborious",
      "parts": "- a cross-bar over a sharp needle",
-     "story": "A needle-sharp tool: sharp, bitter, pungent, laborious.",
+     "story": "A needle-sharp tool for punishment: bitter, laborious work.",
      "trad": "",
      "words": [
       {
@@ -1531,7 +1531,7 @@
        "g": "hardship"
       }
      ],
-     "note": "In 辛苦 it means toil, hardship.",
+     "note": "Also 'pungent' in taste: 辛辣 'spicy hot'.",
      "have": "new",
      "akw": ""
     },
@@ -1540,7 +1540,7 @@
      "rank": 1405,
      "py": "biàn",
      "kw": "debate",
-     "parts": "辛 + 讠 words + 辛",
+     "parts": "辛 needle + 讠 words + 辛 needle",
      "story": "Two sharp parties with words in between: debate.",
      "trad": "辯",
      "words": [
@@ -1569,7 +1569,7 @@
      "rank": 1422,
      "py": "cí",
      "kw": "resign",
-     "parts": "舌 tongue + 辛",
+     "parts": "舌 tongue + 辛 needle",
      "story": "A tongue-lashing turned to words of farewell: resign, decline.",
      "trad": "辭",
      "words": [
@@ -1604,7 +1604,7 @@
      "rank": 1411,
      "py": "fǎn",
      "kw": "return to",
-     "parts": "辶 walk + 反 reverse",
+     "parts": "辶 walk + 反 reverse (sound)",
      "story": "Walking the way you came: return to.",
      "trad": "",
      "words": [
@@ -1799,12 +1799,12 @@
        "g": "dosage"
       },
       {
-       "w": "调剂",
-       "py": "tiáojì",
-       "g": "adjust"
+       "w": "杀虫剂",
+       "py": "shāchóngjì",
+       "g": "insecticide"
       }
      ],
-     "note": "剂 stands for 劑. A medicine mix.",
+     "note": "剂 stands for 劑. As a suffix, a mixed chemical: 杀虫剂 'insecticide', 添加剂 'additive'.",
      "have": "new",
      "akw": ""
     },
@@ -1813,7 +1813,7 @@
      "rank": 1465,
      "py": "shuā",
      "kw": "brush",
-     "parts": "尸 + 巾 cloth + 刂 knife",
+     "parts": "尸 body + 巾 cloth + 刂 knife",
      "story": "A cloth drawn like a blade across a surface: brush.",
      "trad": "",
      "words": [
@@ -2056,9 +2056,9 @@
      "c": "筹",
      "rank": 1414,
      "py": "chóu",
-     "kw": "raise funds",
+     "kw": "plan and prepare",
      "parts": "⺮ bamboo + 寿 long life (sound)",
-     "story": "Bamboo counting-sticks laid out to tally the cost: raise funds.",
+     "story": "Bamboo counting-sticks laid out to work out the cost: plan and prepare.",
      "trad": "籌",
      "words": [
       {
@@ -2072,12 +2072,12 @@
        "g": "plan overall"
       },
       {
-       "w": "筹码",
-       "py": "chóumǎ",
-       "g": "chip"
+       "w": "筹款",
+       "py": "chóukuǎn",
+       "g": "fundraising"
       }
      ],
-     "note": "筹 stands for 籌.",
+     "note": "筹 stands for 籌. Also 'raise money': 筹款, 筹集.",
      "have": "new",
      "akw": ""
     },
@@ -2430,7 +2430,7 @@
      "py": "lì",
      "kw": "strict",
      "parts": "厂 cliff + 万 ten thousand",
-     "story": "A cliff face with a thousand sharp edges: strict, fierce.",
+     "story": "A cliff face with ten thousand sharp edges: strict, fierce.",
      "trad": "厲",
      "words": [
       {
@@ -2542,7 +2542,7 @@
        "g": "swell"
       }
      ],
-     "note": "隆重 means a grand occasion.",
+     "note": "隆重 'grand, solemn' (of a ceremony) is the commonest word.",
      "have": "new",
      "akw": ""
     }
@@ -2621,7 +2621,7 @@
      "rank": 1403,
      "py": "jiē",
      "kw": "all",
-     "parts": "比 compare + 白 white (sound)",
+     "parts": "比 compare + 白 white",
      "story": "Set them side by side and they are all alike: all.",
      "trad": "",
      "words": [
@@ -2792,7 +2792,7 @@
        "g": "endless"
       }
      ],
-     "note": "穷 stands for 窮. 贫 is 'poor'; 穷 is worse: 'destitute'.",
+     "note": "穷 stands for 窮. The everyday word for 'poor' (贫 is the formal one). Also 'to the end': 无穷 'endless'.",
      "have": "new",
      "akw": ""
     },
@@ -2860,7 +2860,7 @@
      "rank": 1428,
      "py": "jiāng",
      "kw": "borderland",
-     "parts": "弓 bow + 畺 field boundary + 土 earth",
+     "parts": "弓 bow + 畺 field boundary (sound) + 土 earth",
      "story": "Land measured out by a bow-length and a boundary line: borderland.",
      "trad": "",
      "words": [

@@ -327,7 +327,7 @@
        "g": "the public"
       }
      ],
-     "note": "Traditional 眾 had 目 over the people.",
+     "note": "Traditional 眾 had 罒, an eye on its side, over the people.",
      "have": "new",
      "akw": ""
     }
@@ -335,7 +335,7 @@
   },
   {
    "title": "tree 木",
-   "note": "木 on the left or at the foot.",
+   "note": "木 on the left, on top or at the foot.",
    "chars": [
     {
      "c": "查",
@@ -878,7 +878,7 @@
      "rank": 452,
      "py": "jí",
      "kw": "namely",
-     "parts": "艮 food bowl + 卩 kneeling man",
+     "parts": "艮-like food bowl + 卩 kneeling man",
      "story": "A man kneeling right up at the bowl: here, now, this one.",
      "trad": "",
      "words": [
@@ -898,7 +898,7 @@
        "g": "about to"
       }
      ],
-     "note": "Also 'at once' (立即), and in formal prose 'is': 即是.",
+     "note": "Also 'at once' (立即), and in formal prose 'is': 即是. The left is one stroke short of 艮.",
      "have": "new",
      "akw": ""
     },
@@ -1250,8 +1250,8 @@
      "rank": 455,
      "py": "yīn",
      "kw": "sound",
-     "parts": "立 stand + 日 sun",
-     "story": "Once 言 words with a mark held in the mouth: just a noise, not words.",
+     "parts": "立 stand + 日 sounding mouth",
+     "story": "Someone standing with one note held in the mouth: a sound, not yet words.",
      "trad": "",
      "words": [
       {
@@ -1270,7 +1270,7 @@
        "g": "recording"
       }
      ],
-     "note": "",
+     "note": "Drawn as 言 with a mark inside the 口.",
      "have": "new",
      "akw": ""
     },
@@ -1307,9 +1307,9 @@
      "c": "响",
      "rank": 491,
      "py": "xiǎng",
-     "kw": "echo",
+     "kw": "ring out",
      "parts": "口 mouth + 向 toward (sound)",
-     "story": "A mouth shouting toward the hills, and back it comes: an echo.",
+     "story": "A mouth shouting toward the hills, and the sound rings out.",
      "trad": "響",
      "words": [
       {
@@ -1328,7 +1328,7 @@
        "g": "stereo"
       }
      ],
-     "note": "Also 'loud, to ring'. Above all in 影响 'influence'.",
+     "note": "Also 'loud', and in older texts 'echo'. Above all in 影响 'influence'.",
      "have": "new",
      "akw": ""
     }
@@ -1715,7 +1715,7 @@
      "rank": 475,
      "py": "bù",
      "kw": "step",
-     "parts": "止 foot + 少 second foot",
+     "parts": "止 foot + 少-like second foot",
      "story": "One foot ahead of the other: a step.",
      "trad": "",
      "words": [
@@ -1735,7 +1735,7 @@
        "g": "initial"
       }
      ],
-     "note": "",
+     "note": "The lower part is not 少: it has no dot on the left.",
      "have": "new",
      "akw": ""
     },
@@ -2145,8 +2145,8 @@
      "rank": 497,
      "py": "shǔ",
      "kw": "belong",
-     "parts": "尸 body + 禹 (sound)",
-     "story": "A tail joined to its body: it belongs there.",
+     "parts": "尸 body + 禹 (shape)",
+     "story": "A small creature tucked in close under the body: it belongs to it.",
      "trad": "屬",
      "words": [
       {

@@ -697,7 +697,7 @@
      "rank": 149,
      "py": "dì",
      "kw": "ordinal",
-     "parts": "⺮ bamboo + 弟 younger brother",
+     "parts": "⺮ bamboo + 弟 younger brother (sound)",
      "story": "Bamboo slips stacked in order, eldest to youngest: first, second, third.",
      "trad": "",
      "words": [
@@ -725,9 +725,9 @@
      "c": "次",
      "rank": 175,
      "py": "cì",
-     "kw": "next",
+     "kw": "a time",
      "parts": "冫 ice + 欠 yawn",
-     "story": "A breath, a yawn, then the next one: next.",
+     "story": "A breath, a yawn, then another: each one counts as a time.",
      "trad": "",
      "words": [
       {
@@ -746,7 +746,7 @@
        "g": "each time"
       }
      ],
-     "note": "His Analects card. Mostly a counter for times: 三次 'three times'.",
+     "note": "His Analects card: 'next', still meant in 其次 'next' and 次要 'secondary'. A counter: 三次 'three times'.",
      "have": "analects",
      "akw": "next"
     }
@@ -839,7 +839,7 @@
        "g": "since"
       }
      ],
-     "note": "His card is 從 'follow': two 人 replaced the old shape. Now mostly 'from': 从北京来.",
+     "note": "His card is 從 'follow': the 彳 on the left and the foot under 从 were dropped. Now mostly 'from': 从北京来.",
      "have": "shape",
      "akw": "follow"
     }
@@ -1930,7 +1930,7 @@
      "rank": 147,
      "py": "zhì",
      "kw": "control",
-     "parts": "- a branching tree + 刂 knife",
+     "parts": "a branching tree + 刂 knife",
      "story": "A knife trimming a branching tree into shape: control.",
      "trad": "製",
      "words": [
@@ -2459,7 +2459,7 @@
      "rank": 153,
      "py": "yìng",
      "kw": "respond",
-     "parts": "广 lean-to + 丷 and a line (cut down from 應)",
+     "parts": "广 lean-to + ⺍ three strokes + 一 a line",
      "story": "Someone calls under the lean-to and you answer: respond.",
      "trad": "應",
      "words": [
@@ -2479,7 +2479,7 @@
        "g": "adapt"
       }
      ],
-     "note": "In 应该, 应当: 'should'. Traditional 應: the heart 心 at the foot was dropped.",
+     "note": "In 应该, 应当: 'should'. Traditional 應: the 亻隹 inside became three strokes and a line, and the heart 心 was dropped.",
      "have": "new",
      "akw": ""
     }
@@ -2578,7 +2578,7 @@
        "g": "report"
       }
      ],
-     "note": "His Analects card: 'the Way'. Mostly 'road', and 'say' in 知道, 报道.",
+     "note": "His Analects card: 'the Way'. Also 'road' (道路) and 'say' (说道, 报道); 知道 is simply 'know'.",
      "have": "analects",
      "akw": "the Way"
     },
@@ -2760,7 +2760,7 @@
        "g": "feature"
       }
      ],
-     "note": "Also 'o'clock' (三点) and 'order' food. Traditional 點: 黑 became 占.",
+     "note": "Also 'o'clock' (三点) and 'order' food. Traditional 點: 黑 on the left shrank to its fire dots 灬, now under 占.",
      "have": "new",
      "akw": ""
     },
@@ -3045,7 +3045,7 @@
        "g": "go online"
       }
      ],
-     "note": "His card is 網: 纟 silk and 亡 were dropped, leaving the old picture.",
+     "note": "His component card 'net' is this same shape (罒 on top). It also replaces 網: 糹 silk and 亡 were dropped.",
      "have": "analects",
      "akw": "net"
     },

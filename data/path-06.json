@@ -542,7 +542,7 @@
        "g": "formidable"
       }
      ],
-     "note": "害怕 'be afraid' is the commonest word.",
+     "note": "害怕 'be afraid' is a very common word: there 害 is not 'harm'.",
      "have": "new",
      "akw": ""
     },
@@ -794,9 +794,9 @@
      "c": "故",
      "rank": 567,
      "py": "gù",
-     "kw": "therefore",
+     "kw": "former",
      "parts": "古 old (sound) + 攵 tap",
-     "story": "Tapping at an old matter until its cause comes out: therefore.",
+     "story": "Tapping at an old matter until what happened before comes out: former.",
      "trad": "",
      "words": [
       {
@@ -805,17 +805,17 @@
        "g": "story"
       },
       {
-       "w": "事故",
-       "py": "shìgù",
-       "g": "accident"
-      },
-      {
        "w": "故意",
        "py": "gùyì",
        "g": "on purpose"
+      },
+      {
+       "w": "故乡",
+       "py": "gùxiāng",
+       "g": "hometown"
       }
      ],
-     "note": "His Analects card: 'old (also: therefore)'. In words it is 'event, cause': 故事 'story', 故意 'on purpose'.",
+     "note": "His Analects card: 'old (also: therefore)'. Also 'event, cause' (事故 'accident'); formal prose still uses it for 'therefore'.",
      "have": "analects",
      "akw": "old (also: therefore)"
     },
@@ -937,7 +937,7 @@
        "g": "early stage"
       }
      ],
-     "note": "早 alone is 'good morning'.",
+     "note": "Said alone as a greeting, 早! is 'good morning'. Before a verb also 'long ago, already': 早就, 早已.",
      "have": "new",
      "akw": ""
     },
@@ -975,7 +975,7 @@
      "rank": 556,
      "py": "céng",
      "kw": "once",
-     "parts": "八 steam + 田 rack + 日 pot",
+     "parts": "丷 steam + 田-like rack + 日 pot",
      "story": "Steam rising through the racks: this has been cooked once already.",
      "trad": "",
      "words": [
@@ -1406,7 +1406,7 @@
      "rank": 529,
      "py": "huán",
      "kw": "ring",
-     "parts": "王 jade + 不 (sound)",
+     "parts": "王 jade + 不 (changed)",
      "story": "A jade disc with a hole through it: a ring.",
      "trad": "環",
      "words": [
@@ -1426,7 +1426,7 @@
        "g": "worldwide"
       }
      ],
-     "note": "Above all in 环境 'environment'. Traditional 環.",
+     "note": "Above all in 环境 'environment'. Traditional 環: 睘 became 不.",
      "have": "new",
      "akw": ""
     },
@@ -1862,7 +1862,7 @@
        "g": "window"
       }
      ],
-     "note": "His Analects card: 'door' (戶).",
+     "note": "His Analects card: 'door' (戶): the slanting top stroke became a dot.",
      "have": "shape",
      "akw": "door"
     },
@@ -1900,7 +1900,7 @@
      "rank": 522,
      "py": "zú",
      "kw": "ethnic group",
-     "parts": "方 flag + 𠂉 + 矢 arrow",
+     "parts": "方 flag + 𠂉 streamer + 矢 arrow",
      "story": "Arrows gathered under one flag: a clan, an ethnic group.",
      "trad": "",
      "words": [
@@ -1929,7 +1929,7 @@
      "rank": 598,
      "py": "shī",
      "kw": "apply",
-     "parts": "方 flag + 𠂉 + 也 (sound)",
+     "parts": "方 flag + 𠂉 streamer + 也 (sound)",
      "story": "A flag waved to send the orders out: apply them.",
      "trad": "",
      "words": [
@@ -2023,7 +2023,7 @@
      "py": "ā",
      "kw": "familiar prefix",
      "parts": "阝 mound + 可 can (sound)",
-     "story": "A friend called to from across the mound: the friendly 'Ah-'.",
+     "story": "A friend called to by name from across the mound: the familiar prefix before names.",
      "trad": "",
      "words": [
       {
@@ -2451,7 +2451,7 @@
   },
   {
    "title": "head 页 and shell 贝",
-   "note": "页 is 贝 with a stroke on top: tell them apart.",
+   "note": "页 is 贝 with a cap 丆 on top: tell them apart.",
    "chars": [
     {
      "c": "须",
@@ -2629,7 +2629,7 @@
        "g": "kind"
       }
      ],
-     "note": "一切 'everything' is the commonest word.",
+     "note": "一切 'everything' is the commonest word. In 密切, 亲切, 迫切 it means 'close, earnest', not 'cut'.",
      "have": "new",
      "akw": ""
     },

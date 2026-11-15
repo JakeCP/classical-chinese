@@ -52,9 +52,9 @@
      "en": "I didn't do it on purpose."
     },
     {
-     "id": 1021007,
-     "zh": "钱不是万能的。",
-     "en": "Money is not everything."
+     "id": 844449,
+     "zh": "她是昨天去的。",
+     "en": "It was yesterday that she went."
     }
    ]
   },
@@ -225,9 +225,9 @@
   {
    "key": "在",
    "title": "be at, doing it at",
-   "shape": "主语 + 在 + place (+ verb)",
+   "shape": "subject + 在 + place (+ verb)",
    "say": "在 names where someone is, or where an action takes place. The place phrase goes before the verb.",
-   "classical": "在 is the same word: 父母在，不遠遊 'while parents are alive, do not travel far'.",
+   "classical": "在 is the same word: 子在齊聞《韶》 'while in Qi the Master heard the Shao music'. It can also mean 'be alive': 父母在，不遠遊 'while parents are alive, do not travel far'.",
    "examples": [
     {
      "id": 10966742,
@@ -251,7 +251,7 @@
    "title": "also, either",
    "shape": "subject + 也 + verb",
    "say": "也 adds one more subject to what was just said. After 不 or 没 it means 'either': 我也不.",
-   "classical": "Not the old 也. This 也 is 亦: 不亦說乎 'is it not a joy'. The sentence-final 也 of the Analects has no counterpart here.",
+   "classical": "Not the old 也. This 也 is 亦: 吾亦欲無加諸人 'I too wish not to impose on others'. The sentence-final 也 of the Analects has no counterpart here.",
    "examples": [
     {
      "id": 13071622,
@@ -632,7 +632,7 @@
    "title": "handling a thing",
    "shape": "把 + thing + verb + result",
    "say": "把 lifts the object in front of the verb so the verb can say what happens to it: moved, put, given. The verb never stands bare after it.",
-   "classical": "以 and 將 do the same in old prose: 以羊易之 'swap it for the sheep' (Mencius).",
+   "classical": "以 can put the thing first in the same way: 以其子妻之 'he gave him his daughter as wife'.",
    "examples": [
     {
      "id": 12422354,
@@ -661,7 +661,7 @@
    "title": "something done to the subject",
    "shape": "thing + 被 + (doer) + verb",
    "say": "被 marks the subject as the one affected: stolen, moved, interrupted. The doer, if named, comes right after 被.",
-   "classical": "見 before a verb ('be done to') and 為…所 ('by …'); word counterparts only.",
+   "classical": "見 before a verb: 年四十而見惡焉 'still disliked at forty'; 為 'by': 不為酒困 'not overcome by wine'.",
    "examples": [
     {
      "id": 419901,
@@ -689,7 +689,7 @@
    "key": "比",
    "title": "more than",
    "shape": "A + 比 + B + adjective",
-   "say": "比 makes B the standard: A is taller than B. A degree word may follow the adjective (高很多, 更高).",
+   "say": "比 makes B the standard: A is taller than B. A degree word may follow the adjective (高很多), or 更 may come before it (更高).",
    "classical": "於 after an adjective: 季氏富於周公 'the Ji family was richer than the Duke of Zhou'.",
    "examples": [
     {
@@ -863,7 +863,7 @@
    "key": "向 往",
    "title": "toward",
    "shape": "向 / 往 + direction + verb",
-   "say": "Both mark the direction of a movement or look, and 向 also marks the person an action is directed at (借钱 from someone). Neither describes a source, which is 从.",
+   "say": "Both mark the direction of a movement or look, and 向 also marks the person an action is aimed at (向他借钱 ask him for a loan). Neither marks a starting point in place or time, which is 从.",
    "classical": "",
    "examples": [
     {
@@ -922,7 +922,7 @@
    "title": "should and must",
    "shape": "应该 / 必须 + verb",
    "say": "应该 is should, 必须 is must; 不用 or 不必 says it is not necessary. 必须 has no 'must not': that is 不能 or 别.",
-   "classical": "必 is the same word: 必也正名乎 'it must be the names that are put right'.",
+   "classical": "必 is the same word: 遊必有方 'if you travel, you must have a set destination'.",
    "examples": [
     {
      "id": 9415402,
@@ -980,7 +980,7 @@
    "title": "right then, already",
    "shape": "time / condition + 就 + verb",
    "say": "就 ties an event closely to what comes before: it came soon, it follows at once, or it is already so. In a conditional it opens the result clause.",
-   "classical": "則 opens a result: 行有餘力，則以學文 'if there is strength left over, then use it on writing'.",
+   "classical": "則 opens a result: 行有餘力，則以學文 'if there is strength left over, then use it to study culture'.",
    "examples": [
     {
      "id": 838499,
@@ -1008,7 +1008,7 @@
    "key": "才",
    "title": "only then, not until",
    "shape": "time / condition + 才 + verb",
-   "say": "才 is the opposite of 就: it came late, took trouble, or needed a condition first. 不…才… is 'only if'.",
+   "say": "才 is the opposite of 就: it came late, took trouble, or needed a condition first. After a condition it means 'only if', as in 只有…才….",
    "classical": "",
    "examples": [
     {
@@ -1033,7 +1033,7 @@
    "title": "still, in addition",
    "shape": "还 + verb",
    "say": "还 says the state continues, or something is added on top. 还没 is 'not yet'.",
-   "classical": "猶 and 尚 for 'still' (word only).",
+   "classical": "猶 for 'still': 來者猶可追 'what is to come can still be caught up with'.",
    "examples": [
     {
      "id": 13910269,
@@ -1481,7 +1481,7 @@
    "key": "看看",
    "title": "doubled verbs",
    "shape": "verb + verb / verb + 一下",
-   "say": "A doubled verb is lighter and shorter: try it, take a look, a quick go. It is used for requests and plans, not for things already done.",
+   "say": "A doubled verb is lighter and shorter: try it, take a look, a quick go. For something already done, 了 goes in the middle: 看了看 'took a look'.",
    "classical": "",
    "examples": [
     {
@@ -1680,7 +1680,7 @@
    "title": "at, in, than",
    "shape": "verb / adjective + 于 + X",
    "say": "于 survives inside words: 关于 about, 等于 equals, 有利于 good for, 终于 at last, 过于 too much. When you meet it, read it as 'at / in / toward'.",
-   "classical": "於 became 于: 吾十有五而志於學 'at fifteen I set my mind on learning'.",
+   "classical": "於 became 于: 志於道 'set your heart on the Way'.",
    "examples": [
     {
      "id": 333295,
@@ -1727,9 +1727,9 @@
      "en": "I don't understand him sometimes."
     },
     {
-     "id": 5094948,
-     "zh": "今年将会不同以往吗？",
-     "en": "Will this year be different?"
+     "id": 334336,
+     "zh": "她以轻柔的语调说话。",
+     "en": "She spoke in soft tones."
     }
    ]
   },
@@ -1737,7 +1737,7 @@
    "key": "或者 还是",
    "title": "or",
    "shape": "A 或者 B / A 还是 B？",
-   "say": "或者 says 'either' in a statement. 还是 is 'or' in a question that asks which one.",
+   "say": "或者 is 'or' in a statement, and 或者…或者 is 'either … or'. 还是 is 'or' in a question that asks which one.",
    "classical": "抑: 求之與？抑與之與？ 'did he seek it, or was it given him?'.",
    "examples": [
     {
@@ -1795,7 +1795,7 @@
    "key": "起来",
    "title": "begin, look, sound",
    "shape": "verb + 起来 / 看起来 / 听起来",
-   "say": "起来 after a verb says the action begins. After 看, 听 or an adjective, it says how a thing looks or sounds on first impression.",
+   "say": "起来 after a verb or adjective says something begins or sets in: 好起来 'get better'. Before a comment, as in 看起来, 听起来 or 保养起来, it says how a thing looks, sounds or is to do.",
    "classical": "",
    "examples": [
     {

@@ -601,7 +601,7 @@
        "g": "no harm"
       }
      ],
-     "note": "Almost always met in 不妨 and 无妨.",
+     "note": "Mostly met in 妨碍 'hinder'; also in 不妨 and 无妨.",
      "have": "new",
      "akw": ""
     },
@@ -731,14 +731,14 @@
   },
   {
    "title": "sun 日",
-   "note": "The sun on the left or on top.",
+   "note": "The sun on the left, on top or below.",
    "chars": [
     {
      "c": "昏",
      "rank": 2164,
      "py": "hūn",
      "kw": "twilight",
-     "parts": "氐 low + 日 sun",
+     "parts": "氏 (cut down from 氐 low) + 日 sun",
      "story": "The sun sunk low: twilight.",
      "trad": "",
      "words": [
@@ -1279,7 +1279,7 @@
   },
   {
    "title": "metal 钅",
-   "note": "Metal on the left.",
+   "note": "Metal on the left, or tucked inside.",
    "chars": [
     {
      "c": "铃",
@@ -1593,9 +1593,9 @@
      "c": "柯",
      "rank": 2146,
      "py": "kē",
-     "kw": "ax handle",
+     "kw": "surname ke",
      "parts": "木 tree + 可 (sound)",
-     "story": "A length of wood fitted to an axe: a handle.",
+     "story": "A length of wood cut for an axe handle: the Ke family name.",
      "trad": "",
      "words": [
       {
@@ -1609,7 +1609,7 @@
        "g": "coca"
       }
      ],
-     "note": "Today mostly a surname, Ke, or part of a loanword like 柯基 'corgi'.",
+     "note": "Also in loanwords like 柯基 'corgi'. Its old sense is 'ax handle'.",
      "have": "new",
      "akw": ""
     }
@@ -1692,7 +1692,7 @@
        "g": "carrot"
       }
      ],
-     "note": "Only in words: 萝卜. Traditional 蘿.",
+     "note": "Mostly in 萝卜 and 胡萝卜 'carrot'. Traditional 蘿.",
      "have": "new",
      "akw": ""
     },
@@ -2518,7 +2518,7 @@
        "g": "all thumbs"
       }
      ],
-     "note": "",
+     "note": "Most often of the mind: slow-witted, stupid, as in 笨蛋.",
      "have": "new",
      "akw": ""
     },
@@ -2547,7 +2547,7 @@
        "g": "good girl"
       }
      ],
-     "note": "The strokes carry no smaller parts.",
+     "note": "Read here as one shape, though 千 can be seen crossed over 北.",
      "have": "new",
      "akw": ""
     },
@@ -2786,7 +2786,7 @@
        "g": "stand apart"
       }
      ],
-     "note": "Only in 旗帜. Traditional 幟.",
+     "note": "Almost only in 旗帜, and in the set phrase 独树一帜. Traditional 幟.",
      "have": "new",
      "akw": ""
     },
@@ -2910,8 +2910,8 @@
    ]
   },
   {
-   "title": "single shapes",
-   "note": "Four odd ones.",
+   "title": "odds and ends",
+   "note": "Four that fit no family above.",
    "chars": [
     {
      "c": "魅",
@@ -2970,9 +2970,9 @@
      "c": "詹",
      "rank": 2155,
      "py": "zhān",
-     "kw": "verbose",
+     "kw": "surname zhan",
      "parts": "- strokes piled over 言 words",
-     "story": "A heap of words piled up: verbose.",
+     "story": "Words piled up under a ledge: the Zhan family name.",
      "trad": "",
      "words": [
       {
@@ -2986,7 +2986,7 @@
        "g": "Zhan Tianyou"
       }
      ],
-     "note": "Mostly a surname, Zhan, and in 詹姆斯 'James'.",
+     "note": "Also in 詹姆斯 'James'. Its old literary sense is 'verbose'.",
      "have": "new",
      "akw": ""
     },

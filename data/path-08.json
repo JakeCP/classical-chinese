@@ -55,7 +55,7 @@
        "g": "by any means"
       }
      ],
-     "note": "擇: the right side 睪 shrank to 𠬤. Modern prose uses it mostly in 选择.",
+     "note": "His Analects card: 'choose' (选 now has that keyword). 擇: the right side 睪 shrank to 𠬤. Mostly in 选择.",
      "have": "shape",
      "akw": "choose"
     },
@@ -330,9 +330,9 @@
      "c": "犯",
      "rank": 734,
      "py": "fàn",
-     "kw": "offend",
+     "kw": "commit crime",
      "parts": "犭 animal + 㔾 kneeling man (sound)",
-     "story": "An animal 犭 springing at a kneeling man 㔾: offend, break the law.",
+     "story": "An animal 犭 springing at a kneeling man 㔾: commit a crime, break the law.",
      "trad": "",
      "words": [
       {
@@ -351,7 +351,7 @@
        "g": "prisoner"
       }
      ],
-     "note": "Also 'commit' a mistake (犯错) and 'criminal' (犯人).",
+     "note": "Also 'make a mistake' (犯错) and 'criminal' (罪犯). 冒犯 is 'offend'.",
      "have": "new",
      "akw": ""
     }
@@ -1048,7 +1048,7 @@
        "g": "hurry"
       }
      ],
-     "note": "Same top as 坚 'solid'.",
+     "note": "Same top as 坚 'steadfast'.",
      "have": "new",
      "akw": ""
     },
@@ -1438,7 +1438,7 @@
        "g": "gem"
       }
      ],
-     "note": "寶 also had 缶 and 贝 under the roof.",
+     "note": "寶 also had 缶 and 貝 under the roof.",
      "have": "new",
      "akw": ""
     }
@@ -1481,9 +1481,9 @@
      "c": "善",
      "rank": 778,
      "py": "shàn",
-     "kw": "improve",
+     "kw": "virtuous",
      "parts": "羊 sheep + 口 mouth",
-     "story": "A sheep 羊 on top, a kind mouth 口 below: make good, improve.",
+     "story": "A sheep 羊 on top, a kind mouth 口 below: good, virtuous.",
      "trad": "",
      "words": [
       {
@@ -1502,7 +1502,7 @@
        "g": "kind-hearted"
       }
      ],
-     "note": "Also 'kind' (善良) and 'good at' (善于).",
+     "note": "Mostly plain 'good': 善良 'kind', 善于 'good at'. 改善 'improve' is 改 'change' + good.",
      "have": "new",
      "akw": ""
     },
@@ -1632,7 +1632,7 @@
   },
   {
    "title": "flesh 月",
-   "note": "月 here is flesh: parts of the body.",
+   "note": "月 here is mostly flesh: parts of the body. In 朝 it is the moon.",
    "chars": [
     {
      "c": "脑",
@@ -1717,7 +1717,7 @@
        "g": "towards"
       }
      ],
-     "note": "His Analects card: 'morning'. Also 'towards' (朝着); 朝鲜 is Korea.",
+     "note": "His Analects card: 'morning'. Also 'towards' (朝着); 朝鲜 is North Korea.",
      "have": "analects",
      "akw": "morning"
     }
@@ -2026,7 +2026,7 @@
      "py": "hán",
      "kw": "korea",
      "parts": "𠦝 sun among grass + 韦 leather",
-     "story": "Sunrise 𠦝 seen over a land fenced with leather 韦: the old state Han, now Korea.",
+     "story": "Sunrise 𠦝 seen over a land fenced with leather 韦: Korea.",
      "trad": "韓",
      "words": [
       {
@@ -2455,7 +2455,7 @@
        "g": "you (polite)"
       }
      ],
-     "note": "No other word uses it: it is 你 for elders, customers, strangers.",
+     "note": "Mostly on its own, and in 您好 'hello': it is 你 for elders, customers, strangers.",
      "have": "new",
      "akw": ""
     }

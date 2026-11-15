@@ -31,7 +31,7 @@
        "g": "motorcycle"
       }
      ],
-     "note": "In 摩托 it only spells 'motor'. 託 had 讠 words; 托 has 扌 hand.",
+     "note": "In 摩托 it only spells 'motor'. 'Hold up' was always 托; 委托 and 拜托 were 託, with 訁 words.",
      "have": "new",
      "akw": ""
     },
@@ -205,7 +205,7 @@
        "g": "wave a hand"
       }
      ],
-     "note": "揮 had 軍 army too; only 扌 was reshaped.",
+     "note": "揮: 軍 army became 军; 扌 is unchanged.",
      "have": "new",
      "akw": ""
     },
@@ -385,7 +385,7 @@
        "g": "worry"
       }
      ],
-     "note": "慮 had 思 'think' in the middle; 虑 dropped it.",
+     "note": "慮 had 思 'think' under the tiger; 虑 drops its 田 and keeps the 心.",
      "have": "new",
      "akw": ""
     },
@@ -1623,7 +1623,7 @@
        "g": "summer"
       }
      ],
-     "note": "Also 'third, youngest': 季军 'third place'.",
+     "note": "Also 'youngest' of brothers, in old names. 季军 is 'third place'.",
      "have": "new",
      "akw": ""
     },
@@ -1725,7 +1725,7 @@
      "rank": 944,
      "py": "liàng",
      "kw": "shine",
-     "parts": "高 tall (shortened) + 儿 legs",
+     "parts": "高 tall (shortened) + 几 legs",
      "story": "A tall building lit up with a person standing under it: shine.",
      "trad": "",
      "words": [
@@ -1774,7 +1774,7 @@
        "g": "unfortunate"
       }
      ],
-     "note": "A surname too. Different from 辛 'bitter'.",
+     "note": "A surname too. Different from 辛 'pungent'.",
      "have": "new",
      "akw": ""
     },
@@ -1838,7 +1838,7 @@
        "g": "steadily"
       }
      ],
-     "note": "穩 had 隱 on the right; 稳 uses 急.",
+     "note": "穩 had 㥯 (隱 without its 阝) on the right; 稳 uses 急.",
      "have": "new",
      "akw": ""
     },
@@ -1875,9 +1875,9 @@
      "c": "旧",
      "rank": 959,
      "py": "jiù",
-     "kw": "worn",
+     "kw": "not new",
      "parts": "丨 post + 日 sun",
-     "story": "A post left in the sun for days: worn.",
+     "story": "A post left in the sun for days: no longer new.",
      "trad": "舊",
      "words": [
       {
@@ -1896,7 +1896,7 @@
        "g": "old site"
       }
      ],
-     "note": "舊 had a bird 隹. Used of things, not people: 老 is for people.",
+     "note": "Old as against 新, and 'former'. Of things, not people: 老 is for people. 舊 had a bird 隹.",
      "have": "new",
      "akw": ""
     }
@@ -2013,7 +2013,7 @@
        "g": "contest"
       }
      ],
-     "note": "Lookalike 竟. 競 had two 言 and two 儿.",
+     "note": "Lookalike 竟. 競 was two 竞 side by side; 竞 keeps one.",
      "have": "new",
      "akw": ""
     }
@@ -2223,7 +2223,7 @@
        "g": "left over"
       }
      ],
-     "note": "餘 had 饣 food on the left: leftover food.",
+     "note": "餘 had 飠 food on the left: leftover food. After a number, 'more than': 十余年 'over ten years'.",
      "have": "new",
      "akw": ""
     }
@@ -2938,7 +2938,7 @@
      "rank": 989,
      "py": "guī",
      "kw": "go home",
-     "parts": "- a stroke and a hand-shaped hook",
+     "parts": "- two short strokes and a 彐 hand",
      "story": "You come home, and your hand reaches for the door: go home.",
      "trad": "歸",
      "words": [
@@ -2958,7 +2958,7 @@
        "g": "belong to"
       }
      ],
-     "note": "歸 had 止 and 帚 broom; 归 keeps one stroke.",
+     "note": "歸 had 止 and 帚 broom; 归 keeps two short strokes and the 彐 top of 帚.",
      "have": "new",
      "akw": ""
     },

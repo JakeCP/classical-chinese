@@ -405,9 +405,9 @@
      "c": "忌",
      "rank": 2090,
      "py": "jì",
-     "kw": "dread",
+     "kw": "abstain from",
      "parts": "己 self (sound) + 心 heart",
-     "story": "A heart that pulls itself away: dread.",
+     "story": "A heart that holds itself back from something: abstain from.",
      "trad": "",
      "words": [
       {
@@ -426,7 +426,7 @@
        "g": "taboo"
       }
      ],
-     "note": "",
+     "note": "Also 'be jealous', as in 妒忌.",
      "have": "new",
      "akw": ""
     }
@@ -490,7 +490,7 @@
        "g": "to barge in"
       }
      ],
-     "note": "Older sense 'on one's own authority'.",
+     "note": "Also 'without leave', as in 擅自 and 擅闯.",
      "have": "new",
      "akw": ""
     },
@@ -586,7 +586,7 @@
      "rank": 2072,
      "py": "qiāo",
      "kw": "knock",
-     "parts": "高 high (sound) + 攵 tap",
+     "parts": "高 high (sound) + 攴 tap (the full form of 攵)",
      "story": "A tap at something high up: knock.",
      "trad": "",
      "words": [
@@ -699,7 +699,7 @@
        "g": "to nurse"
       }
      ],
-     "note": "Also 'hey!' on the phone. Traditional 餵 had 饣 food on the left.",
+     "note": "Also 'hey!' on the phone. Traditional 餵 (the 'feed' sense) had 飠 food on the left.",
      "have": "new",
      "akw": ""
     }
@@ -801,9 +801,9 @@
      "c": "斥",
      "rank": 2028,
      "py": "chì",
-     "kw": "blame",
+     "kw": "reprove",
      "parts": "斤 axe + 丶",
-     "story": "A stroke of the axe in words: blame.",
+     "story": "A stroke of the axe in words: reprove.",
      "trad": "",
      "words": [
       {
@@ -822,7 +822,7 @@
        "g": "to be filled with"
       }
      ],
-     "note": "",
+     "note": "Also 'push out', as in 排斥.",
      "have": "new",
      "akw": ""
     },
@@ -880,7 +880,7 @@
        "g": "ha ha"
       }
      ],
-     "note": "Mostly in 呵斥 'rebuke'; 呵呵 is a chuckle.",
+     "note": "Commonest in 呵呵 'ha ha' and 呵护 'to protect'; 呵斥 is 'rebuke'.",
      "have": "new",
      "akw": ""
     }
@@ -968,7 +968,7 @@
        "g": "irony"
       }
      ],
-     "note": "Traditional 諷: 訁 became 讠.",
+     "note": "Traditional 諷: 訁 became 讠 and 風 became 风.",
      "have": "new",
      "akw": ""
     },
@@ -1710,9 +1710,9 @@
      "c": "郁",
      "rank": 2016,
      "py": "yù",
-     "kw": "lush",
+     "kw": "melancholy",
      "parts": "有 have (sound) + 阝 town",
-     "story": "A town with plenty, thick with growth: lush.",
+     "story": "A town shut in under thick, heavy growth: melancholy.",
      "trad": "鬱",
      "words": [
       {
@@ -1731,7 +1731,7 @@
        "g": "rich"
       }
      ],
-     "note": "Traditional 鬱. Today it mostly means 'gloomy' in words.",
+     "note": "Traditional 鬱 in this sense; in 浓郁 'rich' it was 郁 already.",
      "have": "new",
      "akw": ""
     },
@@ -2621,7 +2621,7 @@
        "g": "Qixi festival"
       }
      ],
-     "note": "Same as in the Analects; modern use is mostly in 夕阳 and 前夕.",
+     "note": "His Analects card: 'evening'. Same sense; 'dusk' here because 晚 is 'evening'. Mostly in 夕阳 and 前夕.",
      "have": "analects",
      "akw": "evening"
     },
@@ -2629,9 +2629,9 @@
      "c": "瞬",
      "rank": 2066,
      "py": "shùn",
-     "kw": "wink",
+     "kw": "in a wink",
      "parts": "目 eye + 舜 (sound)",
-     "story": "An eye closes once: a wink, an instant.",
+     "story": "An eye blinks once and it is over: in a wink.",
      "trad": "",
      "words": [
       {
@@ -2650,7 +2650,7 @@
        "g": "in a flash"
       }
      ],
-     "note": "Used for 'an instant'.",
+     "note": "Literally 'blink'; in prose always 'an instant'.",
      "have": "new",
      "akw": ""
     }
@@ -2758,7 +2758,7 @@
      "rank": 2038,
      "py": "zhuāng",
      "kw": "makeup",
-     "parts": "女 woman + 爿 (sound)",
+     "parts": "丬 (sound) + 女 woman",
      "story": "A woman putting herself in order: makeup.",
      "trad": "妝",
      "words": [
@@ -2778,7 +2778,7 @@
        "g": "dowry"
       }
      ],
-     "note": "Traditional 妝.",
+     "note": "Traditional 妝: 爿 became 丬.",
      "have": "new",
      "akw": ""
     },
@@ -2972,9 +2972,9 @@
      "c": "阐",
      "rank": 2052,
      "py": "chǎn",
-     "kw": "disclose",
+     "kw": "express clearly",
      "parts": "门 gate + 单 single (sound)",
-     "story": "A gate opened onto an explanation: disclose.",
+     "story": "A gate thrown open so one thing is seen plainly: express clearly.",
      "trad": "闡",
      "words": [
       {
@@ -2993,7 +2993,7 @@
        "g": "to explain"
       }
      ],
-     "note": "Traditional 闡: 門 became 门.",
+     "note": "Traditional 闡: 門 became 门 and 單 became 单.",
      "have": "new",
      "akw": ""
     },

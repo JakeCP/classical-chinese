@@ -127,7 +127,7 @@
      "rank": 1538,
      "py": "tuō",
      "kw": "drag",
-     "parts": "扌 hand + 𠂉 + 也 (sound)",
+     "parts": "扌 hand + 𠂉 person + 也 (sound)",
      "story": "A hand pulls a heavy bag along the floor: drag.",
      "trad": "",
      "words": [
@@ -638,7 +638,7 @@
        "g": "apology"
       }
      ],
-     "note": "Heard in 'sorry' and in 歉收 'a poor harvest'.",
+     "note": "Seen in 抱歉 'sorry' and in 歉收 'a poor harvest'.",
      "have": "new",
      "akw": ""
     }
@@ -731,7 +731,7 @@
        "g": "alarm clock"
       }
      ],
-     "note": "鬧 was a gate with fighting figures; 闹 is gate plus market.",
+     "note": "鬧 had 鬥 'fight' (not a gate) around 市; 闹 swapped it for the gate 门.",
      "have": "new",
      "akw": ""
     },
@@ -824,7 +824,7 @@
        "g": "be loyal to"
       }
      ],
-     "note": "Same shape as his Analects card; modern 忠 is about loyalty to a person or cause, not rulers only.",
+     "note": "Same shape and keyword as his Analects card. There 忠 is doing your best for others; modern 忠 is loyalty to a person, country or cause.",
      "have": "analects",
      "akw": "loyalty"
     },
@@ -1161,7 +1161,7 @@
        "g": "raisin"
       }
      ],
-     "note": "Only appears in 葡萄 'grape'. Pairs with 萄.",
+     "note": "Almost always in 葡萄 'grape'; pairs with 萄. Alone it can be short for Portugal, as in 葡语.",
      "have": "new",
      "akw": ""
     }
@@ -1606,7 +1606,7 @@
      "rank": 1575,
      "py": "xuán",
      "kw": "revolve",
-     "parts": "方 flag + 疋 foot",
+     "parts": "方 flagpole + 𠂉 flag + 疋 foot",
      "story": "Soldiers' feet circling a flag: revolve.",
      "trad": "",
      "words": [
@@ -1626,7 +1626,7 @@
        "g": "spiral"
       }
      ],
-     "note": "The flag's 方 shape is partly hidden on the left.",
+     "note": "The flag sign 方 + 𠂉 is the same one as in 旅 and 族.",
      "have": "new",
      "akw": ""
     },
@@ -1884,9 +1884,9 @@
      "c": "鉴",
      "rank": 1561,
      "py": "jiàn",
-     "kw": "bronze mirror",
+     "kw": "scrutinize",
      "parts": "监 watch over (top) + 金 metal",
-     "story": "A polished bronze plate you watch yourself in: a mirror.",
+     "story": "A polished bronze mirror held close to scrutinize every detail.",
      "trad": "鑑",
      "words": [
       {
@@ -1905,7 +1905,7 @@
        "g": "given that"
       }
      ],
-     "note": "借鉴 'learn from others' is the common use.",
+     "note": "Once a bronze mirror; in 借鉴 'learn from' others serve as your mirror or lesson.",
      "have": "new",
      "akw": ""
     }
@@ -1978,7 +1978,7 @@
      "rank": 1533,
      "py": "shè",
      "kw": "lodging",
-     "parts": "亼 roof + 干 pole + 口 mouth",
+     "parts": "人 roof + 干 pole + 口 mouth",
      "story": "A small roof, a pole and a door: lodging.",
      "trad": "捨",
      "words": [
@@ -1998,7 +1998,7 @@
        "g": "give up"
       }
      ],
-     "note": "His Analects card: 'stop' (that was the older 捨). Modern 舍 also means 'give up'.",
+     "note": "His Analects card: 'stop' (不舍昼夜). That sense was later written 捨; modern 舍 also stands for 捨 'give up', as in 舍得.",
      "have": "analects",
      "akw": "stop (also: house)"
     },
@@ -2251,7 +2251,7 @@
      "rank": 1506,
      "py": "yáng",
      "kw": "poplar",
-     "parts": "木 tree + 昜 (sound)",
+     "parts": "木 tree + 𠃓 (sound)",
      "story": "A tall tree rustling beside the road: poplar.",
      "trad": "楊",
      "words": [

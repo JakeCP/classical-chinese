@@ -176,7 +176,7 @@
        "g": "arrive"
       }
      ],
-     "note": "Also 'arrive' and 'offset': 抵达, 抵押 'mortgage'.",
+     "note": "Also 'arrive' and 'offset': 抵达, 抵消 'cancel out'.",
      "have": "new",
      "akw": ""
     }
@@ -341,9 +341,9 @@
      "c": "涉",
      "rank": 1123,
      "py": "shè",
-     "kw": "wade",
+     "kw": "be involved",
      "parts": "氵 water + 步 step",
-     "story": "Steps taken in water: wade.",
+     "story": "Feet stepping into the water: once you wade in, you are involved.",
      "trad": "",
      "words": [
       {
@@ -362,7 +362,7 @@
        "g": "negotiate"
       }
      ],
-     "note": "Mostly 'be involved in': 涉及.",
+     "note": "Literary 'wade across water', the picture in its parts.",
      "have": "new",
      "akw": ""
     },
@@ -371,7 +371,7 @@
      "rank": 1184,
      "py": "chén",
      "kw": "sink",
-     "parts": "氵 water + 冗 (sound)",
+     "parts": "氵 water + 冗 (changed)",
      "story": "Something dropped in water goes down: sink.",
      "trad": "",
      "words": [
@@ -845,7 +845,7 @@
        "g": "chain"
       }
      ],
-     "note": "鏈: 金 became 钅.",
+     "note": "鏈: 金 became 钅 and 連 became 连.",
      "have": "new",
      "akw": ""
     }
@@ -880,7 +880,7 @@
        "g": "record in office"
       }
      ],
-     "note": "績: 糸 became 纟.",
+     "note": "績: 糸 became 纟 and 責 became 责.",
      "have": "new",
      "akw": ""
     },
@@ -1081,7 +1081,7 @@
      "rank": 1102,
      "py": "sè",
      "kw": "block",
-     "parts": "宀 roof + 井 frame + 土 earth",
+     "parts": "宀 roof + 井-like frame + 八 two strokes + 土 earth",
      "story": "Earth packed under a roof until nothing gets through: block.",
      "trad": "",
      "words": [
@@ -1200,7 +1200,7 @@
        "g": "chick"
       }
      ],
-     "note": "雞 had 奚 on the left; 鸡 uses 又.",
+     "note": "雞 had 奚 and 隹; 鸡 uses 又 and 鸟.",
      "have": "new",
      "akw": ""
     },
@@ -1322,7 +1322,7 @@
        "g": "microphone"
       }
      ],
-     "note": "麥 had 來 above 夂. In 麦克 'mic' it spells a name.",
+     "note": "麥 had 來 above 夂. In 麦克风 'microphone' it spells a foreign word.",
      "have": "new",
      "akw": ""
     },
@@ -1502,7 +1502,7 @@
        "g": "sign a name"
       }
      ],
-     "note": "罒 is a net shape.",
+     "note": "In words mostly 'sign' and 'arrange': 签署, 部署, 署名. 罒 is a net shape.",
      "have": "new",
      "akw": ""
     }
@@ -1833,7 +1833,7 @@
        "g": "hard disk"
       }
      ],
-     "note": "盤 was far more elaborate.",
+     "note": "盤 had 般 (舟 with 殳) over 皿; 盘 drops the 殳.",
      "have": "new",
      "akw": ""
     }
@@ -1847,9 +1847,9 @@
      "c": "川",
      "rank": 1122,
      "py": "chuān",
-     "kw": "creek",
+     "kw": "flowing river",
      "parts": "- three lines of flowing water",
-     "story": "Three flowing lines: a river.",
+     "story": "Three flowing lines: a river on the move.",
      "trad": "",
      "words": [
       {
@@ -1877,7 +1877,7 @@
      "rank": 1154,
      "py": "àn",
      "kw": "shore",
-     "parts": "山 mountain + 厂 cliff + 干",
+     "parts": "山 mountain + 厂 cliff + 干 (sound)",
      "story": "A cliff at the water's edge: the shore.",
      "trad": "",
      "words": [
@@ -1999,7 +1999,7 @@
      "rank": 1142,
      "py": "bāng",
      "kw": "nation",
-     "parts": "丰 abundant + 阝 town",
+     "parts": "丰 abundant (sound) + 阝 town",
      "story": "A prosperous town: a state.",
      "trad": "",
      "words": [
@@ -2091,16 +2091,11 @@
      "c": "毫",
      "rank": 1192,
      "py": "háo",
-     "kw": "fine hair",
+     "kw": "in the least",
      "parts": "高 tall (shortened) + 毛 hair",
-     "story": "A single tall hair: fine hair.",
+     "story": "Not one fine hair of it: not in the least.",
      "trad": "",
      "words": [
-      {
-       "w": "毫米",
-       "py": "háomǐ",
-       "g": "millimeter"
-      },
       {
        "w": "毫无",
        "py": "háowú",
@@ -2110,9 +2105,14 @@
        "w": "丝毫",
        "py": "sīháo",
        "g": "the slightest"
+      },
+      {
+       "w": "毫米",
+       "py": "háomǐ",
+       "g": "millimeter"
       }
      ],
-     "note": "Mostly 'in the least': 毫无.",
+     "note": "Literally 'fine hair'; also 'one thousandth': 毫米.",
      "have": "new",
      "akw": ""
     },
@@ -2148,7 +2148,7 @@
     {
      "c": "冠",
      "rank": 1189,
-     "py": "guàn",
+     "py": "guān",
      "kw": "crown",
      "parts": "冖 cover + 元 head + 寸 hand",
      "story": "A hand setting a cover on the head: a crown.",
@@ -2170,7 +2170,7 @@
        "g": "champion"
       }
      ],
-     "note": "冠军 'champion' means 'be first'.",
+     "note": "In 冠军 'champion', 冠 means 'be first'.",
      "have": "new",
      "akw": ""
     }
@@ -2272,7 +2272,7 @@
      "rank": 1193,
      "py": "bīn",
      "kw": "guest",
-     "parts": "宀 roof + 兵 soldier (shortened)",
+     "parts": "宀 roof + 兵 soldier",
      "story": "An honored visitor under your roof: guest.",
      "trad": "賓",
      "words": [
@@ -2568,7 +2568,7 @@
       {
        "w": "刺杀",
        "py": "cìshā",
-       "g": "stab to death"
+       "g": "assassinate"
       }
      ],
      "note": "",
@@ -2580,7 +2580,7 @@
      "rank": 1174,
      "py": "chù",
      "kw": "touch",
-     "parts": "角 horn + 虫 insect (sound)",
+     "parts": "角 horn + 虫 insect",
      "story": "An insect feeling forward with its horns: touch.",
      "trad": "觸",
      "words": [
@@ -2644,7 +2644,7 @@
      "rank": 1101,
      "py": "jù",
      "kw": "assemble",
-     "parts": "取 take + 乑 three people",
+     "parts": "取 take (sound) + 乑 three people",
      "story": "Three people drawn together: assemble.",
      "trad": "",
      "words": [
@@ -2766,7 +2766,7 @@
      "rank": 1166,
      "py": "liàng",
      "kw": "vehicle classifier",
-     "parts": "车 cart + 两 two",
+     "parts": "车 cart + 两 two (sound)",
      "story": "Carts counted in pairs: one vehicle.",
      "trad": "輛",
      "words": [
@@ -2781,7 +2781,7 @@
        "g": "motor vehicle"
       }
      ],
-     "note": "Counts cars, bikes, wagons: 一辆车. 輛: 車 became 车.",
+     "note": "Counts cars, bikes, wagons: 一辆车. 輛: 車 became 车 and 兩 became 两.",
      "have": "new",
      "akw": ""
     },
@@ -2854,7 +2854,7 @@
      "rank": 1168,
      "py": "máng",
      "kw": "busy",
-     "parts": "忄 heart + 亡 lost",
+     "parts": "忄 heart + 亡 lost (sound)",
      "story": "A heart so taken up it is lost to all else: busy.",
      "trad": "",
      "words": [
@@ -2929,7 +2929,7 @@
       {
        "w": "莫过于",
        "py": "mòguòyú",
-       "g": "nothing more than"
+       "g": "nothing surpasses"
       }
      ],
      "note": "His Analects card: 'no one'. Modern 莫 is formal 'do not, none'.",
@@ -2939,8 +2939,8 @@
    ]
   },
   {
-   "title": "single shapes",
-   "note": "Little characters, each its own.",
+   "title": "odds and ends",
+   "note": "Characters that fit no family above.",
    "chars": [
     {
      "c": "末",
@@ -2996,7 +2996,7 @@
        "g": "swap"
       }
      ],
-     "note": "",
+     "note": "Also 'for, on behalf of' before a person: 替他高兴 'glad for him'.",
      "have": "new",
      "akw": ""
     },
@@ -3005,7 +3005,7 @@
      "rank": 1161,
      "py": "qí",
      "kw": "flag",
-     "parts": "方 square + 其 (sound)",
+     "parts": "方 square + 𠂉 pennant + 其 (sound)",
      "story": "A square of cloth streaming from a pole: flag.",
      "trad": "旂",
      "words": [

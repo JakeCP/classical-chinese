@@ -478,7 +478,7 @@
        "g": "disgusting"
       }
      ],
-     "note": "惡: 亞 on top became 亚. His Analects card: 'hate / bad'; modern 恶 is 'evil, vicious'.",
+     "note": "惡: 亞 on top became 亚. His Analects card: 'hate / bad'; modern 恶 is mostly 'evil, vicious', but 'hate' lives on in 厌恶 'loathe'.",
      "have": "shape",
      "akw": "hate / bad"
     }
@@ -492,9 +492,9 @@
      "c": "温",
      "rank": 832,
      "py": "wēn",
-     "kw": "lukewarm",
+     "kw": "warm",
      "parts": "氵 water + 日 sun + 皿 dish",
-     "story": "Water 氵 in a dish 皿 left in the sun 日: lukewarm.",
+     "story": "Water 氵 in a dish 皿 left in the sun 日: warm.",
      "trad": "溫",
      "words": [
       {
@@ -513,7 +513,7 @@
        "g": "air temperature"
       }
      ],
-     "note": "溫: the right side's 囚 became 日. His Analects 'review' survives in 温习 'revise'.",
+     "note": "溫: the right side's 囚 became 日. His Analects card: 'warm / review'; 'review' survives in 温习 'revise'.",
      "have": "shape",
      "akw": "warm / review"
     },
@@ -726,8 +726,8 @@
      "rank": 893,
      "py": "qiāng",
      "kw": "gun",
-     "parts": "木 tree + 仓 armoury (sound)",
-     "story": "A wooden 木 shaft from the armoury 仓: spear, now gun.",
+     "parts": "木 tree + 仓 storehouse (sound)",
+     "story": "A wooden 木 shaft kept in the storehouse 仓: spear, now gun.",
      "trad": "槍/鎗",
      "words": [
       {
@@ -810,7 +810,7 @@
        "g": "mixed up"
       }
      ],
-     "note": "雜: 衣 and 隹 became 九 over 木.",
+     "note": "雜: the 衣 around 木 shrank to 九, and 隹 on the right dropped off.",
      "have": "new",
      "akw": ""
     },
@@ -1495,12 +1495,12 @@
       {
        "w": "回答",
        "py": "huídá",
-       "g": "answer"
+       "g": "reply"
       },
       {
        "w": "答案",
        "py": "dá'àn",
-       "g": "answer key"
+       "g": "answer"
       },
       {
        "w": "答应",
@@ -2065,7 +2065,7 @@
      "rank": 847,
      "py": "yí",
      "kw": "doubt",
-     "parts": "匕 person + 矢 arrow + マ + 疋 foot",
+     "parts": "匕 person + 矢 arrow + マ hook + 疋 foot",
      "story": "A man at a fork, arrow 矢 in hand, feet 疋 not moving: doubt.",
      "trad": "",
      "words": [
@@ -2394,7 +2394,7 @@
        "g": "win"
       }
      ],
-     "note": "勝: 朕 and 力 became 月 and 生.",
+     "note": "勝: the 月 on the left stayed; the rest, 关 over 力, became 生.",
      "have": "new",
      "akw": ""
     },

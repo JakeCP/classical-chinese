@@ -415,7 +415,7 @@
        "g": "Changting"
       }
      ],
-     "note": "Only seen in names (e.g. 长汀) and poetry.",
+     "note": "Mostly in foreign names (奥斯汀 Austin) and drug names (他汀 statins); also the place 长汀.",
      "have": "new",
      "akw": ""
     },
@@ -495,7 +495,7 @@
       {
        "w": "把柄",
        "py": "bǎbǐng",
-       "g": "handle"
+       "g": "a hold over someone"
       },
       {
        "w": "手柄",
@@ -969,9 +969,9 @@
      "c": "伽",
      "rank": 2573,
      "py": "jiā",
-     "kw": "sanskrit ga",
+     "kw": "transliterate",
      "parts": "亻 person + 加 add (sound)",
-     "story": "A person written beside \"add\" to spell out a foreign word: used in Sanskrit terms.",
+     "story": "A person written beside \"add\" to spell out a foreign word: used in loanwords.",
      "trad": "",
      "words": [
       {
@@ -1401,7 +1401,7 @@
      "rank": 2522,
      "py": "jǐ",
      "kw": "spine",
-     "parts": "关 (shortened) + 月 flesh",
+     "parts": "人-shape backbone with ribs + 月 flesh",
      "story": "A line of bone running down the back of the flesh.",
      "trad": "",
      "words": [
@@ -1744,7 +1744,7 @@
      "rank": 2521,
      "py": "yǐng",
      "kw": "gifted",
-     "parts": "禾 grain + 匕 + 页 head",
+     "parts": "禾 grain + 匕 spoon + 页 head",
      "story": "The sharp tip of the grain stalk: bright and ahead of the rest.",
      "trad": "穎",
      "words": [
@@ -1802,7 +1802,7 @@
      "rank": 2533,
      "py": "jī",
      "kw": "check records",
-     "parts": "禾 grain + 尤 + 旨 (sound)",
+     "parts": "禾 grain + 尤 especially + 旨 (sound)",
      "story": "Grain counted and checked against the record.",
      "trad": "",
      "words": [
@@ -1836,9 +1836,9 @@
      "c": "陀",
      "rank": 2501,
      "py": "tuó",
-     "kw": "steep bank",
+     "kw": "buddhist phonetic",
      "parts": "阝 mound + 它 (sound)",
-     "story": "A sloping bank of earth.",
+     "story": "A sloping mound borrowed to spell Sanskrit words: 佛陀, the Buddha.",
      "trad": "",
      "words": [
       {
@@ -1857,7 +1857,7 @@
        "g": "Mount Putuo"
       }
      ],
-     "note": "A transliteration character, as in 佛陀 Buddha.",
+     "note": "Also in 陀螺 'spinning top'. Its old sense 'steep bank' is rare.",
      "have": "new",
      "akw": ""
     },
@@ -1952,7 +1952,7 @@
     {
      "c": "冯",
      "rank": 2525,
-     "py": "píng",
+     "py": "féng",
      "kw": "surname feng",
      "parts": "冫 ice (sound) + 马 horse",
      "story": "A horse galloping over ice: the surname Feng.",
@@ -2138,7 +2138,7 @@
     {
      "c": "氓",
      "rank": 2584,
-     "py": "méng",
+     "py": "máng",
      "kw": "common people",
      "parts": "亡 gone (sound) + 民 people",
      "story": "People who have lost their place: wanderers, now rogues.",
@@ -2636,7 +2636,7 @@
       {
        "w": "歌姬",
        "py": "gējī",
-       "g": "singing girl"
+       "g": "female singer"
       },
       {
        "w": "妖姬",
@@ -2649,7 +2649,7 @@
        "g": "favorite concubine"
       }
      ],
-     "note": "Also in Japanese names (姬 'hime', princess).",
+     "note": "Also the surname Ji, the royal clan of the Zhou.",
      "have": "new",
      "akw": ""
     },
@@ -2675,7 +2675,7 @@
       {
        "w": "兄嫂",
        "py": "xiōngsǎo",
-       "g": "elder brother's wife"
+       "g": "brother and his wife"
       }
      ],
      "note": "",
@@ -2944,7 +2944,7 @@
       {
        "w": "豆瓣",
        "py": "dòubàn",
-       "g": "broad bean"
+       "g": "bean halves"
       },
       {
        "w": "瓣膜",
@@ -2961,7 +2961,7 @@
      "rank": 2586,
      "py": "xiàng",
      "kw": "alley",
-     "parts": "共 shared + 巳 (sound)",
+     "parts": "共 shared + 巳 town (changed)",
      "story": "A path shared by all who live along it: an alley.",
      "trad": "",
      "words": [

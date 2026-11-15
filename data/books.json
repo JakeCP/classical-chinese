@@ -13,6 +13,34 @@
    "shelf": "classical"
   },
   {
+   "id": "book-01",
+   "book": 1,
+   "order": 2,
+   "title": "學而",
+   "label": "Book 1 學而",
+   "chapters": 16,
+   "han": 494,
+   "file": "data/book-01.json",
+   "unresolved": [
+    "云"
+   ],
+   "shelf": "classical"
+  },
+  {
+   "id": "book-02",
+   "book": 2,
+   "order": 3,
+   "title": "為政",
+   "label": "Book 2 為政",
+   "chapters": 24,
+   "han": 579,
+   "file": "data/book-02.json",
+   "unresolved": [
+    "云"
+   ],
+   "shelf": "classical"
+  },
+  {
    "id": "m-lunyu-04",
    "book": 0,
    "order": 101,
@@ -95,6 +123,62 @@
    "shelf": "modern",
    "seal": "今",
    "credit": "Text: the opening of the article 简化字, Chinese Wikipedia (zh.wikipedia.org/wiki/简化字, revision 94778894), CC BY-SA 4.0. Glosses, notes and translation added by Claude, under the same licence."
+  },
+  {
+   "id": "m-nahan-yijian-xiaoshi",
+   "book": 0,
+   "order": 107,
+   "title": "一件小事",
+   "label": "一件小事 (呐喊)",
+   "chapters": 37,
+   "han": 881,
+   "file": "data/m-nahan-yijian-xiaoshi.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: 一件小事 by Lu Xun (鲁迅), the fifth story in 呐喊 (1923), from Chinese Wikisource (zh.wikisource.org/wiki/一件小事, revision 10675925), public domain. Glosses, notes and translation added by Claude."
+  },
+  {
+   "id": "m-nahan-nahan-zixu",
+   "book": 0,
+   "order": 108,
+   "title": "自序",
+   "label": "自序 (呐喊)",
+   "chapters": 48,
+   "han": 2555,
+   "file": "data/m-nahan-nahan-zixu.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: 自序, Lu Xun's (鲁迅) preface to 呐喊 (1923; dated 3 December 1922), from Chinese Wikisource (zh.wikisource.org/wiki/吶喊, section 自序, revision 11120768), public domain. Glosses, notes and translation added by Claude."
+  },
+  {
+   "id": "m-nahan-toufa-de-gushi",
+   "book": 0,
+   "order": 109,
+   "title": "头发的故事",
+   "label": "头发的故事 (呐喊)",
+   "chapters": 73,
+   "han": 1992,
+   "file": "data/m-nahan-toufa-de-gushi.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Text: 头发的故事 by Lu Xun (鲁迅), the sixth story in 呐喊 (1923), from Chinese Wikisource (zh.wikisource.org/wiki/頭髮的故事, revision 2525914), public domain. Glosses, notes and translation added by Claude."
+  },
+  {
+   "id": "m-chengdu-pack",
+   "book": 0,
+   "order": 190,
+   "title": "成都 pack",
+   "label": "成都 pack (signs and menus)",
+   "chapters": 9,
+   "han": 354,
+   "file": "data/m-chengdu-pack.json",
+   "unresolved": [],
+   "shelf": "modern",
+   "seal": "今",
+   "credit": "Signs, station names and menu lines seen in Chengdu, each from the source named in modern/source/chengdu-pack.txt. Glosses, notes and translations by Claude, CC BY-SA 4.0."
   }
  ]
 }

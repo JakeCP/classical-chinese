@@ -299,7 +299,7 @@
        "g": "public servant"
       }
      ],
-     "note": "Traditional 僕 was more elaborate; 仆 keeps the person and one mark.",
+     "note": "Traditional 僕: its busy right side 菐 was replaced by 卜.",
      "have": "new",
      "akw": ""
     },
@@ -390,7 +390,7 @@
      "rank": 2286,
      "py": "hóu",
      "kw": "marquis",
-     "parts": "亻 person + 𠂇 roof-stroke + 矢 arrow",
+     "parts": "亻 person + hooked roof stroke + 矢 arrow",
      "story": "A man trusted with the bow and arrow on the border: a marquis.",
      "trad": "",
      "words": [
@@ -1401,7 +1401,7 @@
        "g": "giraffe"
       }
      ],
-     "note": "Traditional 頸: 頁 became 页.",
+     "note": "Traditional 頸: 巠 on the left became 𢀖, and 頁 became 页.",
      "have": "new",
      "akw": ""
     }
@@ -1415,20 +1415,20 @@
      "c": "瘦",
      "rank": 2222,
      "py": "shòu",
-     "kw": "lose weight",
+     "kw": "thin body",
      "parts": "疒 sickness + 叟 old man (sound)",
-     "story": "An old man worn down by sickness: he loses weight.",
+     "story": "An old man worn down by sickness: thin of body.",
      "trad": "",
      "words": [
+      {
+       "w": "瘦子",
+       "py": "shòuzi",
+       "g": "thin person"
+      },
       {
        "w": "瘦身",
        "py": "shòushēn",
        "g": "slim down"
-      },
-      {
-       "w": "瘦弱",
-       "py": "shòuruò",
-       "g": "frail"
       },
       {
        "w": "消瘦",
@@ -1436,7 +1436,7 @@
        "g": "waste away"
       }
      ],
-     "note": "",
+     "note": "Plain 瘦 is 'thin, skinny': 他很瘦. 薄 is thin of a sheet. Also 'lose weight': 瘦身.",
      "have": "new",
      "akw": ""
     },
@@ -1473,7 +1473,7 @@
   },
   {
    "title": "mouth 口",
-   "note": "A mouth on the left: calls and noises.",
+   "note": "A mouth on the left or on top: calls and noises.",
    "chars": [
     {
      "c": "嘲",
@@ -1507,7 +1507,7 @@
     {
      "c": "喔",
      "rank": 2278,
-     "py": "wō",
+     "py": "ō",
      "kw": "oh",
      "parts": "口 mouth + 屋 (sound)",
      "story": "A mouth opens as you suddenly see it: oh, I see.",
@@ -1515,7 +1515,7 @@
      "words": [
       {
        "w": "喔",
-       "py": "wō",
+       "py": "ō",
        "g": "oh"
       }
      ],
@@ -1538,9 +1538,9 @@
        "g": "hehe"
       },
       {
-       "w": "嘿咻",
-       "py": "hēixiū",
-       "g": "heave-ho"
+       "w": "嘿",
+       "py": "hēi",
+       "g": "hey"
       }
      ],
      "note": "An interjection, or a chuckle.",
@@ -1609,7 +1609,7 @@
   },
   {
    "title": "earth 土",
-   "note": "Earth on the left.",
+   "note": "Earth on the left or underneath.",
    "chars": [
     {
      "c": "垫",
@@ -1788,7 +1788,7 @@
        "g": "tissue"
       }
      ],
-     "note": "His Analects 巾 is the same shape; here it is the cloth radical too.",
+     "note": "Also the cloth radical, as on the left of 帽 'hat' and 帕 'handkerchief'.",
      "have": "new",
      "akw": ""
     },
@@ -2053,7 +2053,7 @@
       {
        "w": "外戚",
        "py": "wàiqī",
-       "g": "in-laws"
+       "g": "empress's kin"
       },
       {
        "w": "悲戚",
@@ -2731,7 +2731,7 @@
        "g": "Zhuji"
       }
      ],
-     "note": "Formal 'and', as in 暨南大学.",
+     "note": "Formal 'and', joining names in titles and notices. Also 'up to': 暨今, and the name 暨南大学, 'reaching the south'.",
      "have": "new",
      "akw": ""
     },
@@ -2804,7 +2804,7 @@
      "rank": 2206,
      "py": "náng",
      "kw": "sack",
-     "parts": "- a sack tied at the top, with 衣 clothes at its foot",
+     "parts": "- a sack tied at the top, with the lower half of 衣 clothes at its foot",
      "story": "A sack tied at the neck, full of things: a sack.",
      "trad": "",
      "words": [
@@ -2943,9 +2943,9 @@
      "c": "柬",
      "rank": 2266,
      "py": "jiǎn",
-     "kw": "invitation card",
+     "kw": "note card",
      "parts": "束 bundle + 八 split",
-     "story": "Bamboo slips bound in a bundle and sent: an invitation card.",
+     "story": "Bamboo slips bound in a bundle and sent: a note card.",
      "trad": "",
      "words": [
       {
@@ -2964,7 +2964,7 @@
        "g": "letter"
       }
      ],
-     "note": "Today mostly in 请柬 and as the short form of Cambodia.",
+     "note": "Today mostly in 请柬 'invitation card' and as the short form of Cambodia.",
      "have": "new",
      "akw": ""
     },
@@ -2993,7 +2993,7 @@
        "g": "awkward laugh"
       }
      ],
-     "note": "Appears only after 尴: 尴尬.",
+     "note": "Mostly after 尴: 尴尬. Newer slang uses it alone, as in 尬聊 and 尬笑.",
      "have": "new",
      "akw": ""
     }

@@ -385,7 +385,7 @@
        "g": "leak"
       }
      ],
-     "note": "洩 is the old form.",
+     "note": "洩 is the traditional form.",
      "have": "new",
      "akw": ""
     },
@@ -666,9 +666,9 @@
      "c": "晓",
      "rank": 1724,
      "py": "xiǎo",
-     "kw": "daybreak",
+     "kw": "come to know",
      "parts": "日 sun + 尧 (sound)",
-     "story": "The sun comes up and things become clear: dawn.",
+     "story": "The sun comes up and things become clear: you come to know.",
      "trad": "曉",
      "words": [
       {
@@ -687,7 +687,7 @@
        "g": "announce"
       }
      ],
-     "note": "Also 'to know' in 晓得 and 知晓. 曉 became 晓.",
+     "note": "晓得 is everyday 'know'; the old sense 'dawn' survives in 破晓. 曉 became 晓.",
      "have": "new",
      "akw": ""
     },
@@ -1063,7 +1063,7 @@
      "rank": 1731,
      "py": "ái",
      "kw": "cancer",
-     "parts": "疒 sickness + 品 + 山 mountain",
+     "parts": "疒 sickness + 品 lumps + 山 mountain",
      "story": "A sickness heaped up in lumps like a mountain: cancer.",
      "trad": "",
      "words": [
@@ -1249,7 +1249,7 @@
      "rank": 1772,
      "py": "diàn",
      "kw": "palace hall",
-     "parts": "尸 + 共 together + 殳 weapon",
+     "parts": "尸 body + 共 together + 殳 weapon",
      "story": "A great building where all gather together: a palace hall.",
      "trad": "",
      "words": [
@@ -1362,7 +1362,7 @@
        "g": "Kunlun"
       }
      ],
-     "note": "Seen mostly in 昆虫 and the city of Kunming. Also 昆虫 'insect'; the old sense 'elder brother' is rare.",
+     "note": "Seen mostly in 昆虫 'insect' and the city of Kunming; the old sense 'elder brother' is rare.",
      "have": "new",
      "akw": ""
     }
@@ -1670,7 +1670,7 @@
        "g": "submit"
       }
      ],
-     "note": "Also a 'manuscript' or 'article'.",
+     "note": "Also a 'draft' (草稿, 初稿) or a submitted 'article' (投稿).",
      "have": "new",
      "akw": ""
     },
@@ -1836,7 +1836,7 @@
      "rank": 1743,
      "py": "bó",
      "kw": "thin",
-     "parts": "艹 grass + 氵 water + 尃",
+     "parts": "艹 grass + 氵 water + 尃 spread",
      "story": "Grass leaves pressed flat: thin.",
      "trad": "",
      "words": [
@@ -1856,7 +1856,7 @@
        "g": "mint"
       }
      ],
-     "note": "Also 'meager' in 薄弱 and 'mint' in 薄荷.",
+     "note": "Also 'weak' in 薄弱, 'meager' in 微薄 and 'mint' in 薄荷.",
      "have": "new",
      "akw": ""
     },
@@ -1992,9 +1992,9 @@
      "c": "岩",
      "rank": 1744,
      "py": "yán",
-     "kw": "cliff",
+     "kw": "rock",
      "parts": "山 mountain + 石 stone",
-     "story": "A mountain made of stone: a cliff.",
+     "story": "A mountain made of stone: solid rock.",
      "trad": "",
      "words": [
       {
@@ -2013,7 +2013,7 @@
        "g": "granite"
       }
      ],
-     "note": "Rock face or rock.",
+     "note": "Rock in the geology sense; older writing also uses it for a cliff.",
      "have": "new",
      "akw": ""
     }
@@ -2028,7 +2028,7 @@
      "rank": 1778,
      "py": "miào",
      "kw": "shrine",
-     "parts": "广 lean-to + 由",
+     "parts": "广 lean-to + 由 altar",
      "story": "A building with a lean-to roof where ancestors are honored: shrine.",
      "trad": "廟",
      "words": [
@@ -2048,7 +2048,7 @@
        "g": "temple"
       }
      ],
-     "note": "廟 became 庙; the right side was simplified.",
+     "note": "廟 became 庙: the 朝 inside became 由.",
      "have": "new",
      "akw": ""
     },
@@ -2266,8 +2266,8 @@
      "rank": 1793,
      "py": "yán",
      "kw": "salt",
-     "parts": "- salt crust in a dish",
-     "story": "White crust left in a dish: salt.",
+     "parts": "土 earth + 卜 mark + 皿 dish",
+     "story": "Earth dried to a white crust in a dish: salt.",
      "trad": "鹽",
      "words": [
       {
@@ -2458,7 +2458,7 @@
      "rank": 1702,
      "py": "wá",
      "kw": "baby",
-     "parts": "女 woman + 圭",
+     "parts": "女 woman + 圭 jade tablet",
      "story": "A little girl, dolled up: a baby.",
      "trad": "",
      "words": [
@@ -2516,8 +2516,8 @@
      "rank": 1751,
      "py": "shòu",
      "kw": "long life",
-     "parts": "- a long span of years",
-     "story": "A span of years drawn out long: long life.",
+     "parts": "丰-like top + 寸 inch",
+     "story": "Years piled one on another above an inch: a long life.",
      "trad": "壽",
      "words": [
       {
@@ -2615,7 +2615,7 @@
      "rank": 1752,
      "py": "jiān",
      "kw": "hardship",
-     "parts": "又 hand + 艮",
+     "parts": "又 hand + 艮 stubborn",
      "story": "A hand against something unyielding: hardship.",
      "trad": "艱",
      "words": [
@@ -2994,9 +2994,9 @@
      "c": "佩",
      "rank": 1780,
      "py": "pèi",
-     "kw": "wear at belt",
+     "kw": "respect deeply",
      "parts": "亻 person + 凡 ordinary + 巾 cloth",
-     "story": "A person wearing an ornament at the belt.",
+     "story": "A person wears his hero's token at the belt: he respects him deeply.",
      "trad": "珮",
      "words": [
       {
@@ -3015,7 +3015,7 @@
        "g": "wear"
       }
      ],
-     "note": "Modern use is 钦佩 and 佩服 'admire'.",
+     "note": "Mostly 'admire' in 佩服 and 钦佩; 佩戴 'wear' a badge keeps the old sense.",
      "have": "new",
      "akw": ""
     },

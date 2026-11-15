@@ -127,7 +127,7 @@
      "rank": 1639,
      "py": "tāng",
      "kw": "soup",
-     "parts": "氵 water + 昜 (sound)",
+     "parts": "氵 water + 𠃓 (sound)",
      "story": "Water with good things cooked in it: soup.",
      "trad": "湯",
      "words": [
@@ -147,7 +147,7 @@
        "g": "soup spoon"
       }
      ],
-     "note": "湯 became 汤; the right side was simplified.",
+     "note": "湯 became 汤: the right side 昜 was cut down to 𠃓.",
      "have": "new",
      "akw": ""
     },
@@ -269,7 +269,7 @@
        "g": "detain"
       }
      ],
-     "note": "Also 'to deduct'. 釦 is an old form for 'button'.",
+     "note": "Also 'to deduct'. In traditional script 'button' is written 釦.",
      "have": "new",
      "akw": ""
     },
@@ -478,7 +478,7 @@
        "g": "cut down"
       }
      ],
-     "note": "刪 became 删; 册 stayed.",
+     "note": "刪 became 删: the book on the left, 冊, is written 册.",
      "have": "new",
      "akw": ""
     },
@@ -637,9 +637,9 @@
      "c": "烂",
      "rank": 1656,
      "py": "làn",
-     "kw": "decompose",
+     "kw": "rot",
      "parts": "火 fire + 兰 (sound)",
-     "story": "Fire cooks it soft until it falls apart: rotten.",
+     "story": "Fire cooks it soft until it falls apart: it rots.",
      "trad": "爛",
      "words": [
       {
@@ -759,9 +759,9 @@
      "c": "惩",
      "rank": 1680,
      "py": "chéng",
-     "kw": "reprimand",
+     "kw": "punish wrongdoing",
      "parts": "征 (sound) + 心 heart",
-     "story": "Pain put on the heart so it learns: punish.",
+     "story": "Pain put on the heart so it learns: punish wrongdoing.",
      "trad": "懲",
      "words": [
       {
@@ -1069,7 +1069,7 @@
      "py": "sù",
      "kw": "model in clay",
      "parts": "朔 (sound) + 土 earth",
-     "story": "Clay worked by hand into a shape: mold.",
+     "story": "Earth worked by hand into a figure: model in clay.",
      "trad": "",
      "words": [
       {
@@ -1123,7 +1123,7 @@
        "g": "coffee shop"
       }
      ],
-     "note": "Only appears in 咖啡 'coffee', after 咖.",
+     "note": "Almost always in 咖啡 'coffee', after 咖; also in 吗啡 'morphine'.",
      "have": "new",
      "akw": ""
     },
@@ -1133,7 +1133,7 @@
      "py": "táo",
      "kw": "grapevine",
      "parts": "艹 grass + 匋 (sound)",
-     "story": "A grassy vine heavy with fruit: grape.",
+     "story": "A grassy vine heavy with fruit: grapevine.",
      "trad": "",
      "words": [
       {
@@ -1255,7 +1255,7 @@
      "py": "mài",
      "kw": "take a step",
      "parts": "辶 walk + 万 ten thousand",
-     "story": "A long step down the road: stride.",
+     "story": "A long step down the road: take a step.",
      "trad": "邁",
      "words": [
       {
@@ -1284,7 +1284,7 @@
      "py": "yáo",
      "kw": "remote",
      "parts": "辶 walk + 䍃 (sound)",
-     "story": "A road you walk on and on: distant.",
+     "story": "A road you walk on and on: remote.",
      "trad": "遙",
      "words": [
       {
@@ -1571,8 +1571,8 @@
      "rank": 1616,
      "py": "lú",
      "kw": "surname lu",
-     "parts": "- a tiger-like rim over a stand",
-     "story": "A big rim over a dish: the surname Lu.",
+     "parts": "- a small mark over a door-like frame",
+     "story": "A mark set over the door frame: the house of the surname Lu.",
      "trad": "盧",
      "words": [
       {
@@ -1768,8 +1768,8 @@
    ]
   },
   {
-   "title": "strength 力",
-   "note": "Effort and force.",
+   "title": "strength",
+   "note": "Effort, force and a sturdy body.",
    "chars": [
     {
      "c": "劲",
@@ -1796,7 +1796,7 @@
        "g": "strong"
       }
      ],
-     "note": "勁 had a more complex left side. Also 'attitude', as in 没劲.",
+     "note": "勁 had a more complex left side. Also 'interest, fun': 没劲 'boring'.",
      "have": "new",
      "akw": ""
     },
@@ -1870,7 +1870,7 @@
      "py": "qī",
      "kw": "deceive",
      "parts": "其 (sound) + 欠 yawn",
-     "story": "A wide-open grin hiding a lie: cheat.",
+     "story": "A wide-open grin hiding a lie: deceive.",
      "trad": "",
      "words": [
       {
@@ -1957,7 +1957,7 @@
      "py": "xiōng",
      "kw": "vicious",
      "parts": "凵 pit + 乂 cross",
-     "story": "A cross marked in a pit: a bad sign.",
+     "story": "Sharp stakes crossed in a pit trap: vicious.",
      "trad": "兇",
      "words": [
       {
@@ -2069,7 +2069,7 @@
        "g": "fated match"
       }
      ],
-     "note": "Only appears in 婚姻 'marriage'.",
+     "note": "Mostly seen in 婚姻 'marriage'.",
      "have": "new",
      "akw": ""
     },
@@ -2387,7 +2387,7 @@
      "py": "nài",
      "kw": "withstand",
      "parts": "而 beard + 寸 hand",
-     "story": "A hand pulling a beard, and he bears it: endure.",
+     "story": "A hand pulling a beard, and he bears it: withstand.",
      "trad": "",
      "words": [
       {
@@ -2420,9 +2420,9 @@
      "c": "岗",
      "rank": 1607,
      "py": "gǎng",
-     "kw": "sentry post",
+     "kw": "post",
      "parts": "山 mountain + 冈 ridge (sound)",
-     "story": "A guard stands on the ridge: a sentry post.",
+     "story": "A guard stands at his post on the ridge.",
      "trad": "崗",
      "words": [
       {
@@ -2441,7 +2441,7 @@
        "g": "stand guard"
       }
      ],
-     "note": "崗 became 岗. Also a hillock.",
+     "note": "崗 became 岗. Mostly a job post today (岗位, 下岗); also a sentry post.",
      "have": "new",
      "akw": ""
     },
@@ -2450,7 +2450,7 @@
      "rank": 1657,
      "py": "tíng",
      "kw": "palace court",
-     "parts": "廴 long stride + 壬",
+     "parts": "廴 long stride + 壬 (sound)",
      "story": "A long walk through a palace courtyard: the court.",
      "trad": "",
      "words": [
@@ -2563,7 +2563,7 @@
        "g": "play an instrument"
       }
      ],
-     "note": "Any stringed instrument; 钢琴 is 'steel zither'.",
+     "note": "In words, many instruments: 钢琴 'piano' is a 'steel zither', 口琴 'harmonica'.",
      "have": "new",
      "akw": ""
     },
@@ -2749,7 +2749,7 @@
        "g": "careless"
       }
      ],
-     "note": "麤 was three deer; 粗 is simple.",
+     "note": "Same in traditional; 麤 'three deer' is an old variant.",
      "have": "new",
      "akw": ""
     },
@@ -2851,7 +2851,7 @@
      "rank": 1672,
      "py": "qiān",
      "kw": "lead along",
-     "parts": "大 + 冖 cover + 牛 cow",
+     "parts": "大 person + 冖 rope + 牛 cow",
      "story": "A cow led along on a rope: lead along.",
      "trad": "牽",
      "words": [
@@ -2916,7 +2916,7 @@
      "py": "shāo",
      "kw": "somewhat",
      "parts": "禾 grain + 肖 (sound)",
-     "story": "A small amount of grain: slightly.",
+     "story": "Just a small amount of grain: somewhat.",
      "trad": "",
      "words": [
       {
@@ -2935,7 +2935,7 @@
        "g": "a little"
       }
      ],
-     "note": "Always followed by a verb of change.",
+     "note": "Mostly in 稍微 'slightly', before an adjective or verb: 稍微大一点 'a bit bigger'.",
      "have": "new",
      "akw": ""
     },
@@ -2994,7 +2994,7 @@
        "g": "advisor"
       }
      ],
-     "note": "Appears only in 咨询 'consult'.",
+     "note": "Almost always in 咨询 'consult'; also 国情咨文 'State of the Union address'.",
      "have": "new",
      "akw": ""
     },

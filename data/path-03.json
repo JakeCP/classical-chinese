@@ -97,9 +97,9 @@
      "c": "何",
      "rank": 236,
      "py": "hé",
-     "kw": "why",
+     "kw": "formal what",
      "parts": "亻 person + 可 can (sound)",
-     "story": "A person bent under a load asks: why should I?",
+     "story": "A person bent under a load asks: what is this?",
      "trad": "",
      "words": [
       {
@@ -118,7 +118,7 @@
        "g": "why"
       }
      ],
-     "note": "His Analects card: 'what / how'. Now formal: 如何 'how', 任何 'any', 为何 'why'.",
+     "note": "His Analects card: 'what / how'. Same sense, now formal: 如何 'how', 任何 'any', 为何 'why' (for what).",
      "have": "analects",
      "akw": "what / how"
     },
@@ -653,7 +653,7 @@
        "g": "simply"
       }
      ],
-     "note": "Before a verb: 'keep on': 一直走 'go straight on'.",
+     "note": "Before a verb, 'keep on': 一直下雨 'it kept raining'. But 一直走 is 'go straight on'.",
      "have": "new",
      "akw": ""
     }
@@ -746,7 +746,7 @@
        "g": "slogan"
       }
      ],
-     "note": "After a date or room: 五号 'the 5th', 三号 'No. 3'. Traditional 號.",
+     "note": "After a number: 五号 'the 5th', 三号 'No. 3'. Traditional 號.",
      "have": "new",
      "akw": ""
     },
@@ -921,7 +921,7 @@
        "g": "become"
       }
      ],
-     "note": "Traditional 變: the top of silk and words became 亦.",
+     "note": "Traditional 變: the top of silk and words became 亦, and 攵 below became 又.",
      "have": "new",
      "akw": ""
     }
@@ -985,7 +985,7 @@
        "g": "sum up"
       }
      ],
-     "note": "Also 'always': 总是. Traditional 總: 纟 silk on the left was dropped.",
+     "note": "Also 'always': 总是. Traditional 總: 纟 silk on the left was dropped and the 囱 above 心 became 丷 over 口.",
      "have": "new",
      "akw": ""
     },
@@ -1043,7 +1043,7 @@
        "g": "patriotic"
       }
      ],
-     "note": "Traditional 愛: the heart 心 in the middle was replaced by 友 'friend'.",
+     "note": "Traditional 愛: the heart 心 and the 夂 below it were replaced by 友 'friend'.",
      "have": "new",
      "akw": ""
     }
@@ -1209,7 +1209,7 @@
      "rank": 271,
      "py": "wàn",
      "kw": "ten thousand",
-     "parts": "- 萬 cut down to three strokes",
+     "parts": "- three strokes, an old short form that stands for 萬 scorpion",
      "story": "A scorpion's brood, too many to count: ten thousand.",
      "trad": "萬",
      "words": [
@@ -1775,7 +1775,7 @@
        "g": "business"
       }
      ],
-     "note": "Traditional 務: 矛 and 攵 on top were dropped.",
+     "note": "Traditional 務: 矛 on the left was dropped and 攵 above 力 was cut down to 夂.",
      "have": "new",
      "akw": ""
     },
@@ -1804,7 +1804,7 @@
        "g": "benefit"
       }
      ],
-     "note": "His Analects card: 'dwell'. As a noun, 'place': 到处 'everywhere'.",
+     "note": "His Analects card: 處 'dwell': 虍 on top was dropped and 几 became 卜. As a noun, 'place': 到处 'everywhere'.",
      "have": "shape",
      "akw": "dwell"
     },

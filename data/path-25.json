@@ -324,14 +324,14 @@
    ]
   },
   {
-   "title": "pools and floods 氵",
+   "title": "pools and floods",
    "note": "Water lying still, or rising over things.",
    "chars": [
     {
      "c": "塘",
      "rank": 2435,
      "py": "táng",
-     "kw": "pond bank",
+     "kw": "earthen pond",
      "parts": "土 earth + 唐 (sound)",
      "story": "Earth banked up around a hollow of still water: a pond.",
      "trad": "",
@@ -604,9 +604,9 @@
      "c": "芭",
      "rank": 2468,
      "py": "bā",
-     "kw": "fragrant plant",
+     "kw": "banana plant",
      "parts": "艹 grass + 巴 (sound)",
-     "story": "A big-leaved plant growing in the garden.",
+     "story": "A big-leaved banana plant growing in the garden.",
      "trad": "",
      "words": [
       {
@@ -1294,7 +1294,7 @@
        "g": "foreign aggression"
       }
      ],
-     "note": "His Analects card: 'insult'.",
+     "note": "Same keyword as in his 里仁 reading (4.26, 受到侮辱).",
      "have": "new",
      "akw": ""
     },
@@ -1353,35 +1353,6 @@
       }
      ],
      "note": "仲裁 means a go-between settles a dispute.",
-     "have": "new",
-     "akw": ""
-    },
-    {
-     "c": "仑",
-     "rank": 2498,
-     "py": "lún",
-     "kw": "gallon",
-     "parts": "亼 roof + 匕 ladle shape",
-     "story": "A roofed measure with a ladle shape: you only meet it in gallon and Kunlun.",
-     "trad": "崙/侖",
-     "words": [
-      {
-       "w": "加仑",
-       "py": "jiālún",
-       "g": "gallon"
-      },
-      {
-       "w": "昆仑山",
-       "py": "Kūnlúnshān",
-       "g": "Kunlun Mountains"
-      },
-      {
-       "w": "拿破仑",
-       "py": "Nápòlún",
-       "g": "Napoleon"
-      }
-     ],
-     "note": "A transliteration character: 加仑 gallon, 拿破仑 Napoleon. 侖 became 仑.",
      "have": "new",
      "akw": ""
     }
@@ -1477,7 +1448,7 @@
   },
   {
    "title": "small creatures",
-   "note": "Insects and sea animals.",
+   "note": "Insects, a shark and a leopard.",
    "chars": [
     {
      "c": "蝶",
@@ -1784,7 +1755,7 @@
    ]
   },
   {
-   "title": "going about 辶",
+   "title": "going about",
    "note": "A walking foot: moving, loitering, a trip.",
    "chars": [
     {
@@ -2111,7 +2082,7 @@
        "g": "look anew"
       }
      ],
-     "note": "颳 became 刮: 風 became 舌+刂.",
+     "note": "刮 'scrape' is the same in traditional; 颳 'blow (of wind)', 舌 + 風, merged into it.",
      "have": "new",
      "akw": ""
     }
@@ -3006,8 +2977,8 @@
      "rank": 2452,
      "py": "shuǎ",
      "kw": "wield",
-     "parts": "而 + 女 woman",
-     "story": "Flourishing a thing about to show off or fool around.",
+     "parts": "而 beard + 女 woman",
+     "story": "A woman in a false beard waves a stick about to show off: wield.",
      "trad": "",
      "words": [
       {
@@ -3027,6 +2998,35 @@
       }
      ],
      "note": "",
+     "have": "new",
+     "akw": ""
+    },
+    {
+     "c": "仑",
+     "rank": 2498,
+     "py": "lún",
+     "kw": "names and loanwords",
+     "parts": "人 roof + 匕 ladle shape",
+     "story": "A roof over a ladle shape, kept only to write names: 昆仑, 加仑 gallon, 拿破仑 Napoleon.",
+     "trad": "崙/侖",
+     "words": [
+      {
+       "w": "加仑",
+       "py": "jiālún",
+       "g": "gallon"
+      },
+      {
+       "w": "昆仑山",
+       "py": "Kūnlúnshān",
+       "g": "Kunlun Mountains"
+      },
+      {
+       "w": "拿破仑",
+       "py": "Nápòlún",
+       "g": "Napoleon"
+      }
+     ],
+     "note": "Not a word on its own. 侖 became 仑: the bar and 冊 under the roof became 匕.",
      "have": "new",
      "akw": ""
     }

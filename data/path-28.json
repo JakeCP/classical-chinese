@@ -118,7 +118,7 @@
        "g": "shudder"
       }
      ],
-     "note": "战栗 'to shudder' uses the same character.",
+     "note": "战栗 'to shudder' uses the same character; in traditional it is 戰慄, with 忄 added.",
      "have": "new",
      "akw": ""
     },
@@ -147,7 +147,7 @@
        "g": "champagne"
       }
      ],
-     "note": "香槟 'champagne' is a borrowed word. 槟 also appears in the place name Penang, 槟城. 繽 -> 槟: 木 plus 宾, as 賓 became 宾.",
+     "note": "香槟 'champagne' is a borrowed word. 槟 also appears in the place name Penang, 槟城. 檳 became 槟: 賓 became 宾.",
      "have": "new",
      "akw": ""
     },
@@ -537,7 +537,7 @@
        "g": "splendid"
       }
      ],
-     "note": "糹 on the left of 繡 became 纟.",
+     "note": "繡 became 绣: 糹 became 纟, and 肅 on the right was replaced by 秀.",
      "have": "new",
      "akw": ""
     },
@@ -691,7 +691,7 @@
      "c": "婊",
      "rank": 2732,
      "py": "biǎo",
-     "kw": "prostitute",
+     "kw": "crude prostitute",
      "parts": "女 woman + 表 outside (sound)",
      "story": "A woman put on show: a crude word for a prostitute.",
      "trad": "",
@@ -751,7 +751,7 @@
      "rank": 2703,
      "py": "wéi",
      "kw": "only that",
-     "parts": "忄 heart + 隹 bird",
+     "parts": "忄 heart + 隹 bird (sound)",
      "story": "A heart fixed on one bird alone: only that.",
      "trad": "",
      "words": [
@@ -787,7 +787,7 @@
       {
        "w": "抚恤",
        "py": "fǔxù",
-       "g": "pension relief"
+       "g": "aid the bereaved"
       },
       {
        "w": "体恤",
@@ -900,7 +900,7 @@
     {
      "c": "碌",
      "rank": 2734,
-     "py": "liù",
+     "py": "lù",
      "kw": "bustling",
      "parts": "石 stone + 录 (sound)",
      "story": "A stone roller that never stops turning: bustling.",
@@ -1082,9 +1082,9 @@
      "c": "蝠",
      "rank": 2736,
      "py": "fú",
-     "kw": "fruit bat",
+     "kw": "bat",
      "parts": "虫 insect + 畐 full (sound)",
-     "story": "The second half of the bat word: a big fruit bat.",
+     "story": "The second half of the bat word 蝙蝠: an insect-like flier of the night.",
      "trad": "",
      "words": [
       {
@@ -1098,7 +1098,7 @@
        "g": "flying fox"
       }
      ],
-     "note": "In 蝙蝠 the bat is a lucky sign, because 蝠 echoes 福 'luck'.",
+     "note": "Bats are a lucky sign in Chinese art. Lookalike: 福 'fortune' has the same right side 畐.",
      "have": "new",
      "akw": ""
     },
@@ -1239,7 +1239,7 @@
        "g": "roam about"
       }
      ],
-     "note": "Only in 彷徨.",
+     "note": "Almost only in 彷徨.",
      "have": "new",
      "akw": ""
     },
@@ -1360,7 +1360,7 @@
      "rank": 2746,
      "py": "xì",
      "kw": "crack",
-     "parts": "阝 mound + 小 + 日 + 小",
+     "parts": "阝 mound + 小 small + 日 sun + 小 small",
      "story": "Light slipping through small gaps in a wall: a crack.",
      "trad": "",
      "words": [
@@ -1410,7 +1410,7 @@
        "g": "revile"
       }
      ],
-     "note": "詛 became 诅. Only in 诅咒 'to curse', as the first half of the word.",
+     "note": "詛 became 诅. Almost always in 诅咒 'to curse'.",
      "have": "new",
      "akw": ""
     },
@@ -1702,7 +1702,7 @@
        "g": "Camel Xiangzi"
       }
      ],
-     "note": "Also the surname Luo. 駱 became 骆. Only in 骆驼 'camel', as the first half of the word.",
+     "note": "Also the surname Luo. 駱 became 骆. Almost always in 骆驼 'camel', as the first half of the word.",
      "have": "new",
      "akw": ""
     }
@@ -2181,7 +2181,7 @@
        "g": "maternal uncle"
       }
      ],
-     "note": "Mother's brother only; the father's brother has other words.",
+     "note": "Mother's brother, not father's (伯, 叔). In 小舅子 it is the wife's younger brother.",
      "have": "new",
      "akw": ""
     },
@@ -2574,7 +2574,7 @@
       {
        "w": "耽美",
        "py": "dānměi",
-       "g": "aesthetic romance"
+       "g": "boys' love fiction"
       }
      ],
      "note": "Also 'to indulge in'.",
@@ -2699,7 +2699,7 @@
        "g": "on and off"
       }
      ],
-     "note": "Mostly a mile (英哩) or in 咖哩 curry (commonly 咖喱).",
+     "note": "In Lu Xun it ends a spoken sentence: 难哩 'it's hard!'. Also 'mile' (英哩, now 英里) and in 咖哩 curry.",
      "have": "new",
      "akw": ""
     },
@@ -2796,7 +2796,7 @@
      "py": "wú",
      "kw": "oh yes",
      "parts": "口 mouth + 吾 I (sound)",
-     "story": "A mouth grunting an agreeable \"mm\".",
+     "story": "A mouth showing it agrees or is surprised: oh, yes.",
      "trad": "",
      "words": [
       {

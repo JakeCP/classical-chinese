@@ -176,7 +176,7 @@
        "g": "carry forward"
       }
      ],
-     "note": "扬 stands for 揚.",
+     "note": "扬 stands for 揚. In prose mostly 'spread a name' and 'praise': 宣扬, 表扬.",
      "have": "new",
      "akw": ""
     },
@@ -261,7 +261,7 @@
       {
        "w": "偏偏",
        "py": "piānpiān",
-       "g": "just happens to"
+       "g": "just had to"
       },
       {
        "w": "偏向",
@@ -1161,7 +1161,7 @@
      "rank": 1342,
      "py": "quàn",
      "kw": "voucher",
-     "parts": "龹 (shape) + 刀 knife",
+     "parts": "龹 (sound) + 刀 knife",
      "story": "A paper cut in two with a knife, each side keeping half: a voucher.",
      "trad": "",
      "words": [
@@ -1654,9 +1654,9 @@
      "c": "繁",
      "rank": 1330,
      "py": "fán",
-     "kw": "complicated",
+     "kw": "in great numbers",
      "parts": "敏 quick (sound) + 糸 thread",
-     "story": "Many threads quickly tangled: complicated.",
+     "story": "Threads multiplying quickly until there are too many to count: in great numbers.",
      "trad": "",
      "words": [
       {
@@ -1675,7 +1675,7 @@
        "g": "busy"
       }
      ],
-     "note": "",
+     "note": "Also 'complicated': 繁体 is the complex, traditional script.",
      "have": "new",
      "akw": ""
     }
@@ -1811,9 +1811,9 @@
      "c": "饮",
      "rank": 1349,
      "py": "yǐn",
-     "kw": "drink",
+     "kw": "drinking",
      "parts": "饣 food + 欠 gaping mouth",
-     "story": "A mouth wide open over the food: drink.",
+     "story": "A mouth wide open over the food: drinking.",
      "trad": "飲",
      "words": [
       {
@@ -1824,12 +1824,12 @@
       {
        "w": "饮料",
        "py": "yǐnliào",
-       "g": "drink"
+       "g": "beverage"
       },
       {
        "w": "饮用",
        "py": "yǐnyòng",
-       "g": "drink"
+       "g": "for drinking"
       }
      ],
      "note": "饮 stands for 飲. More formal than 喝: 饮料 'beverage', 饮食 'diet'.",
@@ -1905,8 +1905,8 @@
      "rank": 1324,
      "py": "xùn",
      "kw": "rapid",
-     "parts": "辶 walk + 卂 (shape)",
-     "story": "A walker speeding along: rapid.",
+     "parts": "辶 walk + 卂 fly fast (sound)",
+     "story": "Walking as fast as flying: rapid.",
      "trad": "",
      "words": [
       {
@@ -2119,9 +2119,9 @@
      "c": "胁",
      "rank": 1310,
      "py": "xié",
-     "kw": "flank",
+     "kw": "threaten",
      "parts": "月 flesh + 办 (shape)",
-     "story": "The side of the body just under the arm: the flank, pressed on to threaten.",
+     "story": "Squeezing someone hard by the flank, the flesh under the arm: threaten.",
      "trad": "脅",
      "words": [
       {
@@ -2140,7 +2140,7 @@
        "g": "hold hostage"
       }
      ],
-     "note": "胁 stands for 脅. Reads as 'threaten' in prose.",
+     "note": "胁 stands for 脅. Its first sense is 'flank', the side under the arm.",
      "have": "new",
      "akw": ""
     },
@@ -2212,9 +2212,9 @@
      "c": "械",
      "rank": 1318,
      "py": "xiè",
-     "kw": "appliance",
+     "kw": "tools and weapons",
      "parts": "木 tree + 戒 warn (sound)",
-     "story": "A wooden tool with an edge to be wary of: an appliance, apparatus.",
+     "story": "Wooden gear with an edge to be wary of: tools and weapons.",
      "trad": "",
      "words": [
       {
@@ -2233,7 +2233,7 @@
        "g": "firearm"
       }
      ],
-     "note": "械 means gear or weapons.",
+     "note": "In 机械 and 器械 it is machinery and apparatus.",
      "have": "new",
      "akw": ""
     },
@@ -2737,8 +2737,8 @@
      "rank": 1322,
      "py": "dài",
      "kw": "put on",
-     "parts": "- a tall headdress set on the head",
-     "story": "A tall headdress set on the head: put on.",
+     "parts": "𢦏 (sound) + 異 figure with raised hands",
+     "story": "A figure with raised hands sets a tall headdress on his head: put on.",
      "trad": "",
      "words": [
       {
@@ -2757,7 +2757,7 @@
        "g": "hold dear"
       }
      ],
-     "note": "Used for hats, glasses, jewelry, gloves.",
+     "note": "Used for hats, glasses, jewelry, gloves. 𢦏 is 十 with 戈 wrapped round it.",
      "have": "new",
      "akw": ""
     },
@@ -2766,8 +2766,8 @@
      "rank": 1369,
      "py": "shì",
      "kw": "decorate",
-     "parts": "饣 food (sound) + 巾 cloth",
-     "story": "A cloth draped over the table for a feast: decorate.",
+     "parts": "饣 food (sound) + 𠂉 person + 巾 cloth",
+     "story": "A person drapes a cloth over the table for a feast: decorate.",
      "trad": "飾",
      "words": [
       {
@@ -3010,7 +3010,7 @@
      "rank": 1378,
      "py": "diū",
      "kw": "lose an item",
-     "parts": "- a slash and 去 go",
+     "parts": "丿 slash + 去 go",
      "story": "A slash and 'go': the thing slips away, and you lose it.",
      "trad": "丟",
      "words": [

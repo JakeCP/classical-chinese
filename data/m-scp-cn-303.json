@@ -1648,7 +1648,7 @@
      ],
      [
       "物理",
-      "physics"
+      "physical"
      ],
      [
       "伤害",
@@ -8560,7 +8560,7 @@
      ],
      [
       "物理",
-      "physics"
+      "physical"
      ],
      [
       "研究",
@@ -8844,7 +8844,7 @@
      ],
      [
       "物理",
-      "physics"
+      "physical"
      ],
      [
       "研究",
@@ -10981,7 +10981,7 @@
      ],
      [
       "而",
-      "(and so)"
+      "(links to verb)"
      ],
      [
       "死",
@@ -11022,7 +11022,7 @@
     ]
    ],
    "translation": "If other people ask why I died, please explain to them, and tell them not to grieve.",
-   "note": "",
+   "note": "为什么而死 is the frame of 303.55, 为 A 而 B: 为 什么 而 死, \"die for what\".",
    "ty": [
     "ru",
     "guo",

@@ -239,7 +239,7 @@
      "rank": 1883,
      "py": "hán",
      "kw": "bitter cold",
-     "parts": "宀 roof + 艹 straw + 冫 ice",
+     "parts": "宀 roof + 井-like straw + 冫 ice",
      "story": "Under a roof stuffed with straw, ice on the floor: bitter cold.",
      "trad": "",
      "words": [
@@ -303,7 +303,7 @@
      "rank": 1837,
      "py": "xié",
      "kw": "carry along",
-     "parts": "扌 hand + 隹 bird + 乃 (sound)",
+     "parts": "扌 hand + 隽 (sound)",
      "story": "A hand holding a bird and taking it along.",
      "trad": "攜",
      "words": [
@@ -323,7 +323,7 @@
        "g": "portable"
       }
      ],
-     "note": "",
+     "note": "隽 is 隹 bird over 乃.",
      "have": "new",
      "akw": ""
     },
@@ -691,9 +691,9 @@
      "c": "伏",
      "rank": 1860,
      "py": "fú",
-     "kw": "lean over",
+     "kw": "lie low",
      "parts": "亻 person + 犬 dog",
-     "story": "A person down low like a dog: bent over, lying hidden.",
+     "story": "A person down low like a dog: lying low, out of sight.",
      "trad": "",
      "words": [
       {
@@ -712,7 +712,7 @@
        "g": "ambush"
       }
      ],
-     "note": "Mostly meets it as 'lie hidden'.",
+     "note": "Also 'bend low, go down': 起伏 'rise and fall'.",
      "have": "new",
      "akw": ""
     }
@@ -994,8 +994,8 @@
      "rank": 1806,
      "py": "yīng",
      "kw": "infant",
-     "parts": "贝 shell + 女 woman",
-     "story": "A woman holding her little treasure: infant.",
+     "parts": "贝 shell + 贝 shell + 女 woman",
+     "story": "A woman under a string of shells, her little treasure: infant.",
      "trad": "嬰",
      "words": [
       {
@@ -1014,7 +1014,7 @@
        "g": "baby girl"
       }
      ],
-     "note": "Traditional 嬰 has two shells; simplified keeps one.",
+     "note": "Traditional 嬰: each 貝 became 贝.",
      "have": "new",
      "akw": ""
     }
@@ -1116,7 +1116,7 @@
      "rank": 1850,
      "py": "qiǎn",
      "kw": "dispatch",
-     "parts": "辶 walk + 𠂤 troop",
+     "parts": "辶 walk + 中 middle + 一 one + 㠯 troop",
      "story": "A troop sent walking off on a mission: dispatch.",
      "trad": "",
      "words": [
@@ -1997,14 +1997,14 @@
        "g": "dementia"
       }
      ],
-     "note": "",
+     "note": "Also 'stay', standing in for 待: 呆在家里 'stay at home'.",
      "have": "new",
      "akw": ""
     },
     {
      "c": "哇",
      "rank": 1869,
-     "py": "wa",
+     "py": "wā",
      "kw": "wow",
      "parts": "口 mouth + 圭 jade tablet (sound)",
      "story": "A mouth wide open: wow.",
@@ -2348,7 +2348,7 @@
        "g": "dragon and phoenix"
       }
      ],
-     "note": "Traditional 鳳 shows the bird 鸟 inside.",
+     "note": "Traditional 鳳 shows the bird 鳥 inside.",
      "have": "new",
      "akw": ""
     }
@@ -2412,7 +2412,7 @@
        "g": "vague"
       }
      ],
-     "note": "",
+     "note": "Mostly 'blurred, muddled', as if pasted over: 模糊, 糊涂.",
      "have": "new",
      "akw": ""
     },
@@ -2449,9 +2449,9 @@
      "c": "菌",
      "rank": 1811,
      "py": "jūn",
-     "kw": "fungus",
-     "parts": "艹 grass + 囗 box + 禾 grain",
-     "story": "Grain boxed up damp, and something grows on it: fungus.",
+     "kw": "bacterium",
+     "parts": "艹 grass + 囷 granary (sound)",
+     "story": "A damp granary of grain, and something grows in it: bacteria.",
      "trad": "",
      "words": [
       {
@@ -2470,7 +2470,7 @@
        "g": "fungi"
       }
      ],
-     "note": "",
+     "note": "Also 'fungus': 真菌, 霉菌 'mould'.",
      "have": "new",
      "akw": ""
     },
@@ -2499,7 +2499,7 @@
        "g": "in a mess"
       }
      ],
-     "note": "Often a stand-in for 借 in 藉口.",
+     "note": "Mostly a stand-in for 借 'make use of': 藉口, 藉由 'by means of'.",
      "have": "new",
      "akw": ""
     }
@@ -2543,7 +2543,7 @@
      "rank": 1838,
      "py": "shuāi",
      "kw": "decline",
-     "parts": "- 衣 clothes with a stroke through the middle",
+     "parts": "- 衣 clothes split apart by a box with a bar across it",
      "story": "A coat worn through in the middle: things decline.",
      "trad": "",
      "words": [
@@ -2635,9 +2635,9 @@
      "c": "奈",
      "rank": 1822,
      "py": "nài",
-     "kw": "helpless",
+     "kw": "cope with",
      "parts": "大 big + 示 altar",
-     "story": "Even at the great altar nothing helps: helpless.",
+     "story": "Even at a big altar you ask how to cope with this.",
      "trad": "",
      "words": [
       {
@@ -2656,7 +2656,7 @@
        "g": "what can be done"
       }
      ],
-     "note": "Almost only in 无奈 'helpless'.",
+     "note": "Almost only in 无奈 'no way to cope: helpless' and 奈何.",
      "have": "new",
      "akw": ""
     },
@@ -2665,7 +2665,7 @@
      "rank": 1877,
      "py": "hǎn",
      "kw": "rare",
-     "parts": "罒 net + 干 dry",
+     "parts": "⺳ net + 干 dry",
      "story": "A net hung out dry: rarely any catch.",
      "trad": "",
      "words": [
@@ -2959,7 +2959,7 @@
        "g": "glass cup"
       }
      ],
-     "note": "Only seen in 玻璃 'glass'.",
+     "note": "Almost only in 玻璃 'glass'; also 琉璃 'coloured glaze'.",
      "have": "new",
      "akw": ""
     },
@@ -2992,7 +2992,7 @@
      "rank": 1888,
      "py": "chàng",
      "kw": "smooth",
-     "parts": "申 stretch + a flowing stroke on the right",
+     "parts": "申 stretch + 昜 (sound)",
      "story": "Stretched out with nothing in the way: smooth.",
      "trad": "暢",
      "words": [
@@ -3012,7 +3012,7 @@
        "g": "at ease"
       }
      ],
-     "note": "",
+     "note": "Traditional 暢. The right side is 昜 cut down, as in 场 and 汤.",
      "have": "new",
      "akw": ""
     }

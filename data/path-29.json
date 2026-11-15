@@ -4,7 +4,7 @@
  "groups": [
   {
    "title": "chemistry",
-   "note": "The names of elements and compounds: a metal, fire or flesh part plus a shape that carries the name.",
+   "note": "The names of elements and compounds: a part for the kind of stuff (stone, metal, fire, grass, flesh, wine jar) plus a part that carries the name.",
    "chars": [
     {
      "c": "磷",
@@ -99,7 +99,7 @@
      "py": "běn",
      "kw": "benzene",
      "parts": "艹 grass + 本 root (sound)",
-     "story": "A sweet-smelling liquid first got from plant resins: benzene.",
+     "story": "A sweet-smelling liquid named after a plant resin: benzene.",
      "trad": "",
      "words": [
       {
@@ -432,7 +432,7 @@
      "c": "揽",
      "rank": 2836,
      "py": "lǎn",
-     "kw": "take in arms",
+     "kw": "take on",
      "parts": "扌 hand + 览 view (sound)",
      "story": "A hand sweeping everything toward you: take on.",
      "trad": "攬",
@@ -453,7 +453,7 @@
        "g": "contract for"
       }
      ],
-     "note": "攬 became 揽.",
+     "note": "攬 became 揽. Also 'take into one's arms'.",
      "have": "new",
      "akw": ""
     },
@@ -520,7 +520,7 @@
      "rank": 2850,
      "py": "róu",
      "kw": "knead",
-     "parts": "扌 hand + 柔 soft",
+     "parts": "扌 hand + 柔 soft (sound)",
      "story": "A hand working something soft: knead.",
      "trad": "",
      "words": [
@@ -840,7 +840,7 @@
   },
   {
    "title": "trees 木",
-   "note": "A tree on the left: wood and wooden things.",
+   "note": "A tree on the left: wood and wooden things. 棘 has no tree: it is the thorn 朿, twice.",
    "chars": [
     {
      "c": "梳",
@@ -1054,8 +1054,8 @@
    ]
   },
   {
-   "title": "stone and jade 王",
-   "note": "Hard, shining things.",
+   "title": "jade 王",
+   "note": "Jade on the left: hard, shining things.",
    "chars": [
     {
      "c": "瑚",
@@ -1237,9 +1237,9 @@
      "c": "畔",
      "rank": 2801,
      "py": "pàn",
-     "kw": "riverbank",
-     "parts": "田 field + 半 half",
-     "story": "A field cut in half by a line: the riverbank beside it.",
+     "kw": "waterside",
+     "parts": "田 field + 半 half (sound)",
+     "story": "A field cut in half by a line: the waterside beside it.",
      "trad": "",
      "words": [
       {
@@ -1258,7 +1258,7 @@
        "g": "beside the ear"
       }
      ],
-     "note": "",
+     "note": "Also any side or edge, as in 耳畔.",
      "have": "new",
      "akw": ""
     },
@@ -1569,7 +1569,7 @@
        "g": "locust"
       }
      ],
-     "note": "螞 became 蚂. Only in these words. The first half of 蚂蚁 'ant', always with 蚁.",
+     "note": "螞 became 蚂. Mostly the first half of 蚂蚁 'ant'; also in 蚂蚱 'locust' and 蚂蟥 'leech'.",
      "have": "new",
      "akw": ""
     },
@@ -1613,7 +1613,7 @@
      "rank": 2870,
      "py": "bàng",
      "kw": "nearby",
-     "parts": "亻 person + 旁 beside",
+     "parts": "亻 person + 旁 beside (sound)",
      "story": "A person standing at the side: nearby.",
      "trad": "",
      "words": [
@@ -1699,15 +1699,15 @@
   },
   {
    "title": "heart 忄",
-   "note": "A heart on the left: fear, hate, grief.",
+   "note": "A heart on the left: fear, hate, grief. In 罹 it sits under the net.",
    "chars": [
     {
      "c": "惕",
      "rank": 2861,
      "py": "tì",
-     "kw": "fearful",
+     "kw": "wary",
      "parts": "忄 heart + 易 (sound)",
-     "story": "A heart that starts at any change: fearful.",
+     "story": "A heart that starts at any change: wary.",
      "trad": "",
      "words": [
       {
@@ -1950,9 +1950,9 @@
        "g": "rank and pay"
       },
       {
-       "w": "天禄",
-       "py": "tiānlù",
-       "g": "heaven's grace"
+       "w": "功名利禄",
+       "py": "gōngmínglìlù",
+       "g": "rank and fortune"
       }
      ],
      "note": "祿 became 禄.",
@@ -2101,7 +2101,7 @@
        "g": "slope"
       }
      ],
-     "note": "Meet it in Japanese place names, as in 大阪. Literary 'slope' (also 坂); today you meet it in 大阪 'Osaka'.",
+     "note": "Literary 'slope' (also 坂); today you meet it in Japanese place names, as in 大阪 'Osaka'.",
      "have": "new",
      "akw": ""
     },
@@ -2115,9 +2115,9 @@
      "trad": "",
      "words": [
       {
-       "w": "町",
-       "py": "dīng",
-       "g": "town district"
+       "w": "西门町",
+       "py": "Xīméndīng",
+       "g": "Ximending"
       },
       {
        "w": "室町",
@@ -2132,7 +2132,7 @@
     {
      "c": "挝",
      "rank": 2873,
-     "py": "zhuā",
+     "py": "wō",
      "kw": "laos",
      "parts": "扌 hand + 过 pass (sound)",
      "story": "A hand striking as it passes 过: the character kept for Laos.",
@@ -2146,10 +2146,10 @@
       {
        "w": "飞挝",
        "py": "fēizhuā",
-       "g": "grapple"
+       "g": "grappling hook"
       }
      ],
-     "note": "Only in 老挝, Laos. 撾 became 挝.",
+     "note": "Almost only in 老挝, Laos; 飞挝 is an old weapon. 撾 became 挝.",
      "have": "new",
      "akw": ""
     }
@@ -2738,9 +2738,9 @@
      "c": "馨",
      "rank": 2833,
      "py": "xīn",
-     "kw": "cozy",
+     "kw": "far fragrance",
      "parts": "殸 chime (sound) + 香 incense",
-     "story": "A sweet scent filling the room: warm and cozy.",
+     "story": "Incense whose scent carries far, like a chime's ring: far fragrance.",
      "trad": "",
      "words": [
       {
@@ -2759,7 +2759,7 @@
        "g": "carnation"
       }
      ],
-     "note": "Mostly 温馨 'warm and cozy'; 馨香 is 'fragrance'.",
+     "note": "Mostly in 温馨 'warm and cozy', where 温 adds the warmth.",
      "have": "new",
      "akw": ""
     },
@@ -2853,8 +2853,8 @@
    ]
   },
   {
-   "title": "single shapes",
-   "note": "Three odd characters that stand alone.",
+   "title": "odd ones",
+   "note": "Three characters that fit no family here.",
    "chars": [
     {
      "c": "匀",

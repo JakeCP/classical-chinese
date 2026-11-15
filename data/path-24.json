@@ -189,7 +189,7 @@
     {
      "c": "哼",
      "rank": 2320,
-     "py": "hng",
+     "py": "hēng",
      "kw": "hum",
      "parts": "口 mouth + 亨 (sound)",
      "story": "A mouth making a low noise through the nose: a hum.",
@@ -218,7 +218,7 @@
     {
      "c": "哟",
      "rank": 2325,
-     "py": "yo",
+     "py": "yō",
      "kw": "slight surprise",
      "parts": "口 mouth + 约 (sound)",
      "story": "A mouth opens a little in surprise.",
@@ -301,7 +301,7 @@
     {
      "c": "咋",
      "rank": 2365,
-     "py": "zé",
+     "py": "zǎ",
      "kw": "how come",
      "parts": "口 mouth + 乍 suddenly (sound)",
      "story": "A mouth that blurts out a sudden 乍 question: how come?",
@@ -826,7 +826,7 @@
      "rank": 2336,
      "py": "shèn",
      "kw": "kidney",
-     "parts": "又 hand + 月 flesh",
+     "parts": "〢 two strokes + 又 hand + 月 flesh",
      "story": "A hand-sized organ in the flesh: the kidney.",
      "trad": "腎",
      "words": [
@@ -846,7 +846,7 @@
        "g": "adrenal gland"
       }
      ],
-     "note": "Traditional 腎.",
+     "note": "Traditional 腎: the 臣 shrank to two strokes 〢, as in 紧 and 坚.",
      "have": "new",
      "akw": ""
     },
@@ -947,9 +947,9 @@
      "c": "顷",
      "rank": 2363,
      "py": "qǐng",
-     "kw": "hectare",
+     "kw": "unit of area",
      "parts": "匕 spoon + 页 head",
-     "story": "A bent head over a long stretch of field: a hectare.",
+     "story": "A head bent over a wide stretch of field, measuring it: a unit of area.",
      "trad": "頃",
      "words": [
       {
@@ -963,7 +963,7 @@
        "g": "in an instant"
       }
      ],
-     "note": "In 顷刻 it means 'a moment'. Traditional 頃.",
+     "note": "An old unit of 100 mu, about 6.67 hectares; 公顷 is the hectare. In 顷刻 it means 'a moment'. Traditional 頃.",
      "have": "new",
      "akw": ""
     }
@@ -1157,9 +1157,9 @@
      "c": "贬",
      "rank": 2371,
      "py": "biǎn",
-     "kw": "demote",
+     "kw": "depreciate",
      "parts": "贝 shell + 乏 lack",
-     "story": "Money goes short and the price is cut: demote.",
+     "story": "Money goes short and the price is cut: depreciate.",
      "trad": "貶",
      "words": [
       {
@@ -1178,7 +1178,7 @@
        "g": "negative sense"
       }
      ],
-     "note": "Traditional 貶.",
+     "note": "Lower in value or in esteem. In history also 'demote' an official. Traditional 貶.",
      "have": "new",
      "akw": ""
     },
@@ -1187,7 +1187,7 @@
      "rank": 2367,
      "py": "xián",
      "kw": "worthy",
-     "parts": "又 hand + 贝 shell",
+     "parts": "〢 two strokes + 又 hand + 贝 shell",
      "story": "A hand that holds wealth and uses it well: a worthy person.",
      "trad": "賢",
      "words": [
@@ -1207,7 +1207,7 @@
        "g": "able and virtuous"
       }
      ],
-     "note": "His Analects card: 'worthy'. 賢 lost its 臣 and became 贤.",
+     "note": "His Analects card: 'worthy'. In 賢 the 臣 shrank to two strokes 〢, and 貝 became 贝.",
      "have": "shape",
      "akw": "worthy"
     }
@@ -2157,7 +2157,7 @@
        "g": "gleaming with gold"
       }
      ],
-     "note": "Only in 辉煌.",
+     "note": "Mostly in 辉煌; also the place name 敦煌 Dunhuang.",
      "have": "new",
      "akw": ""
     },
@@ -2631,8 +2631,8 @@
      "rank": 2366,
      "py": "lǚ",
      "kw": "pitchpipe",
-     "parts": "- two mouths joined end to end",
-     "story": "Two mouths linked end to end: a pitchpipe.",
+     "parts": "口 mouth + 口 mouth",
+     "story": "Two mouths, one above the other, blowing in turn: a pitchpipe.",
      "trad": "呂",
      "words": [
       {
@@ -2651,7 +2651,7 @@
        "g": "Lüliang"
       }
      ],
-     "note": "Mostly a surname, Lü.",
+     "note": "Mostly a surname, Lü. Traditional 呂 joins the two 口 with a short stroke.",
      "have": "new",
      "akw": ""
     }
@@ -2723,9 +2723,9 @@
      "c": "俊",
      "rank": 2387,
      "py": "jùn",
-     "kw": "eminent",
+     "kw": "handsome",
      "parts": "亻 person + 夋 (sound)",
-     "story": "A person who stands out in a crowd: eminent.",
+     "story": "A person who stands out in a crowd: handsome.",
      "trad": "",
      "words": [
       {
@@ -2744,7 +2744,7 @@
        "g": "outstanding person"
       }
      ],
-     "note": "In modern prose mostly 'handsome': 英俊.",
+     "note": "Older sense 'outstanding, eminent', as in 俊杰.",
      "have": "new",
      "akw": ""
     },
@@ -2773,7 +2773,7 @@
        "g": "unwilling to stay quiet"
       }
      ],
-     "note": "Only seen after 寂: 寂寞.",
+     "note": "Mostly in 寂寞 'lonely'; also 落寞 'desolate'.",
      "have": "new",
      "akw": ""
     },
@@ -2809,15 +2809,15 @@
    ]
   },
   {
-   "title": "single shapes",
-   "note": "Eight that stand alone.",
+   "title": "odds and ends",
+   "note": "Eight that fit no family above.",
    "chars": [
     {
      "c": "衍",
      "rank": 2380,
      "py": "yǎn",
      "kw": "spread",
-     "parts": "行 road split round 水 water",
+     "parts": "行 road + 氵 water",
      "story": "Water spreading out between the sides of a road: spread.",
      "trad": "",
      "words": [
@@ -2837,7 +2837,7 @@
        "g": "fob off"
       }
      ],
-     "note": "",
+     "note": "行 is split in two, with 氵 tucked inside.",
      "have": "new",
      "akw": ""
     },

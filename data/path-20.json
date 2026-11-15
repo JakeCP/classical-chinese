@@ -206,7 +206,7 @@
        "g": "to flood"
       }
      ],
-     "note": "Traditional 濫.",
+     "note": "Mostly 'excessive, indiscriminate': 滥用 'to misuse'. Traditional 濫.",
      "have": "new",
      "akw": ""
     },
@@ -689,7 +689,7 @@
        "g": "boiler"
       }
      ],
-     "note": "Traditional 鍋: 金 became 钅.",
+     "note": "Traditional 鍋: 金 became 钅 and 咼 became 呙.",
      "have": "new",
      "akw": ""
     },
@@ -957,7 +957,7 @@
        "g": "blazing sun"
       }
      ],
-     "note": "Traditional 驕: 馬 became 马.",
+     "note": "Traditional 驕: 馬 became 马 and 喬 became 乔.",
      "have": "new",
      "akw": ""
     },
@@ -1007,7 +1007,7 @@
       {
        "w": "慎重",
        "py": "shènzhòng",
-       "g": "serious"
+       "g": "prudent"
       },
       {
        "w": "不慎",
@@ -1750,9 +1750,9 @@
      "c": "疏",
      "rank": 1912,
      "py": "shū",
-     "kw": "thin out",
-     "parts": "疋 foot + 㐬 flowing (sound)",
-     "story": "Feet and water spreading out until things thin out.",
+     "kw": "distant",
+     "parts": "疋 foot (sound) + 㐬 flowing",
+     "story": "Feet wandering off and water spreading out until people grow distant.",
      "trad": "",
      "words": [
       {
@@ -1771,7 +1771,7 @@
        "g": "to evacuate"
       }
      ],
-     "note": "His Analects card: 'distant'. 疏远 'drift apart'.",
+     "note": "Same as his Analects card. Also 'sparse' (稀疏) and 'neglect' (疏忽).",
      "have": "analects",
      "akw": "distant"
     }
@@ -1832,7 +1832,7 @@
       {
        "w": "曝晒",
        "py": "pùshài",
-       "g": "to sunbathe"
+       "g": "to bake in the sun"
       }
      ],
      "note": "Only used in a few words like 曝光.",
@@ -2000,7 +2000,7 @@
        "g": "horses"
       }
      ],
-     "note": "Counts horses: 一匹马.",
+     "note": "Counts horses: 一匹马. Traditional is also 匹; 疋 is an old variant for bolts of cloth.",
      "have": "new",
      "akw": ""
     },
@@ -2175,7 +2175,7 @@
        "g": "lever"
       }
      ],
-     "note": "Traditional 桿.",
+     "note": "Traditional 桿 in 杠杆 (槓桿); 栏杆 keeps 杆 (欄杆).",
      "have": "new",
      "akw": ""
     }
@@ -2191,13 +2191,13 @@
      "py": "fǎng",
      "kw": "spin",
      "parts": "纟 silk + 方 square (sound)",
-     "story": "Thread twisted into cloth: spin.",
+     "story": "Silk fibres twisted into thread: spin.",
      "trad": "紡",
      "words": [
       {
        "w": "纺织",
        "py": "fǎngzhī",
-       "g": "weaving"
+       "g": "spinning and weaving"
       },
       {
        "w": "纺织品",
@@ -2282,7 +2282,7 @@
      "c": "秦",
      "rank": 1942,
      "py": "qín",
-     "kw": "Qin",
+     "kw": "qin",
      "parts": "𡗗 two hands and a pestle + 禾 grain",
      "story": "Grain pounded by two hands: the farming state of Qin.",
      "trad": "",
@@ -2311,7 +2311,7 @@
      "c": "蒋",
      "rank": 1957,
      "py": "jiǎng",
-     "kw": "Chiang",
+     "kw": "chiang",
      "parts": "艹 grass + 将 general (sound)",
      "story": "A surname, as in 蒋介石 Chiang Kai-shek.",
      "trad": "蔣",
@@ -2359,7 +2359,7 @@
      "c": "沈",
      "rank": 1941,
      "py": "shěn",
-     "kw": "Shen",
+     "kw": "shen",
      "parts": "氵 water + 冘 (sound)",
      "story": "Water with a weight in it, sinking: the old form of 沉, now the surname Shen.",
      "trad": "瀋",
@@ -2375,7 +2375,7 @@
        "g": "Shen Congwen"
       }
      ],
-     "note": "Surname Shen. The same character as 沉 in older writing.",
+     "note": "Surname Shen, written 沈 in traditional too; only 沈阳 is 瀋陽. In older writing the same as 沉.",
      "have": "new",
      "akw": ""
     },
@@ -2423,12 +2423,12 @@
        "g": "desolate"
       },
       {
-       "w": "亚瑟",
-       "py": "Yàsè",
-       "g": "Arthur"
+       "w": "瑟瑟",
+       "py": "sèsè",
+       "g": "trembling"
       }
      ],
-     "note": "Also in foreign names: 亚瑟 'Arthur'.",
+     "note": "Mostly in 瑟瑟 'trembling' (瑟瑟发抖 'shiver'); also in foreign names: 亚瑟 'Arthur'.",
      "have": "new",
      "akw": ""
     }
@@ -2866,9 +2866,9 @@
      "c": "秩",
      "rank": 1978,
      "py": "zhì",
-     "kw": "rank",
+     "kw": "orderliness",
      "parts": "禾 grain + 失 lose (sound)",
-     "story": "Grain stacked in rows so none is lost: rank, order.",
+     "story": "Grain stacked in rows so none is lost: orderliness.",
      "trad": "",
      "words": [
       {
@@ -2887,7 +2887,7 @@
        "g": "in good order"
       }
      ],
-     "note": "",
+     "note": "Almost only in 秩序 'order'; 'rank' is literary.",
      "have": "new",
      "akw": ""
     },
@@ -2980,7 +2980,7 @@
        "g": "monk"
       }
      ],
-     "note": "Traditional 侶. Only in 伴侣 'partner', a literary 'companion'.",
+     "note": "Traditional 侶. Mostly in 情侣 'couple' and 伴侣 'partner'; a literary 'companion'.",
      "have": "new",
      "akw": ""
     }

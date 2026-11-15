@@ -1,0 +1,15046 @@
+{
+ "id": "m-nahan-toufa-de-gushi",
+ "book": 0,
+ "order": 109,
+ "title": "头发的故事",
+ "label": "头发的故事 (呐喊)",
+ "shelf": "modern",
+ "seal": "今",
+ "credit": "Text: 头发的故事 by Lu Xun (鲁迅), the sixth story in 呐喊 (1923), from Chinese Wikisource (zh.wikisource.org/wiki/頭髮的故事, revision 2525914), public domain. Glosses, notes and translation added by Claude.",
+ "chapters": [
+  {
+   "n": "1.1",
+   "text": "星期日的早晨，我揭去一张隔夜的日历，向着新的那一张上看了又看的说：",
+   "han": 30,
+   "toks": [
+    [
+     "星期日",
+     "星期日"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "早晨",
+     "早晨"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "揭",
+     "揭"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "张",
+     "张"
+    ],
+    [
+     "隔夜",
+     "隔夜"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "日历",
+     "日历"
+    ],
+    "，",
+    [
+     "向着",
+     "向着"
+    ],
+    [
+     "新",
+     "新"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "那",
+     "那"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "张",
+     "张"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "看",
+     "看"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "看",
+     "看"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "星期日",
+    "早晨",
+    "揭",
+    "隔夜",
+    "日历",
+    "向着"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "星期日",
+      "Sunday"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "早晨",
+      "morning"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "揭",
+      "tear off, peel off"
+     ],
+     [
+      "去",
+      "off"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "张",
+      "(counter for flat things: paper, tables)"
+     ],
+     [
+      "隔夜",
+      "of the night before"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "日历",
+      "calendar"
+     ],
+     [
+      "向着",
+      "toward, at"
+     ],
+     [
+      "新",
+      "new"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "张",
+      "(counter for flat things: paper, tables)"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "看",
+      "look at"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "看",
+      "look at"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "On Sunday morning I tore the sheet of the day before off the calendar, looked and looked again at the new one, and said:",
+   "note": "隔夜的日历 \"the overnight calendar\": yesterday's leaf of a tear-off calendar. 看了又看 \"looked, and looked again\". 看…的说: Lu Xun often writes 的 where today's books print 地 before a verb (\"-ly\").",
+   "ty": [
+    "xing",
+    "qi",
+    "ri",
+    "de",
+    "zao",
+    "chen",
+    "wo",
+    "jie",
+    "qu",
+    "yi",
+    "zhang",
+    "ge",
+    "ye",
+    "de",
+    "ri",
+    "li",
+    "xiang",
+    "zhe",
+    "xin",
+    "de",
+    "na",
+    "yi",
+    "zhang",
+    "shang",
+    "kan",
+    "le",
+    "you",
+    "kan",
+    "de",
+    "shuo"
+   ]
+  },
+  {
+   "n": "2.1",
+   "text": "‘阿，十月十日，——今天原来正是双十节。这里却一点没有记载！’",
+   "han": 23,
+   "toks": [
+    "‘",
+    [
+     "阿",
+     "阿"
+    ],
+    "，",
+    [
+     "十月",
+     "十月"
+    ],
+    [
+     "十",
+     "十"
+    ],
+    [
+     "日",
+     "日"
+    ],
+    "，——",
+    [
+     "今天",
+     "今天"
+    ],
+    [
+     "原来",
+     "原来"
+    ],
+    [
+     "正是",
+     "正是"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    "。",
+    [
+     "这里",
+     "这里"
+    ],
+    [
+     "却",
+     "却"
+    ],
+    [
+     "一点",
+     "一点"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "记载",
+     "记载"
+    ],
+    "！’"
+   ],
+   "new": [
+    "阿",
+    "十月",
+    "今天",
+    "原来",
+    "双十节",
+    "记载"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "阿",
+      "ah! (the old spelling of the cry 啊)"
+     ],
+     [
+      "十月",
+      "October"
+     ],
+     [
+      "十",
+      "ten"
+     ],
+     [
+      "日",
+      "day (formal)"
+     ],
+     [
+      "今天",
+      "today"
+     ],
+     [
+      "原来",
+      "so it turns out"
+     ],
+     [
+      "正是",
+      "is just, is precisely"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "这里",
+      "here"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "一点",
+      "a little, a bit"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "记载",
+      "record, written mention"
+     ]
+    ]
+   ],
+   "translation": "'Ah, the tenth of October: so today is the Double Tenth. And there's nothing at all about it here!'",
+   "note": "双十节, the Double Tenth: 10 October, the day of the Wuchang Uprising of 1911 that brought down the Qing, kept as the Republic's national day. The calendar does not even mark it. 阿 here is the cry \"ah\", the old spelling of 啊. The saved text (the 1948 collected works) marks speech with ‘ ’, and speech inside speech with “ ”. When a speech runs over several paragraphs, each paragraph opens with ‘ and, except once (40.1), only the last one closes.",
+   "ty": [
+    "a",
+    "shi",
+    "yue",
+    "shi",
+    "ri",
+    "jin",
+    "tian",
+    "yuan",
+    "lai",
+    "zheng",
+    "shi",
+    "shuang",
+    "shi",
+    "jie",
+    "zhe",
+    "li",
+    "que",
+    "yi",
+    "dian",
+    "mei",
+    "you",
+    "ji",
+    "zai"
+   ]
+  },
+  {
+   "n": "3.1",
+   "text": "我的一位前辈先生Ｎ，正走到我的寓里来谈闲天，一听这话，便很不高兴的对我说：",
+   "han": 32,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    [
+     "前辈",
+     "前辈"
+    ],
+    [
+     "先生",
+     "先生"
+    ],
+    "Ｎ，",
+    [
+     "正",
+     "正"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "寓",
+     "寓"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "谈",
+     "谈"
+    ],
+    [
+     "闲天",
+     "闲天"
+    ],
+    "，",
+    [
+     "一",
+     "一"
+    ],
+    [
+     "听",
+     "听"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "高兴",
+     "高兴"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "位",
+    "前辈",
+    "先生",
+    "闲天"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "前辈",
+      "someone of the older generation"
+     ],
+     [
+      "先生",
+      "Mr"
+     ],
+     [
+      "正",
+      "just, right (at that moment)"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "寓",
+      "lodgings"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "谈",
+      "talk"
+     ],
+     [
+      "闲天",
+      "idle talk"
+     ],
+     [
+      "一",
+      "as soon as"
+     ],
+     [
+      "听",
+      "listen"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "高兴",
+      "glad, happy"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "An older friend of mine, Mr N, had just come round to my lodgings for a chat. The moment he heard this he was most displeased, and said to me:",
+   "note": "前辈先生 \"a gentleman of the older generation\". 寓 is \"lodging\", a bookish word. 谈闲天 \"talk idle sky\": chat (谈天). 一听…便… \"as soon as he heard…, then…\": 便 is the bookish 就, and Lu Xun's everyday \"then\".",
+   "ty": [
+    "wo",
+    "de",
+    "yi",
+    "wei",
+    "qian",
+    "bei",
+    "xian",
+    "sheng",
+    "zheng",
+    "zou",
+    "dao",
+    "wo",
+    "de",
+    "yu",
+    "li",
+    "lai",
+    "tan",
+    "xian",
+    "tian",
+    "yi",
+    "ting",
+    "zhe",
+    "hua",
+    "bian",
+    "hen",
+    "bu",
+    "gao",
+    "xing",
+    "de",
+    "dui",
+    "wo",
+    "shuo"
+   ]
+  },
+  {
+   "n": "4.1",
+   "text": "‘他们对！他们不记得，你怎样他；你记得，又怎样呢！’",
+   "han": 19,
+   "toks": [
+    "‘",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "对",
+     "对"
+    ],
+    "！",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "记得",
+     "记得"
+    ],
+    "，",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "怎样",
+     "怎样"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    "；",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "记得",
+     "记得"
+    ],
+    "，",
+    [
+     "又",
+     "又"
+    ],
+    [
+     "怎样",
+     "怎样"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "！’"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "对",
+      "right, correct"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "记得",
+      "remember"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "怎样",
+      "can do what to"
+     ],
+     [
+      "他",
+      "them"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "记得",
+      "remember"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "怎样",
+      "how, in what way"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ]
+    ]
+   ],
+   "translation": "'They're right! If they don't remember, what can you do to them? And if you do remember, so what!'",
+   "note": "你怎样他 \"you what-way him\": here 怎样 is a verb, \"do what to\". 他 stands for 他们. 又怎样呢 \"and then what?\".",
+   "ty": [
+    "ta",
+    "men",
+    "dui",
+    "ta",
+    "men",
+    "bu",
+    "ji",
+    "de",
+    "ni",
+    "zen",
+    "yang",
+    "ta",
+    "ni",
+    "ji",
+    "de",
+    "you",
+    "zen",
+    "yang",
+    "ne"
+   ]
+  },
+  {
+   "n": "5.1",
+   "text": "这位Ｎ先生本来脾气有点乖张，时常生些无谓的气，说些不通世故的话。",
+   "han": 28,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    "Ｎ",
+    [
+     "先生",
+     "先生"
+    ],
+    [
+     "本来",
+     "本来"
+    ],
+    [
+     "脾气",
+     "脾气"
+    ],
+    [
+     "有点",
+     "有点"
+    ],
+    [
+     "乖张",
+     "乖张"
+    ],
+    "，",
+    [
+     "时常",
+     "时常"
+    ],
+    [
+     "生",
+     "生"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "无谓",
+     "无谓"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "气",
+     "气"
+    ],
+    "，",
+    [
+     "说",
+     "说"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "不通",
+     "不通"
+    ],
+    [
+     "世故",
+     "世故"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "。"
+   ],
+   "new": [
+    "本来",
+    "脾气",
+    "乖张",
+    "时常",
+    "生",
+    "无谓",
+    "气",
+    "不通",
+    "世故"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "先生",
+      "Mr"
+     ],
+     [
+      "本来",
+      "by nature, all along"
+     ],
+     [
+      "脾气",
+      "temper"
+     ],
+     [
+      "有点",
+      "a little"
+     ],
+     [
+      "乖张",
+      "cantankerous, perverse"
+     ],
+     [
+      "时常",
+      "often"
+     ],
+     [
+      "生",
+      "give rise to"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "无谓",
+      "pointless"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "气",
+      "anger"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "不通",
+      "not versed in"
+     ],
+     [
+      "世故",
+      "the ways of the world"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ]
+    ]
+   ],
+   "translation": "This Mr N had always been a little cantankerous. He often got angry over nothing, and said things that showed no sense of the ways of the world.",
+   "note": "生些无谓的气 is 生气 \"get angry\" opened up: 生 (some pointless) 气. 不通世故 \"not versed in the ways of the world\". 的 话 here is \"…'s words\", not the 的话 \"if\".",
+   "ty": [
+    "zhe",
+    "wei",
+    "xian",
+    "sheng",
+    "ben",
+    "lai",
+    "pi",
+    "qi",
+    "you",
+    "dian",
+    "guai",
+    "zhang",
+    "shi",
+    "chang",
+    "sheng",
+    "xie",
+    "wu",
+    "wei",
+    "de",
+    "qi",
+    "shuo",
+    "xie",
+    "bu",
+    "tong",
+    "shi",
+    "gu",
+    "de",
+    "hua"
+   ]
+  },
+  {
+   "n": "5.2",
+   "text": "当这时候，我大抵任他自言自语，不赞一辞；他独自发完议论，也就算了。",
+   "han": 28,
+   "toks": [
+    [
+     "当",
+     "当"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "时候",
+     "时候"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "大抵",
+     "大抵"
+    ],
+    [
+     "任",
+     "任"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "自言自语",
+     "自言自语"
+    ],
+    "，",
+    [
+     "不赞一辞",
+     "不赞一辞"
+    ],
+    "；",
+    [
+     "他",
+     "他"
+    ],
+    [
+     "独自",
+     "独自"
+    ],
+    [
+     "发",
+     "发"
+    ],
+    [
+     "完",
+     "完"
+    ],
+    [
+     "议论",
+     "议论"
+    ],
+    "，",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "算了",
+     "算了"
+    ],
+    "。"
+   ],
+   "new": [
+    "任",
+    "自言自语",
+    "不赞一辞",
+    "独自",
+    "算了"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "当",
+      "when (当…时)"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "时候",
+      "time, moment"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "大抵",
+      "mostly, by and large"
+     ],
+     [
+      "任",
+      "let, leave (someone to do as they please)"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "自言自语",
+      "talk to oneself"
+     ],
+     [
+      "不赞一辞",
+      "not say a word"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "独自",
+      "alone, on one's own"
+     ],
+     [
+      "发",
+      "air"
+     ],
+     [
+      "完",
+      "(after a verb) finish …-ing"
+     ],
+     [
+      "议论",
+      "talk, opinions"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "算了",
+      "that's that, let it go"
+     ]
+    ]
+   ],
+   "translation": "At such times I generally let him talk to himself and did not put in a single word; when he had finished airing his views on his own, that was the end of it.",
+   "note": "不赞一辞 \"not add one word\": an old set phrase (CC-CEDICT spells it 不赞一词). 任他… \"let him…\". 发议论 \"air one's views\". 也就算了 \"and then it was let go\".",
+   "ty": [
+    "dang",
+    "zhe",
+    "shi",
+    "hou",
+    "wo",
+    "da",
+    "di",
+    "ren",
+    "ta",
+    "zi",
+    "yan",
+    "zi",
+    "yu",
+    "bu",
+    "zan",
+    "yi",
+    "ci",
+    "ta",
+    "du",
+    "zi",
+    "fa",
+    "wan",
+    "yi",
+    "lun",
+    "ye",
+    "jiu",
+    "suan",
+    "le"
+   ]
+  },
+  {
+   "n": "6.1",
+   "text": "他说：",
+   "han": 2,
+   "toks": [
+    [
+     "他",
+     "他"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "He said:",
+   "note": "",
+   "ty": [
+    "ta",
+    "shuo"
+   ]
+  },
+  {
+   "n": "7.1",
+   "text": "‘我最佩服北京双十节的情形。",
+   "han": 12,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "最",
+     "最"
+    ],
+    [
+     "佩服",
+     "佩服"
+    ],
+    [
+     "北京",
+     "北京"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "情形",
+     "情形"
+    ],
+    "。"
+   ],
+   "new": [
+    "佩服",
+    "情形"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "最",
+      "most, -est"
+     ],
+     [
+      "佩服",
+      "admire"
+     ],
+     [
+      "北京",
+      "Beijing"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "情形",
+      "the way things are, the scene"
+     ]
+    ]
+   ],
+   "translation": "'What I admire most is how Beijing keeps the Double Tenth.'",
+   "note": "佩服 \"admire\" is said with a straight face: what follows is mockery.",
+   "ty": [
+    "wo",
+    "zui",
+    "pei",
+    "fu",
+    "bei",
+    "jing",
+    "shuang",
+    "shi",
+    "jie",
+    "de",
+    "qing",
+    "xing"
+   ]
+  },
+  {
+   "n": "7.2",
+   "text": "早晨，警察到门，吩咐道“挂旗。”“是，挂旗！”",
+   "han": 14,
+   "toks": [
+    [
+     "早晨",
+     "早晨"
+    ],
+    "，",
+    [
+     "警察",
+     "警察"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "门",
+     "门"
+    ],
+    "，",
+    [
+     "吩咐",
+     "吩咐"
+    ],
+    [
+     "道",
+     "道@say"
+    ],
+    "“",
+    [
+     "挂",
+     "挂"
+    ],
+    [
+     "旗",
+     "旗"
+    ],
+    "。”“",
+    [
+     "是",
+     "是"
+    ],
+    "，",
+    [
+     "挂",
+     "挂"
+    ],
+    [
+     "旗",
+     "旗"
+    ],
+    "！”"
+   ],
+   "new": [
+    "吩咐",
+    "道@say",
+    "挂",
+    "旗"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "早晨",
+      "morning"
+     ],
+     [
+      "警察",
+      "police"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "门",
+      "gate, door"
+     ],
+     [
+      "吩咐",
+      "order, instruct"
+     ],
+     [
+      "道",
+      "say (after a verb of speaking)"
+     ],
+     [
+      "挂",
+      "hang (up, out)"
+     ],
+     [
+      "旗",
+      "flag"
+     ],
+     [
+      "是",
+      "yes"
+     ],
+     [
+      "挂",
+      "hang (up, out)"
+     ],
+     [
+      "旗",
+      "flag"
+     ]
+    ]
+   ],
+   "translation": "'In the morning the police come to the door with their orders: \"Hang out the flag.\" \"Yes, hang out the flag!\"'",
+   "note": "道 after a verb of speaking is \"say\": 吩咐道 \"ordered, saying\". The second voice, unnamed, is each household answering.",
+   "ty": [
+    "zao",
+    "chen",
+    "jing",
+    "cha",
+    "dao",
+    "men",
+    "fen",
+    "fu",
+    "dao",
+    "gua",
+    "qi",
+    "shi",
+    "gua",
+    "qi"
+   ]
+  },
+  {
+   "n": "7.3",
+   "text": "各家大半懒洋洋的踱出一个国民来，撅起一块斑驳陆离的洋布。",
+   "han": 26,
+   "toks": [
+    [
+     "各",
+     "各"
+    ],
+    [
+     "家",
+     "家"
+    ],
+    [
+     "大半",
+     "大半"
+    ],
+    [
+     "懒洋洋",
+     "懒洋洋"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "踱",
+     "踱"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "国民",
+     "国民"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "撅",
+     "撅"
+    ],
+    [
+     "起",
+     "起"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "块",
+     "块"
+    ],
+    [
+     "斑驳陆离",
+     "斑驳陆离"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "洋布",
+     "洋布"
+    ],
+    "。"
+   ],
+   "new": [
+    "家",
+    "懒洋洋",
+    "踱",
+    "撅",
+    "斑驳陆离",
+    "洋布"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "各",
+      "each"
+     ],
+     [
+      "家",
+      "household, house"
+     ],
+     [
+      "大半",
+      "the greater part"
+     ],
+     [
+      "懒洋洋",
+      "lazily, listlessly"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "踱",
+      "stroll, pace"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "国民",
+      "citizen"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "撅",
+      "stick up, stick out"
+     ],
+     [
+      "起",
+      "up"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "块",
+      "(counter for slabs, lumps, pieces)"
+     ],
+     [
+      "斑驳陆离",
+      "mottled and many-coloured"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "洋布",
+      "foreign cloth, machine-woven cotton"
+     ]
+    ]
+   ],
+   "translation": "'From most houses a citizen strolls out, lazily, and sticks up a piece of blotchy, many-coloured foreign cloth.'",
+   "note": "踱出一个国民来 \"pace out a citizen\": 出…来 wraps round what comes out. 国民 \"citizen\" is ironic. The flag of the early Republic had five coloured bars; 斑驳陆离 \"mottled and motley\" makes it a faded rag. 洋布 \"foreign cloth\": machine-woven cotton.",
+   "ty": [
+    "ge",
+    "jia",
+    "da",
+    "ban",
+    "lan",
+    "yang",
+    "yang",
+    "de",
+    "duo",
+    "chu",
+    "yi",
+    "ge",
+    "guo",
+    "min",
+    "lai",
+    "jue",
+    "qi",
+    "yi",
+    "kuai",
+    "ban",
+    "bo",
+    "lu",
+    "li",
+    "de",
+    "yang",
+    "bu"
+   ]
+  },
+  {
+   "n": "7.4",
+   "text": "这样一直到夜，——收了旗关门；几家偶然忘却的，便挂到第二天的上午。",
+   "han": 27,
+   "toks": [
+    [
+     "这样",
+     "这样"
+    ],
+    [
+     "一直",
+     "一直"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "夜",
+     "夜"
+    ],
+    "，——",
+    [
+     "收",
+     "收"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "旗",
+     "旗"
+    ],
+    [
+     "关门",
+     "关门"
+    ],
+    "；",
+    [
+     "几",
+     "几"
+    ],
+    [
+     "家",
+     "家"
+    ],
+    [
+     "偶然",
+     "偶然"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "挂",
+     "挂"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "第二天",
+     "第二天"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "上午",
+     "上午"
+    ],
+    "。"
+   ],
+   "new": [
+    "一直",
+    "收",
+    "关门",
+    "偶然",
+    "第二天",
+    "上午"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这样",
+      "like this, this way"
+     ],
+     [
+      "一直",
+      "all the way, right (until)"
+     ],
+     [
+      "到",
+      "until"
+     ],
+     [
+      "夜",
+      "night"
+     ],
+     [
+      "收",
+      "take in, put away"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "旗",
+      "flag"
+     ],
+     [
+      "关门",
+      "shut the door"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "家",
+      "household, house"
+     ],
+     [
+      "偶然",
+      "by chance"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "挂",
+      "hang (up, out)"
+     ],
+     [
+      "到",
+      "until"
+     ],
+     [
+      "第二天",
+      "the next day"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "上午",
+      "morning (before noon)"
+     ]
+    ]
+   ],
+   "translation": "'So it stays until night; then they take in the flag and shut the door. The few houses that happen to forget leave it out until the morning of the next day.'",
+   "note": "忘却 \"forget\" is bookish (today 忘记), and it runs through the whole story. 几家偶然忘却的 \"the few houses that by chance forget\": 的 with no noun after it, \"the ones that\".",
+   "ty": [
+    "zhe",
+    "yang",
+    "yi",
+    "zhi",
+    "dao",
+    "ye",
+    "shou",
+    "le",
+    "qi",
+    "guan",
+    "men",
+    "ji",
+    "jia",
+    "ou",
+    "ran",
+    "wang",
+    "que",
+    "de",
+    "bian",
+    "gua",
+    "dao",
+    "di",
+    "er",
+    "tian",
+    "de",
+    "shang",
+    "wu"
+   ]
+  },
+  {
+   "n": "8.1",
+   "text": "‘他们忘却了纪念，纪念也忘却了他们！",
+   "han": 15,
+   "toks": [
+    "‘",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "纪念",
+     "纪念"
+    ],
+    "，",
+    [
+     "纪念",
+     "纪念"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    "！"
+   ],
+   "new": [
+    "纪念"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "纪念",
+      "commemorate"
+     ],
+     [
+      "纪念",
+      "commemorate"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "他们",
+      "they, them"
+     ]
+    ]
+   ],
+   "translation": "'They have forgotten the commemoration, and the commemoration has forgotten them!'",
+   "note": "",
+   "ty": [
+    "ta",
+    "men",
+    "wang",
+    "que",
+    "le",
+    "ji",
+    "nian",
+    "ji",
+    "nian",
+    "ye",
+    "wang",
+    "que",
+    "le",
+    "ta",
+    "men"
+   ]
+  },
+  {
+   "n": "9.1",
+   "text": "‘我也是忘却了纪念的一个人。",
+   "han": 12,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "纪念",
+     "纪念"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "。"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "纪念",
+      "commemorate"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "人",
+      "person, people"
+     ]
+    ]
+   ],
+   "translation": "'I too am someone who has forgotten the commemoration.'",
+   "note": "",
+   "ty": [
+    "wo",
+    "ye",
+    "shi",
+    "wang",
+    "que",
+    "le",
+    "ji",
+    "nian",
+    "de",
+    "yi",
+    "ge",
+    "ren"
+   ]
+  },
+  {
+   "n": "9.2",
+   "text": "倘使纪念起来，那第一个双十节前后的事，便都上我的心头，使我坐立不稳了。",
+   "han": 31,
+   "toks": [
+    [
+     "倘使",
+     "倘使"
+    ],
+    [
+     "纪念",
+     "纪念"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    "，",
+    [
+     "那",
+     "那"
+    ],
+    [
+     "第一",
+     "第一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    [
+     "前后",
+     "前后"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "上",
+     "上@v"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "心头",
+     "心头"
+    ],
+    "，",
+    [
+     "使",
+     "使"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "坐",
+     "坐"
+    ],
+    [
+     "立",
+     "立"
+    ],
+    [
+     "不稳",
+     "不稳"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "倘使",
+    "前后",
+    "上@v",
+    "心头",
+    "不稳"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "倘使",
+      "if (bookish)"
+     ],
+     [
+      "纪念",
+      "commemorate"
+     ],
+     [
+      "起来",
+      "(after a verb) start to"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "第一",
+      "first"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "前后",
+      "around (a time), before and after"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "上",
+      "go up (to), come up into"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "心头",
+      "heart, mind"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "坐",
+      "sit"
+     ],
+     [
+      "立",
+      "stand"
+     ],
+     [
+      "不稳",
+      "unsteady"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'If I once started commemorating, everything around that first Double Tenth would come up into my heart, and I could neither sit nor stand still.'",
+   "note": "倘使 \"if\" is bookish (today 如果). 纪念起来 \"start to commemorate\". 坐立不稳 plays on the set phrase 坐立不安 \"can neither sit nor stand at ease\". The first Double Tenth is 1911: N means the revolution and the years of struggle before it.",
+   "ty": [
+    "tang",
+    "shi",
+    "ji",
+    "nian",
+    "qi",
+    "lai",
+    "na",
+    "di",
+    "yi",
+    "ge",
+    "shuang",
+    "shi",
+    "jie",
+    "qian",
+    "hou",
+    "de",
+    "shi",
+    "bian",
+    "dou",
+    "shang",
+    "wo",
+    "de",
+    "xin",
+    "tou",
+    "shi",
+    "wo",
+    "zuo",
+    "li",
+    "bu",
+    "wen",
+    "le"
+   ]
+  },
+  {
+   "n": "10.1",
+   "text": "‘多少故人的脸，都浮在我眼前。",
+   "han": 12,
+   "toks": [
+    "‘",
+    [
+     "多少",
+     "多少"
+    ],
+    [
+     "故人",
+     "故人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "脸",
+     "脸"
+    ],
+    "，",
+    [
+     "都",
+     "都"
+    ],
+    [
+     "浮",
+     "浮"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "眼前",
+     "眼前"
+    ],
+    "。"
+   ],
+   "new": [
+    "故人",
+    "脸"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "多少",
+      "how many"
+     ],
+     [
+      "故人",
+      "old friend"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "脸",
+      "face"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "浮",
+      "float"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "眼前",
+      "before one's eyes"
+     ]
+    ]
+   ],
+   "translation": "'So many faces of old friends float before my eyes.'",
+   "note": "多少 here is not a question: \"how many!\", so many.",
+   "ty": [
+    "duo",
+    "shao",
+    "gu",
+    "ren",
+    "de",
+    "lian",
+    "dou",
+    "fu",
+    "zai",
+    "wo",
+    "yan",
+    "qian"
+   ]
+  },
+  {
+   "n": "10.2",
+   "text": "几个少年辛苦奔走了十多年，暗地里一颗弹丸要了他的性命；几个少年一击不中，在监牢里身受一个多月的苦刑；几个少年怀着远志，忽然踪影全无，连尸首也不知那里去了。——",
+   "han": 70,
+   "toks": [
+    [
+     "几",
+     "几"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "少年",
+     "少年"
+    ],
+    [
+     "辛苦",
+     "辛苦"
+    ],
+    [
+     "奔走",
+     "奔走"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "十",
+     "十"
+    ],
+    [
+     "多",
+     "多"
+    ],
+    [
+     "年",
+     "年"
+    ],
+    "，",
+    [
+     "暗地里",
+     "暗地里"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "颗",
+     "颗"
+    ],
+    [
+     "弹丸",
+     "弹丸"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "性命",
+     "性命"
+    ],
+    "；",
+    [
+     "几",
+     "几"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "少年",
+     "少年"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "击",
+     "击"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "中",
+     "中@hit"
+    ],
+    "，",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "监牢",
+     "监牢"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "身",
+     "身"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "多",
+     "多"
+    ],
+    [
+     "月",
+     "月"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "苦刑",
+     "苦刑"
+    ],
+    "；",
+    [
+     "几",
+     "几"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "少年",
+     "少年"
+    ],
+    [
+     "怀",
+     "怀"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "远志",
+     "远志"
+    ],
+    "，",
+    [
+     "忽然",
+     "忽然"
+    ],
+    [
+     "踪影",
+     "踪影"
+    ],
+    [
+     "全无",
+     "全无"
+    ],
+    "，",
+    [
+     "连",
+     "连"
+    ],
+    [
+     "尸首",
+     "尸首"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不知",
+     "不知"
+    ],
+    [
+     "那里",
+     "那里@where"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。——"
+   ],
+   "new": [
+    "少年",
+    "奔走",
+    "暗地里",
+    "颗",
+    "弹丸",
+    "性命",
+    "击",
+    "中@hit",
+    "监牢",
+    "苦刑",
+    "远志",
+    "踪影",
+    "全无",
+    "尸首",
+    "不知",
+    "那里@where"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "少年",
+      "young man"
+     ],
+     [
+      "辛苦",
+      "toil"
+     ],
+     [
+      "奔走",
+      "rush about (for a cause)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "十",
+      "ten"
+     ],
+     [
+      "多",
+      "many, much"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "暗地里",
+      "in secret, in the dark"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "颗",
+      "(counter for small round things)"
+     ],
+     [
+      "弹丸",
+      "bullet, pellet"
+     ],
+     [
+      "要",
+      "took"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "性命",
+      "life"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "少年",
+      "young man"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "击",
+      "strike"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "中",
+      "hit (the mark)"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "监牢",
+      "prison"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "身",
+      "in person"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "多",
+      "many, much"
+     ],
+     [
+      "月",
+      "month"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "苦刑",
+      "torture"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "少年",
+      "young man"
+     ],
+     [
+      "怀",
+      "cherish, hold in the heart"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "远志",
+      "high hopes, a far-reaching aim"
+     ],
+     [
+      "忽然",
+      "suddenly"
+     ],
+     [
+      "踪影",
+      "trace"
+     ],
+     [
+      "全无",
+      "none at all"
+     ],
+     [
+      "连",
+      "even (连 A 也…)"
+     ],
+     [
+      "尸首",
+      "dead body"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不知",
+      "not know"
+     ],
+     [
+      "那里",
+      "where (the old spelling of 哪里)"
+     ],
+     [
+      "去",
+      "go"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'Some young men toiled and ran about for more than ten years, and then a single bullet in the dark took their lives. Some young men struck and missed, and suffered more than a month of torture in prison. Some young men, with high hopes in their hearts, suddenly vanished without trace: no one even knows where their bodies went.'",
+   "note": "奔走 \"run about\": working for the revolution, often abroad and in hiding. 一击不中 \"struck once and did not hit\": a failed assassination; 中 here is \"hit the mark\", not \"middle\". 那里 here is \"where\": the saved text prints 那里 for both \"there\" and \"where\" (today's books print 哪里 for \"where\"). The old spellings are kept as printed.",
+   "ty": [
+    "ji",
+    "ge",
+    "shao",
+    "nian",
+    "xin",
+    "ku",
+    "ben",
+    "zou",
+    "le",
+    "shi",
+    "duo",
+    "nian",
+    "an",
+    "di",
+    "li",
+    "yi",
+    "ke",
+    "dan",
+    "wan",
+    "yao",
+    "le",
+    "ta",
+    "de",
+    "xing",
+    "ming",
+    "ji",
+    "ge",
+    "shao",
+    "nian",
+    "yi",
+    "ji",
+    "bu",
+    "zhong",
+    "zai",
+    "jian",
+    "lao",
+    "li",
+    "shen",
+    "shou",
+    "yi",
+    "ge",
+    "duo",
+    "yue",
+    "de",
+    "ku",
+    "xing",
+    "ji",
+    "ge",
+    "shao",
+    "nian",
+    "huai",
+    "zhe",
+    "yuan",
+    "zhi",
+    "hu",
+    "ran",
+    "zong",
+    "ying",
+    "quan",
+    "wu",
+    "lian",
+    "shi",
+    "shou",
+    "ye",
+    "bu",
+    "zhi",
+    "na",
+    "li",
+    "qu",
+    "le"
+   ]
+  },
+  {
+   "n": "11.1",
+   "text": "‘他们都在社会的冷笑恶骂迫害倾陷里过了一生；现在他们的坟墓也早在忘却里渐渐平塌下去了。",
+   "han": 40,
+   "toks": [
+    "‘",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "社会",
+     "社会"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "冷笑",
+     "冷笑"
+    ],
+    [
+     "恶骂",
+     "恶骂"
+    ],
+    [
+     "迫害",
+     "迫害"
+    ],
+    [
+     "倾陷",
+     "倾陷"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "过",
+     "过"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一生",
+     "一生"
+    ],
+    "；",
+    [
+     "现在",
+     "现在"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "坟墓",
+     "坟墓"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "早",
+     "早"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "渐渐",
+     "渐渐"
+    ],
+    [
+     "平",
+     "平"
+    ],
+    [
+     "塌",
+     "塌"
+    ],
+    [
+     "下去",
+     "下去"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "冷笑",
+    "恶骂",
+    "迫害",
+    "倾陷",
+    "一生",
+    "坟墓",
+    "平",
+    "塌",
+    "下去"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "社会",
+      "society"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "冷笑",
+      "sneer"
+     ],
+     [
+      "恶骂",
+      "curse, abuse"
+     ],
+     [
+      "迫害",
+      "persecution"
+     ],
+     [
+      "倾陷",
+      "entrapment, framing"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "过",
+      "pass, live through (time)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一生",
+      "one's whole life"
+     ],
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "坟墓",
+      "grave"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "早",
+      "long since"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "渐渐",
+      "gradually"
+     ],
+     [
+      "平",
+      "flat, level"
+     ],
+     [
+      "塌",
+      "collapse, sink"
+     ],
+     [
+      "下去",
+      "(after a verb) down"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'All their lives they lived amid society's sneers and curses, its persecution and its snares; and now their graves too have long been sinking, little by little, flat into forgetting.'",
+   "note": "Four nouns in a row: 冷笑 sneers, 恶骂 curses, 迫害 persecution, 倾陷 entrapment (framing someone to bring him down). 平塌下去 \"slump down flat\": the grave mounds wear away.",
+   "ty": [
+    "ta",
+    "men",
+    "dou",
+    "zai",
+    "she",
+    "hui",
+    "de",
+    "leng",
+    "xiao",
+    "e",
+    "ma",
+    "po",
+    "hai",
+    "qing",
+    "xian",
+    "li",
+    "guo",
+    "le",
+    "yi",
+    "sheng",
+    "xian",
+    "zai",
+    "ta",
+    "men",
+    "de",
+    "fen",
+    "mu",
+    "ye",
+    "zao",
+    "zai",
+    "wang",
+    "que",
+    "li",
+    "jian",
+    "jian",
+    "ping",
+    "ta",
+    "xia",
+    "qu",
+    "le"
+   ]
+  },
+  {
+   "n": "12.1",
+   "text": "‘我不堪纪念这些事。",
+   "han": 8,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不堪",
+     "不堪"
+    ],
+    [
+     "纪念",
+     "纪念"
+    ],
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    "。"
+   ],
+   "new": [
+    "不堪"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不堪",
+      "cannot bear"
+     ],
+     [
+      "纪念",
+      "commemorate"
+     ],
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ]
+    ]
+   ],
+   "translation": "'I cannot bear to commemorate these things.'",
+   "note": "",
+   "ty": [
+    "wo",
+    "bu",
+    "kan",
+    "ji",
+    "nian",
+    "zhe",
+    "xie",
+    "shi"
+   ]
+  },
+  {
+   "n": "13.1",
+   "text": "‘我们还是记起一点得意的事来谈谈罢。’",
+   "han": 16,
+   "toks": [
+    "‘",
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "记起",
+     "记起"
+    ],
+    [
+     "一点",
+     "一点"
+    ],
+    [
+     "得意",
+     "得意"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "谈谈",
+     "谈谈"
+    ],
+    [
+     "罢",
+     "罢"
+    ],
+    "。’"
+   ],
+   "new": [
+    "得意",
+    "谈谈"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "还是",
+      "had better"
+     ],
+     [
+      "记起",
+      "recall"
+     ],
+     [
+      "一点",
+      "a little, a bit"
+     ],
+     [
+      "得意",
+      "pleased with oneself"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "来",
+      "to"
+     ],
+     [
+      "谈谈",
+      "talk about, chat about"
+     ],
+     [
+      "罢",
+      "(suggestion or command): the old spelling of 吧"
+     ]
+    ]
+   ],
+   "translation": "'Let's rather call up something to be pleased about, and talk about that.'",
+   "note": "还是…罢 \"had better…\". 罢 is the old spelling of 吧, the particle of a suggestion.",
+   "ty": [
+    "wo",
+    "men",
+    "hai",
+    "shi",
+    "ji",
+    "qi",
+    "yi",
+    "dian",
+    "de",
+    "yi",
+    "de",
+    "shi",
+    "lai",
+    "tan",
+    "tan",
+    "ba"
+   ]
+  },
+  {
+   "n": "14.1",
+   "text": "Ｎ忽然现出笑容，伸手在自己头上一摸，高声说：",
+   "han": 18,
+   "toks": [
+    "Ｎ",
+    [
+     "忽然",
+     "忽然"
+    ],
+    [
+     "现",
+     "现"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "笑容",
+     "笑容"
+    ],
+    "，",
+    [
+     "伸手",
+     "伸手"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "头",
+     "头"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "摸",
+     "摸"
+    ],
+    "，",
+    [
+     "高声",
+     "高声"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "现",
+    "伸手",
+    "摸",
+    "高声"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "忽然",
+      "suddenly"
+     ],
+     [
+      "现",
+      "appear, show"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "笑容",
+      "smile"
+     ],
+     [
+      "伸手",
+      "put out a hand"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "头",
+      "head"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "摸",
+      "stroke, feel with the hand"
+     ],
+     [
+      "高声",
+      "loudly"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "N suddenly broke into a smile, put up a hand and gave his head a rub, and said loudly:",
+   "note": "现出 \"show\": 现 appear + 出 out. 在头上一摸 \"gave one stroke on his head\": 一 before a verb is \"once, a quick…\". He is feeling his short hair.",
+   "ty": [
+    "hu",
+    "ran",
+    "xian",
+    "chu",
+    "xiao",
+    "rong",
+    "shen",
+    "shou",
+    "zai",
+    "zi",
+    "ji",
+    "tou",
+    "shang",
+    "yi",
+    "mo",
+    "gao",
+    "sheng",
+    "shuo"
+   ]
+  },
+  {
+   "n": "15.1",
+   "text": "‘我最得意的是自从第一个双十节以后，我在路上走不再被人笑骂了。",
+   "han": 28,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "最",
+     "最"
+    ],
+    [
+     "得意",
+     "得意"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "自从",
+     "自从"
+    ],
+    [
+     "第一",
+     "第一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    [
+     "以后",
+     "以后"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "路上",
+     "路上"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "不再",
+     "不再"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "笑骂",
+     "笑骂"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "不再",
+    "笑骂"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "最",
+      "most, -est"
+     ],
+     [
+      "得意",
+      "pleased with oneself"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "自从",
+      "ever since"
+     ],
+     [
+      "第一",
+      "first"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "以后",
+      "after"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "路上",
+      "on the road"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "不再",
+      "no longer"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "笑骂",
+      "jeer at"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'What I'm most pleased about is that since the first Double Tenth, when I walk in the street I'm no longer laughed at and cursed.'",
+   "note": "",
+   "ty": [
+    "wo",
+    "zui",
+    "de",
+    "yi",
+    "de",
+    "shi",
+    "zi",
+    "cong",
+    "di",
+    "yi",
+    "ge",
+    "shuang",
+    "shi",
+    "jie",
+    "yi",
+    "hou",
+    "wo",
+    "zai",
+    "lu",
+    "shang",
+    "zou",
+    "bu",
+    "zai",
+    "bei",
+    "ren",
+    "xiao",
+    "ma",
+    "le"
+   ]
+  },
+  {
+   "n": "16.1",
+   "text": "‘老兄，你可知道头发是我们中国人的宝贝和冤家，古今来多少人在这上头吃些毫无价值的苦呵！",
+   "han": 39,
+   "toks": [
+    "‘",
+    [
+     "老兄",
+     "老兄"
+    ],
+    "，",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "可",
+     "可@q"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "中国人",
+     "中国人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "宝贝",
+     "宝贝"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "冤家",
+     "冤家"
+    ],
+    "，",
+    [
+     "古今",
+     "古今"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "多少",
+     "多少"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "上头",
+     "上头"
+    ],
+    [
+     "吃",
+     "吃"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "毫无",
+     "毫无"
+    ],
+    [
+     "价值",
+     "价值"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "苦",
+     "苦"
+    ],
+    [
+     "呵",
+     "呵"
+    ],
+    "！"
+   ],
+   "new": [
+    "老兄",
+    "可@q",
+    "宝贝",
+    "冤家",
+    "古今",
+    "上头",
+    "价值"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "老兄",
+      "my friend, old fellow"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "可",
+      "(before a verb, asks) do you…?"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "中国人",
+      "Chinese (people)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "宝贝",
+      "treasure, darling"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "冤家",
+      "enemy, bane"
+     ],
+     [
+      "古今",
+      "ancient and modern times"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "多少",
+      "how many"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "上头",
+      "matter"
+     ],
+     [
+      "吃",
+      "eat"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "毫无",
+      "not the slightest"
+     ],
+     [
+      "价值",
+      "value, worth"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "苦",
+      "suffering"
+     ],
+     [
+      "呵",
+      "ah! (an exclamation)"
+     ]
+    ]
+   ],
+   "translation": "'My friend, do you know that hair is the treasure and the curse of us Chinese? From ancient times till now, how many people have suffered over it, and for nothing at all!'",
+   "note": "宝贝和冤家 \"darling and enemy\": a 冤家 is the foe you cannot be rid of. 可知道 \"do you know?\": 可 before a verb asks. 古今来 \"from of old till now\". 吃苦 \"eat bitterness\", suffer, here opened up: 吃些毫无价值的苦 \"suffer some utterly worthless suffering\". 呵 is the cry 啊, in an old spelling.",
+   "ty": [
+    "lao",
+    "xiong",
+    "ni",
+    "ke",
+    "zhi",
+    "dao",
+    "tou",
+    "fa",
+    "shi",
+    "wo",
+    "men",
+    "zhong",
+    "guo",
+    "ren",
+    "de",
+    "bao",
+    "bei",
+    "he",
+    "yuan",
+    "jia",
+    "gu",
+    "jin",
+    "lai",
+    "duo",
+    "shao",
+    "ren",
+    "zai",
+    "zhe",
+    "shang",
+    "tou",
+    "chi",
+    "xie",
+    "hao",
+    "wu",
+    "jia",
+    "zhi",
+    "de",
+    "ku",
+    "a"
+   ]
+  },
+  {
+   "n": "17.1",
+   "text": "‘我们的很古的古人，对于头发似乎也还看轻。",
+   "han": 18,
+   "toks": [
+    "‘",
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "古",
+     "古"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "古人",
+     "古人"
+    ],
+    "，",
+    [
+     "对于",
+     "对于"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "似乎",
+     "似乎"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "还",
+     "还"
+    ],
+    [
+     "看轻",
+     "看轻"
+    ],
+    "。"
+   ],
+   "new": [
+    "古人",
+    "看轻"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "古",
+      "ancient"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "古人",
+      "the ancients"
+     ],
+     [
+      "对于",
+      "toward, as regards"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "似乎",
+      "seem"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "还",
+      "fairly"
+     ],
+     [
+      "看轻",
+      "make light of"
+     ]
+    ]
+   ],
+   "translation": "'Our very ancient ancestors seem, on the whole, to have thought little of hair too.'",
+   "note": "也还看轻 \"also fairly made light of\": 还 before a verb here softens, \"fairly, on the whole\".",
+   "ty": [
+    "wo",
+    "men",
+    "de",
+    "hen",
+    "gu",
+    "de",
+    "gu",
+    "ren",
+    "dui",
+    "yu",
+    "tou",
+    "fa",
+    "si",
+    "hu",
+    "ye",
+    "hai",
+    "kan",
+    "qing"
+   ]
+  },
+  {
+   "n": "17.2",
+   "text": "据刑法看来，最要紧的自然是脑袋，所以大辟是上刑；次要便是生殖器了，所以宫刑和幽闭也是一件吓人的罚；至于髡，那是微乎其微了；",
+   "han": 54,
+   "toks": [
+    [
+     "据",
+     "据"
+    ],
+    [
+     "刑法",
+     "刑法"
+    ],
+    [
+     "看来",
+     "看来"
+    ],
+    "，",
+    [
+     "最",
+     "最"
+    ],
+    [
+     "要紧",
+     "要紧"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "自然",
+     "自然"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "脑袋",
+     "脑袋"
+    ],
+    "，",
+    [
+     "所以",
+     "所以"
+    ],
+    [
+     "大辟",
+     "大辟"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "上刑",
+     "上刑"
+    ],
+    "；",
+    [
+     "次要",
+     "次要"
+    ],
+    [
+     "便是",
+     "便是"
+    ],
+    [
+     "生殖器",
+     "生殖器"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "所以",
+     "所以"
+    ],
+    [
+     "宫刑",
+     "宫刑"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "幽闭",
+     "幽闭"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "件",
+     "件"
+    ],
+    [
+     "吓人",
+     "吓人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "罚",
+     "罚"
+    ],
+    "；",
+    [
+     "至于",
+     "至于"
+    ],
+    [
+     "髡",
+     "髡"
+    ],
+    "，",
+    [
+     "那",
+     "那"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "微乎其微",
+     "微乎其微"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "；"
+   ],
+   "new": [
+    "刑法",
+    "看来",
+    "要紧",
+    "脑袋",
+    "大辟",
+    "上刑",
+    "次要",
+    "生殖器",
+    "宫刑",
+    "幽闭",
+    "吓人",
+    "罚",
+    "髡",
+    "微乎其微"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "据",
+      "according to"
+     ],
+     [
+      "刑法",
+      "penal code, criminal law"
+     ],
+     [
+      "看来",
+      "judging by, it seems"
+     ],
+     [
+      "最",
+      "most, -est"
+     ],
+     [
+      "要紧",
+      "important"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "自然",
+      "naturally, of course"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "脑袋",
+      "head"
+     ],
+     [
+      "所以",
+      "so, therefore"
+     ],
+     [
+      "大辟",
+      "beheading (the death penalty)"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "上刑",
+      "the highest punishment"
+     ],
+     [
+      "次要",
+      "of second importance"
+     ],
+     [
+      "便是",
+      "is precisely, is just"
+     ],
+     [
+      "生殖器",
+      "genitals"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "所以",
+      "so, therefore"
+     ],
+     [
+      "宫刑",
+      "castration (as a punishment)"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "幽闭",
+      "confinement (as a punishment for women)"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "件",
+      "(counter for matters, clothes)"
+     ],
+     [
+      "吓人",
+      "frightening"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "罚",
+      "punishment"
+     ],
+     [
+      "至于",
+      "as for"
+     ],
+     [
+      "髡",
+      "shave the head (an old punishment)"
+     ],
+     [
+      "那",
+      "that"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "微乎其微",
+      "next to nothing"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'Going by the penal code, the most important thing was of course the head, so beheading was the highest punishment. Next came the private parts, so castration and confinement were frightening punishments too. As for shaving the head, that counted for next to nothing.'",
+   "note": "大辟 (beheading), 宫刑 (castration), 幽闭 (its counterpart for women) and 髡 (shaving off the hair) are names of punishments in the old codes. 据…看来 \"judging by…\". 微乎其微 \"slight of the slight\", a set phrase in classical dress: 乎 and 其 are particles.",
+   "ty": [
+    "ju",
+    "xing",
+    "fa",
+    "kan",
+    "lai",
+    "zui",
+    "yao",
+    "jin",
+    "de",
+    "zi",
+    "ran",
+    "shi",
+    "nao",
+    "dai",
+    "suo",
+    "yi",
+    "da",
+    "pi",
+    "shi",
+    "shang",
+    "xing",
+    "ci",
+    "yao",
+    "bian",
+    "shi",
+    "sheng",
+    "zhi",
+    "qi",
+    "le",
+    "suo",
+    "yi",
+    "gong",
+    "xing",
+    "he",
+    "you",
+    "bi",
+    "ye",
+    "shi",
+    "yi",
+    "jian",
+    "xia",
+    "ren",
+    "de",
+    "fa",
+    "zhi",
+    "yu",
+    "kun",
+    "na",
+    "shi",
+    "wei",
+    "hu",
+    "qi",
+    "wei",
+    "le"
+   ]
+  },
+  {
+   "n": "17.3",
+   "text": "然而推想起来，正不知道曾有多少人们因为光着头皮便被社会践踏了一生世。",
+   "han": 32,
+   "toks": [
+    [
+     "然而",
+     "然而"
+    ],
+    [
+     "推想",
+     "推想"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    "，",
+    [
+     "正",
+     "正"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "曾",
+     "曾"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "多少",
+     "多少"
+    ],
+    [
+     "人们",
+     "人们"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "光",
+     "光"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "头皮",
+     "头皮"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "社会",
+     "社会"
+    ],
+    [
+     "践踏",
+     "践踏"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一生世",
+     "一生世"
+    ],
+    "。"
+   ],
+   "new": [
+    "推想",
+    "光",
+    "头皮",
+    "践踏",
+    "一生世"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "然而",
+      "and yet, but"
+     ],
+     [
+      "推想",
+      "think it through, reckon"
+     ],
+     [
+      "起来",
+      "(after a verb) start to"
+     ],
+     [
+      "正",
+      "truly"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "曾",
+      "once, formerly"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "多少",
+      "how many"
+     ],
+     [
+      "人们",
+      "people"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "光",
+      "bare"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "头皮",
+      "scalp"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "社会",
+      "society"
+     ],
+     [
+      "践踏",
+      "trample"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一生世",
+      "a whole lifetime"
+     ]
+    ]
+   ],
+   "translation": "'And yet, when you think about it, who can say how many people have been trampled by society all their lives just because their scalps were bare.'",
+   "note": "正不知道 \"truly, no one knows\". 光着头皮 \"with bare scalp\": the 髡 just named. 一生世 \"a whole lifetime\" (like 一生一世); it comes again near the end.",
+   "ty": [
+    "ran",
+    "er",
+    "tui",
+    "xiang",
+    "qi",
+    "lai",
+    "zheng",
+    "bu",
+    "zhi",
+    "dao",
+    "ceng",
+    "you",
+    "duo",
+    "shao",
+    "ren",
+    "men",
+    "yin",
+    "wei",
+    "guang",
+    "zhe",
+    "tou",
+    "pi",
+    "bian",
+    "bei",
+    "she",
+    "hui",
+    "jian",
+    "ta",
+    "le",
+    "yi",
+    "sheng",
+    "shi"
+   ]
+  },
+  {
+   "n": "18.1",
+   "text": "‘我们讲革命的时，候，大谈什么扬州十日，嘉定屠城，其实也不过一种手段；",
+   "han": 29,
+   "toks": [
+    "‘",
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "讲",
+     "讲"
+    ],
+    [
+     "革命",
+     "革命"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "时",
+     "时"
+    ],
+    "，",
+    [
+     "候",
+     "候"
+    ],
+    "，",
+    [
+     "大谈",
+     "大谈"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    [
+     "扬州十日",
+     "扬州十日"
+    ],
+    "，",
+    [
+     "嘉定屠城",
+     "嘉定屠城"
+    ],
+    "，",
+    [
+     "其实",
+     "其实"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不过",
+     "不过"
+    ],
+    [
+     "一种",
+     "一种"
+    ],
+    [
+     "手段",
+     "手段"
+    ],
+    "；"
+   ],
+   "new": [
+    "讲",
+    "革命",
+    "候",
+    "大谈",
+    "其实",
+    "手段"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "讲",
+      "speak of, preach"
+     ],
+     [
+      "革命",
+      "revolution"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "候",
+      "(second half of 时候 \"time\")"
+     ],
+     [
+      "大谈",
+      "talk at length about"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "扬州十日",
+      "the Ten Days of Yangzhou (the massacre of 1645)"
+     ],
+     [
+      "嘉定屠城",
+      "the Massacre of Jiading (1645)"
+     ],
+     [
+      "其实",
+      "in fact, really"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不过",
+      "no more than, only"
+     ],
+     [
+      "一种",
+      "a kind of, one kind"
+     ],
+     [
+      "手段",
+      "means, method"
+     ]
+    ]
+   ],
+   "translation": "'When we were preaching revolution, we made a great deal of the Ten Days of Yangzhou and the Massacre of Jiading; but really that was only a means to an end.'",
+   "note": "扬州十日 and 嘉定屠城: two massacres of 1645, when the Manchu armies took Yangzhou and Jiading. The revolutionaries of the 1900s retold them to stir up hatred of the Qing. 大谈什么… \"talked big about all that…\": 什么 before a list sounds offhand. Read 时，候 as 时候 \"time\": the saved Wikisource text has a comma between the two characters, almost surely a slip in transcription. It is kept, because nothing in the source is edited.",
+   "ty": [
+    "wo",
+    "men",
+    "jiang",
+    "ge",
+    "ming",
+    "de",
+    "shi",
+    "hou",
+    "da",
+    "tan",
+    "shen",
+    "me",
+    "yang",
+    "zhou",
+    "shi",
+    "ri",
+    "jia",
+    "ding",
+    "tu",
+    "cheng",
+    "qi",
+    "shi",
+    "ye",
+    "bu",
+    "guo",
+    "yi",
+    "zhong",
+    "shou",
+    "duan"
+   ]
+  },
+  {
+   "n": "18.2",
+   "text": "老实说：那时中国人的反抗，何尝因为亡国，只是因为拖辫子。",
+   "han": 24,
+   "toks": [
+    [
+     "老实说",
+     "老实说"
+    ],
+    "：",
+    [
+     "那时",
+     "那时"
+    ],
+    [
+     "中国人",
+     "中国人"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "反抗",
+     "反抗"
+    ],
+    "，",
+    [
+     "何尝",
+     "何尝"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "亡国",
+     "亡国"
+    ],
+    "，",
+    [
+     "只是",
+     "只是"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "拖",
+     "拖"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "。"
+   ],
+   "new": [
+    "反抗",
+    "何尝",
+    "亡国",
+    "辫子"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "老实说",
+      "to be honest"
+     ],
+     [
+      "那时",
+      "then, at that time"
+     ],
+     [
+      "中国人",
+      "Chinese (people)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "反抗",
+      "resist"
+     ],
+     [
+      "何尝",
+      "not at all (when ever…?)"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "亡国",
+      "the fall of the country"
+     ],
+     [
+      "只是",
+      "only, merely"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "拖",
+      "drag"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ]
+    ]
+   ],
+   "translation": "'To be honest, when the Chinese resisted back then, it was never because the country had fallen; it was only because they had to wear the queue.'",
+   "note": "何尝 \"when ever (was it)…?\": a rhetorical \"not at all\". 拖辫子 \"trail a queue\": under the Qing every man had to shave the front of his head and wear the rest in one long plait, as a sign of submission. The whole story turns on it.",
+   "ty": [
+    "lao",
+    "shi",
+    "shuo",
+    "na",
+    "shi",
+    "zhong",
+    "guo",
+    "ren",
+    "de",
+    "fan",
+    "kang",
+    "he",
+    "chang",
+    "yin",
+    "wei",
+    "wang",
+    "guo",
+    "zhi",
+    "shi",
+    "yin",
+    "wei",
+    "tuo",
+    "bian",
+    "zi"
+   ]
+  },
+  {
+   "n": "19.1",
+   "text": "‘顽民杀尽了，遗老都寿终了，辫子早留定了，洪、杨又闹起来了。",
+   "han": 24,
+   "toks": [
+    "‘",
+    [
+     "顽民",
+     "顽民"
+    ],
+    [
+     "杀",
+     "杀"
+    ],
+    [
+     "尽",
+     "尽"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "遗老",
+     "遗老"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "寿终",
+     "寿终"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "早",
+     "早"
+    ],
+    [
+     "留",
+     "留"
+    ],
+    [
+     "定",
+     "定"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "洪",
+     "洪"
+    ],
+    "、",
+    [
+     "杨",
+     "杨"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "闹",
+     "闹"
+    ],
+    [
+     "起来",
+     "起来"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "顽民",
+    "杀",
+    "尽",
+    "遗老",
+    "寿终",
+    "闹"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "顽民",
+      "stubborn subjects (who will not submit)"
+     ],
+     [
+      "杀",
+      "kill"
+     ],
+     [
+      "尽",
+      "all, to the end (after a verb)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "遗老",
+      "old loyalist (of a fallen dynasty)"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "寿终",
+      "die of old age"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "早",
+      "long since"
+     ],
+     [
+      "留",
+      "grown"
+     ],
+     [
+      "定",
+      "be settled, be determined"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "洪",
+      "Hong (Hong Xiuquan, leader of the Taiping)"
+     ],
+     [
+      "杨",
+      "Yang (Yang Xiuqing, a Taiping leader)"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "闹",
+      "make trouble, stir things up"
+     ],
+     [
+      "起来",
+      "(after a verb) start to"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'The stubborn ones were all killed off, the old loyalists all died in their beds, the queue had long been grown for good; and then Hong and Yang started trouble again.'",
+   "note": "顽民 \"stubborn people\": those who would not submit to the new dynasty. 遗老 \"left-over elders\": men still loyal to the fallen Ming. 留定 \"grown and settled\": 定 after a verb is \"settled\". 洪、杨: Hong Xiuquan (洪秀全) and Yang Xiuqing (杨秀清), leaders of the Taiping rebellion (1851 to 1864).",
+   "ty": [
+    "wan",
+    "min",
+    "sha",
+    "jin",
+    "le",
+    "yi",
+    "lao",
+    "dou",
+    "shou",
+    "zhong",
+    "le",
+    "bian",
+    "zi",
+    "zao",
+    "liu",
+    "ding",
+    "le",
+    "hong",
+    "yang",
+    "you",
+    "nao",
+    "qi",
+    "lai",
+    "le"
+   ]
+  },
+  {
+   "n": "19.2",
+   "text": "我的祖母曾对我说，那时做百姓才难哩，全留着头发的被官兵杀，还是辫子的便被长毛杀！",
+   "han": 36,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "祖母",
+     "祖母"
+    ],
+    [
+     "曾",
+     "曾"
+    ],
+    [
+     "对",
+     "对@to"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，",
+    [
+     "那时",
+     "那时"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "百姓",
+     "百姓"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "难",
+     "难"
+    ],
+    [
+     "哩",
+     "哩"
+    ],
+    "，",
+    [
+     "全",
+     "全"
+    ],
+    [
+     "留",
+     "留"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "官兵",
+     "官兵"
+    ],
+    [
+     "杀",
+     "杀"
+    ],
+    "，",
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "长毛",
+     "长毛"
+    ],
+    [
+     "杀",
+     "杀"
+    ],
+    "！"
+   ],
+   "new": [
+    "祖母",
+    "百姓",
+    "难",
+    "哩",
+    "官兵"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "祖母",
+      "grandmother"
+     ],
+     [
+      "曾",
+      "once, formerly"
+     ],
+     [
+      "对",
+      "to, toward, regarding"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "那时",
+      "then, at that time"
+     ],
+     [
+      "做",
+      "be"
+     ],
+     [
+      "百姓",
+      "ordinary people"
+     ],
+     [
+      "才",
+      "really"
+     ],
+     [
+      "难",
+      "hard, difficult"
+     ],
+     [
+      "哩",
+      "(spoken particle, like 呢) you know"
+     ],
+     [
+      "全",
+      "whole, all"
+     ],
+     [
+      "留",
+      "keep"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "官兵",
+      "government troops"
+     ],
+     [
+      "杀",
+      "kill"
+     ],
+     [
+      "还是",
+      "still"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "长毛",
+      "the Long-hairs (the Taiping rebels)"
+     ],
+     [
+      "杀",
+      "kill"
+     ]
+    ]
+   ],
+   "translation": "'My grandmother once told me that being an ordinary person then was really hard: those who kept all their hair were killed by the government soldiers, and those who still had the queue were killed by the Long-hairs!'",
+   "note": "长毛 \"Long-hairs\": the Taiping, who let all their hair grow as a sign of revolt against the Qing. 全留着头发的 \"those keeping all their hair\", 还是辫子的 \"those still in the queue\": 的 with no noun after it, \"the ones who\". 哩 is a spoken particle, like 呢 \"you know\". 才 here only stresses: \"really\".",
+   "ty": [
+    "wo",
+    "de",
+    "zu",
+    "mu",
+    "ceng",
+    "dui",
+    "wo",
+    "shuo",
+    "na",
+    "shi",
+    "zuo",
+    "bai",
+    "xing",
+    "cai",
+    "nan",
+    "li",
+    "quan",
+    "liu",
+    "zhe",
+    "tou",
+    "fa",
+    "de",
+    "bei",
+    "guan",
+    "bing",
+    "sha",
+    "hai",
+    "shi",
+    "bian",
+    "zi",
+    "de",
+    "bian",
+    "bei",
+    "chang",
+    "mao",
+    "sha"
+   ]
+  },
+  {
+   "n": "20.1",
+   "text": "‘我不知道有多少中国人只因为这不痛不痒的头发而吃苦，受难，灭亡。’",
+   "han": 28,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "多少",
+     "多少"
+    ],
+    [
+     "中国人",
+     "中国人"
+    ],
+    [
+     "只",
+     "只"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "不痛不痒",
+     "不痛不痒"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "吃苦",
+     "吃苦"
+    ],
+    "，",
+    [
+     "受难",
+     "受难"
+    ],
+    "，",
+    [
+     "灭亡",
+     "灭亡"
+    ],
+    "。’"
+   ],
+   "new": [
+    "不痛不痒",
+    "吃苦",
+    "受难",
+    "灭亡"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "多少",
+      "how many"
+     ],
+     [
+      "中国人",
+      "Chinese (people)"
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "不痛不痒",
+      "that neither hurts nor itches: of no account"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "吃苦",
+      "suffer, bear hardship"
+     ],
+     [
+      "受难",
+      "meet with disaster"
+     ],
+     [
+      "灭亡",
+      "perish"
+     ]
+    ]
+   ],
+   "translation": "'I don't know how many Chinese have suffered, met disaster and perished only because of this hair, which neither hurts nor itches.'",
+   "note": "不痛不痒 \"neither painful nor itchy\": a set phrase for something that does not matter at all. 因为…而… \"because of… (they)…\".",
+   "ty": [
+    "wo",
+    "bu",
+    "zhi",
+    "dao",
+    "you",
+    "duo",
+    "shao",
+    "zhong",
+    "guo",
+    "ren",
+    "zhi",
+    "yin",
+    "wei",
+    "zhe",
+    "bu",
+    "tong",
+    "bu",
+    "yang",
+    "de",
+    "tou",
+    "fa",
+    "er",
+    "chi",
+    "ku",
+    "shou",
+    "nan",
+    "mie",
+    "wang"
+   ]
+  },
+  {
+   "n": "21.1",
+   "text": "Ｎ两眼望着屋梁，似乎想些事，仍然说：",
+   "han": 14,
+   "toks": [
+    "Ｎ",
+    [
+     "两",
+     "两"
+    ],
+    [
+     "眼",
+     "眼"
+    ],
+    [
+     "望",
+     "望"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "屋",
+     "屋"
+    ],
+    [
+     "梁",
+     "梁"
+    ],
+    "，",
+    [
+     "似乎",
+     "似乎"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    "，",
+    [
+     "仍然",
+     "仍然"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "眼",
+    "望",
+    "梁"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "两",
+      "two (before a counter)"
+     ],
+     [
+      "眼",
+      "eye"
+     ],
+     [
+      "望",
+      "gaze at"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "屋",
+      "room, house"
+     ],
+     [
+      "梁",
+      "beam"
+     ],
+     [
+      "似乎",
+      "seem"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "仍然",
+      "still, as before"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "N gazed up at the roof beams, seemed to be thinking about something, and went on:",
+   "note": "仍然说 \"still said\": went on talking.",
+   "ty": [
+    "liang",
+    "yan",
+    "wang",
+    "zhe",
+    "wu",
+    "liang",
+    "si",
+    "hu",
+    "xiang",
+    "xie",
+    "shi",
+    "reng",
+    "ran",
+    "shuo"
+   ]
+  },
+  {
+   "n": "22.1",
+   "text": "‘谁知道头发的苦轮到我了。",
+   "han": 11,
+   "toks": [
+    "‘",
+    [
+     "谁知道",
+     "谁知道"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "苦",
+     "苦"
+    ],
+    [
+     "轮到",
+     "轮到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "谁知道",
+    "轮到"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "谁知道",
+      "who would have thought"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "苦",
+      "suffering"
+     ],
+     [
+      "轮到",
+      "come round to, be someone's turn"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'Who would have thought that the suffering over hair would come round to me.'",
+   "note": "",
+   "ty": [
+    "shei",
+    "zhi",
+    "dao",
+    "tou",
+    "fa",
+    "de",
+    "ku",
+    "lun",
+    "dao",
+    "wo",
+    "le"
+   ]
+  },
+  {
+   "n": "23.1",
+   "text": "‘我出去留学，便剪掉了辫子，这并没有别的奥妙，只为他太不便当罢了。",
+   "han": 28,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "出去",
+     "出去"
+    ],
+    [
+     "留学",
+     "留学"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "剪掉",
+     "剪掉"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "并",
+     "并@not"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "别的",
+     "别的"
+    ],
+    [
+     "奥妙",
+     "奥妙"
+    ],
+    "，",
+    [
+     "只",
+     "只"
+    ],
+    [
+     "为",
+     "为@for"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "太",
+     "太"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "便当",
+     "便当"
+    ],
+    [
+     "罢了",
+     "罢了"
+    ],
+    "。"
+   ],
+   "new": [
+    "留学",
+    "剪掉",
+    "奥妙",
+    "便当"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "出去",
+      "go out"
+     ],
+     [
+      "留学",
+      "study abroad"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "剪掉",
+      "cut off"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "并",
+      "in fact (not)"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "别的",
+      "other"
+     ],
+     [
+      "奥妙",
+      "deep secret, mystery"
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "为",
+      "for, on account of"
+     ],
+     [
+      "他",
+      "it"
+     ],
+     [
+      "太",
+      "too, excessively"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "便当",
+      "convenient"
+     ],
+     [
+      "罢了",
+      "that's all, nothing more"
+     ]
+    ]
+   ],
+   "translation": "'When I went abroad to study, I cut off my queue. There was no deep secret to it: it was simply too inconvenient, that's all.'",
+   "note": "他 here is \"it\", the queue: the saved text, like Lu Xun's other early writing, puts 他 where today's books print 它. 只为…罢了 \"only because…, that's all\". 便当 \"convenient\". Lu Xun himself went to study in Japan in 1902 and cut off his queue there.",
+   "ty": [
+    "wo",
+    "chu",
+    "qu",
+    "liu",
+    "xue",
+    "bian",
+    "jian",
+    "diao",
+    "le",
+    "bian",
+    "zi",
+    "zhe",
+    "bing",
+    "mei",
+    "you",
+    "bie",
+    "de",
+    "ao",
+    "miao",
+    "zhi",
+    "wei",
+    "ta",
+    "tai",
+    "bu",
+    "bian",
+    "dang",
+    "ba",
+    "le"
+   ]
+  },
+  {
+   "n": "23.2",
+   "text": "不料有几位辫子盘在头顶上的同学们便很厌恶我，监督也大怒，说要停了我的官费，送回中国去。",
+   "han": 39,
+   "toks": [
+    [
+     "不料",
+     "不料"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "几",
+     "几"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "盘",
+     "盘"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "头顶",
+     "头顶"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "同学",
+     "同学"
+    ],
+    [
+     "们",
+     "们"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "厌恶",
+     "厌恶"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    "，",
+    [
+     "监督",
+     "监督"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "大怒",
+     "大怒"
+    ],
+    "，",
+    [
+     "说",
+     "说"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "停",
+     "停"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "官费",
+     "官费"
+    ],
+    "，",
+    [
+     "送",
+     "送"
+    ],
+    [
+     "回",
+     "回"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "。"
+   ],
+   "new": [
+    "不料",
+    "盘",
+    "头顶",
+    "监督",
+    "大怒",
+    "停",
+    "官费"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "不料",
+      "unexpectedly, to one's surprise"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "盘",
+      "coil"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "头顶",
+      "top of the head"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "同学",
+      "classmate"
+     ],
+     [
+      "们",
+      "(plural, after words for people)"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "厌恶",
+      "loathe"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "监督",
+      "superintendent"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "大怒",
+      "be furious"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "要",
+      "would"
+     ],
+     [
+      "停",
+      "stop"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "官费",
+      "government grant"
+     ],
+     [
+      "送",
+      "hand over, send"
+     ],
+     [
+      "回",
+      "back"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "去",
+      "go"
+     ]
+    ]
+   ],
+   "translation": "'To my surprise, some of my fellow students, who wore their queues coiled up on top of their heads, took a strong dislike to me, and the superintendent was furious and said he would stop my government grant and send me back to China.'",
+   "note": "辫子盘在头顶上 \"queue coiled on top of the head\": how Chinese students abroad hid the queue under a cap. 监督 \"superintendent\": the Qing official in charge of the students sent abroad. 官费 \"government money\": a state scholarship.",
+   "ty": [
+    "bu",
+    "liao",
+    "you",
+    "ji",
+    "wei",
+    "bian",
+    "zi",
+    "pan",
+    "zai",
+    "tou",
+    "ding",
+    "shang",
+    "de",
+    "tong",
+    "xue",
+    "men",
+    "bian",
+    "hen",
+    "yan",
+    "wu",
+    "wo",
+    "jian",
+    "du",
+    "ye",
+    "da",
+    "nu",
+    "shuo",
+    "yao",
+    "ting",
+    "le",
+    "wo",
+    "de",
+    "guan",
+    "fei",
+    "song",
+    "hui",
+    "zhong",
+    "guo",
+    "qu"
+   ]
+  },
+  {
+   "n": "24.1",
+   "text": "‘不几天，这位监督却自己被人剪去辫子逃走了。",
+   "han": 19,
+   "toks": [
+    "‘",
+    [
+     "不",
+     "不"
+    ],
+    [
+     "几",
+     "几"
+    ],
+    [
+     "天",
+     "天"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    [
+     "监督",
+     "监督"
+    ],
+    [
+     "却",
+     "却"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "逃走",
+     "逃走"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "剪"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "不",
+      "not"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "监督",
+      "superintendent"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "去",
+      "off"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "逃走",
+      "run away"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'Within a few days this same superintendent had his own queue cut off by some people, and ran away.'",
+   "note": "不几天 \"not (even) a few days\": within days. 却 \"but, as it turned out\". It really happened: in Tokyo in 1903 a group of students, Zou Rong among them, cut off the queue of the superintendent 姚文甫, and he went back to China.",
+   "ty": [
+    "bu",
+    "ji",
+    "tian",
+    "zhe",
+    "wei",
+    "jian",
+    "du",
+    "que",
+    "zi",
+    "ji",
+    "bei",
+    "ren",
+    "jian",
+    "qu",
+    "bian",
+    "zi",
+    "tao",
+    "zou",
+    "le"
+   ]
+  },
+  {
+   "n": "24.2",
+   "text": "去剪的人们里面，一个便是做革命军的邹容，这人也因此不能再留学，回到上海来，后来死在西牢里。",
+   "han": 40,
+   "toks": [
+    [
+     "去",
+     "去"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "人们",
+     "人们"
+    ],
+    [
+     "里面",
+     "里面"
+    ],
+    "，",
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "便是",
+     "便是"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "革命军",
+     "革命军"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "邹容",
+     "邹容"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "因此",
+     "因此"
+    ],
+    [
+     "不能",
+     "不能"
+    ],
+    [
+     "再",
+     "再"
+    ],
+    [
+     "留学",
+     "留学"
+    ],
+    "，",
+    [
+     "回到",
+     "回到"
+    ],
+    [
+     "上海",
+     "上海"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "后来",
+     "后来"
+    ],
+    [
+     "死",
+     "死"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "西牢",
+     "西牢"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    "。"
+   ],
+   "new": [
+    "西牢"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "去",
+      "go"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人们",
+      "people"
+     ],
+     [
+      "里面",
+      "among"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "便是",
+      "is precisely, is just"
+     ],
+     [
+      "做",
+      "wrote"
+     ],
+     [
+      "革命军",
+      "The Revolutionary Army (Zou Rong's pamphlet, 1903)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "邹容",
+      "Zou Rong (1885 to 1905), revolutionary writer"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "因此",
+      "because of this"
+     ],
+     [
+      "不能",
+      "cannot"
+     ],
+     [
+      "再",
+      "again"
+     ],
+     [
+      "留学",
+      "study abroad"
+     ],
+     [
+      "回到",
+      "return to"
+     ],
+     [
+      "上海",
+      "Shanghai"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "后来",
+      "later"
+     ],
+     [
+      "死",
+      "die"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "西牢",
+      "the Western jail (in Shanghai's foreign settlement)"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ]
+    ]
+   ],
+   "translation": "'Among the people who went to cut it was Zou Rong, the author of The Revolutionary Army. Because of it he too could no longer study abroad; he came back to Shanghai, and later died in the Western jail.'",
+   "note": "革命军 \"The Revolutionary Army\" is the title of Zou Rong's pamphlet of 1903, which called for the overthrow of the Qing; 做 here is \"write\". 西牢 \"the Western jail\": the prison of the foreign-run International Settlement in Shanghai, where he died in 1905.",
+   "ty": [
+    "qu",
+    "jian",
+    "de",
+    "ren",
+    "men",
+    "li",
+    "mian",
+    "yi",
+    "ge",
+    "bian",
+    "shi",
+    "zuo",
+    "ge",
+    "ming",
+    "jun",
+    "de",
+    "zou",
+    "rong",
+    "zhe",
+    "ren",
+    "ye",
+    "yin",
+    "ci",
+    "bu",
+    "neng",
+    "zai",
+    "liu",
+    "xue",
+    "hui",
+    "dao",
+    "shang",
+    "hai",
+    "lai",
+    "hou",
+    "lai",
+    "si",
+    "zai",
+    "xi",
+    "lao",
+    "li"
+   ]
+  },
+  {
+   "n": "24.3",
+   "text": "你也早已忘却了罢？",
+   "han": 8,
+   "toks": [
+    [
+     "你",
+     "你"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "早已",
+     "早已"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "罢",
+     "罢"
+    ],
+    "？"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "你",
+      "you"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "早已",
+      "long since"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "罢",
+      "(I suppose)"
+     ]
+    ]
+   ],
+   "translation": "'You've long since forgotten too, I suppose?'",
+   "note": "罢 at the end of a question is \"I suppose\" (today 吧).",
+   "ty": [
+    "ni",
+    "ye",
+    "zao",
+    "yi",
+    "wang",
+    "que",
+    "le",
+    "ba"
+   ]
+  },
+  {
+   "n": "25.1",
+   "text": "‘过了几年，我的家景大不如前了，非谋点事做便要受饿，只得也回到中国来。",
+   "han": 30,
+   "toks": [
+    "‘",
+    [
+     "过",
+     "过"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "几",
+     "几"
+    ],
+    [
+     "年",
+     "年"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "家景",
+     "家景"
+    ],
+    [
+     "大不如前",
+     "大不如前"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "非",
+     "非"
+    ],
+    [
+     "谋",
+     "谋"
+    ],
+    [
+     "点",
+     "点"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "受",
+     "受"
+    ],
+    [
+     "饿",
+     "饿"
+    ],
+    "，",
+    [
+     "只得",
+     "只得"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "回到",
+     "回到"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "。"
+   ],
+   "new": [
+    "家景",
+    "大不如前",
+    "谋",
+    "饿"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "过",
+      "pass, live through (time)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "家景",
+      "the family's means"
+     ],
+     [
+      "大不如前",
+      "far worse than before"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "非",
+      "not (formal)"
+     ],
+     [
+      "谋",
+      "seek, look for"
+     ],
+     [
+      "点",
+      "a bit, some"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "做",
+      "do"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "要",
+      "would"
+     ],
+     [
+      "受",
+      "receive, be subjected to"
+     ],
+     [
+      "饿",
+      "hunger"
+     ],
+     [
+      "只得",
+      "have no choice but to"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "回到",
+      "return to"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "来",
+      "come"
+     ]
+    ]
+   ],
+   "translation": "'After a few years my family's means were far worse than before. Unless I found some work I would go hungry, so I had no choice but to come back to China too.'",
+   "note": "家景 \"the family's circumstances\" (today usually 家境). 非…便… \"unless…, then…\": 非 \"not\" opens the condition. 谋点事做 \"seek a bit of work to do\".",
+   "ty": [
+    "guo",
+    "le",
+    "ji",
+    "nian",
+    "wo",
+    "de",
+    "jia",
+    "jing",
+    "da",
+    "bu",
+    "ru",
+    "qian",
+    "le",
+    "fei",
+    "mou",
+    "dian",
+    "shi",
+    "zuo",
+    "bian",
+    "yao",
+    "shou",
+    "e",
+    "zhi",
+    "de",
+    "ye",
+    "hui",
+    "dao",
+    "zhong",
+    "guo",
+    "lai"
+   ]
+  },
+  {
+   "n": "25.2",
+   "text": "我一到上海，便买定一条假辫子，那时是二元的市价，带着回家。",
+   "han": 25,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "上海",
+     "上海"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "买",
+     "买"
+    ],
+    [
+     "定",
+     "定"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "条",
+     "条"
+    ],
+    [
+     "假",
+     "假"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "那时",
+     "那时"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "二",
+     "二"
+    ],
+    [
+     "元",
+     "元"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "市价",
+     "市价"
+    ],
+    "，",
+    [
+     "带",
+     "带"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "回家",
+     "回家"
+    ],
+    "。"
+   ],
+   "new": [
+    "假",
+    "市价"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "一",
+      "as soon as"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "上海",
+      "Shanghai"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "买",
+      "buy"
+     ],
+     [
+      "定",
+      "be settled, be determined"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "条",
+      "(measure word for lines, roads, rivers)"
+     ],
+     [
+      "假",
+      "false, fake"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "那时",
+      "then, at that time"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "二",
+      "two"
+     ],
+     [
+      "元",
+      "dollar"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "市价",
+      "market price"
+     ],
+     [
+      "带",
+      "carry, take along"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "回家",
+      "go home"
+     ]
+    ]
+   ],
+   "translation": "'The moment I reached Shanghai I bought a false queue (the going price then was two dollars) and went home with it.'",
+   "note": "元 \"dollar\": the silver dollar. 买定 \"bought and settled on\": 定 after a verb again.",
+   "ty": [
+    "wo",
+    "yi",
+    "dao",
+    "shang",
+    "hai",
+    "bian",
+    "mai",
+    "ding",
+    "yi",
+    "tiao",
+    "jia",
+    "bian",
+    "zi",
+    "na",
+    "shi",
+    "shi",
+    "er",
+    "yuan",
+    "de",
+    "shi",
+    "jia",
+    "dai",
+    "zhe",
+    "hui",
+    "jia"
+   ]
+  },
+  {
+   "n": "25.3",
+   "text": "我的母亲倒也不说什么，然而旁人一见面，便都首先研究这辫子，待到知道是假，就一声冷笑，将我拟为杀头的罪名；",
+   "han": 46,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "母亲",
+     "母亲"
+    ],
+    [
+     "倒",
+     "倒@contrary"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    "，",
+    [
+     "然而",
+     "然而"
+    ],
+    [
+     "旁人",
+     "旁人"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "见面",
+     "见面"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "首先",
+     "首先"
+    ],
+    [
+     "研究",
+     "研究"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "待",
+     "待"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "假",
+     "假"
+    ],
+    "，",
+    [
+     "就",
+     "就"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "声",
+     "声"
+    ],
+    [
+     "冷笑",
+     "冷笑"
+    ],
+    "，",
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "拟",
+     "拟"
+    ],
+    [
+     "为",
+     "为"
+    ],
+    [
+     "杀头",
+     "杀头"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "罪名",
+     "罪名"
+    ],
+    "；"
+   ],
+   "new": [
+    "旁人",
+    "见面",
+    "首先",
+    "待",
+    "拟",
+    "杀头",
+    "罪名"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "母亲",
+      "mother"
+     ],
+     [
+      "倒",
+      "for her part"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "然而",
+      "and yet, but"
+     ],
+     [
+      "旁人",
+      "other people, onlookers"
+     ],
+     [
+      "一",
+      "as soon as"
+     ],
+     [
+      "见面",
+      "meet, see each other"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "首先",
+      "first of all"
+     ],
+     [
+      "研究",
+      "research, study"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "待",
+      "wait"
+     ],
+     [
+      "到",
+      "until"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "假",
+      "false, fake"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "声",
+      "cry, sound"
+     ],
+     [
+      "冷笑",
+      "sneer"
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "拟",
+      "assess as, judge as"
+     ],
+     [
+      "为",
+      "is, serves as (formal)"
+     ],
+     [
+      "杀头",
+      "behead"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "罪名",
+      "charge, crime"
+     ]
+    ]
+   ],
+   "translation": "'My mother, for her part, said nothing; but other people, the moment they saw me, all set about studying this queue first of all, and once they knew it was false they gave a cold laugh and put me down as guilty of a crime worth beheading.'",
+   "note": "倒 here is \"for her part, as it happened\". 研究 \"study, research\" is said with irony. 待到 \"by the time\": 待 wait + 到 until. 将我拟为杀头的罪名 \"take me and draft (me) as a beheading charge\": 拟 is the word for settling a sentence. A man without a queue looked like a rebel.",
+   "ty": [
+    "wo",
+    "de",
+    "mu",
+    "qin",
+    "dao",
+    "ye",
+    "bu",
+    "shuo",
+    "shen",
+    "me",
+    "ran",
+    "er",
+    "pang",
+    "ren",
+    "yi",
+    "jian",
+    "mian",
+    "bian",
+    "dou",
+    "shou",
+    "xian",
+    "yan",
+    "jiu",
+    "zhe",
+    "bian",
+    "zi",
+    "dai",
+    "dao",
+    "zhi",
+    "dao",
+    "shi",
+    "jia",
+    "jiu",
+    "yi",
+    "sheng",
+    "leng",
+    "xiao",
+    "jiang",
+    "wo",
+    "ni",
+    "wei",
+    "sha",
+    "tou",
+    "de",
+    "zui",
+    "ming"
+   ]
+  },
+  {
+   "n": "25.4",
+   "text": "有一位本家，还豫备去告官，但后来因为恐怕革命党的造反或者要成功，这才中止了。",
+   "han": 34,
+   "toks": [
+    [
+     "有",
+     "有"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    [
+     "本家",
+     "本家"
+    ],
+    "，",
+    [
+     "还",
+     "还"
+    ],
+    [
+     "豫备",
+     "豫备"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "告",
+     "告"
+    ],
+    [
+     "官",
+     "官"
+    ],
+    "，",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "后来",
+     "后来"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "恐怕",
+     "恐怕"
+    ],
+    [
+     "革命党",
+     "革命党"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "造反",
+     "造反"
+    ],
+    [
+     "或者",
+     "或者"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "成功",
+     "成功"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "中止",
+     "中止"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "本家",
+    "豫备",
+    "告",
+    "官",
+    "恐怕",
+    "革命党",
+    "造反"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "有",
+      "have"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "本家",
+      "clansman, a relative of the same surname"
+     ],
+     [
+      "还",
+      "even"
+     ],
+     [
+      "豫备",
+      "prepare, get ready (the old spelling of 预备)"
+     ],
+     [
+      "去",
+      "go"
+     ],
+     [
+      "告",
+      "report, accuse"
+     ],
+     [
+      "官",
+      "official, the authorities"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "后来",
+      "later"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "恐怕",
+      "fear, be afraid (that)"
+     ],
+     [
+      "革命党",
+      "the revolutionaries, the revolutionary party"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "造反",
+      "rebellion, rising"
+     ],
+     [
+      "或者",
+      "or perhaps"
+     ],
+     [
+      "要",
+      "would"
+     ],
+     [
+      "成功",
+      "succeed"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "中止",
+      "halt, break off"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'One clansman was even getting ready to report me to the authorities; but later, fearing that the revolutionaries' rising might succeed, he dropped it.'",
+   "note": "本家 \"a man of the same clan\", with the same surname. 豫备 is the old spelling of 预备 \"prepare\": the saved text prints 豫 here and in 豫约 (41.1), and both are kept as printed. 或者 here is \"perhaps\". 这才 \"only then\".",
+   "ty": [
+    "you",
+    "yi",
+    "wei",
+    "ben",
+    "jia",
+    "hai",
+    "yu",
+    "bei",
+    "qu",
+    "gao",
+    "guan",
+    "dan",
+    "hou",
+    "lai",
+    "yin",
+    "wei",
+    "kong",
+    "pa",
+    "ge",
+    "ming",
+    "dang",
+    "de",
+    "zao",
+    "fan",
+    "huo",
+    "zhe",
+    "yao",
+    "cheng",
+    "gong",
+    "zhe",
+    "cai",
+    "zhong",
+    "zhi",
+    "le"
+   ]
+  },
+  {
+   "n": "26.1",
+   "text": "‘我想，假的不如真的直截爽快，我便索性废了假辫子，穿着西装在街上走。",
+   "han": 29,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "想",
+     "想"
+    ],
+    "，",
+    [
+     "假",
+     "假"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "不如",
+     "不如"
+    ],
+    [
+     "真",
+     "真"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "直截",
+     "直截"
+    ],
+    [
+     "爽快",
+     "爽快"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "索性",
+     "索性"
+    ],
+    [
+     "废",
+     "废"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "假",
+     "假"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "穿",
+     "穿"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "西装",
+     "西装"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "街上",
+     "街上"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    "。"
+   ],
+   "new": [
+    "不如",
+    "直截",
+    "爽快",
+    "索性",
+    "废",
+    "西装",
+    "街上"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "想",
+      "think (of)"
+     ],
+     [
+      "假",
+      "false, fake"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "不如",
+      "not as good as"
+     ],
+     [
+      "真",
+      "real"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "直截",
+      "straightforward"
+     ],
+     [
+      "爽快",
+      "clean, frank"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "索性",
+      "simply, might as well"
+     ],
+     [
+      "废",
+      "give up, discard"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "假",
+      "false, fake"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "穿",
+      "wear (clothes)"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "西装",
+      "Western suit"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "街上",
+      "in the street"
+     ],
+     [
+      "走",
+      "walk"
+     ]
+    ]
+   ],
+   "translation": "'I thought: the false is not as straightforward and clean as the real, so I simply gave up the false queue and walked the streets in a Western suit.'",
+   "note": "假的…真的 \"the false one… the real one\": 的 with no noun after it. 不如 \"is not as good as\". 索性 \"might as well, simply\".",
+   "ty": [
+    "wo",
+    "xiang",
+    "jia",
+    "de",
+    "bu",
+    "ru",
+    "zhen",
+    "de",
+    "zhi",
+    "jie",
+    "shuang",
+    "kuai",
+    "wo",
+    "bian",
+    "suo",
+    "xing",
+    "fei",
+    "le",
+    "jia",
+    "bian",
+    "zi",
+    "chuan",
+    "zhe",
+    "xi",
+    "zhuang",
+    "zai",
+    "jie",
+    "shang",
+    "zou"
+   ]
+  },
+  {
+   "n": "27.1",
+   "text": "‘一路走去，一路便是笑骂的声音，有的还跟在后面骂：“这冒失鬼！”“假洋鬼子！”",
+   "han": 29,
+   "toks": [
+    "‘",
+    [
+     "一路",
+     "一路"
+    ],
+    [
+     "走去",
+     "走去"
+    ],
+    "，",
+    [
+     "一路",
+     "一路"
+    ],
+    [
+     "便是",
+     "便是"
+    ],
+    [
+     "笑骂",
+     "笑骂"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "声音",
+     "声音"
+    ],
+    "，",
+    [
+     "有的",
+     "有的"
+    ],
+    [
+     "还",
+     "还"
+    ],
+    [
+     "跟",
+     "跟"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "后面",
+     "后面"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    "：“",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "冒失鬼",
+     "冒失鬼"
+    ],
+    "！”“",
+    [
+     "假洋鬼子",
+     "假洋鬼子"
+    ],
+    "！”"
+   ],
+   "new": [
+    "有的",
+    "跟",
+    "后面",
+    "骂",
+    "冒失鬼",
+    "假洋鬼子"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "一路",
+      "all the way"
+     ],
+     [
+      "走去",
+      "walking on"
+     ],
+     [
+      "一路",
+      "all the way"
+     ],
+     [
+      "便是",
+      "is precisely, is just"
+     ],
+     [
+      "笑骂",
+      "jeer at"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "声音",
+      "sound, voice"
+     ],
+     [
+      "有的",
+      "some (people)"
+     ],
+     [
+      "还",
+      "even"
+     ],
+     [
+      "跟",
+      "follow"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "后面",
+      "behind"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "冒失鬼",
+      "reckless devil, hothead"
+     ],
+     [
+      "假洋鬼子",
+      "fake foreign devil"
+     ]
+    ]
+   ],
+   "translation": "'All the way I walked, all the way there were jeers and curses; some even followed behind me, shouting: \"That reckless devil!\" \"Fake foreign devil!\"'",
+   "note": "假洋鬼子 \"fake foreign devil\": the sneer for a Chinese man in Western clothes with no queue. Lu Xun gives the name to a character in 阿Q正传. 冒失鬼 \"rash devil\": a hothead.",
+   "ty": [
+    "yi",
+    "lu",
+    "zou",
+    "qu",
+    "yi",
+    "lu",
+    "bian",
+    "shi",
+    "xiao",
+    "ma",
+    "de",
+    "sheng",
+    "yin",
+    "you",
+    "de",
+    "hai",
+    "gen",
+    "zai",
+    "hou",
+    "mian",
+    "ma",
+    "zhe",
+    "mao",
+    "shi",
+    "gui",
+    "jia",
+    "yang",
+    "gui",
+    "zi"
+   ]
+  },
+  {
+   "n": "28.1",
+   "text": "‘我于是不穿洋服了，改了大衫，他们骂得更厉害。",
+   "han": 19,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "于是",
+     "于是"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "穿",
+     "穿"
+    ],
+    [
+     "洋服",
+     "洋服"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "改",
+     "改"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "大衫",
+     "大衫"
+    ],
+    "，",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    [
+     "得",
+     "得@c"
+    ],
+    [
+     "更",
+     "更"
+    ],
+    [
+     "厉害",
+     "厉害"
+    ],
+    "。"
+   ],
+   "new": [
+    "洋服",
+    "改",
+    "大衫",
+    "厉害"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "于是",
+      "so, thereupon"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "穿",
+      "wear (clothes)"
+     ],
+     [
+      "洋服",
+      "Western clothes"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "改",
+      "change (to)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "大衫",
+      "long gown"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ],
+     [
+      "得",
+      "(how well:)"
+     ],
+     [
+      "更",
+      "even more"
+     ],
+     [
+      "厉害",
+      "fierce, severe"
+     ]
+    ]
+   ],
+   "translation": "'So I stopped wearing Western clothes and changed to a long gown, and they cursed me even worse.'",
+   "note": "大衫 \"big gown\": the long Chinese robe (长衫). 改了大衫 \"changed to the gown\".",
+   "ty": [
+    "wo",
+    "yu",
+    "shi",
+    "bu",
+    "chuan",
+    "yang",
+    "fu",
+    "le",
+    "gai",
+    "le",
+    "da",
+    "shan",
+    "ta",
+    "men",
+    "ma",
+    "de",
+    "geng",
+    "li",
+    "hai"
+   ]
+  },
+  {
+   "n": "29.1",
+   "text": "‘在这日暮途穷的时候，我的手里才添出一支手杖来，拼命的打了几回，他们渐渐的不骂了。",
+   "han": 36,
+   "toks": [
+    "‘",
+    [
+     "在",
+     "在"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "日暮途穷",
+     "日暮途穷"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "时候",
+     "时候"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "手里",
+     "手里"
+    ],
+    [
+     "才",
+     "才"
+    ],
+    [
+     "添",
+     "添"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "支",
+     "支"
+    ],
+    [
+     "手杖",
+     "手杖"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "拼命",
+     "拼命"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "打",
+     "打"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "几",
+     "几"
+    ],
+    [
+     "回",
+     "回"
+    ],
+    "，",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "渐渐",
+     "渐渐"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "日暮途穷",
+    "手里",
+    "手杖",
+    "拼命",
+    "打"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "日暮途穷",
+      "at the end of one's road"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "时候",
+      "time, moment"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "手里",
+      "in one's hand"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "添",
+      "add"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "支",
+      "(counter for sticks: pens)"
+     ],
+     [
+      "手杖",
+      "walking stick, cane"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "拼命",
+      "for all one is worth"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "打",
+      "hit, beat"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "回",
+      "time, occasion (counter)"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "渐渐",
+      "gradually"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'At this point, at the end of my road, a walking stick at last appeared in my hand. Once I had laid about me with it for all I was worth a few times, they gradually stopped cursing.'",
+   "note": "日暮途穷 \"the sun setting and the road running out\": a set phrase for being at one's wits' end. 添出…来 \"added (to my hand)…\". 手杖 \"walking stick\": the cane of a Western gentleman.",
+   "ty": [
+    "zai",
+    "zhe",
+    "ri",
+    "mu",
+    "tu",
+    "qiong",
+    "de",
+    "shi",
+    "hou",
+    "wo",
+    "de",
+    "shou",
+    "li",
+    "cai",
+    "tian",
+    "chu",
+    "yi",
+    "zhi",
+    "shou",
+    "zhang",
+    "lai",
+    "pin",
+    "ming",
+    "de",
+    "da",
+    "le",
+    "ji",
+    "hui",
+    "ta",
+    "men",
+    "jian",
+    "jian",
+    "de",
+    "bu",
+    "ma",
+    "le"
+   ]
+  },
+  {
+   "n": "29.2",
+   "text": "只是走到没有打过的生地方还是骂。",
+   "han": 15,
+   "toks": [
+    [
+     "只是",
+     "只是"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "打",
+     "打"
+    ],
+    [
+     "过",
+     "过@x"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "生",
+     "生@strange"
+    ],
+    [
+     "地方",
+     "地方"
+    ],
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    "。"
+   ],
+   "new": [
+    "生@strange"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "只是",
+      "only, merely"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "打",
+      "hit, beat"
+     ],
+     [
+      "过",
+      "(have … before)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "生",
+      "unfamiliar, strange"
+     ],
+     [
+      "地方",
+      "place"
+     ],
+     [
+      "还是",
+      "still"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ]
+    ]
+   ],
+   "translation": "'Only when I walked somewhere new, where I had not hit anyone, did they still curse.'",
+   "note": "生地方 \"unfamiliar place\": 生 here is \"raw, strange\", the opposite of 熟 \"familiar\".",
+   "ty": [
+    "zhi",
+    "shi",
+    "zou",
+    "dao",
+    "mei",
+    "you",
+    "da",
+    "guo",
+    "de",
+    "sheng",
+    "di",
+    "fang",
+    "hai",
+    "shi",
+    "ma"
+   ]
+  },
+  {
+   "n": "30.1",
+   "text": "‘这件事很使我悲哀，至今还时时记得哩。",
+   "han": 16,
+   "toks": [
+    "‘",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "件",
+     "件"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "使",
+     "使"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "悲哀",
+     "悲哀"
+    ],
+    "，",
+    [
+     "至今",
+     "至今"
+    ],
+    [
+     "还",
+     "还"
+    ],
+    [
+     "时时",
+     "时时"
+    ],
+    [
+     "记得",
+     "记得"
+    ],
+    [
+     "哩",
+     "哩"
+    ],
+    "。"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "件",
+      "(counter for matters, clothes)"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "使",
+      "make, cause (someone to do)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "悲哀",
+      "sorrow"
+     ],
+     [
+      "至今",
+      "to this day"
+     ],
+     [
+      "还",
+      "still"
+     ],
+     [
+      "时时",
+      "often, constantly"
+     ],
+     [
+      "记得",
+      "remember"
+     ],
+     [
+      "哩",
+      "(spoken particle, like 呢) you know"
+     ]
+    ]
+   ],
+   "translation": "'This business made me very sad; even now I think of it often.'",
+   "note": "",
+   "ty": [
+    "zhe",
+    "jian",
+    "shi",
+    "hen",
+    "shi",
+    "wo",
+    "bei",
+    "ai",
+    "zhi",
+    "jin",
+    "hai",
+    "shi",
+    "shi",
+    "ji",
+    "de",
+    "li"
+   ]
+  },
+  {
+   "n": "30.2",
+   "text": "我在留学的时候，曾经看见日报上登载一个游历南洋和中国的本多博士的事；",
+   "han": 32,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "留学",
+     "留学"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "时候",
+     "时候"
+    ],
+    "，",
+    [
+     "曾经",
+     "曾经"
+    ],
+    [
+     "看见",
+     "看见"
+    ],
+    [
+     "日报",
+     "日报"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "登载",
+     "登载"
+    ],
+    [
+     "一个",
+     "一个"
+    ],
+    [
+     "游历",
+     "游历"
+    ],
+    [
+     "南洋",
+     "南洋"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "本多",
+     "本多"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "事",
+     "事"
+    ],
+    "；"
+   ],
+   "new": [
+    "日报",
+    "登载",
+    "游历"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "留学",
+      "study abroad"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "时候",
+      "time, moment"
+     ],
+     [
+      "曾经",
+      "once, at one time"
+     ],
+     [
+      "看见",
+      "see, catch sight of"
+     ],
+     [
+      "日报",
+      "daily paper"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "登载",
+      "carry, print (in a paper)"
+     ],
+     [
+      "一个",
+      "one, a"
+     ],
+     [
+      "游历",
+      "travel, tour"
+     ],
+     [
+      "南洋",
+      "the South Seas, South-East Asia"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "本多",
+      "Honda (a Japanese surname)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "事",
+      "matter, affair, thing to do"
+     ]
+    ]
+   ],
+   "translation": "'When I was studying abroad, I once saw a piece in a daily paper about a Dr Honda who had travelled in the South Seas and in China.'",
+   "note": "南洋 \"the Southern Ocean\": South-East Asia. 本多 is the Japanese surname Honda; the annotated editions take him to be the forestry scholar 本多静六 (Honda Seiroku).",
+   "ty": [
+    "wo",
+    "zai",
+    "liu",
+    "xue",
+    "de",
+    "shi",
+    "hou",
+    "ceng",
+    "jing",
+    "kan",
+    "jian",
+    "ri",
+    "bao",
+    "shang",
+    "deng",
+    "zai",
+    "yi",
+    "ge",
+    "you",
+    "li",
+    "nan",
+    "yang",
+    "he",
+    "zhong",
+    "guo",
+    "de",
+    "ben",
+    "duo",
+    "bo",
+    "shi",
+    "de",
+    "shi"
+   ]
+  },
+  {
+   "n": "30.3",
+   "text": "这位博士是不懂中国和马来语的，人问他，你不懂话，怎么走路呢？他拿起手杖来说，这便是他们的话，他们都懂！",
+   "han": 44,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "位",
+     "位"
+    ],
+    [
+     "博士",
+     "博士"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "懂",
+     "懂"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "和",
+     "和"
+    ],
+    [
+     "马来语",
+     "马来语"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    "，",
+    [
+     "人",
+     "人"
+    ],
+    [
+     "问",
+     "问"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    "，",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "懂",
+     "懂"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "，",
+    [
+     "怎么",
+     "怎么"
+    ],
+    [
+     "走路",
+     "走路"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "？",
+    [
+     "他",
+     "他"
+    ],
+    [
+     "拿起",
+     "拿起"
+    ],
+    [
+     "手杖",
+     "手杖"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，",
+    [
+     "这",
+     "这"
+    ],
+    [
+     "便是",
+     "便是"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    "，",
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "懂",
+     "懂"
+    ],
+    "！"
+   ],
+   "new": [
+    "懂",
+    "走路",
+    "拿起"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "位",
+      "(polite counter for people)"
+     ],
+     [
+      "博士",
+      "doctor (PhD), Dr."
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "懂",
+      "understand, know (a language)"
+     ],
+     [
+      "中国",
+      "Chinese"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "马来语",
+      "Malay (the language)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "问",
+      "ask"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "懂",
+      "understand, know (a language)"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "怎么",
+      "how"
+     ],
+     [
+      "走路",
+      "get about, walk"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "拿起",
+      "pick up"
+     ],
+     [
+      "手杖",
+      "walking stick, cane"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "便是",
+      "is precisely, is just"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "懂",
+      "understand, know (a language)"
+     ]
+    ]
+   ],
+   "translation": "'This doctor knew no Chinese and no Malay. Someone asked him: if you don't know the language, how do you get about? He raised his walking stick and said: this is their language, they all understand it!'",
+   "note": "是不懂…的 \"was one who did not know…\": 是…的 frames a description. 话 \"speech\": the language. 走路 \"walk the road\": get around. Here the speech is given without quotation marks.",
+   "ty": [
+    "zhe",
+    "wei",
+    "bo",
+    "shi",
+    "shi",
+    "bu",
+    "dong",
+    "zhong",
+    "guo",
+    "he",
+    "ma",
+    "lai",
+    "yu",
+    "de",
+    "ren",
+    "wen",
+    "ta",
+    "ni",
+    "bu",
+    "dong",
+    "hua",
+    "zen",
+    "me",
+    "zou",
+    "lu",
+    "ne",
+    "ta",
+    "na",
+    "qi",
+    "shou",
+    "zhang",
+    "lai",
+    "shuo",
+    "zhe",
+    "bian",
+    "shi",
+    "ta",
+    "men",
+    "de",
+    "hua",
+    "ta",
+    "men",
+    "dou",
+    "dong"
+   ]
+  },
+  {
+   "n": "30.4",
+   "text": "我因此气愤了好几天，谁知道我竟不知不觉的自己也做了，而且那些人都懂了。……",
+   "han": 32,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "因此",
+     "因此"
+    ],
+    [
+     "气愤",
+     "气愤"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "好几",
+     "好几"
+    ],
+    [
+     "天",
+     "天"
+    ],
+    "，",
+    [
+     "谁知道",
+     "谁知道"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "竟",
+     "竟"
+    ],
+    [
+     "不知不觉",
+     "不知不觉"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "而且",
+     "而且"
+    ],
+    [
+     "那些",
+     "那些"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "都",
+     "都"
+    ],
+    [
+     "懂",
+     "懂"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。……"
+   ],
+   "new": [
+    "气愤",
+    "好几",
+    "不知不觉",
+    "那些"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "因此",
+      "because of this"
+     ],
+     [
+      "气愤",
+      "indignant"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "好几",
+      "quite a few"
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "谁知道",
+      "who would have thought"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "竟",
+      "to one's surprise"
+     ],
+     [
+      "不知不觉",
+      "without realising it"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "做",
+      "do"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "而且",
+      "moreover, and besides"
+     ],
+     [
+      "那些",
+      "those"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "都",
+      "all"
+     ],
+     [
+      "懂",
+      "understand, know (a language)"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'I was indignant about it for days. Who would have thought that I would end up doing it myself without ever noticing, and that those people would all understand.…'",
+   "note": "竟 \"actually, of all things\". 不知不觉 \"not knowing, not feeling\": without realising it.",
+   "ty": [
+    "wo",
+    "yin",
+    "ci",
+    "qi",
+    "fen",
+    "le",
+    "hao",
+    "ji",
+    "tian",
+    "shei",
+    "zhi",
+    "dao",
+    "wo",
+    "jing",
+    "bu",
+    "zhi",
+    "bu",
+    "jue",
+    "de",
+    "zi",
+    "ji",
+    "ye",
+    "zuo",
+    "le",
+    "er",
+    "qie",
+    "na",
+    "xie",
+    "ren",
+    "dou",
+    "dong",
+    "le"
+   ]
+  },
+  {
+   "n": "31.1",
+   "text": "‘宣统初年，我在本地的中学校做监学，同事是避之惟恐不远，官僚是防之惟恐不严，我终日如坐在冰窖子里，如站在刑场旁边，其实并非别的，只因为缺少了一条辫子！",
+   "han": 66,
+   "toks": [
+    "‘",
+    [
+     "宣统",
+     "宣统"
+    ],
+    [
+     "初年",
+     "初年"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "本地",
+     "本地"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "中学校",
+     "中学校"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "监学",
+     "监学"
+    ],
+    "，",
+    [
+     "同事",
+     "同事"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "避",
+     "避"
+    ],
+    [
+     "之",
+     "之"
+    ],
+    [
+     "惟恐",
+     "惟恐"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "远",
+     "远"
+    ],
+    "，",
+    [
+     "官僚",
+     "官僚"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "防",
+     "防"
+    ],
+    [
+     "之",
+     "之"
+    ],
+    [
+     "惟恐",
+     "惟恐"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "严",
+     "严"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "终日",
+     "终日"
+    ],
+    [
+     "如",
+     "如"
+    ],
+    [
+     "坐",
+     "坐"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "冰窖子",
+     "冰窖子"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    "，",
+    [
+     "如",
+     "如"
+    ],
+    [
+     "站",
+     "站"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "刑场",
+     "刑场"
+    ],
+    [
+     "旁边",
+     "旁边"
+    ],
+    "，",
+    [
+     "其实",
+     "其实"
+    ],
+    [
+     "并非",
+     "并非"
+    ],
+    [
+     "别的",
+     "别的"
+    ],
+    "，",
+    [
+     "只",
+     "只"
+    ],
+    [
+     "因为",
+     "因为"
+    ],
+    [
+     "缺少",
+     "缺少"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "条",
+     "条"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "！"
+   ],
+   "new": [
+    "初年",
+    "本地",
+    "中学校",
+    "监学",
+    "避",
+    "惟恐",
+    "官僚",
+    "防",
+    "严",
+    "终日",
+    "冰窖子",
+    "刑场",
+    "旁边",
+    "缺少"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "宣统",
+      "Xuantong, the reign of the last Qing emperor (1909 to 1911)"
+     ],
+     [
+      "初年",
+      "the first years"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "本地",
+      "local"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "中学校",
+      "middle school"
+     ],
+     [
+      "做",
+      "served as"
+     ],
+     [
+      "监学",
+      "supervisor (a school officer in charge of discipline)"
+     ],
+     [
+      "同事",
+      "colleague"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "避",
+      "avoid"
+     ],
+     [
+      "之",
+      "him"
+     ],
+     [
+      "惟恐",
+      "only fear (that)"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "远",
+      "far"
+     ],
+     [
+      "官僚",
+      "officials"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "防",
+      "guard against, watch"
+     ],
+     [
+      "之",
+      "him"
+     ],
+     [
+      "惟恐",
+      "only fear (that)"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "严",
+      "strict, close"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "终日",
+      "all day long"
+     ],
+     [
+      "如",
+      "like, as"
+     ],
+     [
+      "坐",
+      "sit"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "冰窖子",
+      "icehouse"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "如",
+      "like, as"
+     ],
+     [
+      "站",
+      "stand"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "刑场",
+      "execution ground"
+     ],
+     [
+      "旁边",
+      "beside"
+     ],
+     [
+      "其实",
+      "in fact, really"
+     ],
+     [
+      "并非",
+      "is not (at all)"
+     ],
+     [
+      "别的",
+      "other"
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "因为",
+      "because"
+     ],
+     [
+      "缺少",
+      "lack"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "条",
+      "(measure word for lines, roads, rivers)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ]
+    ]
+   ],
+   "translation": "'In the first years of Xuantong I was the supervisor at the local middle school. My colleagues avoided me as if they could never keep far enough away, and the officials watched me as if they could never watch closely enough. All day long I felt as if I were sitting in an icehouse, or standing beside the execution ground; and really it was for nothing else than that I lacked a queue!'",
+   "note": "宣统初年: the first years of the last Qing emperor's reign, 1909 to 1911. 避之惟恐不远 \"avoid him, only fearing it is not far enough\" is a classical frame, with 之 \"him\" as the object; 防之惟恐不严 is its twin. 惟恐 is today usually written 唯恐. 监学 \"supervisor of studies\": the school officer in charge of discipline. Lu Xun held that post at the Shaoxing middle school in 1910.",
+   "ty": [
+    "xuan",
+    "tong",
+    "chu",
+    "nian",
+    "wo",
+    "zai",
+    "ben",
+    "di",
+    "de",
+    "zhong",
+    "xue",
+    "xiao",
+    "zuo",
+    "jian",
+    "xue",
+    "tong",
+    "shi",
+    "shi",
+    "bi",
+    "zhi",
+    "wei",
+    "kong",
+    "bu",
+    "yuan",
+    "guan",
+    "liao",
+    "shi",
+    "fang",
+    "zhi",
+    "wei",
+    "kong",
+    "bu",
+    "yan",
+    "wo",
+    "zhong",
+    "ri",
+    "ru",
+    "zuo",
+    "zai",
+    "bing",
+    "jiao",
+    "zi",
+    "li",
+    "ru",
+    "zhan",
+    "zai",
+    "xing",
+    "chang",
+    "pang",
+    "bian",
+    "qi",
+    "shi",
+    "bing",
+    "fei",
+    "bie",
+    "de",
+    "zhi",
+    "yin",
+    "wei",
+    "que",
+    "shao",
+    "le",
+    "yi",
+    "tiao",
+    "bian",
+    "zi"
+   ]
+  },
+  {
+   "n": "32.1",
+   "text": "‘有一日，几个学生忽然走到我的房里来，说：“先生，我们要剪辫子了。”",
+   "han": 26,
+   "toks": [
+    "‘",
+    [
+     "有",
+     "有"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "日",
+     "日"
+    ],
+    "，",
+    [
+     "几",
+     "几"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "学生",
+     "学生"
+    ],
+    [
+     "忽然",
+     "忽然"
+    ],
+    [
+     "走",
+     "走"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "房",
+     "房"
+    ],
+    [
+     "里",
+     "里"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "，",
+    [
+     "说",
+     "说"
+    ],
+    "：“",
+    [
+     "先生",
+     "先生"
+    ],
+    "，",
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。”"
+   ],
+   "new": [
+    "房"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "有",
+      "have"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "日",
+      "day (formal)"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "学生",
+      "student"
+     ],
+     [
+      "忽然",
+      "suddenly"
+     ],
+     [
+      "走",
+      "walk"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "房",
+      "room"
+     ],
+     [
+      "里",
+      "in, inside (after a noun)"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "先生",
+      "sir"
+     ],
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'One day some students suddenly came into my room and said: \"Sir, we are going to cut off our queues.\"'",
+   "note": "先生 here is \"teacher, sir\", the way students address him.",
+   "ty": [
+    "you",
+    "yi",
+    "ri",
+    "ji",
+    "ge",
+    "xue",
+    "sheng",
+    "hu",
+    "ran",
+    "zou",
+    "dao",
+    "wo",
+    "de",
+    "fang",
+    "li",
+    "lai",
+    "shuo",
+    "xian",
+    "sheng",
+    "wo",
+    "men",
+    "yao",
+    "jian",
+    "bian",
+    "zi",
+    "le"
+   ]
+  },
+  {
+   "n": "32.2",
+   "text": "我说，“不行！”“有辫子好呢，没有辫子好呢？”“没有辫子好……”“你怎么说不行呢？”“犯不上，你们还是不剪上算，——等一等罢。”",
+   "han": 42,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，“",
+    [
+     "不行",
+     "不行"
+    ],
+    "！”“",
+    [
+     "有",
+     "有"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "好",
+     "好"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "，",
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "好",
+     "好"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "？”“",
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "好",
+     "好"
+    ],
+    "……”“",
+    [
+     "你",
+     "你"
+    ],
+    [
+     "怎么",
+     "怎么"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    [
+     "不行",
+     "不行"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "？”“",
+    [
+     "犯不上",
+     "犯不上"
+    ],
+    "，",
+    [
+     "你们",
+     "你们"
+    ],
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "上算",
+     "上算"
+    ],
+    "，——",
+    [
+     "等一等",
+     "等一等"
+    ],
+    [
+     "罢",
+     "罢"
+    ],
+    "。”"
+   ],
+   "new": [
+    "不行",
+    "犯不上",
+    "你们",
+    "上算",
+    "等一等"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "不行",
+      "no, that won't do"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "好",
+      "good"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "好",
+      "good"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "好",
+      "good"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "怎么",
+      "how"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "不行",
+      "no, that won't do"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "犯不上",
+      "not worth it"
+     ],
+     [
+      "你们",
+      "you (more than one)"
+     ],
+     [
+      "还是",
+      "had better"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "上算",
+      "worth it, a good bargain"
+     ],
+     [
+      "等一等",
+      "wait a moment"
+     ],
+     [
+      "罢",
+      "(suggestion or command): the old spelling of 吧"
+     ]
+    ]
+   ],
+   "translation": "'I said: \"No!\" \"Is it better to have a queue, or better not to have one?\" \"Better not to have one…\" \"Then why do you say no?\" \"It's not worth it. You'd do better not to cut them. Wait a while.\"'",
+   "note": "有…好呢，没有…好呢？ \"is having… better, or not having… better?\": a choice question, with 呢 after each half. 犯不上 \"not worth (the trouble)\". 还是…上算 \"you would do better to…\": 上算 is \"worth it, a good bargain\".",
+   "ty": [
+    "wo",
+    "shuo",
+    "bu",
+    "xing",
+    "you",
+    "bian",
+    "zi",
+    "hao",
+    "ne",
+    "mei",
+    "you",
+    "bian",
+    "zi",
+    "hao",
+    "ne",
+    "mei",
+    "you",
+    "bian",
+    "zi",
+    "hao",
+    "ni",
+    "zen",
+    "me",
+    "shuo",
+    "bu",
+    "xing",
+    "ne",
+    "fan",
+    "bu",
+    "shang",
+    "ni",
+    "men",
+    "hai",
+    "shi",
+    "bu",
+    "jian",
+    "shang",
+    "suan",
+    "deng",
+    "yi",
+    "deng",
+    "ba"
+   ]
+  },
+  {
+   "n": "32.3",
+   "text": "他们不说什么，撅着嘴唇走出房去；然而终于剪掉了。",
+   "han": 21,
+   "toks": [
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    "，",
+    [
+     "撅",
+     "撅"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "嘴唇",
+     "嘴唇"
+    ],
+    [
+     "走出",
+     "走出"
+    ],
+    [
+     "房",
+     "房"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "；",
+    [
+     "然而",
+     "然而"
+    ],
+    [
+     "终于",
+     "终于"
+    ],
+    [
+     "剪掉",
+     "剪掉"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。"
+   ],
+   "new": [
+    "嘴唇"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "撅",
+      "stick up, stick out"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "嘴唇",
+      "lips"
+     ],
+     [
+      "走出",
+      "walk out"
+     ],
+     [
+      "房",
+      "room"
+     ],
+     [
+      "去",
+      "go"
+     ],
+     [
+      "然而",
+      "and yet, but"
+     ],
+     [
+      "终于",
+      "at last, finally"
+     ],
+     [
+      "剪掉",
+      "cut off"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'They said nothing and went out of the room with their lips pushed out in a pout; but in the end they cut them off.'",
+   "note": "撅着嘴唇 \"pouting\": the same 撅 \"stick up, stick out\" as the flag in 7.3.",
+   "ty": [
+    "ta",
+    "men",
+    "bu",
+    "shuo",
+    "shen",
+    "me",
+    "jue",
+    "zhe",
+    "zui",
+    "chun",
+    "zou",
+    "chu",
+    "fang",
+    "qu",
+    "ran",
+    "er",
+    "zhong",
+    "yu",
+    "jian",
+    "diao",
+    "le"
+   ]
+  },
+  {
+   "n": "33.1",
+   "text": "‘呵！不得了了，人言啧啧了；我却只装作不知道，一任他们光着头皮，和许多辫子一齐上讲堂。",
+   "han": 36,
+   "toks": [
+    "‘",
+    [
+     "呵",
+     "呵"
+    ],
+    "！",
+    [
+     "不得了",
+     "不得了"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "人言啧啧",
+     "人言啧啧"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "；",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "却",
+     "却"
+    ],
+    [
+     "只",
+     "只"
+    ],
+    [
+     "装作",
+     "装作"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "知道",
+     "知道"
+    ],
+    "，",
+    [
+     "一任",
+     "一任"
+    ],
+    [
+     "他们",
+     "他们"
+    ],
+    [
+     "光",
+     "光"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "头皮",
+     "头皮"
+    ],
+    "，",
+    [
+     "和",
+     "和"
+    ],
+    [
+     "许多",
+     "许多"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    [
+     "一齐",
+     "一齐"
+    ],
+    [
+     "上",
+     "上@v"
+    ],
+    [
+     "讲堂",
+     "讲堂"
+    ],
+    "。"
+   ],
+   "new": [
+    "不得了",
+    "人言啧啧",
+    "装作",
+    "一任",
+    "一齐"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "呵",
+      "ah! (an exclamation)"
+     ],
+     [
+      "不得了",
+      "terrible, beyond words"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "人言啧啧",
+      "everyone tutting"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "却",
+      "but, yet"
+     ],
+     [
+      "只",
+      "only, just"
+     ],
+     [
+      "装作",
+      "pretend"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "知道",
+      "know"
+     ],
+     [
+      "一任",
+      "let (them) as they please"
+     ],
+     [
+      "他们",
+      "they, them"
+     ],
+     [
+      "光",
+      "bare"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "头皮",
+      "scalp"
+     ],
+     [
+      "和",
+      "and"
+     ],
+     [
+      "许多",
+      "many"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "一齐",
+      "side by side, all together"
+     ],
+     [
+      "上",
+      "go up (to), come up into"
+     ],
+     [
+      "讲堂",
+      "lecture hall"
+     ]
+    ]
+   ],
+   "translation": "'Ah! Then there was real trouble, and every tongue was clicking. But I just pretended not to know, and let them go to the lecture hall with their bare scalps, side by side with all the queues.'",
+   "note": "不得了 \"terrible, beyond words\". 人言啧啧 \"people's talk went tsk-tsk\": everyone tutting. 一任 \"let (them) as they please\". 上讲堂 \"go up to the lecture hall\": go to class.",
+   "ty": [
+    "a",
+    "bu",
+    "de",
+    "liao",
+    "le",
+    "ren",
+    "yan",
+    "ze",
+    "ze",
+    "le",
+    "wo",
+    "que",
+    "zhi",
+    "zhuang",
+    "zuo",
+    "bu",
+    "zhi",
+    "dao",
+    "yi",
+    "ren",
+    "ta",
+    "men",
+    "guang",
+    "zhe",
+    "tou",
+    "pi",
+    "he",
+    "xu",
+    "duo",
+    "bian",
+    "zi",
+    "yi",
+    "qi",
+    "shang",
+    "jiang",
+    "tang"
+   ]
+  },
+  {
+   "n": "34.1",
+   "text": "‘然而这剪辫病传染了；第三天，师范学堂的学生忽然也剪下了六条辫子，晚上便开除了六个学生。",
+   "han": 39,
+   "toks": [
+    "‘",
+    [
+     "然而",
+     "然而"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "辫",
+     "辫"
+    ],
+    [
+     "病",
+     "病"
+    ],
+    [
+     "传染",
+     "传染"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "；",
+    [
+     "第",
+     "第"
+    ],
+    [
+     "三",
+     "三"
+    ],
+    [
+     "天",
+     "天"
+    ],
+    "，",
+    [
+     "师范",
+     "师范"
+    ],
+    [
+     "学堂",
+     "学堂"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "学生",
+     "学生"
+    ],
+    [
+     "忽然",
+     "忽然"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "下",
+     "下"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "六",
+     "六"
+    ],
+    [
+     "条",
+     "条"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "晚上",
+     "晚上"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "开除",
+     "开除"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "六",
+     "六"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "学生",
+     "学生"
+    ],
+    "。"
+   ],
+   "new": [
+    "辫",
+    "病",
+    "师范",
+    "开除"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "然而",
+      "and yet, but"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "辫",
+      "queue, plait"
+     ],
+     [
+      "病",
+      "disease"
+     ],
+     [
+      "传染",
+      "pass on (like an illness)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "第",
+      "(makes ordinals: first, second…)"
+     ],
+     [
+      "三",
+      "three"
+     ],
+     [
+      "天",
+      "day"
+     ],
+     [
+      "师范",
+      "teacher-training"
+     ],
+     [
+      "学堂",
+      "school, academy (old)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "学生",
+      "student"
+     ],
+     [
+      "忽然",
+      "suddenly"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "下",
+      "off"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "六",
+      "six"
+     ],
+     [
+      "条",
+      "(measure word for lines, roads, rivers)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "晚上",
+      "evening, night"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "开除",
+      "expel"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "六",
+      "six"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "学生",
+      "student"
+     ]
+    ]
+   ],
+   "translation": "'But this queue-cutting disease was catching. On the third day the students of the teachers' college suddenly cut off six queues too, and that evening six students were expelled.'",
+   "note": "剪辫病 \"the cut-the-queue sickness\": N's own joke. 师范学堂 \"normal school\": a college that trains teachers. 便开除了 \"then (they) expelled\": the school is the unnamed subject.",
+   "ty": [
+    "ran",
+    "er",
+    "zhe",
+    "jian",
+    "bian",
+    "bing",
+    "chuan",
+    "ran",
+    "le",
+    "di",
+    "san",
+    "tian",
+    "shi",
+    "fan",
+    "xue",
+    "tang",
+    "de",
+    "xue",
+    "sheng",
+    "hu",
+    "ran",
+    "ye",
+    "jian",
+    "xia",
+    "le",
+    "liu",
+    "tiao",
+    "bian",
+    "zi",
+    "wan",
+    "shang",
+    "bian",
+    "kai",
+    "chu",
+    "le",
+    "liu",
+    "ge",
+    "xue",
+    "sheng"
+   ]
+  },
+  {
+   "n": "34.2",
+   "text": "这六个人，留校不能，回家不得，一直挨到第一个双十节之后又一个多月，才消去了犯罪的火烙印。",
+   "han": 39,
+   "toks": [
+    [
+     "这",
+     "这"
+    ],
+    [
+     "六",
+     "六"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "，",
+    [
+     "留校",
+     "留校"
+    ],
+    [
+     "不能",
+     "不能"
+    ],
+    "，",
+    [
+     "回家",
+     "回家"
+    ],
+    [
+     "不得",
+     "不得@v"
+    ],
+    "，",
+    [
+     "一直",
+     "一直"
+    ],
+    [
+     "挨",
+     "挨"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "第一",
+     "第一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    [
+     "之后",
+     "之后"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "多",
+     "多"
+    ],
+    [
+     "月",
+     "月"
+    ],
+    "，",
+    [
+     "才",
+     "才"
+    ],
+    [
+     "消去",
+     "消去"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "犯罪",
+     "犯罪"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "火",
+     "火"
+    ],
+    [
+     "烙印",
+     "烙印"
+    ],
+    "。"
+   ],
+   "new": [
+    "留校",
+    "挨",
+    "犯罪",
+    "火",
+    "烙印"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "这",
+      "this"
+     ],
+     [
+      "六",
+      "six"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "留校",
+      "stay at school"
+     ],
+     [
+      "不能",
+      "cannot"
+     ],
+     [
+      "回家",
+      "go home"
+     ],
+     [
+      "不得",
+      "(after a verb) cannot"
+     ],
+     [
+      "一直",
+      "all the way, right (until)"
+     ],
+     [
+      "挨",
+      "endure, hold out"
+     ],
+     [
+      "到",
+      "until"
+     ],
+     [
+      "第一",
+      "first"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "之后",
+      "afterwards, after"
+     ],
+     [
+      "又",
+      "a further"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "多",
+      "many, much"
+     ],
+     [
+      "月",
+      "month"
+     ],
+     [
+      "才",
+      "only then"
+     ],
+     [
+      "消去",
+      "wiped away"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "犯罪",
+      "crime"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "火",
+      "fire"
+     ],
+     [
+      "烙印",
+      "brand"
+     ]
+    ]
+   ],
+   "translation": "'These six could not stay at the college and could not go home; they held on until more than a month after the first Double Tenth before the brand of crime burnt into them was wiped away.'",
+   "note": "留校不能，回家不得: the verb first and \"cannot\" after it, a bookish order (today 不能留校，不能回家). 挨到 \"hold out until\": 挨 here is \"endure\". 火烙印 \"a brand burnt in with fire\".",
+   "ty": [
+    "zhe",
+    "liu",
+    "ge",
+    "ren",
+    "liu",
+    "xiao",
+    "bu",
+    "neng",
+    "hui",
+    "jia",
+    "bu",
+    "de",
+    "yi",
+    "zhi",
+    "ai",
+    "dao",
+    "di",
+    "yi",
+    "ge",
+    "shuang",
+    "shi",
+    "jie",
+    "zhi",
+    "hou",
+    "you",
+    "yi",
+    "ge",
+    "duo",
+    "yue",
+    "cai",
+    "xiao",
+    "qu",
+    "le",
+    "fan",
+    "zui",
+    "de",
+    "huo",
+    "lao",
+    "yin"
+   ]
+  },
+  {
+   "n": "35.1",
+   "text": "‘我呢？也一样，只是元年冬天到北京，还被人骂过几次，后来骂我的人也被警察剪去了辫子，我就不再被人辱骂了；但我没有到乡间去。’",
+   "han": 53,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "？",
+    [
+     "也",
+     "也"
+    ],
+    [
+     "一样",
+     "一样"
+    ],
+    "，",
+    [
+     "只是",
+     "只是"
+    ],
+    [
+     "元年",
+     "元年"
+    ],
+    [
+     "冬天",
+     "冬天"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "北京",
+     "北京"
+    ],
+    "，",
+    [
+     "还",
+     "还"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    [
+     "过",
+     "过@x"
+    ],
+    [
+     "几",
+     "几"
+    ],
+    [
+     "次",
+     "次"
+    ],
+    "，",
+    [
+     "后来",
+     "后来"
+    ],
+    [
+     "骂",
+     "骂"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "也",
+     "也"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "警察",
+     "警察"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "辫子",
+     "辫子"
+    ],
+    "，",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "就",
+     "就"
+    ],
+    [
+     "不再",
+     "不再"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    [
+     "辱骂",
+     "辱骂"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "；",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "乡间",
+     "乡间"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "。’"
+   ],
+   "new": [
+    "元年",
+    "辱骂"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "一样",
+      "the same, alike"
+     ],
+     [
+      "只是",
+      "only, merely"
+     ],
+     [
+      "元年",
+      "the first year (of an era)"
+     ],
+     [
+      "冬天",
+      "winter"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "北京",
+      "Beijing"
+     ],
+     [
+      "还",
+      "still"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ],
+     [
+      "过",
+      "(have … before)"
+     ],
+     [
+      "几",
+      "a few"
+     ],
+     [
+      "次",
+      "time, trip (measure word)"
+     ],
+     [
+      "后来",
+      "later"
+     ],
+     [
+      "骂",
+      "curse, abuse"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "也",
+      "also, too"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "警察",
+      "police"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "去",
+      "off"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "辫子",
+      "queue, plait"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "就",
+      "then"
+     ],
+     [
+      "不再",
+      "no longer"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "人",
+      "person, people"
+     ],
+     [
+      "辱骂",
+      "insult, abuse"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "乡间",
+      "the countryside"
+     ],
+     [
+      "去",
+      "go"
+     ]
+    ]
+   ],
+   "translation": "'And me? The same. Only, when I came to Beijing in the winter of the first year, I was still cursed a few times; later the people who cursed me had their own queues cut off by the police, and then I was no longer insulted. But I have not been out to the countryside.'",
+   "note": "元年 \"the first year\": 1912, the first year of the Republic. 我呢？ \"and me?\". The last clause is a dry joke: out in the country the queues, and the jeers, were still there.",
+   "ty": [
+    "wo",
+    "ne",
+    "ye",
+    "yi",
+    "yang",
+    "zhi",
+    "shi",
+    "yuan",
+    "nian",
+    "dong",
+    "tian",
+    "dao",
+    "bei",
+    "jing",
+    "hai",
+    "bei",
+    "ren",
+    "ma",
+    "guo",
+    "ji",
+    "ci",
+    "hou",
+    "lai",
+    "ma",
+    "wo",
+    "de",
+    "ren",
+    "ye",
+    "bei",
+    "jing",
+    "cha",
+    "jian",
+    "qu",
+    "le",
+    "bian",
+    "zi",
+    "wo",
+    "jiu",
+    "bu",
+    "zai",
+    "bei",
+    "ren",
+    "ru",
+    "ma",
+    "le",
+    "dan",
+    "wo",
+    "mei",
+    "you",
+    "dao",
+    "xiang",
+    "jian",
+    "qu"
+   ]
+  },
+  {
+   "n": "36.1",
+   "text": "Ｎ显出非常得意模样，忽而又沉下脸来：",
+   "han": 15,
+   "toks": [
+    "Ｎ",
+    [
+     "显出",
+     "显出"
+    ],
+    [
+     "非常",
+     "非常"
+    ],
+    [
+     "得意",
+     "得意"
+    ],
+    [
+     "模样",
+     "模样"
+    ],
+    "，",
+    [
+     "忽而",
+     "忽而"
+    ],
+    [
+     "又",
+     "又"
+    ],
+    [
+     "沉",
+     "沉"
+    ],
+    [
+     "下",
+     "下"
+    ],
+    [
+     "脸",
+     "脸"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    "："
+   ],
+   "new": [
+    "沉"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "显出",
+      "show, wear (a look)"
+     ],
+     [
+      "非常",
+      "very, extremely"
+     ],
+     [
+      "得意",
+      "pleased with oneself"
+     ],
+     [
+      "模样",
+      "look, shape"
+     ],
+     [
+      "忽而",
+      "suddenly"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "沉",
+      "sink"
+     ],
+     [
+      "下",
+      "down"
+     ],
+     [
+      "脸",
+      "face"
+     ],
+     [
+      "来",
+      "come"
+     ]
+    ]
+   ],
+   "translation": "N looked extremely pleased with himself; then all at once his face darkened again:",
+   "note": "沉下脸来 \"let the face sink down\": put on a stern, dark look.",
+   "ty": [
+    "xian",
+    "chu",
+    "fei",
+    "chang",
+    "de",
+    "yi",
+    "mu",
+    "yang",
+    "hu",
+    "er",
+    "you",
+    "chen",
+    "xia",
+    "lian",
+    "lai"
+   ]
+  },
+  {
+   "n": "37.1",
+   "text": "‘现在你们这些理想家，又在那里嚷什么女子剪发了，又要造出许多毫无所得而痛苦的人！",
+   "han": 36,
+   "toks": [
+    "‘",
+    [
+     "现在",
+     "现在"
+    ],
+    [
+     "你们",
+     "你们"
+    ],
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "理想家",
+     "理想家"
+    ],
+    "，",
+    [
+     "又",
+     "又"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "那里",
+     "那里"
+    ],
+    [
+     "嚷",
+     "嚷"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    [
+     "女子",
+     "女子"
+    ],
+    [
+     "剪",
+     "剪"
+    ],
+    [
+     "发",
+     "发@hair"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "又",
+     "又"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "造",
+     "造"
+    ],
+    [
+     "出",
+     "出"
+    ],
+    [
+     "许多",
+     "许多"
+    ],
+    [
+     "毫无",
+     "毫无"
+    ],
+    [
+     "所得",
+     "所得"
+    ],
+    [
+     "而",
+     "而"
+    ],
+    [
+     "痛苦",
+     "痛苦"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "人",
+     "人"
+    ],
+    "！"
+   ],
+   "new": [
+    "理想家",
+    "那里",
+    "女子",
+    "发@hair",
+    "造",
+    "所得"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "你们",
+      "you (more than one)"
+     ],
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "理想家",
+      "idealist"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "那里",
+      "there"
+     ],
+     [
+      "嚷",
+      "shout"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "女子",
+      "woman"
+     ],
+     [
+      "剪",
+      "cut (with scissors)"
+     ],
+     [
+      "发",
+      "hair"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "又",
+      "again"
+     ],
+     [
+      "要",
+      "will"
+     ],
+     [
+      "造",
+      "make, create"
+     ],
+     [
+      "出",
+      "out (after a verb: the action brings something out)"
+     ],
+     [
+      "许多",
+      "many"
+     ],
+     [
+      "毫无",
+      "not the slightest"
+     ],
+     [
+      "所得",
+      "gain, what one gets"
+     ],
+     [
+      "而",
+      "and so"
+     ],
+     [
+      "痛苦",
+      "pain, suffering"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "人",
+      "person, people"
+     ]
+    ]
+   ],
+   "translation": "'And now you idealists are at it again, shouting about women cutting their hair; you are going to make a great many more people who suffer and get nothing for it!'",
+   "note": "In 1920 the students of the new thinking were urging women to bob their hair. 在那里嚷 \"are there shouting\": 在那里 before a verb often only says the action is going on. 毫无所得而痛苦 \"gain nothing at all, and suffer\". 发 here is \"hair\", as in 头发.",
+   "ty": [
+    "xian",
+    "zai",
+    "ni",
+    "men",
+    "zhe",
+    "xie",
+    "li",
+    "xiang",
+    "jia",
+    "you",
+    "zai",
+    "na",
+    "li",
+    "rang",
+    "shen",
+    "me",
+    "nv",
+    "zi",
+    "jian",
+    "fa",
+    "le",
+    "you",
+    "yao",
+    "zao",
+    "chu",
+    "xu",
+    "duo",
+    "hao",
+    "wu",
+    "suo",
+    "de",
+    "er",
+    "tong",
+    "ku",
+    "de",
+    "ren"
+   ]
+  },
+  {
+   "n": "38.1",
+   "text": "‘现在不是已经有剪掉头发的女人，因此考不进学校去，或者被学校除了名么？",
+   "han": 31,
+   "toks": [
+    "‘",
+    [
+     "现在",
+     "现在"
+    ],
+    [
+     "不是",
+     "不是"
+    ],
+    [
+     "已经",
+     "已经"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "剪掉",
+     "剪掉"
+    ],
+    [
+     "头发",
+     "头发"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "女人",
+     "女人"
+    ],
+    "，",
+    [
+     "因此",
+     "因此"
+    ],
+    [
+     "考",
+     "考"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "进",
+     "进"
+    ],
+    [
+     "学校",
+     "学校"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "，",
+    [
+     "或者",
+     "或者"
+    ],
+    [
+     "被",
+     "被"
+    ],
+    [
+     "学校",
+     "学校"
+    ],
+    [
+     "除",
+     "除"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "名",
+     "名@name"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "？"
+   ],
+   "new": [
+    "不是",
+    "考",
+    "除"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "现在",
+      "now"
+     ],
+     [
+      "不是",
+      "is not"
+     ],
+     [
+      "已经",
+      "already"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "剪掉",
+      "cut off"
+     ],
+     [
+      "头发",
+      "hair (on the head)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "女人",
+      "woman"
+     ],
+     [
+      "因此",
+      "because of this"
+     ],
+     [
+      "考",
+      "sit an exam"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "进",
+      "enter"
+     ],
+     [
+      "学校",
+      "school"
+     ],
+     [
+      "去",
+      "go"
+     ],
+     [
+      "或者",
+      "or perhaps"
+     ],
+     [
+      "被",
+      "(is …-ed)"
+     ],
+     [
+      "学校",
+      "school"
+     ],
+     [
+      "除",
+      "remove, strike off"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "名",
+      "name"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ]
+    ]
+   ],
+   "translation": "'Aren't there already women who cut off their hair and so could not get into a school, or were struck off its rolls?'",
+   "note": "不是…么？ \"isn't it that…?\": 么 is the old spelling of 吗. 考不进 \"sit the exam and fail to get in\". 除了名 is 除名 \"strike from the register\" with 了 inside it: not the 除了 \"except\".",
+   "ty": [
+    "xian",
+    "zai",
+    "bu",
+    "shi",
+    "yi",
+    "jing",
+    "you",
+    "jian",
+    "diao",
+    "tou",
+    "fa",
+    "de",
+    "nv",
+    "ren",
+    "yin",
+    "ci",
+    "kao",
+    "bu",
+    "jin",
+    "xue",
+    "xiao",
+    "qu",
+    "huo",
+    "zhe",
+    "bei",
+    "xue",
+    "xiao",
+    "chu",
+    "le",
+    "ming",
+    "ma"
+   ]
+  },
+  {
+   "n": "39.1",
+   "text": "‘改革么，武器在那里？工读么，工厂在那里？",
+   "han": 16,
+   "toks": [
+    "‘",
+    [
+     "改革",
+     "改革"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "，",
+    [
+     "武器",
+     "武器"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "那里",
+     "那里@where"
+    ],
+    "？",
+    [
+     "工读",
+     "工读"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "，",
+    [
+     "工厂",
+     "工厂"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "那里",
+     "那里@where"
+    ],
+    "？"
+   ],
+   "new": [
+    "改革",
+    "武器",
+    "工读",
+    "工厂"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "改革",
+      "reform"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ],
+     [
+      "武器",
+      "weapons"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "那里",
+      "where (the old spelling of 哪里)"
+     ],
+     [
+      "工读",
+      "work and study"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ],
+     [
+      "工厂",
+      "factory"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "那里",
+      "where (the old spelling of 哪里)"
+     ]
+    ]
+   ],
+   "translation": "'Reform, is it? Where are the weapons? Work and study, is it? Where are the factories?'",
+   "note": "么 after a word sets it up for the question that follows: \"reform, you say?\". 工读 \"work and study\": the scheme, much talked of in 1920, of students earning their keep in factories while they studied. 那里 is \"where\" again, kept as printed.",
+   "ty": [
+    "gai",
+    "ge",
+    "ma",
+    "wu",
+    "qi",
+    "zai",
+    "na",
+    "li",
+    "gong",
+    "du",
+    "ma",
+    "gong",
+    "chang",
+    "zai",
+    "na",
+    "li"
+   ]
+  },
+  {
+   "n": "40.1",
+   "text": "‘仍然留起，嫁给人家做媳妇去：忘却了一切还是幸福，倘使伊记着些平等自由的话便要苦痛一生世！’",
+   "han": 40,
+   "toks": [
+    "‘",
+    [
+     "仍然",
+     "仍然"
+    ],
+    [
+     "留",
+     "留"
+    ],
+    [
+     "起",
+     "起"
+    ],
+    "，",
+    [
+     "嫁",
+     "嫁"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    [
+     "人家",
+     "人家"
+    ],
+    [
+     "做",
+     "做"
+    ],
+    [
+     "媳妇",
+     "媳妇"
+    ],
+    [
+     "去",
+     "去"
+    ],
+    "：",
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "一切",
+     "一切"
+    ],
+    [
+     "还是",
+     "还是"
+    ],
+    [
+     "幸福",
+     "幸福"
+    ],
+    "，",
+    [
+     "倘使",
+     "倘使"
+    ],
+    [
+     "伊",
+     "伊"
+    ],
+    [
+     "记",
+     "记"
+    ],
+    [
+     "着",
+     "着"
+    ],
+    [
+     "些",
+     "些"
+    ],
+    [
+     "平等",
+     "平等"
+    ],
+    [
+     "自由",
+     "自由"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "苦痛",
+     "苦痛"
+    ],
+    [
+     "一生世",
+     "一生世"
+    ],
+    "！’"
+   ],
+   "new": [
+    "嫁",
+    "媳妇",
+    "幸福",
+    "平等",
+    "自由"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "仍然",
+      "still, as before"
+     ],
+     [
+      "留",
+      "grow"
+     ],
+     [
+      "起",
+      "(start to)"
+     ],
+     [
+      "嫁",
+      "marry (of a woman)"
+     ],
+     [
+      "给",
+      "to, for"
+     ],
+     [
+      "人家",
+      "family, household"
+     ],
+     [
+      "做",
+      "be"
+     ],
+     [
+      "媳妇",
+      "daughter-in-law, wife"
+     ],
+     [
+      "去",
+      "go"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "一切",
+      "everything, all"
+     ],
+     [
+      "还是",
+      "still, all the same"
+     ],
+     [
+      "幸福",
+      "happiness"
+     ],
+     [
+      "倘使",
+      "if (bookish)"
+     ],
+     [
+      "伊",
+      "she (in 1920s writing)"
+     ],
+     [
+      "记",
+      "remembers"
+     ],
+     [
+      "着",
+      "(ongoing)"
+     ],
+     [
+      "些",
+      "some, a bit"
+     ],
+     [
+      "平等",
+      "equality"
+     ],
+     [
+      "自由",
+      "freedom"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "要",
+      "will"
+     ],
+     [
+      "苦痛",
+      "pain, suffering"
+     ],
+     [
+      "一生世",
+      "a whole lifetime"
+     ]
+    ]
+   ],
+   "translation": "'Let her grow it again, and go and marry into some family as a wife: forgetting everything is happiness after all. If she remembers any of that talk of equality and freedom, she will suffer all her life!'",
+   "note": "伊 \"she\": Lu Xun's word for a woman, before 她 caught on. 留起 \"grow (the hair) again\". 嫁给人家做媳妇 \"marry into a family to be its daughter-in-law\". 的 话 here is \"the words of…\", not the 的话 \"if\".",
+   "ty": [
+    "reng",
+    "ran",
+    "liu",
+    "qi",
+    "jia",
+    "gei",
+    "ren",
+    "jia",
+    "zuo",
+    "xi",
+    "fu",
+    "qu",
+    "wang",
+    "que",
+    "le",
+    "yi",
+    "qie",
+    "hai",
+    "shi",
+    "xing",
+    "fu",
+    "tang",
+    "shi",
+    "yi",
+    "ji",
+    "zhe",
+    "xie",
+    "ping",
+    "deng",
+    "zi",
+    "you",
+    "de",
+    "hua",
+    "bian",
+    "yao",
+    "ku",
+    "tong",
+    "yi",
+    "sheng",
+    "shi"
+   ]
+  },
+  {
+   "n": "41.1",
+   "text": "‘我要借了阿尔志跋绥夫的话问你们：你们将黄金时代的出现豫约给这些人们的子孙了，但有什么给这些人们自己呢？",
+   "han": 48,
+   "toks": [
+    "‘",
+    [
+     "我",
+     "我"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "借",
+     "借"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "阿尔志跋绥夫",
+     "阿尔志跋绥夫"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "话",
+     "话"
+    ],
+    [
+     "问",
+     "问"
+    ],
+    [
+     "你们",
+     "你们"
+    ],
+    "：",
+    [
+     "你们",
+     "你们"
+    ],
+    [
+     "将",
+     "将@ba"
+    ],
+    [
+     "黄金时代",
+     "黄金时代"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "出现",
+     "出现"
+    ],
+    [
+     "豫约",
+     "豫约"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "人们",
+     "人们"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "子孙",
+     "子孙"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "有",
+     "有"
+    ],
+    [
+     "什么",
+     "什么"
+    ],
+    [
+     "给",
+     "给"
+    ],
+    [
+     "这些",
+     "这些"
+    ],
+    [
+     "人们",
+     "人们"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "呢",
+     "呢"
+    ],
+    "？"
+   ],
+   "new": [
+    "黄金时代",
+    "豫约",
+    "子孙"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "要",
+      "want"
+     ],
+     [
+      "借",
+      "borrow"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "阿尔志跋绥夫",
+      "Artsybashev (1878 to 1927), Russian novelist"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "话",
+      "words, talk"
+     ],
+     [
+      "问",
+      "ask"
+     ],
+     [
+      "你们",
+      "you (more than one)"
+     ],
+     [
+      "你们",
+      "you (more than one)"
+     ],
+     [
+      "将",
+      "(taking)"
+     ],
+     [
+      "黄金时代",
+      "golden age"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "出现",
+      "appear"
+     ],
+     [
+      "豫约",
+      "promise in advance (the old spelling of 预约)"
+     ],
+     [
+      "给",
+      "to, for"
+     ],
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "人们",
+      "people"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "子孙",
+      "descendants"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "有",
+      "have"
+     ],
+     [
+      "什么",
+      "what"
+     ],
+     [
+      "给",
+      "to, for"
+     ],
+     [
+      "这些",
+      "these"
+     ],
+     [
+      "人们",
+      "people"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "呢",
+      "(question softener)"
+     ]
+    ]
+   ],
+   "translation": "'I want to borrow Artsybashev's words to ask you: you have promised the coming of a golden age to these people's descendants, but what have you got to give these people themselves?'",
+   "note": "阿尔志跋绥夫 is Mikhail Artsybashev (1878 to 1927), the Russian novelist; Lu Xun translated his novel 工人绥惠略夫 (Worker Shevyrev) in 1920, and the question comes from it. 将…豫约给… is the 把 pattern: \"take the coming of the golden age and promise it to…\". 豫约 is the old spelling of 预约, kept as printed.",
+   "ty": [
+    "wo",
+    "yao",
+    "jie",
+    "le",
+    "a",
+    "er",
+    "zhi",
+    "ba",
+    "sui",
+    "fu",
+    "de",
+    "hua",
+    "wen",
+    "ni",
+    "men",
+    "ni",
+    "men",
+    "jiang",
+    "huang",
+    "jin",
+    "shi",
+    "dai",
+    "de",
+    "chu",
+    "xian",
+    "yu",
+    "yue",
+    "gei",
+    "zhe",
+    "xie",
+    "ren",
+    "men",
+    "de",
+    "zi",
+    "sun",
+    "le",
+    "dan",
+    "you",
+    "shen",
+    "me",
+    "gei",
+    "zhe",
+    "xie",
+    "ren",
+    "men",
+    "zi",
+    "ji",
+    "ne"
+   ]
+  },
+  {
+   "n": "42.1",
+   "text": "‘阿，造物的皮鞭没有到中国的脊梁上时，中国便永远是这一样的中国，决不肯自己改变一枝毫毛！",
+   "han": 39,
+   "toks": [
+    "‘",
+    [
+     "阿",
+     "阿"
+    ],
+    "，",
+    [
+     "造物",
+     "造物"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "皮鞭",
+     "皮鞭"
+    ],
+    [
+     "没有",
+     "没有"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "脊梁",
+     "脊梁"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "时",
+     "时"
+    ],
+    "，",
+    [
+     "中国",
+     "中国"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "永远",
+     "永远"
+    ],
+    [
+     "是",
+     "是"
+    ],
+    [
+     "这",
+     "这"
+    ],
+    [
+     "一样",
+     "一样"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "中国",
+     "中国"
+    ],
+    "，",
+    [
+     "决不",
+     "决不"
+    ],
+    [
+     "肯",
+     "肯"
+    ],
+    [
+     "自己",
+     "自己"
+    ],
+    [
+     "改变",
+     "改变"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "枝",
+     "枝"
+    ],
+    [
+     "毫毛",
+     "毫毛"
+    ],
+    "！"
+   ],
+   "new": [
+    "造物",
+    "皮鞭",
+    "脊梁",
+    "决不",
+    "肯",
+    "枝",
+    "毫毛"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "阿",
+      "ah! (the old spelling of the cry 啊)"
+     ],
+     [
+      "造物",
+      "the Creator, the Maker"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "皮鞭",
+      "leather whip"
+     ],
+     [
+      "没有",
+      "not have"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "脊梁",
+      "back, spine"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "时",
+      "when, at the time of (after a clause)"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "永远",
+      "forever, always"
+     ],
+     [
+      "是",
+      "is, am, are"
+     ],
+     [
+      "这",
+      "this"
+     ],
+     [
+      "一样",
+      "the same, alike"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "中国",
+      "China"
+     ],
+     [
+      "决不",
+      "never, by no means"
+     ],
+     [
+      "肯",
+      "be willing to"
+     ],
+     [
+      "自己",
+      "oneself"
+     ],
+     [
+      "改变",
+      "change"
+     ],
+     [
+      "一",
+      "one"
+     ],
+     [
+      "枝",
+      "(counter for thin things)"
+     ],
+     [
+      "毫毛",
+      "fine hair"
+     ]
+    ]
+   ],
+   "translation": "'Ah, until the whip of the Creator comes down on China's back, China will forever be this same China, and will never of its own accord be willing to change a single hair!'",
+   "note": "造物 \"the Maker\": the power that made the world. 没有到…时 \"while (it) has not reached…\". 一枝毫毛 \"one fine hair\": 枝 counts thin things.",
+   "ty": [
+    "a",
+    "zao",
+    "wu",
+    "de",
+    "pi",
+    "bian",
+    "mei",
+    "you",
+    "dao",
+    "zhong",
+    "guo",
+    "de",
+    "ji",
+    "liang",
+    "shang",
+    "shi",
+    "zhong",
+    "guo",
+    "bian",
+    "yong",
+    "yuan",
+    "shi",
+    "zhe",
+    "yi",
+    "yang",
+    "de",
+    "zhong",
+    "guo",
+    "jue",
+    "bu",
+    "ken",
+    "zi",
+    "ji",
+    "gai",
+    "bian",
+    "yi",
+    "zhi",
+    "hao",
+    "mao"
+   ]
+  },
+  {
+   "n": "43.1",
+   "text": "‘你们的嘴里既然并无毒牙，何以偏要在额上贴起“蝮蛇”两个大字，引乞丐来打杀？……’",
+   "han": 32,
+   "toks": [
+    "‘",
+    [
+     "你们",
+     "你们"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "嘴里",
+     "嘴里"
+    ],
+    [
+     "既然",
+     "既然"
+    ],
+    [
+     "并",
+     "并@not"
+    ],
+    [
+     "无",
+     "无"
+    ],
+    [
+     "毒牙",
+     "毒牙"
+    ],
+    "，",
+    [
+     "何以",
+     "何以"
+    ],
+    [
+     "偏要",
+     "偏要"
+    ],
+    [
+     "在",
+     "在"
+    ],
+    [
+     "额",
+     "额"
+    ],
+    [
+     "上",
+     "上"
+    ],
+    [
+     "贴",
+     "贴"
+    ],
+    [
+     "起",
+     "起"
+    ],
+    "“",
+    [
+     "蝮蛇",
+     "蝮蛇"
+    ],
+    "”",
+    [
+     "两",
+     "两"
+    ],
+    [
+     "个",
+     "个"
+    ],
+    [
+     "大",
+     "大"
+    ],
+    [
+     "字",
+     "字"
+    ],
+    "，",
+    [
+     "引",
+     "引"
+    ],
+    [
+     "乞丐",
+     "乞丐"
+    ],
+    [
+     "来",
+     "来"
+    ],
+    [
+     "打杀",
+     "打杀"
+    ],
+    "？……’"
+   ],
+   "new": [
+    "嘴里",
+    "毒牙",
+    "何以",
+    "偏要",
+    "额",
+    "贴",
+    "蝮蛇",
+    "引",
+    "乞丐",
+    "打杀"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "你们",
+      "you (more than one)"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "嘴里",
+      "in the mouth"
+     ],
+     [
+      "既然",
+      "since, now that"
+     ],
+     [
+      "并",
+      "in fact (not)"
+     ],
+     [
+      "无",
+      "none"
+     ],
+     [
+      "毒牙",
+      "poison fang"
+     ],
+     [
+      "何以",
+      "why (bookish)"
+     ],
+     [
+      "偏要",
+      "insist on (against all sense)"
+     ],
+     [
+      "在",
+      "at, in"
+     ],
+     [
+      "额",
+      "forehead"
+     ],
+     [
+      "上",
+      "on, above (after a noun)"
+     ],
+     [
+      "贴",
+      "stick, paste"
+     ],
+     [
+      "起",
+      "up"
+     ],
+     [
+      "蝮蛇",
+      "pit viper"
+     ],
+     [
+      "两",
+      "two (before a counter)"
+     ],
+     [
+      "个",
+      "(general counter)"
+     ],
+     [
+      "大",
+      "big"
+     ],
+     [
+      "字",
+      "character, written sign"
+     ],
+     [
+      "引",
+      "draw, lure"
+     ],
+     [
+      "乞丐",
+      "beggar"
+     ],
+     [
+      "来",
+      "come"
+     ],
+     [
+      "打杀",
+      "beat to death"
+     ]
+    ]
+   ],
+   "translation": "'Since there are in fact no poison fangs in your mouths, why must you go and stick the two big characters \"Pit Viper\" on your foreheads, and bring the beggars along to beat you to death?…'",
+   "note": "何以 \"why\" is bookish (today 为什么). 偏要 \"insist on, of all things\". The picture: the harmless who label themselves dangerous only bring the mob down on themselves.",
+   "ty": [
+    "ni",
+    "men",
+    "de",
+    "zui",
+    "li",
+    "ji",
+    "ran",
+    "bing",
+    "wu",
+    "du",
+    "ya",
+    "he",
+    "yi",
+    "pian",
+    "yao",
+    "zai",
+    "e",
+    "shang",
+    "tie",
+    "qi",
+    "fu",
+    "she",
+    "liang",
+    "ge",
+    "da",
+    "zi",
+    "yin",
+    "qi",
+    "gai",
+    "lai",
+    "da",
+    "sha"
+   ]
+  },
+  {
+   "n": "44.1",
+   "text": "Ｎ愈说愈离奇了，但一见到我不很愿听的神情，便立刻闭了口，站起来取帽子。",
+   "han": 30,
+   "toks": [
+    "Ｎ",
+    [
+     "愈",
+     "愈"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    [
+     "愈",
+     "愈"
+    ],
+    [
+     "离奇",
+     "离奇"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "，",
+    [
+     "但",
+     "但"
+    ],
+    [
+     "一",
+     "一"
+    ],
+    [
+     "见到",
+     "见到"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "不",
+     "不"
+    ],
+    [
+     "很",
+     "很"
+    ],
+    [
+     "愿",
+     "愿"
+    ],
+    [
+     "听",
+     "听"
+    ],
+    [
+     "的",
+     "的"
+    ],
+    [
+     "神情",
+     "神情"
+    ],
+    "，",
+    [
+     "便",
+     "便"
+    ],
+    [
+     "立刻",
+     "立刻"
+    ],
+    [
+     "闭",
+     "闭"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    [
+     "口",
+     "口"
+    ],
+    "，",
+    [
+     "站起来",
+     "站起来"
+    ],
+    [
+     "取",
+     "取"
+    ],
+    [
+     "帽子",
+     "帽子"
+    ],
+    "。"
+   ],
+   "new": [
+    "离奇",
+    "见到",
+    "立刻",
+    "闭",
+    "站起来",
+    "帽子"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "愈",
+      "the more (愈…愈… \"the more…, the more…\")"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "愈",
+      "the more (愈…愈… \"the more…, the more…\")"
+     ],
+     [
+      "离奇",
+      "strange, bizarre"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "但",
+      "but"
+     ],
+     [
+      "一",
+      "as soon as"
+     ],
+     [
+      "见到",
+      "see"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "不",
+      "not"
+     ],
+     [
+      "很",
+      "very"
+     ],
+     [
+      "愿",
+      "wish, be willing"
+     ],
+     [
+      "听",
+      "listen"
+     ],
+     [
+      "的",
+      "'s, of"
+     ],
+     [
+      "神情",
+      "look, expression"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "立刻",
+      "at once"
+     ],
+     [
+      "闭",
+      "shut"
+     ],
+     [
+      "了",
+      "(done)"
+     ],
+     [
+      "口",
+      "mouth"
+     ],
+     [
+      "站起来",
+      "stand up"
+     ],
+     [
+      "取",
+      "take"
+     ],
+     [
+      "帽子",
+      "hat"
+     ]
+    ]
+   ],
+   "translation": "N's talk grew stranger and stranger; but as soon as he saw from my face that I did not much want to listen, he shut his mouth at once, stood up and fetched his hat.",
+   "note": "愈…愈… \"the more… the more…\" is bookish (today 越…越…).",
+   "ty": [
+    "yu",
+    "shuo",
+    "yu",
+    "li",
+    "qi",
+    "le",
+    "dan",
+    "yi",
+    "jian",
+    "dao",
+    "wo",
+    "bu",
+    "hen",
+    "yuan",
+    "ting",
+    "de",
+    "shen",
+    "qing",
+    "bian",
+    "li",
+    "ke",
+    "bi",
+    "le",
+    "kou",
+    "zhan",
+    "qi",
+    "lai",
+    "qu",
+    "mao",
+    "zi"
+   ]
+  },
+  {
+   "n": "45.1",
+   "text": "我说，‘回去么？’",
+   "han": 5,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "，‘",
+    [
+     "回去",
+     "回去"
+    ],
+    [
+     "么",
+     "么"
+    ],
+    "？’"
+   ],
+   "new": [
+    "回去"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "说",
+      "say, speak"
+     ],
+     [
+      "回去",
+      "go back, go home"
+     ],
+     [
+      "么",
+      "(question): the old spelling of 吗"
+     ]
+    ]
+   ],
+   "translation": "I said: 'Going home?'",
+   "note": "",
+   "ty": [
+    "wo",
+    "shuo",
+    "hui",
+    "qu",
+    "ma"
+   ]
+  },
+  {
+   "n": "46.1",
+   "text": "他答道，‘是的，天要下雨了。’",
+   "han": 10,
+   "toks": [
+    [
+     "他",
+     "他"
+    ],
+    [
+     "答",
+     "答"
+    ],
+    [
+     "道",
+     "道@say"
+    ],
+    "，‘",
+    [
+     "是的",
+     "是的"
+    ],
+    "，",
+    [
+     "天",
+     "天"
+    ],
+    [
+     "要",
+     "要"
+    ],
+    [
+     "下雨",
+     "下雨"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。’"
+   ],
+   "new": [
+    "答",
+    "下雨"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "答",
+      "answer"
+     ],
+     [
+      "道",
+      "say (after a verb of speaking)"
+     ],
+     [
+      "是的",
+      "yes, that's right"
+     ],
+     [
+      "天",
+      "the sky"
+     ],
+     [
+      "要",
+      "about to"
+     ],
+     [
+      "下雨",
+      "rain"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "He answered: 'Yes, it's going to rain.'",
+   "note": "天要下雨了 \"the sky is about to rain\": 要…了 \"is about to\".",
+   "ty": [
+    "ta",
+    "da",
+    "dao",
+    "shi",
+    "de",
+    "tian",
+    "yao",
+    "xia",
+    "yu",
+    "le"
+   ]
+  },
+  {
+   "n": "47.1",
+   "text": "我默默的送他到门口。",
+   "han": 9,
+   "toks": [
+    [
+     "我",
+     "我"
+    ],
+    [
+     "默默",
+     "默默"
+    ],
+    [
+     "的",
+     "的@ly"
+    ],
+    [
+     "送",
+     "送"
+    ],
+    [
+     "他",
+     "他"
+    ],
+    [
+     "到",
+     "到"
+    ],
+    [
+     "门口",
+     "门口"
+    ],
+    "。"
+   ],
+   "new": [
+    "默默",
+    "门口"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "默默",
+      "in silence"
+     ],
+     [
+      "的",
+      "-ly: often Lu Xun's spelling of 地 before a verb"
+     ],
+     [
+      "送",
+      "accompanied"
+     ],
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "到",
+      "arrive"
+     ],
+     [
+      "门口",
+      "doorway, the door"
+     ]
+    ]
+   ],
+   "translation": "I saw him to the door in silence.",
+   "note": "",
+   "ty": [
+    "wo",
+    "mo",
+    "mo",
+    "de",
+    "song",
+    "ta",
+    "dao",
+    "men",
+    "kou"
+   ]
+  },
+  {
+   "n": "48.1",
+   "text": "他戴上帽子说：",
+   "han": 6,
+   "toks": [
+    [
+     "他",
+     "他"
+    ],
+    [
+     "戴上",
+     "戴上"
+    ],
+    [
+     "帽子",
+     "帽子"
+    ],
+    [
+     "说",
+     "说"
+    ],
+    "："
+   ],
+   "new": [
+    "戴上"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "他",
+      "he, him"
+     ],
+     [
+      "戴上",
+      "put on (a hat)"
+     ],
+     [
+      "帽子",
+      "hat"
+     ],
+     [
+      "说",
+      "say, speak"
+     ]
+    ]
+   ],
+   "translation": "He put on his hat and said:",
+   "note": "",
+   "ty": [
+    "ta",
+    "dai",
+    "shang",
+    "mao",
+    "zi",
+    "shuo"
+   ]
+  },
+  {
+   "n": "49.1",
+   "text": "‘再见！请你恕我打搅，好在明天便不是双十节，我们统可以忘却了。’",
+   "han": 26,
+   "toks": [
+    "‘",
+    [
+     "再见",
+     "再见"
+    ],
+    "！",
+    [
+     "请",
+     "请"
+    ],
+    [
+     "你",
+     "你"
+    ],
+    [
+     "恕",
+     "恕@pardon"
+    ],
+    [
+     "我",
+     "我"
+    ],
+    [
+     "打搅",
+     "打搅"
+    ],
+    "，",
+    [
+     "好在",
+     "好在"
+    ],
+    [
+     "明天",
+     "明天"
+    ],
+    [
+     "便",
+     "便"
+    ],
+    [
+     "不是",
+     "不是"
+    ],
+    [
+     "双十节",
+     "双十节"
+    ],
+    "，",
+    [
+     "我们",
+     "我们"
+    ],
+    [
+     "统",
+     "统"
+    ],
+    [
+     "可以",
+     "可以"
+    ],
+    [
+     "忘却",
+     "忘却"
+    ],
+    [
+     "了",
+     "了"
+    ],
+    "。’"
+   ],
+   "new": [
+    "再见",
+    "恕@pardon",
+    "打搅",
+    "好在",
+    "统"
+   ],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "再见",
+      "goodbye"
+     ],
+     [
+      "请",
+      "please"
+     ],
+     [
+      "你",
+      "you"
+     ],
+     [
+      "恕",
+      "forgive, pardon"
+     ],
+     [
+      "我",
+      "I, me"
+     ],
+     [
+      "打搅",
+      "disturb, bother"
+     ],
+     [
+      "好在",
+      "luckily"
+     ],
+     [
+      "明天",
+      "tomorrow"
+     ],
+     [
+      "便",
+      "then (the bookish 就)"
+     ],
+     [
+      "不是",
+      "is not"
+     ],
+     [
+      "双十节",
+      "the Double Tenth (10 October, the national day of the Republic)"
+     ],
+     [
+      "我们",
+      "we, us"
+     ],
+     [
+      "统",
+      "all (bookish, for 统统)"
+     ],
+     [
+      "可以",
+      "may, can"
+     ],
+     [
+      "忘却",
+      "forget (bookish)"
+     ],
+     [
+      "了",
+      "(done)"
+     ]
+    ]
+   ],
+   "translation": "'Goodbye! Please forgive me for disturbing you. Luckily tomorrow won't be the Double Tenth any more, and we can all forget it.'",
+   "note": "统 \"all\" is the bookish short form of 统统 (today 都). 恕 \"forgive\": in the Analects 恕 is \"putting yourself in the other's place\"; here it is the everyday polite \"pardon me\".",
+   "ty": [
+    "zai",
+    "jian",
+    "qing",
+    "ni",
+    "shu",
+    "wo",
+    "da",
+    "jiao",
+    "hao",
+    "zai",
+    "ming",
+    "tian",
+    "bian",
+    "bu",
+    "shi",
+    "shuang",
+    "shi",
+    "jie",
+    "wo",
+    "men",
+    "tong",
+    "ke",
+    "yi",
+    "wang",
+    "que",
+    "le"
+   ]
+  },
+  {
+   "n": "50.1",
+   "text": "（一九二〇年十月。）",
+   "han": 6,
+   "toks": [
+    "（",
+    [
+     "一",
+     "一"
+    ],
+    [
+     "九",
+     "九"
+    ],
+    [
+     "二",
+     "二"
+    ],
+    "〇",
+    [
+     "年",
+     "年"
+    ],
+    [
+     "十月",
+     "十月"
+    ],
+    "。）"
+   ],
+   "new": [],
+   "gloss": [],
+   "literal": "",
+   "wfw": [
+    [
+     [
+      "一",
+      "one"
+     ],
+     [
+      "九",
+      "nine"
+     ],
+     [
+      "二",
+      "two"
+     ],
+     [
+      "〇",
+      "0"
+     ],
+     [
+      "年",
+      "year"
+     ],
+     [
+      "十月",
+      "October"
+     ]
+    ]
+   ],
+   "translation": "(October 1920.)",
+   "note": "Lu Xun dates each story in 呐喊. 〇 is the zero of a year written figure by figure. The story first came out on 10 October 1920, the Double Tenth itself, in a Shanghai newspaper supplement.",
+   "ty": [
+    "yi",
+    "jiu",
+    "er",
+    "nian",
+    "shi",
+    "yue"
+   ]
+  }
+ ]
+}
